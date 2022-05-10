@@ -88,7 +88,7 @@ class SpellGUI:
             self.deck.column(col, width=300)
         else:
             for i in self.columnsDeck:
-                self.deck.column(i, width=70)
+                self.deck.column(i, width=74)
             self.deck.column(col, width=140)
 
     def addSpell(self):
