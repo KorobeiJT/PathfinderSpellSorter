@@ -34,8 +34,8 @@ class SpellGUI:
         wrapperDeck = LabelFrame(self.root, text = "Deck")
 
         #DataTreeview
-        self.columns = ("Name","School","Description")
-        self.tree = ttk.Treeview(wrapperData, columns=self.columns)
+        self.columnsData = ("Name","School","Description")
+        self.tree = ttk.Treeview(wrapperData, columns=self.columnsData)
         #Column
         self.tree.column('#0', width=75, minwidth=25)
         self.tree.column("Name", width=120)
@@ -46,6 +46,15 @@ class SpellGUI:
         self.tree.heading("Name",text = "Nom")
         self.tree.heading("School",text = "Ecole")
         self.tree.heading("Description",text = "Description")
+
+        #DeckTreeView
+        self.columnsDeck = ("Name","School","Incantation","Range","Target","Duration","Save","SpellResistance","Components","Description","Link")
+        self.deck = ttk.Treeview(wrapperDeck, columns=self.columnsDeck)
+        self.deck.column('#0', width=50, minwidth=25)
+        self.deck.heading('#0',text = '', anchor=W)
+        for i in self.columnsDeck:
+            self.deck.column(i, width=80)
+            self.deck.heading(i, text=i, command= lambda c=i: self.change_width(c))
 
         #Contenu
         self.importer.sortSpellsListFromClassesAndLevels(self.classList, self.lvlList)
@@ -59,18 +68,29 @@ class SpellGUI:
         wrapperData.pack(fill="both", expand= "yes", padx= 20, pady=10)
         wrapperDeck.pack(fill="both", expand= "yes", padx= 20, pady=10)
         #treeview
+        self.deck.pack()
         self.tree.pack()
         self.root.protocol("WM_DELETE_WINDOW", self.importer.resetList())
         self.root.mainloop()
     
     def createParentClass(self):
-        ## Crée les parents classes
+        ## Crée les parents "classes"
         for className in self.classList:
             self.tree.insert(parent='', iid=className, index='end', text = className, values = ('','','',''))
-            ## Crée les parents niveaux
+            ## Crée les parents "niveaux"
             for level in self.lvlList:
                 self.tree.insert(parent=className, iid=className+';'+str(level), index='end', text = level, values = ('','','',''))
     
+    def change_width(self, col):
+        if(col == "Description" or col == "Link"):
+            for i in self.columnsDeck:
+                self.deck.column(i, width=58)
+            self.deck.column(col, width=300)
+        else:
+            for i in self.columnsDeck:
+                self.deck.column(i, width=70)
+            self.deck.column(col, width=140)
+
     def addSpell(self):
         for spell in self.importer.sorted_list:
             for curClass in spell["Levels"]:
@@ -108,7 +128,7 @@ class SpellGUI:
             self.lvlList.remove(level)
             return False
 
-# sgui = SpellGUI()
-# sgui.addClass("bard")
-# sgui.addLevel(0)
-# sgui.OpenGUI()
+sgui = SpellGUI()
+sgui.addClass("bard")
+sgui.addLevel(0)
+sgui.OpenGUI()
