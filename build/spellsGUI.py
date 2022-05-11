@@ -68,8 +68,8 @@ class SpellGUI:
         wrapperData.pack(fill="both", expand= "yes", padx= 20, pady=10)
         wrapperDeck.pack(fill="both", expand= "yes", padx= 20, pady=10)
         #treeview
-        self.deck.pack()
         self.tree.pack()
+        self.deck.pack()
         self.root.protocol("WM_DELETE_WINDOW", self.importer.resetList())
         self.root.mainloop()
     
