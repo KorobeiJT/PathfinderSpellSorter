@@ -6,7 +6,7 @@ from importer import *
 import tkinter as tk
 from tkinter import *
 from tkinter import ttk
-
+from ttkwidgets import CheckboxTreeview
 
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / Path("./assets")
@@ -35,7 +35,7 @@ class SpellGUI:
 
         #DataTreeview
         self.columnsData = ("Name","School","Description")
-        self.tree = ttk.Treeview(wrapperData, columns=self.columnsData)
+        self.tree = CheckboxTreeview(wrapperData, columns=self.columnsData)
         #Column
         self.tree.column('#0', width=75, minwidth=25)
         self.tree.column("Name", width=120)
@@ -49,7 +49,7 @@ class SpellGUI:
 
         #DeckTreeView
         self.columnsDeck = ("Name","School","Incantation","Range","Target","Duration","Save","SpellResistance","Components","Description","Link")
-        self.deck = ttk.Treeview(wrapperDeck, columns=self.columnsDeck)
+        self.deck = CheckboxTreeview(wrapperDeck, columns=self.columnsDeck)
         self.deck.column('#0', width=50, minwidth=25)
         self.deck.heading('#0',text = '', anchor=W)
         for i in self.columnsDeck:
