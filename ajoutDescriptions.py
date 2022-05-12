@@ -4,10 +4,10 @@ import re
 
 # Ajoute les descriptions des sorts au fichier json
 
-file = open('name+Description.txt', mode = 'r', encoding = 'utf-8-sig')
+file = open('name+Description.txt', mode = 'r', encoding = 'utf-8')
 lines = file.readlines()
 file.close()
-json_data = open('spells2.json', encoding='utf-8-sig')
+json_data = open('spells1.json', encoding='utf-8')
 data_dict = json.load(json_data)
 sorted_list = data_dict["Spells"]
 json_data.close()
@@ -29,7 +29,7 @@ for i in range(len(names)):
 
 data_dict["Spells"] = sorted_list
 
-with open('spells2.json', 'w', encoding='utf-8-sig') as f:
+with open('spells3.json', 'w', encoding='utf-8') as f:
     json.dump(data_dict, f)
     f.close()
 
