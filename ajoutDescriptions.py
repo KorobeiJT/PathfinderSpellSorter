@@ -7,7 +7,7 @@ import re
 file = open('name+Description.txt', mode = 'r', encoding = 'utf-8-sig')
 lines = file.readlines()
 file.close()
-json_data = open('spells.json', encoding='utf-8')
+json_data = open('spells2.json', encoding='utf-8-sig')
 data_dict = json.load(json_data)
 sorted_list = data_dict["Spells"]
 json_data.close()
