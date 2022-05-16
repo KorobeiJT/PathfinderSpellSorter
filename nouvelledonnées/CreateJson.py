@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 import shutil
 
-name = "liste de sorts.txt"
+name = "nouvelledonnées\liste de sorts.txt"
 
 file = open(name, mode = 'r', encoding = 'utf-8')
 lines = file.readlines()
@@ -13,7 +13,7 @@ file.close()
 res = {}
 wanted = ['Bard', 'Ens/Mag', 'Prê', 'Rôd', 'Cham', 'Con', 'Dru', 'Sor', 'Alch', 'Pal', 'Inq', 'Magus', 'San', 'Apal']
 
-mypath = "C:\\Users\lapii\Desktop\\nouvelledonnées\Spells"
+mypath = "nouvelledonnées\Spells"
 
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
@@ -74,8 +74,8 @@ for line in lines:
 
     name = line.split("]] ")[0][2:]
     if ("|" in name):
-        namef = line.split("|")[0]
-        name = line.split("|")[1]
+        namef = name.split("|")[0]
+        name = name.split("|")[1]
     else:
         namef = name
 
