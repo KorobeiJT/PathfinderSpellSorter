@@ -115,7 +115,7 @@ button_5 = Button(
     image=button_image_5,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_5,"witch"),
+    command=lambda: pressClass(button_5,"Sor"),
     relief="flat"
 )
 button_5.place(
@@ -131,7 +131,7 @@ button_6 = Button(
     image=button_image_6,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_6,"ranger"),
+    command=lambda: pressClass(button_6,"Rôd"),
     relief="flat"
 )
 button_6.place(
@@ -147,7 +147,7 @@ button_7 = Button(
     image=button_image_7,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_7,"oracle"),
+    command=lambda: pressClass(button_7,"San"),
     relief="flat"
 )
 button_7.place(
@@ -163,7 +163,7 @@ button_8 = Button(
     image=button_image_8,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_8,"cleric"),
+    command=lambda: pressClass(button_8,"Prê"),
     relief="flat"
 )
 button_8.place(
@@ -179,7 +179,7 @@ button_9 = Button(
     image=button_image_9,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_9,"paladin"),
+    command=lambda: pressClass(button_9,"Pal"),
     relief="flat"
 )
 button_9.place(
@@ -195,7 +195,7 @@ button_10 = Button(
     image=button_image_10,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_10,"magus"),
+    command=lambda: pressClass(button_10,"Magus"),
     relief="flat"
 )
 button_10.place(
@@ -211,7 +211,7 @@ button_11 = Button(
     image=button_image_11,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_11,"inquisitor"),
+    command=lambda: pressClass(button_11,"Inq"),
     relief="flat"
 )
 button_11.place(
@@ -227,7 +227,7 @@ button_12 = Button(
     image=button_image_12,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_12,"druid"),
+    command=lambda: pressClass(button_12,"Dru"),
     relief="flat"
 )
 button_12.place(
@@ -243,7 +243,7 @@ button_13 = Button(
     image=button_image_13,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_13,"summoner"),
+    command=lambda: pressClass(button_13,"Con"),
     relief="flat"
 )
 button_13.place(
@@ -259,7 +259,7 @@ button_14 = Button(
     image=button_image_14,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_14,"shaman"),
+    command=lambda: pressClass(button_14,"Cham"),
     relief="flat"
 )
 button_14.place(
@@ -275,7 +275,7 @@ button_15 = Button(
     image=button_image_15,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_15,"bard"),
+    command=lambda: pressClass(button_15,"Bard"),
     relief="flat"
 )
 button_15.place(
@@ -291,7 +291,7 @@ button_16 = Button(
     image=button_image_16,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_16,"sorcerer-wizard"),
+    command=lambda: pressClass(button_16,"Ens/Mag"),
     relief="flat"
 )
 button_16.place(
@@ -307,7 +307,7 @@ button_17 = Button(
     image=button_image_17,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_17,"antipaladin"),
+    command=lambda: pressClass(button_17,"Apal"),
     relief="flat"
 )
 button_17.place(
@@ -323,7 +323,7 @@ button_18 = Button(
     image=button_image_18,
     borderwidth = 5,
     highlightthickness=0,
-    command=lambda: pressClass(button_18,"alchemist"),
+    command=lambda: pressClass(button_18,"Alch"),
     relief="flat"
 )
 button_18.place(
