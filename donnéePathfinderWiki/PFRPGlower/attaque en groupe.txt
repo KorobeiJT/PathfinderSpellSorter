@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Attaque en groupe
+Title: Attaque en groupe
+LastModified: 2021-04-29 18:48
+Categories:
+  - 'Don'
+  - 'Don Combat'
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+---
+{s:apg}''Le personnage sait comment attaquer efficacement en groupe.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Intelligence|Int]] 13, [[Expertise du combat]].
+
+'''Avantage.''' On considère que le personnage [[pris en tenaille|prend en tenaille]] tout ennemi qui se trouve dans la zone contrôlée par au moins deux de ses alliés et ce, quelle que soit sa position exacte.
+
+'''Normal.''' Il faut que le personnage et un de ses alliés se trouvent de part et d’autre d’un ennemi pour prendre celui-ci en tenaille.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([[Intelligence]] 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. S’il dépense 5 points d’endurance, il bénéficie de ses avantages quand il menace le même adversaire qu’un autre allié (au lieu de deux).

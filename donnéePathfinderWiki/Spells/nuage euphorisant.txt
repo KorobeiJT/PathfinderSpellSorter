@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Nuage euphorisant
+Title: Nuage euphorisant
+LastModified: 2020-05-25 00:18
+---
+[École] invocation (création) poison
+[Niveau] druide 2, ensorceleur/magicien 2, magus 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (des champignons rares d'une valeur de 5 po)
+[Portée] moyenne
+[Cible] brume dans une étendue de 6 m de rayon et de 6 m de hauteur
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (cf. texte)
+[Résistance à la magie] non
+
+Le personnage crée un banc de brume similaire à ce que ferait une ''brume de dissimulation'', à la seule différence que ses vapeurs sont enivrantes. Les créatures vivantes présentes dans le nuage sont [Fasciné|fascinées].
+Cet état dure tant que les créatures sont dans le nuage et pendant 1d4+1 rounds après qu'elles en sont sorties. Toute créature qui réussit son jet de sauvegarde mais reste dans le nuage doit continuer de faire un jet de sauvegarde à chaque round lors du tour du personnage.

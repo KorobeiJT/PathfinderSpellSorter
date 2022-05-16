@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.chausse-trappe
+Title: chausse-trappe
+LastModified: 2021-07-05 17:06
+Categories:
+  - 'Redirection'
+---
+>>> Équipement daventurier#Chausse-trappes

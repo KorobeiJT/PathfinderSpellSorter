@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Bénédiction de ferveur
+Title: Bénédiction de ferveur
+LastModified: 2020-02-27 02:17
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 4'
+---
+
+[École] Transmutation 
+[Niveau] prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] une créature/niveau, ces créatures ne doivent pas se trouver à plus de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Grâce à cette bénédiction, le personnage appelle ses alliés à aller de l'avant et les encourage à vaincre et conquérir. À chaque round, pendant toute la durée du sort, chacun de vos alliés peut choisir, au début de son tour, l'un des bonus suivants pour le round :
+* Augmentation de la vitesse de 9 mètres.
+* Actions de mouvement#SERELEVER|Se relever par une action rapide sans provoquer d'attaque dopportunité|attaque d'opportunité.
+* Faire une attaque supplémentaire en utilisant son bonus d'attaque le plus élevé lors d'une attaque à outrance.
+* Gagner un bonus de +2 aux jet dattaque|jets d'attaque et un bonus d'esquive de +2 à la CA et aux jets de Réflexes.
+* Lancer un unique sort de niveau de sort|niveau 2 ou moins comme s'il bénéficiait d'une incantation à extension de portée, à extension de durée, Incantation silencieuse|silencieuse ou Incantation statique|statique.
+
+Ces effets ne se cumulent pas avec des effets similaires comme un sort de ''rapidité'' ou une ''rapide (propriété)|arme rapide''. De plus, ils n'accordent pas d'action supplémentaire à proprement parler, on ne peut donc pas s'en servir pour lancer un sort de plus ou faire une action de plus dans le round. ''Bénédiction de ferveur'' ne se cumule pas avec ''rapidité''.
+
+===Mythique===
+
+Les créatures affectées peuvent choisir deux des bonus conférés par le sort chaque round au lieu d'un seul.

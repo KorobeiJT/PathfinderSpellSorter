@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Clairaudienceclairvoyance
+Title: Clairaudience/clairvoyance
+LastModified: 2015-06-24 17:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort magicien 3'
+---
+[École] Divination (scrutation)
+[Niveau] barde 3, ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F/FD (un petit cornet acoustique ou un œil de verre)
+[Portée] longue
+[Cible] capteur magique
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+''Clairaudience/clairvoyance'' crée un capteur magique invisible grâce auquel le personnage peut se concentrer sur le lieu de son choix et de voir ou d'entendre (selon son désir) ce qui s'y passe comme s'il s'y trouvait. La distance, n'est pas un obstacle, mais l'endroit observé doit être connu (le personnage doit s'y être déjà rendu auparavant, à moins qu'il s'agisse d'un lieu évident). Une fois le lieu choisi, le capteur ne bouge plus, mais il peut pivoter dans n'importe quelle direction. A l'opposé d'autres sorts de branche scrutation|scrutation, celui-ci ne permet pas l'utilisation des sens accrus par magie. Si l'endroit désigné est obscurci magiquement, le personnage ne voit rien. Si cette obscurité est naturelle, il perçoit ce qui se passe dans un rayon de trois mètres autour du point d'effet du sort. ''Clairaudience/clairvoyance'' ne fonctionne que dans le plans|plan d'existence où le personnage se situe actuellement.
+

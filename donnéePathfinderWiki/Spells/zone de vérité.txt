@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Zone de vérité
+Title: Zone de vérité
+LastModified: 2015-06-24 17:35
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 2'
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] inquisiteur 2, paladin|Pal 2, prêtre 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Zone d'effet] émanation de 6 m de rayon - 4 cases de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] RM|oui
+
+Les créatures se trouvant dans la zone deffet|zone d'effet (ou qui y pénètrent pendant la durée d'effet du sort) ne peuvent pas mentir intentionnellement. Elles ont droit à un jet de sauvegarde pour ne pas subir l'effet de l'enchantement quand celui-ci est lancé ou quand elles entrent pour la première fois dans la ''zone de vérité''. Les créatures affectées sont conscientes de ce qui leur arrive. Elles peuvent donc refuser de répondre à une question lorsqu'elles préféreraient mentir ou rester aussi évasives qu'elles le désirent tant qu'elles profèrent des vérités. Quiconque quitte la zone deffet|zone d'effet est libre de dire autant de mensonges qu'il le souhaite.
+

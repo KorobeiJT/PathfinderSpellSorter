@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Œil du mitrailleur
+Title: Œil du mitrailleur
+LastModified: 2012-11-04 21:06
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 1'
+---
+
+[École] Transmutation 
+[Niveau] alchimiste 1
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+
+Cet alchimiste#EXTRAIT|extrait permet au personnage de lancer ses projectiles plus loin, avec plus de précision. Tant qu'il fait effet, l'alchimiste#EXTRAIT|extrait augmente la portée de toute arme de jet de 3 mètres. De plus, le personnage reçoit un bonus d'intuition de +1 aux jet dattaque|jets d'attaque avec les armes de jet.
+

@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Grâce féline de groupe
+Title: Grâce féline de groupe
+LastModified: 2015-06-22 23:12
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 6'
+  - 'Sort druide 6'
+  - 'Sort magicien 6'
+---
+[École] Transmutation
+[Niveau] barde 6, conjurateur 4, druide 6, ensorceleur/magicien 6, Magus 6
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (quelques poils de chat)
+[Portée] courte 
+[Cible] 1 créature/niveau, distantes de moins de 9 m les unes des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui
+
+Les créatures transformées à l'aide de ce sort deviennent bien plus gracieuses et agiles, ce qui leur permet de mieux coordonner leurs gestes. Cet avantage se traduit par un bonus daltération|bonus d'altération de +4 à la Dextérité, accompagné de toutes les modifications habituelles en termes de CA, de jets de Réflexes et autres utilisations du bonus de Dextérité.
+
+(((Ce sort fonctionne comme ''grâce féline'', si ce n'est qu'il peut affecter plusieurs créatures.)))
+

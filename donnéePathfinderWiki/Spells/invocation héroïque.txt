@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Invocation héroïque
+Title: Invocation héroïque
+LastModified: 2012-07-01 16:46
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 9'
+  - 'Sort sorcière 9'
+---
+
+[École] enchantement (coercition)
+[Niveau] ensorceleur/magicien 9, sorcière 9
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature ou plus, qui ne doivent être distantes de plus de 9 m les unes des autres
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage utilise des mots de puissance ancestraux pour accorder des pouvoirs héroïques à toutes les cibles du sort. Elles gagnent un bonus de moral de +4 aux jets d'attaque et de dégâts, 2d8+4 point de vie temporaire|points de vie temporaires et elles sont immunisées contre les effets de peur et de charme pendant toute la durée du sort.
+Le sujet est fatigué quand le sort expire.

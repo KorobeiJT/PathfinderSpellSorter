@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Endurance de lours
+Title: Endurance de l'ours
+LastModified: 2015-06-22 16:22
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort magicien 2'
+  - 'Sort prêtre 2'
+  - 'Sort rôdeur 2'
+---
+[École] Transmutation
+[Niveau] alchimiste 2, conjurateur 2, druide 2, ensorceleur/magicien 2, prêtre 2, rôdeur|Rôd 2, magus 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (quelques poils ou une pincée de crotte d'ours)
+[Portée] contact
+[Cible] 1 créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui
+
+La créature touchée bénéficie d'une vigueur et d'une robustesse accrues. Ce sort confère au sujet un bonus daltération|bonus d'altération de +4 à sa valeur de Constitution, ce qui améliore ses points de vie, ses jets de Vigueur, ses tests de Constitution, etc. Les points de vie gagnés grâce à un accroissement temporaire de la Constitution ne sont pas temporaires. Ils disparaissent lorsque la valeur de Constitution revient à la normale. Contrairement aux points de vie temporaires, ils ne sont pas perdus les premiers.
+

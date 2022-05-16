@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Épée impie
+Title: Épée impie
+LastModified: 2020-02-20 18:29
+---
+
+[École] évocation mal
+[Niveau] antipaladin 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] arme de corps à corps touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Ce sort permet au personnage de canaliser la puissance du mal dans son épée ou dans une autre arme de corps à corps de son choix. L'arme se comporte alors comme une arme impie (propriété)|impie +5 (bonus d'altération de +5 aux jets d'attaque et de dégâts, +2d6 contre les adversaires bons). Elle émet également un effet de cercle magique contre le bien|cercle de protection contre le bien (comme le sort). Si le cercle se termine, l'épée en crée un nouveau au tour du personnage, par une action libre. Le sort s'annule automatiquement 1 round après que l'épée a quitté la main du personnage. Ce dernier ne peut avoir qu'une épée impie active à la fois.
+Si le personnage lance ce sort sur une arme magique, les pouvoirs du sort écrasent ceux de l'arme dont le bonus d'altération et les pouvoirs habituels hibernent pendant la durée du sort. Ce sort ne se cumule pas avec tout autre sort de modification d'arme et ne fonctionne pas sur les artéfacts. Le bonus d'arme de maître ne se cumule pas avec le bonus d'attaque du sort.

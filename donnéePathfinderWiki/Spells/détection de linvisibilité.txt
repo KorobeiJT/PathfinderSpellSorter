@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Détection de linvisibilité
+Title: Détection de l'invisibilité
+LastModified: 2015-06-24 17:30
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort magicien 2'
+---
+[École] école divination|Divination
+[Niveau] alchimiste 2, Barde 3, conjurateur 2, inquisiteur 2, ensorceleur/magicien 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (talc et poudre d'argent)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 10 minutes/niveau
+
+Ce sort permet au personnage de repérer les objets et les créatures invisible|invisibles situés dans son champ de vision, ainsi que celles qui sont éthéré|éthérées, comme si elles étaient visibles. Ces créatures apparaissent sous la forme de silhouettes translucides, ce qui permet au personnage de distinguer les créatures visibles, les invisible|invisibles et celles qui sont éthéré|éthérées.
+
+Le sort n'indique pas la méthode employée pour se rendre invisible. Il ne révèle pas non plus les illusion|illusions, et il ne permet pas de voir à travers les objets opaques. Il ne fait pas non plus apparaître les créatures cachées, camouflage|camouflées ou difficiles à repérer.
+
+On peut user de ''permanence'' sur un sort de ''détection de l'invisibilité''.
+

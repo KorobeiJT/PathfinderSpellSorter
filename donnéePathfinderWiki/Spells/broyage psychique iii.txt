@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Broyage psychique III
+Title: Broyage psychique III
+LastModified: 2021-07-18 00:13
+Categories:
+  - 'Sort'
+  - 'Sort psychiste 7'
+  - 'Src Aventures occultes'
+---
+[École] Nécromancie effet mental
+[Niveau] psychiste|Psy 7
+
+Ce sort fonctionne comme ''broyage psychique I'' mais si la cible réussit son jet de Vigueur, elle subit 7d6 points de dégâts +1 par niveau de lanceur de sorts et 1 point de dégâts par niveau de lanceur de sorts si elle réussit son jet de Volonté. De plus, elle reçoit un bonus de circonstances de +2 au jet de Vigueur uniquement si elle possède la totalité de ses points de vie, si elle a subi le moindre dégât, elle n'a pas de bonus. On peut lancer ce sort dans une version réduite.

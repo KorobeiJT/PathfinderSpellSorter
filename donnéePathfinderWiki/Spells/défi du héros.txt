@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Défi du héros
+Title: Défi du héros
+LastModified: 2012-11-02 18:25
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 1'
+---
+
+[École] Invocation (guérison) 
+[Niveau] paladin 1
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] instantanée
+
+Un instant avant que le personnage ne tombe à 0 point de vie ou moins, il peut utiliser une paladin#IMPOSITIONDESMAINS|imposition des mains pour se soigner comme s'il avait utilisé ce pouvoir en bénéficiant de 1d6 points de vie guéris supplémentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d'agir. Si le personnage a déjà utilisé toutes ses paladin#IMPOSITIONDESMAINS|impositions, le sort n'a aucun effet.
+

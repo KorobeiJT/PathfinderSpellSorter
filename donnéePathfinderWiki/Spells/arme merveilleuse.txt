@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Arme merveilleuse
+Title: Arme merveilleuse
+LastModified: 2012-11-04 21:32
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 2'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 2'
+---
+
+[École] Transmutation émotion 
+[Niveau] inquisiteur 2, paladin 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] arme touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet) 
+[Résistance à la magie] oui (inoffensif, objet)
+
+Le personnage transforme une arme unique en un instrument qui inspire crainte et émerveillement. L'arme gagne un bonus sacré aux dégâts de +2 et, si elle inflige un coup critique, sa cible est secoué|secouée pendant 1 round, sans jet de sauvegarde. C'est un effet mental de peur. Si le sort affecte une arme à distance, ses effets s'appliquent aux munitions.
+
+Le personnage ne peut pas lancer ce sort sur une arme naturelle mais il peut le faire sur des mains nues.
+

@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Sens aiguisés
+Title: Sens aiguisés
+LastModified: 2015-06-23 21:49
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 2'
+  - 'Sort barde 2'
+  - 'Sort inquisiteur 2'
+  - 'Sort rôdeur 2'
+---
+
+[École] Transmutation
+[Niveau] alchimiste 2, Barde 2, inquisiteur 2, rôdeur|Rôd 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une lentille de verre)
+[Portée] contact
+[Cible] 1 créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui
+
+La cible gagne un bonus d'altération de +10 aux tests de Perception. Ce bonus passe à +20 au niveau 8 et à +30 (le maximum) au niveau 16.

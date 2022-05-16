@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Frappe douloureuse
+Title: Frappe douloureuse
+LastModified: 2012-11-03 21:29
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 3'
+  - 'Sort sorcière 3'
+---
+
+[École] Évocation douleur, mal 
+[Niveau] ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+''Frappe douloureuse'' fait courir une souffrance insoutenable dans le corps de la cible, lui infligeant 1d6 points de dégâts non létaux par round pendant 1 round par niveau (avec un maximum de 10 rounds). De plus, la créature affectée est fiévreux|fiévreuse pendant toute la durée du sort et le lanceur de sorts gagne un bonus de circonstance de +4 aux tests d'Intimidation contre cette cible.
+

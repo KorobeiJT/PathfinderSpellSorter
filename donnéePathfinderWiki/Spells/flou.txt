@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Flou
+Title: Flou
+LastModified: 2015-06-22 16:22
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 2'
+---
+[École] Illusion (chimère)
+[Niveau] alchimiste 2, barde 2, conjurateur 2, ensorceleur/magicien 2
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Les contours du sujet deviennent imprécis et changeants. Grâce à cet effet, il bénéficie d'un camouflage (20 % de chances que les attaques le ratent).
+''détection de linvisibilité|Détection de l'invisibilité'' ne contre pas ''flou'', mais ''vision lucide'', si.
+Les créatures qui ne voient pas le sujet ignorent les effets du sort (mais combattre dans ces conditions entraîne d'autres désavantages).
+

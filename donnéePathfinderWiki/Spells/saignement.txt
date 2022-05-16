@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.sort Saignement
+Title: Saignement
+LastModified: 2015-06-24 17:16
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 0'
+  - 'Sort prêtre 0'
+---
+{s:Desambi|Saignement est également le nom d'une saignement|capacité spéciale. Voir aussi Saignement (capacité)|ici.}
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 0, prêtre 0, inquisiteur 0, sorcière 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+À cause du personnage, une créature qui se trouvait sous 0 points de vie mais s'était stable|stabilisée recommence à agoniser. Le lanceur de sorts vise une créature qui possède -1 point de vie ou moins. Celle-ci perd alors un point de vie par round. On peut la stable|stabiliser ensuite normalement mais le sort fait perdre 1 point de vie à toute créature mourant|mourante.
+

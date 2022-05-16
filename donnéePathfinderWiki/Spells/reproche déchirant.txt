@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Reproche déchirant
+Title: Reproche déchirant
+LastModified: 2020-07-10 01:46
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort antipaladin 2'
+  - 'Sort inquisiteur 3'
+  - 'Sort prêtre 3'
+  - 'Sort sorcière 3'
+---
+{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}
+[École] Illusion (fantasme) créer un sort#DOULEUR|douleur, créer un sort#EMOTION|émotion, créer un sort#EFFETMENTAL|effet mental
+
+[Niveau] antipaladin 2, prêtre 3, inquisiteur 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+D'un mot ou d'un geste, le lanceur de sorts suscite une telle appréhension chez sa cible quant au fait de l'attaquer que cela la plonge dans un état de détresse mentale et de douleur. Chaque fois que la cible attaque le lanceur de sorts, lui lance un sort offensif ou entreprend une autre action qui le blesserait, elle reçoit 2d6 points de Blessures et mort#NONLETAL|dégâts non létaux.

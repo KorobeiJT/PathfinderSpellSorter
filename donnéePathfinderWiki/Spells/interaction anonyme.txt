@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Interaction anonyme
+Title: Interaction anonyme
+LastModified: 2020-05-15 16:19
+---
+[École] enchantement (coercition) effet mental
+[Niveau] barde 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature/niveau, chacune ne devant pas se trouver à plus de 9 mètres des autres
+[Durée] permanente (cf. texte)
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+Le personnage fait oublier aux cibles toutes les informations qu'elles ont apprises sur lui en dehors des plus superficielles. Si celles-ci ont vu ou ont interagi avec le personnage, elles se souviennent de sa présence et de sa silhouette générale (si c'est un humanoïde, par exemple) ainsi que de l'idée générale de leurs interactions avec lui (comme, par exemple, « il posait des questions sur la reine »), mais elles ne se rappellent pas spécifiquement ce qu'il a dit, ni les détails de son apparence ou toute autre information qui leur permettrait de l'identifier. Ce sort cible tous les souvenirs concernant le personnage datant de la minute qui précède son lancement mais il est permanent.

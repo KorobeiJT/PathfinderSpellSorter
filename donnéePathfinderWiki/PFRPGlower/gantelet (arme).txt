@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Gantelet (arme)
+Title: Gantelet (arme)
+LastModified: 2020-05-23 15:02
+Categories:
+  - 'Armes'
+  - 'Redirection'
+---
+>>> Descriptions individuelles des armes#Gantelet

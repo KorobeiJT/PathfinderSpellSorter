@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Cassé
+Title: Cassé
+LastModified: 2018-07-24 12:46
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 1'
+---
+
+[École] Transmutation 
+[Niveau] ensorceleur/magicien 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une brindille)
+[Portée] courte 
+[Cible] un objet de taille M ou plus petit
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler (objet)
+[Résistance à la magie] oui (objet)
+
+Le personnage peut essayer de brisé|casser ou au moins d'endommager un objet de taille M ou moins à portée. Si la cible rate son jet de Vigueur, elle acquiert la condition brisé|cassée. Si le personnage lance ce sort sur un objet déjà brisé|cassé et que ce dernier rate son jet de sauvegarde, il est détruit.
+
+===Mythique===
+
+Le personnage peut cibler jusqu'à un objet de taille M ou inférieure par niveau de lanceur de sorts.
+
+[Amplifié (3ème).] Si le personnage dépense deux utilisations de pouvoir mythique, les objets ciblés deviennent brisés en cas de jet de sauvegarde réussi et sont détruits en cas de jet de sauvegarde raté. Le sort n'affecte pas les objets mythiques ou ceux manipulés ou transportés par des créatures mythiques.

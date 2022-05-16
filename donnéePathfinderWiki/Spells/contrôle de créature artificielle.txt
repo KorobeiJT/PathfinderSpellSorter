@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Contrôle de créature artificielle
+Title: Contrôle de créature artificielle
+LastModified: 2012-11-16 23:40
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 7'
+---
+
+[École] transmutation
+[Niveau] ensorceleur/magicien 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une Type créature artificielle|créature artificielle
+[Durée] concentration
+[Jet de sauvegarde] aucun (voir texte)
+[Résistance à la magie] non
+
+Le personnage arrache le contrôle d'une Type créature artificielle|créature artificielle à son maître. Tant qu'il se concentre, il la contrôle comme s'il était son maître. Il doit faire un test d'Art de la magie à chaque round pour maintenir le contrôle. Le DD de ce test est de 10 + DV de la Type créature artificielle|créature artificielle. Si son constructeur ou son maître est présent et tente de la contrôler, le personnage et lui doivent faire des tests d'Art de la magie opposés à chaque round pour prendre le contrôle de la créature.

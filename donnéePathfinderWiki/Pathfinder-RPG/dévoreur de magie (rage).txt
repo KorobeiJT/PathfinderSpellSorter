@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.dévoreur de magie (rage)
+Title: dévoreur de magie
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Art de la guerre'
+  - 'Redirection'
+---
+>>> Pouvoirs de rage#DEVOREURDEMAGIE

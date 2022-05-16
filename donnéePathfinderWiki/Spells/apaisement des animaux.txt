@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Apaisement des animaux
+Title: Apaisement des animaux
+LastModified: 2012-10-31 17:13
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort rôdeur 1'
+---
+[École] Enchantement (coercition) émotion, mental
+[Niveau] druide 1, rôdeur|Rôd 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] animaux distants de 9 m ou moins les uns des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en Intelligence) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de DV|dés de vie affectés est égal à 2d4 + niveau de lanceur de sorts.
+
+Les créatures affectées restent là où elles se trouvent et ne cherchent ni à attaquer ni à s'enfuir, mais ne sont pas sans défense et réagissent si on les attaque. La moindre menace met immédiatement un terme à l'effet de l'enchantement.
+

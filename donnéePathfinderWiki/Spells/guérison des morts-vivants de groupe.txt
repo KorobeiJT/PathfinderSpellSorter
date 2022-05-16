@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Guérison des morts-vivants de groupe
+Title: Guérison des morts-vivants de groupe
+LastModified: 2020-05-15 16:18
+---
+[École] nécromancie
+[Niveau] ensorceleur/magicien 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature morte-vivante/niveau, chacune ne devant pas être à plus de 9 m des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour 1/2 dégâts (inoffensif)
+[Résistance] à la magie oui (inoffensif)
+
+Ce sort fonctionne comme guérison des morts-vivants, aux quelques exceptions indiquées ci-dessus et soigne 1d8 points de dégâts, + 1 point par niveau de lanceur (+20 au maximum) à chaque créature désignée.

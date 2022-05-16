@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Dissimulation dobjet
+Title: Dissimulation d'objet
+LastModified: 2015-06-23 22:09
+---
+[École] Abjuration
+[Niveau] barde 1, inquisiteur 3, ensorceleur/magicien 2, prêtre 3
+[Composantes] V, G, M/FD (peau de caméléon)
+[Temps d'incantation] 1 action simple
+[Portée] contact
+[Cible] 1 objet touché, dans la limite de 50 kg/niveau
+[Durée] 8 heures
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)
+
+Ce sort place autour de l'objet touché une aura protectrice qui empêche les boules de cristal et les sorts de scrutation de le détecter. Les tentatives de ce genre échouent automatiquement (si la divination visait l'objet) ou ne révèlent pas l'objet (si la divination visait un lieu, un objet ou une personne proche).
+

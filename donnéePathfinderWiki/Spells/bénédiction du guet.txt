@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Bénédiction du guet
+Title: Bénédiction du guet
+LastModified: 2021-03-01 02:17
+Categories:
+  - 'Dieux et magie'
+  - 'Sort'
+  - 'Sort inquisiteur 1'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 1'
+---
+[École] Enchantement (coercition) effet mental
+[Niveau] Inquisiteur 1, Paladin|Pal 1, Prêtre 1 (dieu de la civilisation)  
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] 15 m (10 )  
+[Zone d'effet] lanceur de sorts et tous ses alliés dans un rayonnement de 15 m (10 ), centré sur le lanceur  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort fonctionne comme le sort ''bénédiction'', à l'exception de ce qui est indiqué plus haut. Il ne fonctionne que dans la ville d'origine du lanceur et concerne spécifiquement les zones sous la juridiction du guet de la ville. Par exemple, si la garde patrouille dans un bidonville en-dehors des murs de la ville mais pas dans les tunnels souterrains en ruines de celle-ci, le sort fonctionnera dans la première zone mais pas dans la seconde.

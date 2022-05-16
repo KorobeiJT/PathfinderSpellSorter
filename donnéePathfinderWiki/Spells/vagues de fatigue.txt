@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Vagues de fatigue
+Title: Vagues de fatigue
+LastModified: 2015-06-24 20:44
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 5'
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 5, sorcière 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 9 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Des vagues d'énergie négative fatigué|fatiguent toutes les créatures situées dans la zone. Ce sort n'a aucun effet sur les créatures déjà fatigué|fatiguées.
+

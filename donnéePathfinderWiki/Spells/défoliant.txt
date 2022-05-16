@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.défoliant
+Title: Défoliant
+LastModified: 2015-05-11 19:05
+---
+[École] Nécromancie
+[Niveau] druide 2, ensorceleur/magicien 2, rôdeur 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une sauterelle)
+[Portée] courte 
+[Cible] voir texte
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Une petite sphère d'énergie négative jaillit des mains du personnage, tuant toutes les plantes sur une ligne de 18 mètres (12 ) ou dans une émanation de 3 mètres. Il supprime ainsi tout camouflage ou abri que ces plantes pourraient offrir.
+

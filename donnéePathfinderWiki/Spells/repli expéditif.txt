@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Repli expéditif
+Title: Repli expéditif
+LastModified: 2018-07-24 11:34
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort magicien 1'
+---
+[École] Transmutation
+[Niveau] barde 1, conjurateur 1, inquisiteur 1, ensorceleur/magicien 1, magus 1, alchimiste 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 minute/niveau
+
+Ce sort confère un bonus daltération|bonus d'altération qui augmente la vitesse terrestre de base du personnage de 9 m. Il n'affecte pas les autres modes de déplacement (creusement, escalade, nage ou vol), en revanche, il affecte la distance maximale que le personnage peut parcourir en sautant avec la compétence Acrobaties.
+
+===Mythique===
+
+Le bonus de vitesse conféré par ce sort s'élève à 12 mètres. Ajoutez le grade du personnage aux tests d'Acrobaties effectués pour éviter les attaques d'opportunité provoquées par le déplacement. Lorsque le déplacement du personnage provoque une attaque d'opportunité, ajoutez son grade à sa CA contre cette attaque.

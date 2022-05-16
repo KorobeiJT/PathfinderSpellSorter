@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Aide
+Title: Aide
+LastModified: 2015-06-23 21:30
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 2'
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] alchimiste 2, inquisiteur 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] la créature vivante touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)
+
+''Aide'' apporte un bonus de moral de +1 aux jet dattaque|jets d'attaque et aux jet de sauvegarde|jets de sauvegarde contre la terreur, mais également 1d8 points de vie temporaires +1 par niveau de lanceur de sorts (pour un maximum de 1d8+10 au niveau 10).
+

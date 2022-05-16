@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.vagues dextase
+Title: vagues d'extase
+LastModified: 2012-07-08 11:30
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 6'
+  - 'Sort magicien 7'
+  - 'Sort prêtre 7'
+  - 'Sort sorcière 7'
+---
+
+[École] Enchantement (coercition) émotion, mental
+[Niveau] barde 6, ensorceleur/magicien 7, prêtre 7, sorcière 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 9 m
+[Cible]  explosion en forme de cône
+[Durée] 1 round/niveau (voir texte)
+[Jet de sauvegarde] Volonté partiel (voir texte)
+[Résistance à la magie] oui
+
+Des vagues de plaisir intense émanent du personnage et font vaciller toutes les cibles à portée. Les créatures affectées sont étourdi|étourdies pendant 1 round et chancelant|chancelantes pendant le reste de la durée du sort. Une créature qui réussit son jet de sauvegarde est chancelant|chancelante pendant le premier round et peut agir ensuite normalement.

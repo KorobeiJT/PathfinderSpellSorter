@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Boulette
+Title: Boulette
+LastModified: 2012-10-26 16:41
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 1'
+  - 'Sort sorcière 1'
+---
+
+[École] enchantement (coercition)
+[Niveau] ensorceleur/magicien 1,
+sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] un humanoïde
+[Durée] concentration + 2 rounds ou jusqu'à déclenchement
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui (inoffensif)
+
+La cible reçoit un malus de -20 au prochain jet dattaque|jet d'attaque ou test de compétence|test nécessitant un jet de d20. Il doit s'agir d'une action que la cible entreprend volontairement à son tour. Ce sort n'affecte pas les créatures qui possèdent plus de 10 DV.

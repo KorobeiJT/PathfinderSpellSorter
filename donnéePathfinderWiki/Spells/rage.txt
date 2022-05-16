@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Rage
+Title: Rage
+LastModified: 2015-12-09 19:48
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 3'
+---
+{s:Desambi|Rage est également le nom d'une barbare#RAGEDEBERSERKER|capacité de barbare.}
+[École] Enchantement (coercition) émotion, mental
+[Niveau] alchimiste 3, Barde 2,  conjurateur 3, ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] 1 créature vivante et consentante/3 niveaux, distantes de moins de 9 m les unes des autres
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Les créatures affectées bénéficient d'un bonus de moral de +2 en Force et en Constitution et d'un bonus de moral de +1 aux jets de Volonté mais subissent un malus de -2 à la CA. Sinon, l'effet est identique à celui du pouvoir de barbare#RAGEDEBERSERKER|rage de berserker, si ce n'est que les sujets ne sont pas fatigué|fatigués quand le sort se termine.
+

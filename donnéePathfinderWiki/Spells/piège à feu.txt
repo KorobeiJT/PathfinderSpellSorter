@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Piège à feu
+Title: Piège à feu
+LastModified: 2020-03-29 16:25
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort magicien 4'
+---
+[École] Abjuration (feu)
+[Niveau] druide 2, ensorceleur/magicien 4
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (poussière d'or d'une valeur de 25 po)
+[Portée] contact
+[Cible] objet touché
+[Durée] permanente jusqu'au déclenchement
+[Jet de sauvegarde] Réflexes, 1/2 dégâts (voir description)
+[Résistance à la magie] oui
+
+Ce sort déclenche une explosion de flammes dès qu'on ouvre l'objet protégé par le ''piège à feu''. Ce sort peut défendre n'importe quel objet que l'on peut fermer.
+
+Lors de l'incantation, le personnage choisit le point d'origine du sort, qui doit forcément se trouver sur l'objet à défendre. Par la suite, dès que quelqu'un d'autre ouvre cet objet, il déclenche une explosion dans un rayon de 1,50 m autour du point d'origine. Les flammes infligent 1d4 points de dégâts de feu, +1 par niveau de lanceur de sorts (maximum +20). L'objet protégé n'est pas endommagé par l'explosion.
+
+Un objet défendu par un ''piège à feu'' ne peut pas bénéficier d'un autre sort de protection (ni d'un sort de fermeture magique). ''Déblocage'' n'affecte pas le ''piège à feu'', car celui-ci n'empêche pas d'ouvrir l'objet. Une ''dissipation de la magie'' ratée ne provoque pas d'explosion. Sous l'eau, les dégâts de ''piège à feu'' sont réduits de moitié mais le sort génère un important nuage de vapeur.
+
+Le lanceur de sorts peut utiliser l'objet sans déclencher le piège, de même que les créatures en phase avec le sort (c'est-à-dire, dans la plupart des cas, celles qui connaissent le mot de passe choisi par le lanceur de sorts lors de l'incantation).
+
+Les pièges magiques tels que ''piège à feu'' sont extrêmement durs à détecter et à désamorcer. Seul un personnage disposant de la capacité ''recherche des pièges'' peut utiliser sa compétence de Perception pour le repérer, puis de Sabotage pour le mettre hors d'état. Pour chacun des deux jets, le DD s'élève à 25 + niveau du sort, soit 27 pour un ''piège à feu'' de druide et 29 pour sa version profane.
+

@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Mains brûlantes
+Title: Mains brûlantes
+LastModified: 2018-07-24 13:05
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 1'
+---
+[École] Évocation (feu)
+[Niveau] ensorceleur/magicien 1, Magus 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 4,50 m (3 )
+[Zone d'effet] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui
+
+Un cône de flammes jaillit des mains tendues du personnage. Toutes les créatures prises dans ce cône subissent 1d4 points de dégâts de feu par niveau de lanceur de sorts (jusqu'à un maximum de 5d4). Les matières inflammables Dangers naturels#PRENDREFEU|prennent feu si elles sont exposées aux flammes. N'importe qui peut les éteindre par une action complexe.
+
+===Mythique===
+
+La portée du sort s'élève à 6 mètres et il inflige 1d6 points de dégâts de feu par niveau de lanceur de sorts (5d6 maximum).

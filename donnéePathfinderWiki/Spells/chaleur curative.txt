@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Chaleur curative
+Title: Chaleur curative
+LastModified: 2020-07-10 01:33
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 4'
+  - 'Sort druide 4'
+  - 'Sort inquisiteur 4'
+  - 'Sort prêtre 4'
+---
+{s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}
+[École] Abjuration
+[Niveau] alchimiste 4, prêtre 4, druide 4, inquisiteur 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+
+Le lanceur de sorts gagne une immunité temporaire aux dégâts de feu comme pour une protection contre les énergies destructives. Par une action simple, le lanceur peut sacrifier 12 points d'énergie restante du sort d'absorption pour soigner une créature touchée de 1d8 points de dégâts. Soigner une créature provoque une attaque d'opportunité. Lorsque le sort a absorbé 12 points de dégâts de feu par niveau de lanceur de sorts (jusqu'à un maximum de 120 points au niveau 10), il est déchargé.

@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Vision lucide
+Title: Vision lucide
+LastModified: 2015-06-24 20:50
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 7'
+  - 'Sort magicien 6'
+  - 'Sort prêtre 5'
+---
+[École] Divination
+[Niveau] alchimiste 6, conjurateur 5, druide 7, inquisiteur 5, ensorceleur/magicien 6, prêtre 5, Magus 6, sorcière 6
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (onguent à paupière (250 po))
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le lanceur de sorts offre à sa cible la faculté de voir les choses telles qu'elles sont vraiment, ce qui lui permet de voir normalement dans l'obscurité (normale comme magique), de remarquer les passages secrets dissimulés par magie, de repérer l'endroit exact où se situent les créatures protégées par des sorts tels que ''flou'' ou ''déplacement'', de voir clairement les créatures et objets invisible|invisibles, de ne pas être trompé par les illusion|illusions, et d'apercevoir la véritable apparence des créatures ou objets métamorphosés ou transformés. Un simple exercice mental lui permet également de voir dans le plan Éthéré, mais pas à l'intérieur des espaces extradimensionnels. La ''vision lucide'' s'étend jusqu'à une portée de trente-six mètres.
+
+Ce sort n'est pas comparable à la vision aux rayons X et ne permet pas de voir au travers des objets solides. Il ne réduit pas non plus le camouflage des adversaires, même si celui-ci, par exemple, est causé par le brouillard. Il ne permet pas de percer à jour les créatures déguisées à l'aide d'un déguisement normal (et non par magie), ni de remarquer celles qui se cachent dans l'ombre. De même, il ne permet pas de repérer les passages secrets non magiques. Enfin, ses effets ne sont pas cumulatifs avec ceux d'aucun autre sort ou objet magique. Il est ainsi impossible de conjuguer ''vision lucide'' et ''clairaudienceclairvoyance|clairvoyance/clairaudience'' (ou ''vision lucide'' et une ''boule de cristal'').
+

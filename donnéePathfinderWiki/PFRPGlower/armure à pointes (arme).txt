@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.armure à pointes (arme)
+Title: Armure à pointes
+LastModified: 2021-10-09 19:52
+Categories:
+  - 'Arme'
+  - 'Src Armes et équipement'
+---
+{s:AE}'''Prix''' +50 po ; '''Poids''' spécial ; '''Groupes''' [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]  
+'''Dégâts''' 1d4 (P), 1d6 (M) ; '''Critique''' ×2 ; '''Portée''' — ; '''Type''' P ; '''Spécial''' —  
+<span class="Catégorie">'''Catégorie''' [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; '''Maniement''' [[arme légère|arme de corps à corps légère]]</span>
+<hr>
+On peut orner son armure de [[pointes darmure (armure)|pointes]] capables d’infliger des dégâts lors d’une [[lutte]] ou d’une attaque indépendante. On ne peut pas [[désarmement|désarmer]] un personnage équipé de pointes d’armure.

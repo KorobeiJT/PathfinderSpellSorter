@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Puanteur de la proie
+Title: Puanteur de la proie
+LastModified: 2020-05-15 16:23
+---
+[École] Transmutation
+[Niveau] chaman 3, druide 3, rôdeur 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] moyenne
+[Cible] une créature (cf. texte)
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur pour annuler (cf. texte)
+[Résistance à la magie] oui
+
+La cible dégage une forte odeur que la plupart des prédateurs reconnaissent comme celle d'une proie sans défense. Les 1d4+1 créatures prédatrices les plus proches dans un rayon de 9 mètres doivent réussir un jet de Volonté pour ne pas attaquer la cible (les animaux possédant le pouvoir odorat sont affectés dans un rayon de 18 mètres). Si le prédateur est un animal, il peut être éloigné de la cible par un dresseur qui utilise le tour « arrête ! » ou tout autre effet mettant en suspend ou dissipant les effets de rage ou d'émotion.
+Ce sort n'a aucun effet sur les créatures artificielles, les morts-vivants ou les créatures possédant le pouvoir aura surnaturelle ou disposant d'effets repoussant les animaux.
+

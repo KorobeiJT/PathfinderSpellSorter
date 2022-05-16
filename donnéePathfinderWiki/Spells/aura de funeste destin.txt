@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Aura de funeste destin
+Title: Aura de funeste destin
+LastModified: 2012-10-31 17:56
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 4'
+---
+
+[École] Nécromancie émotion, mental, peur
+[Niveau] prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (os en poudre)
+[Portée] personnelle
+[Cible]  émanation de 6 m centrée sur le personnage
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+Une aura d'horreur palpable émane du personnage. Les créatures qui ne sont pas alliées à lui et qui se trouvent dans la zone ou y entrent par la suite doivent réussir un jet de Volonté ou être secoué|secouées. Un jet de sauvegarde réussi annule cet effet. Les créatures qui quittent la zone et y retournent doivent refaire un jet si elles ne veulent pas être affectées.

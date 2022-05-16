@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Aspect de lours
+Title: Aspect de l'ours
+LastModified: 2012-11-04 21:32
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort rôdeur 2'
+---
+
+[École] Transmutation (métamorphose) 
+[Niveau] druide 2, rôdeur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minute/niveau
+
+Le personnage prend l'aspect d'un ours. Il gagne un bonus d'altération de +2 à l'armure naturelle et aux tests de BMO. Il peut également faire des manœuvres de bousculade, de lutte et de renversement sans provoquer d'attaque dopportunité|attaque d'opportunité.
+

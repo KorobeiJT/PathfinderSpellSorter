@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Baiser de la goule
+Title: Baiser de la goule
+LastModified: 2021-10-17 15:52
+Categories:
+  - 'Règle officielle'
+  - 'Sort'
+  - 'Sort magicien 2'
+  - 'Sort sanguin 2'
+  - 'Sort spirite 2'
+  - 'Src Manuel des joueurs'
+---
+[École] Nécromancie poison ''(aspect de puanteur seulement)''
+[Niveau] ensorceleur/magicien 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de vêtement appartenant à une goule ou une poignée de terre venant de son antre)
+[Portée] contact
+[Cible] type humanoïde|humanoïde vivant touché
+[Durée] 1d6+2 rounds
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui
+
+Ce sort transmet au mage un flot d'énergie négative qui lui permet de paralyser pendant la durée du sort le premier type humanoïde|humanoïde qu'il touche avec une attaque de contact au corps à corps.
+
+Si elle se trouve paralysé|paralysée (suite à un jet de Vigueur raté), la cible exhale alors une puanteur dans une émanation de 3 m de rayon provoquant de violents haut-le-cœur. Toutes les créatures se trouvant dans la zone deffet|zone d'effet (à l'exception du lanceur de sort) deviennent fiévreux|fiévreuses (Vigueur, annule). ''Neutralisation du poison'' soigne les créatures fiévreux|fiévreuses et cette odeur n'affecte pas les créatures immunisées contre le poison. C'est un effet d'empoisonnement.
+

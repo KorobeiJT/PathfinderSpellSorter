@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Rejet du Bien
+Title: Rejet du Bien
+LastModified: 2015-06-23 23:06
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 5'
+---
+[École] Abjuration (Mal)
+[Niveau] antipaladin 4, inquisiteur 5, prêtre 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] le jeteur de sorts et 1 créature extraplanaire bonne, ou le jeteur et le sort du Bien ou l'enchantement affectant la créature ou l'objet touché
+[Durée] 1 round/niveau ou jusqu'à épuisement
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description
+
+Une aura noire et maléfique entoure le personnage et lui confère les avantages suivants :
+* Un bonus de parade de +4 à la CA contre les attaques des créatures d'alignement Bon.
+* La possibilité de chasser une créature d'alignement Bon originaire d'un autre plan avec une attaque de contact au corps à corps. Si celle-ci rate un jet de Volonté (et que sa RM|résistance à la magie est battue par le lanceur de sort), elle est renvoyée dans son plan d'origine. Cela épuise toute l'énergie magique du sort qui se termine immédiatement.
+* La possibilité de dissiper, d'un simple contact, un sort du Bien ou un enchantement lancé par une créature d'alignement Bon (réussite automatique). Les sorts immunisés contre ''dissipation de la magie'' le sont également contre ''rejet du Bien''. Cet effet n'autorise aucun jet de sauvegarde ou de RM|résistance à la magie. En revanche, il épuise toute l'énergie magique du sort qui se termine immédiatement.
+
+
+
+(((Ce sort ressemble à ''rejet du Mal'', si ce n'est que le personnage est entouré d'une aura noire d'énergie maléfique qui affecte les créatures Bonnes et les sorts du Bien au lieu des sorts Mauvais.)))
+

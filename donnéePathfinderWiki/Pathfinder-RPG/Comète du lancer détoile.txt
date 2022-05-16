@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Comète du lancer détoile
+Title: Comète du lancer d'étoile
+LastModified: 2022-02-24 19:12
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Src Weapon Masters Handbook'
+---
+{s:cs}{s:WMH}''Vous pouvez lancer une arme de jet pour qu'elle frappe deux ennemis.''
+
+'''Catégorie :''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Dex]] 13, [[École du lancer détoile|École du lancer d'étoile]], [[Tir à bout portant]], [[Arme de prédilection]] avec l'arme choisie
+
+'''Avantages.''' Par une [[action simple]], le personnage peut porter une unique attaque avec son [[BBA|bonus de base à l’attaque]] le plus élevé avec l'[[arme de jet]] choisie. Si l'attaque réussit, le personnage inflige les dégâts normalement et peut porter une seconde attaque (avec son [[BBA|bonus de base à l’attaque]] le plus élevé) contre une cible dans à un [[facteur de portée]] maximum de la première. Les [[abri|abris]] pour cette attaque sont déterminés à partir de l'emplacement du premier ennemi touché au lieu de celui du personnage. Le personnage ne peut effectuer qu'une seule attaque supplémentaire par [[round]] avec ce don. Si le personnage possède [[Frappe décisive]], [[Science de la frappe décisive]] ou [[Frappe décisive supérieure]], il peut ajouter les dégâts supplémentaires de ces dons à la première attaque (mais pas à la seconde attaque).

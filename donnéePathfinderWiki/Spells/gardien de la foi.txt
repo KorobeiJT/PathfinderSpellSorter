@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Gardien de la foi
+Title: Gardien de la foi
+LastModified: 2016-11-17 13:15
+Categories:
+  - 'Manuel des Classes avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 4'
+  - 'Sort prêtre 4'
+---
+
+[École] abjuration (cf. texte)
+[Niveau] paladin 4, prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (parchemin portant un texte sacré)
+[Portée] courte
+[Cible] un allié
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non
+
+La cible profite des avantages d'un bouclier de la foi et d'une protection contre le Bien|protection contre le Bien, protection contre le Chaos|le Chaos, protection contre la Loi|la Loi ou protection contre le Mal|le Mal (au choix du personnage).
+Par une action de mouvement, la cible peut transférer ce sort à un allié qu'elle touche et qui devient alors la nouvelle cible du sort.
+Le registre d'alignement de ce sort correspond au registre d'alignement du sort de protection que le personnage choisit quand il lance le sort. Par exemple, s'il accorde une protection contre le Mal|protection contre le Mal à la cible, alors ce sort est du registre du Bien.
+

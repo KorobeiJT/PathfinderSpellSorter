@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Contagion supérieure
+Title: Contagion supérieure
+LastModified: 2013-10-03 22:51
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 5'
+  - 'Sort magicien 6'
+  - 'Sort prêtre 5'
+  - 'Sort sorcière 5'
+---
+
+[École] nécromancie mal, maladie
+[Niveau] druide 5, ensorceleur/magicien 6, prêtre 5, sorcière 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui
+
+Ce sort fonctionne comme ''contagion|contagion'' mais la victime ne peut pas surmonter la maladie sans recourir à la magie : même si elle réussit le nombre de jet de sauvegarde|jets de sauvegarde requis, elle ne guérit pas. Le DD pour dissipation de la magie|dissiper la maladie à l'aide de la magie est égal à celui du jet de sauvegarde +5.

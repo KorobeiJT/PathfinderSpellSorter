@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Offrande exigée
+Title: Offrande exigée
+LastModified: 2019-10-28 23:17
+---
+[École] Enchantement (coercition) (effet mental)
+[Niveau] antipaladin
+1, Barde 2, ensorceleur/magicien 2, hypnotiseur|Hyp 2, inquisiteur 2,
+occultiste|Occ 2, psychiste|Psy 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 1,50 m
+[Cible] 1 créature
+[Durée] instantanée ou 1 round
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui
+
+Une créature qui rate son jet de sauvegarde dépense une action immédiate pour remettre au personnage l'objet qu'elle tient actuellement en main. Si elle n'a plus d'action immédiate disponible, elle dépense une action de mouvement au début de son prochain tour pour remettre l'objet au personnage. Si elle tient plusieurs objets en main, elle en donne un au hasard. Si la créature n'est plus adjacente au personnage quand elle doit lui donner l'objet, le sort se dissipe sans effet. Si la cible ne tient aucun objet quand elle est victime du sort, celui-ci ne l'affecte pas.

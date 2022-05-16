@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Arme boomerang
+Title: Arme boomerang
+LastModified: 2020-02-27 02:13
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort inquisiteur 1'
+  - 'Sort magicien 2'
+  - 'Sort magus 1'
+  - 'Sort prêtre 2'
+  - 'Sort rôdeur 1'
+  - 'Sort sorcière 2'
+---
+
+[École] Invocation (téléportation)
+[Niveau] barde 2, ensorceleur/magicien 2, inquisiteur 1, magus 1, prêtre 2, rôdeur 1, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une arme susceptible d'être lancée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)
+
+Pendant toute la durée du sort, la cible se comporte comme une ''arme boomerang'' (Voir la propriété ''boomerang (propriété)|Boomerang'' de la section Armes magiques). Ce sort peut servir de condition requise pour la boomerang (propriété)|propriété ''arme boomerang''.

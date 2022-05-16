@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Voile répugnant
+Title: Voile répugnant
+LastModified: 2012-10-31 16:31
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 3'
+  - 'Sort sorcière 3'
+---
+
+[École] Illusion (mirage) mental
+[Niveau] ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un écheveau de fils multicolores)
+[Portée] courte 
+[Cible] voile transparent de 12 m (8 ) de long et 6 m de haut
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+Ce sort crée un voile transparent aux couleurs changeantes constitué de fils de lumière multicolores qui dessinent des formes étrangères variées. Le voile possède un côté inoffensif que le personnage choisit au moment de l'incantation. L'autre se tord et se contorsionne pour tracer des formes impossibles qui affectent toutes les créatures qui le voient à moins de 18 mètres (12 ). Le voile affecte un maximum de 24 DV de créatures et touche en premier celles qui possèdent le moins de DV. Si plusieurs créatures ont le même nombre de DV, il affecte d'abord celles qui sont les plus proches. L'effet dépend du nombre de DV de la créature.
+
+* ''4 DV ou moins.'' La créature est nauséeux|nauséeuse tant qu'elle voit le voile, 1d4 rounds après qu'elle l'a vu pour la dernière fois et elle est fiévreux|fiévreuse pendant 2d4 rounds après l'avoir vu pour la dernière fois.
+* ''8 DV ou moins.'' La créature est nauséeux|nauséeuse pendant 1d4 rounds tant qu'elle voit le voile puis fiévreux|fiévreuse pendant 1d4 rounds après l'avoir vu pour la dernière fois.
+* ''9 DV ou plus.'' La créature est fiévreux|fiévreuse tant qu'elle voit le voile.
+
+Une créature qui réussit son jet de sauvegarde ignore les effets du voile. Les créatures aveuglé|aveugles ne sont pas affectées. Les créatures affectées peuvent se détourner ou fermer les yeux pour ne plus voir le voile, comme pour éviter une regard (capacité)|attaque de regard.
+
+On peut rendre le voile permanent à l'aide d'un sort de ''permanence'' pour 7 500 po à condition que le personnage soit de niveau 10 ou plus.

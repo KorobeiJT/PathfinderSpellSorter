@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.la mort venue den bas
+Title: La mort venue d'en bas
+LastModified: 2020-07-10 01:40
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort magicien 2'
+---
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}
+[École] Abjuration
+
+[Niveau] Barde 3, ensorceleur/magicien 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage donne à la cible un bonus d'esquive à la CA contre les attaques des créatures plus grandes que lui. Ce bonus est de +1 par catégorie de taille d'écart, avec un maximum de +1 point de bonus par tranche de trois niveaux de lanceur de sorts. Si la cible du sort est un gnome, le bonus maximal est égal à +1 par tranche de 2 niveaux de lanceur de sorts.

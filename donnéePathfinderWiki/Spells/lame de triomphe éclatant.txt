@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Lame de triomphe éclatant
+Title: Lame de triomphe éclatant
+LastModified: 2020-02-27 02:51
+---
+
+[École] transmutation bien
+[Niveau] paladin 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] arme liée au paladin
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non
+
+Le personnage renforce le lien divin qui l'unit à son arme et à l'esprit céleste qui l'habite. L'arme gagne la propriété ''spectrale (propriété)|spectrale''. Le personnage peut changer le type de dégâts qu'elle inflige (contondants, perforants ou tranchants) par une action rapide. Il gagne un bonus sacré au DMD contre les tentatives de désarmement et de destruction|destruction d'arme qui visent la lame à laquelle il s'est lié. Ce bonus est égal à la moitié de son niveau de lanceur de sorts.

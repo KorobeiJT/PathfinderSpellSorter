@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Engin de siège magique supérieur
+Title: Engin de siège magique supérieur
+LastModified: 2013-04-25 12:51
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'sort antipaladin 4'
+  - 'Sort inquisiteur 4'
+  - 'Sort magicien 4'
+  - 'Sort paladin 4'
+  - 'Sort prêtre 5'
+---
+
+[École] Transmutation
+[Niveau] antipaladin 4, ensorceleur/magicien 4, inquisiteur 4, paladin 4, prêtre 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (poudre noire)
+[Portée] courte 
+[Cible] engin de siège touché
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)
+
+Ce sort fonctionne comme ''engin de siège magique'' mais le bonus d'altération aux jets de visée et de dégâts de l'arme de siège|arme de siège indirecte est de +1 par tranche de quatre NLS|niveaux de lanceur de sorts (+5 au maximum). Si le sort s'applique à une arme de siège|arme de siège directe, il fonctionne comme ''arme magique suprême''.

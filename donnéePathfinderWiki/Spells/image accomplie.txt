@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Image accomplie
+Title: Image accomplie
+LastModified: 2015-06-21 14:48
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort magicien 3'
+---
+[École] Illusion (chimère)
+[Niveau] barde 3, ensorceleur/magicien 3, magus 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (toison de mouton)
+[Portée] longue
+[Cible] chimère visuelle ne pouvant occuper plus de 4 cubes de 3 m/2  d'arête + 1 cube de 3 m/2  d'arête par niveau (F)
+[Durée] concentration + 3 rounds
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non
+
+Ce sort génère une illusion visuelle représentant un objet, une créature ou un effet magique choisi par le personnage. Elle inclut également des composantes sonores, olfactives et thermiques. Tant que le personnage continue de se concentrer, il peut déplacer l'illusion dans les limites de portée indiquées.
+
+L'image disparaît dès qu'un adversaire la frappe, sauf si le lanceur du sort la fait réagir de manière appropriée.
+
+(((Ce sort fonctionne comme ''image silencieuse'', si ce n'est que l'illusion obtenue inclut également des composantes sonores, olfactives et thermiques. Tant que le personnage continue de se concentrer, il peut déplacer l'illusion dans les limites de portée indiquées.
+
+L'image disparaît dès qu'un adversaire la frappe, sauf si le lanceur du sort la fait réagir de manière appropriée.)))
+

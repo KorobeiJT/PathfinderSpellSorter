@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Bricolage alchimique
+Title: Bricolage alchimique
+LastModified: 2020-07-10 15:02
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 1'
+  - 'Sort prêtre 2'
+  - 'Sort sorcière 1'
+---
+{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}
+[École] Transmutation
+[Niveau] prêtre 2, ensorceleur/magicien 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V,G
+[Portée] contact
+[Cible] Armes à feu|arme à feu ou objet alchimique touché
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui
+
+Le lanceur de sorts transforme un objet alchimique ou une Armes à feu|arme à feu en un autre objet alchimique ou en une autre arme à feu de coût égal ou moindre. Les Règles relatives aux objets magiques|objets magiques ne sont pas affectés par ce sort. Quand la durée du sort se termine, les objets alchimiques utilisés alors qu'ils étaient transformés sont détruits et ne retrouvent pas un état fonctionnel, tandis que les armes à feu retrouvent leur type d'origine.

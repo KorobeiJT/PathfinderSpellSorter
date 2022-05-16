@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Stimulant
+Title: Stimulant
+LastModified: 2016-07-04 21:22
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'sort chaman 0'
+  - 'Sort druide 0'
+  - 'Sort inquisiteur 0'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 0'
+---
+[École] Transmutation
+[Niveau] druide 0, paladin|Pal 1, prêtre 0, inquisiteur 0, Chaman 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)
+
+La cible gagne 1 blessures et mort#PVTEMPORAIRES|point de vie temporaire.
+

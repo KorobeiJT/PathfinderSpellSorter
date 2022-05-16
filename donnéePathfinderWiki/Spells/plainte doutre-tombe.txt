@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Plainte doutre-tombe
+Title: Plainte d'outre-tombe
+LastModified: 2018-03-19 20:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 9'
+---
+[École] Nécromancie (mort, son)
+[Niveau] ensorceleur/magicien 9, sorcière 9
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte 
+[Zone d'effet] 1 créature vivante/niveau dans une étendue de 12 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui
+
+Ce sort émet des vibrations sonores meurtrières capables de tuer tous ceux qui les entendent (sauf le lanceur de sort). Il affecte une créature par niveau de lanceur de sorts à raison de 10 points de dégâts par niveau de lanceur de sorts, en commençant par celles qui se tiennent le plus près du centre de la zone deffet|zone d'effet.
+

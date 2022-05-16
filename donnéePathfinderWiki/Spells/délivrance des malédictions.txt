@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Délivrance des malédictions
+Title: Délivrance des malédictions
+LastModified: 2017-12-10 14:45
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort magicien 4'
+  - 'Sort paladin 3'
+  - 'Sort prêtre 3'
+---
+[École] Abjuration
+[Niveau] alchimiste 3, barde 3, inquisiteur 3, ensorceleur/magicien 4, paladin|Pal 3, prêtre 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature ou objet touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Comme son nom l'indique, cette abjuration fait instantanément disparaître toutes les malédictions affligeant un objet ou une créature. Si le sort vise une créature, le personnage doit réussir un test de lanceur de sorts (1d20 + NLS|niveau de lanceur de sorts) contre le DD de chaque malédiction qui affecte la cible. En cas de succès, la malédiction disparaît. Si le sort cible un objets maudits|objet maudit (bouclier, arme, armure, etc.), la malédiction n'est pas annulée, mais son effet est suspendu suffisamment longtemps pour que le personnage puisse s'en débarrasser.
+
+''Délivrance des malédictions'' contre et dissipe ''sort malédiction|malédiction''.
+

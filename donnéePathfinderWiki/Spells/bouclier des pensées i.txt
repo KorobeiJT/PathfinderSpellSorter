@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Bouclier des pensées I
+Title: Bouclier des pensées I
+LastModified: 2021-07-18 00:08
+Categories:
+  - 'Sort'
+  - 'Sort psychiste 2'
+  - 'Src Aventures occultes'
+---
+[École] Abjuration
+[Niveau] psychiste|Psy 2
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round
+
+Dès que le personnage sent une intrusion, il dresse une défense pour protéger son esprit contre les attaques ou les analyses. Cela se traduit par un bonus de circonstances de +4 aux jets de Volonté contre les effets mentaux. Tant que le sort fait effet, les sorts et effets permettant à une créature de lire dans l'esprit du personnage ne lui fournissent aucune information.

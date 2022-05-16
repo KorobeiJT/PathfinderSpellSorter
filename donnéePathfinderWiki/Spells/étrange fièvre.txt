@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Étrange fièvre
+Title: Étrange fièvre
+LastModified: 2013-10-03 22:56
+---
+
+[École] nécromancie mal, maladie, malédiction
+[Niveau] ensorceleur/magicien 3, inquisiteur 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui 
+
+La cible est atteinte de la Plaies|plaie magique:Description des plaies magiques|étrange fièvre.

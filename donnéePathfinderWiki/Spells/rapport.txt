@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Rapport
+Title: Rapport
+LastModified: 2015-06-24 17:34
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 2'
+---
+[École] Divination
+[Niveau] prêtre 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 1 créature vivante touchée/3 niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort est particulièrement utile lorsque le personnage a besoin de savoir ce qui arrive à ses compagnons quand le groupe se sépare. Le ''rapport'' qu'il reçoit indique la position et l'état de santé de chacun : en pleine forme, blessé, hors de combat, chancelant, inconscient, mourant, nauséeux, paniqué, étourdi, empoisonné, malade, confus, etc. Une fois les sujets nommés, la distance ne constitue plus un obstacle entre eux et le personnage, à condition que tous restent dans le même plan d'existence. Si l'un d'eux le quitte, le lanceur de sorts ne reçoit plus la moindre informations à son sujet.
+

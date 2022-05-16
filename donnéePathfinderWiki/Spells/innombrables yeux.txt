@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Innombrables yeux
+Title: Innombrables yeux
+LastModified: 2012-07-12 11:30
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 3'
+  - 'Sort inquisiteur 3'
+  - 'Sort magicien 3'
+  - 'Sort sorcière 3'
+---
+
+[École] transmutation
+[Niveau] alchimiste 3, ensorceleur/magicien 3, inquisiteur 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+La cible génère des yeux supplémentaires sur tout son corps, y compris derrière sa tête. Elle gagne 
+vision à 360° (capacité)|vision à 360° et ne peut être prise en tenaille.

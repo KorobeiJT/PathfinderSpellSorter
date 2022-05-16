@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.bénédiction de chance et de résolution de groupe
+Title: Bénédiction de chance et de résolution de groupe
+LastModified: 2020-07-10 01:18
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 6'
+  - 'Sort paladin 4'
+  - 'Sort prêtre 6'
+---
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}
+[École] Enchantement (coercition) effet mental
+[Niveau] Prêtre 6, Inquisiteur 6, Paladin 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature/niveau, dans un rayon de 9 m
+[Durée] 1 minute/niveau, spécial (voir plus bas)
+
+Ce sort fonctionne comme ''bénédiction de chance et de résolution'', mais affecte plusieurs créatures.

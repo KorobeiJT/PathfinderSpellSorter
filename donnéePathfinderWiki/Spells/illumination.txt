@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Illumination
+Title: Illumination
+LastModified: 2018-02-12 08:13
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 0'
+  - 'Sort druide 0'
+  - 'Sort magicien 0'
+---
+[École] Évocation (lumière)
+[Niveau] barde 0, druide 0, ensorceleur/magicien 0, magus 0, psychiste|Psy 0
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte 
+[Cible] rayonnement de lumière
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui
+
+Ce sort élémentaire crée une petite explosion de lumière. Si celle-ci se produit devant une seule créature, cette dernière doit réussir un jet de Vigueur pour éviter de se retrouver ébloui|éblouie pendant une minute. Les créatures  aveuglé|aveugles, ainsi que celles qui sont déjà ébloui|éblouies, ne sont pas affectées par ''illumination''.
+

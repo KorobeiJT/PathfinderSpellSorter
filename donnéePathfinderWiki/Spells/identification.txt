@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Identification
+Title: Identification
+LastModified: 2018-12-26 20:02
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort magicien 1'
+---
+[École] Divination
+[Niveau] conjurateur 1, barde 1, ensorceleur/magicien 1, alchimiste 1, sorcière 1, Psychiste|Psy 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un peu de vin mélangé avec une plume de hibou)
+[Portée] 18 m/12 
+[Zone d'effet] émanation en forme de cône
+[Durée] 3 rounds/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Ce sort fonctionne comme ''détection de la magie'' mais il offre un bonus daltération|bonus d'altération de +10 aux tests d'Art de la magie destinés à découvrir les propriétés et les mot de commande|mots de commande des objets magiques en possession du personnage. 
+
+''Identification'' ne fonctionne pas sur les artefacts.
+

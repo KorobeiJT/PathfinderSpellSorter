@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Ailes puissantes
+Title: Ailes puissantes
+LastModified: 2020-07-10 01:16
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort magicien 1'
+  - 'Sort rôdeur 1'
+  - 'Sort sorcière 1'
+---
+{s:racial|Strix (race)|strix|Illustrations/PNJ/Strix.jpg}
+[École] Transmutation 
+[Niveau] druide 1, ensorceleur/magicien 1, rôdeur 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui inoffensif
+
+Les ailes de la cible gagnent en puissance, augmentent sa vitesse de Vol|vol de +3 m et améliorent sa manœuvrabilité d'une catégorie (catégorie maximum : bonne). Cette augmentation compte comme un bonus d'altération. Ce sort n'a aucun effet sur les créatures dépourvues d'ailes ou les êtres ailés ne pouvant pas voler. 

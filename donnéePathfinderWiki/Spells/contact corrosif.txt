@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.contact corrosif
+Title: Contact corrosif
+LastModified: 2015-06-22 14:48
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort conjurateur 1'
+  - 'Sort magicien 1'
+  - 'Sort magus 1'
+---
+
+[École] invocation (création) acide
+[Niveau] conjurateur 1, ensorceleur/magicien 1, magusus 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature ou objet touché
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] oui
+
+Si le personnage réussit son attaque de contact au corps à corps, il inflige 1d4 points de dégâts d'acide par NLS|niveau de lanceur de sorts (5d4 au maximum).

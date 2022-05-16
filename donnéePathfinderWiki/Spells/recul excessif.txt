@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Recul excessif
+Title: Recul excessif
+LastModified: 2013-03-30 19:45
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 2'
+  - 'Sort sorcière 2'
+---
+
+[École] Transmutation
+[Niveau] ensorceleur/magicien 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (des rognures de corne de mule)
+[Portée] courte 
+[Cible] 1 arme à feu
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)
+
+L'arme à feu ciblée tire soudain de son propre chef, même si elle n'est pas chargée. Son recul est si violent que son propriétaire doit la serrer fermement pour la garder en main et qu'il est pris au dépourvu jusqu'au début de son prochain tour. S'il est déjà pris au dépourvu, il tombe à terre. Si l'arme était chargée, la munition est gâchée.

@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Écu en mithral
+Title: Écu En Mithral
+LastModified: 2020-03-16 17:09
+Categories:
+  - 'Bouclier magique'
+---
+<div style="float: right">'''''Retour aux [[Boucliers magiques spécifiques]].'''''</div><div class="BD">
+{s:BDTitre|Écu En Mithral|{s:AE}}
+'''Aura''' aucune (non-magique) ; '''NLS''' : — ; '''Prix''' 1 020 po ; '''Poids''' 2,5 kg
+(((Description)))
+Cet [[écu (armure)|écu]] est constitué de [[mithral]] et donc très léger. En tant que bouclier en mithral, ses attributs sont les suivants : aucun malus d’armure aux tests et risque d’échec des sorts profanes de 5%.
+(((Création)))
+— ; '''Coût''' : 340 po
+</div>

@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Canalisation variable
+Title: Canalisation variable
+LastModified: 2020-09-02 18:11
+Categories:
+  - 'Contenu supplémentaire'
+  - 'Don'
+  - 'Magic Tactics Toolbox'
+---
+{s:cs|Magic Tactics Toolbox}
+
+''Vous modifiez les énergies canalisées en fonction des préceptes de votre divinité.''
+
+'''Condition.''' Capacités de classe [[Prêtre#DOMAINE|domaine]] et [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]], doit vénérer et recevoir des sorts d'une divinité
+
+'''Avantage.''' Le personnage choisi une [[variantes de canalisation|variante de canalisation]]. La variante choisie doit correspondre aux domaines ou sous-domaines de la divinité vénérée par le personnage, ou à un centre d’intérêt qui la concerne. Trois fois par jour, lorsqu'il canalise de l’énergie, le personnage peut appliquer les modifications de la variante de canalisation choisie, incluant les réductions ou augmentations aux dégâts ou aux soins qu'il inflige. Si le personnage dispose déjà d’une variante de canalisation, ce don lui permet à la place de canaliser l’énergie sans les modifications de sa variante de canalisation (incluant les réductions aux dégâts ou les soins qu'il dispense) trois fois par jour.
+
+'''Spécial.''' Ce don peut être pris deux fois. La seconde fois, le personnage peut utiliser la variante de canalisation d’énergie à chaque fois qu'il canalise de l’énergie et non plus trois fois par jour.
+
+(((Channeling variance
+
+You alter your channeled energies based on your god’s tenets.
+
+Prerequisites: Domain class feature, channel energy class feature, must worship and receive spells from a deity.
+
+Benefit: Choose one variant channeling ability (Pathfinder RPG Ultimate Magic 28). The chosen ability must match one of your deity’s domains, subdomains, or areas of concern. Three times per day when you channel energy, you can apply the modifications of the chosen variant channeling ability to your channeled energy, including reductions to the damage dealt or healing performed by your channeled energy. If you already have a variant channeling ability, this feat instead allows you to channel energy without the modifications of your chosen variant channeling ability (including reductions to the damage dealt or healing performed by your channeled energy) three times per day. 
+
+Special: This feat can be selected twice. The second time you do, you can use Channeling Variance whenever you channel energy instead of just three times per day.)))

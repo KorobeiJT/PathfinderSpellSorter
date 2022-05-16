@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Limite infranchissable
+Title: Limite infranchissable
+LastModified: 2020-06-09 17:51
+---
+[École] abjuration
+[Niveau] ensorceleur/magicien 1, magus 1, sanguin 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 1,5 m
+[Cible] rayonnement de 1,5 m centrée sur le lanceur
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Le personnage crée une ligne écarlate brillante autour de la zone. Contre les créatures situées dans la zone, le personnage peut tenter un nombre d'attaques d'opportunité supplémentaires par round égal au modificateur de sa caractéristique de lancement de sorts (Intelligence pour les magusi et les magicieniciens, Charisme pour les sanguin|sanguins et les ensorceleurorceleurs), même si cela ne lui permet pas de faire plus d'une attaque contre une créature par action provoquant une AO|attaque d'opportunité.

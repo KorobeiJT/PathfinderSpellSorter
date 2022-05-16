@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Tir longue distance
+Title: Tir longue distance
+LastModified: 2015-06-23 21:29
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 1'
+  - 'Sort antipaladin 1'
+  - 'Sort inquisiteur 1'
+  - 'Sort magicien 1'
+  - 'Sort magus 1'
+  - 'Sort paladin 1'
+  - 'Sort rôdeur 1'
+---
+
+[École] Transmutation
+[Niveau] alchimiste 1, antipaladin 1, ensorceleur/magicien 1, inquisiteur 1, Magus 1, paladin|Pal 1, rôdeur|Rôd 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un bout d'empennage)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+
+Le sort réduit l'effet de la distance et donne un bonus de +3 m au facteur de portée de toutes les armes de la cible.

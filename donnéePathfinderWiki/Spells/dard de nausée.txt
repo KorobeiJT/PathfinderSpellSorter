@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Dard de nausée
+Title: Dard de nausée
+LastModified: 2020-05-15 16:12
+---
+[École] invocation (création) poison
+[Niveau] druide 1, sorcière 1  
+[Temps d'incantation] 1 action simple 
+[Composantes] G, FD 
+[Portée] courte 
+[Cible] un dard empoisonné 
+[Durée] instantanée 
+[Jet de sauvegarde] Vigueur pour dégâts partiels (cf. texte)
+[Résistance à la magie] non
+
+Le personnage crache un dard empoisonné de la taille d'une plume sur une créature à portée, comme s'il avait tiré une fléchette avec une sarbacane. Le personnage doit réussir une attaque à distance pour toucher sa cible. Le dard inflige 1d2 points de dégâts perforants et de poison à la cible, la rendant nauséeux|nauséeuse pendant 1 round à moins qu'elle ne réussisse un jet de Vigueur.

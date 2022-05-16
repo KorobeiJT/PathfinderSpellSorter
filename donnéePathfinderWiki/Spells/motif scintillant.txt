@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Motif scintillant
+Title: Motif scintillant
+LastModified: 2012-11-04 17:27
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 8'
+---
+[École] Illusion (mirage) (mental)
+[Niveau] ensorceleur/magicien 8
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un prisme de cristal)
+[Portée] courte 
+[Cible] lueurs colorées dans une étendue de 6 m de rayon
+[Durée] concentration + 2 rounds
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Un groupement de lueurs étincelantes et discordantes parcourt les airs, affectant les créatures situées dans la zone deffet|zone d'effet. Le sort peut affecter un nombre total de dés de vie de créatures égal au niveau de lanceur de sorts (maximum 20). Les créatures possédant le moins de DV sont les premières affectées. En cas d'égalité, les plus proches du point d'origine sont atteintes en priorité. Le sort affecte chaque sujet selon ses dés de vie :
+
+[6 ou moins.] Inconscient|Inconscience pendant 1d4 rounds, puis étourdi|étourdissement pendant 1d4 rounds et, enfin, confus|confusion pendant 1d4 rounds. Pour les créatures non-vivantes, considérez l'inconscient|inconscience comme de l'étourdi|étourdissement.
+
+[7 à 12.] étourdi|Étourdissement pendant 1d4 rounds, puis confus|confusion pendant 1d4 rounds.
+
+[13 ou plus.] confus|Confusion pendant 1d4 rounds.
+
+Les créatures aveuglé|aveugles ne sont pas affectées par ce sort.
+

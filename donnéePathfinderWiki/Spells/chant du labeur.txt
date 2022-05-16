@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.chant du labeur
+Title: Chant du labeur
+LastModified: 2020-07-10 01:34
+Categories:
+  - 'Manuel des races'
+  - 'Sort'
+  - 'Sort barde 1'
+---
+
+[École] Enchantement (nécromancie) effet mental; 
+[Niveau] Barde 1
+[Temps d'incantation] voir texte
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature vivante
+[Durée] voir texte
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage peut lancer ce sort comme partie de l'action qui lui permet d'initier une représentation bardique d'inspiration talentueuse (barde)|inspiration talentueuse. Les avantages de cette inspiration durent aussi longtemps que nécessaire, afin que la cible puisse l'utiliser lors du prochain test associé à la compétence choisie (avec un maximum de 1 heure par niveau de lanceur de sorts), même si le barde cesse sa représentation.

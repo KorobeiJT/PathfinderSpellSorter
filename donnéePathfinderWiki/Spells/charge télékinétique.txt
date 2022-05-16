@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Charge télékinétique
+Title: Charge télékinétique
+LastModified: 2014-04-03 22:02
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+---
+
+[École] évocation ([force)
+[Niveau] ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature consentante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage utilise la télékinésie pour lancer un allié à travers le champ de bataille, n'importe où dans les limites du sort. Tant que l'allié bouge, il vole au ras du sol, à moins que vous n'en décidiez autrement. Ce déplacement provoque les attaque dopportunité|attaques d'opportunité habituelles mais le personnage peut soulever son allié au-dessus des obstacles ou hors de portée des ennemis, tant qu'il ne le sort pas des limites du sort. Si votre allié se trouve adjacent à un adversaire quand il atterrit, il peut dépenser une action immédiate pour faire un jet d'attaque
+avec un bonus de +2.

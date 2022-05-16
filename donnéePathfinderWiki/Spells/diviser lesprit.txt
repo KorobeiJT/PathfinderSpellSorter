@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Diviser lesprit
+Title: Diviser l'esprit
+LastModified: 2019-10-28 23:03
+---
+[École] Enchantement (effet mental)
+[Niveau] psychiste|Psy 9
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Le personnage fractionne son esprit pour optimiser sa puissance mentale. Tant que le sort est actif, il lance les dés deux fois et conserve le meilleur résultat à chaque fois qu'il doit faire un jet de Volonté, un test d'Intelligence ou un test de compétence basé sur l'Intelligence. De plus, il lui suffit d'une action rapide pour que la deuxième partie de son esprit accomplisse une action purement mentale exigeant habituellement une action simple ou action de mouvement|de mouvement, comme lancer un sort psychique, utiliser un pouvoir magique ou se concentrer sur un sort. La deuxième moitié de l'esprit peut lancer ainsi des sorts et des pouvoirs magiques de niveau 5 maximum.

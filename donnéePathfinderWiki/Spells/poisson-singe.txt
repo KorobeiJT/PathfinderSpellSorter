@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Poisson-singe
+Title: Poisson-singe
+LastModified: 2020-05-15 16:23
+---
+[École] Transmutation
+[Niveau] Alchimiste 1, ensorceleur/magicien 1, druide 1,   Magus 1, Chaman 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minute/niveau
+
+Les mains et les pieds du personnage se transforment pour lui permettre de mieux escalader et de mieux nager. Il gagne une vitesse d'escalade et une vitesse de natation|nage de 3 mètres. Ce sort n'a aucun effet si le personnage porte une armure lourde ou intermédiaire ou s'il porte une charge lourde ou intermédiaire.

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Requiem pour les fantômes
+Title: Requiem pour les fantômes
+LastModified: 2012-11-04 21:57
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort inquisiteur 2'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 2'
+---
+
+
+[École] Transmutation 
+[Niveau] barde 2, inquisiteur 2, paladin 1, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une vieille hanche d'instrument à vent)
+[Portée] courte 
+[Cible] une créature intangible
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui
+
+La cible se solidifie partiellement pour une courte période. Tant que la créature intangible est soumise à ce sort, elle reçoit la moitié (50%) des dégâts des attaques non magiques et la totalité de ceux des armes magiques, des sorts, des pouvoirs magiques et des pouvoirs surnaturels.
+

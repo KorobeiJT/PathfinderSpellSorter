@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Poussière du crépuscule
+Title: Poussière du crépuscule
+LastModified: 2018-07-24 14:50
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 2'
+---
+
+[École] Invocation (obscurité) 
+[Niveau] barde 2, ensorceleur/magicien 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de charbon)
+[Portée] intermédiaire 
+[Cible] créatures et objets dans une étendue de 3 mètres
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler (fatigué|fatigue seulement)
+[Résistance à la magie] non
+
+Une pluie de particules noires iridescentes s'accroche aux torches, aux lanternes, aux bâtons éclairants et aux sources de lumière ordinaire similaires et les éteint. Elle dissipe également tout sort de niveau de sort|niveau 2 ou moins qui possède le descriptif lumière (comme une ''dissipation de la magie''). Les créatures qui se trouvent dans la zone doivent faire un test de Vigueur ou être fatigué|fatiguées.
+
+===Mythique===
+
+Une créature qui rate son jet de Vigueur contre ce sort doit également réussir un jet de Volonté contre le même DD pour ne pas s'endormir (comme avec le sort sommeil). Les créatures qui réussissent ce jet de sauvegarde sont simplement somnolentes (comme avec le sort berceuse).
+
+[Amplifié.] Si le personnage dépense deux utilisations de pouvoir mythique, ajoutez la moitié de son grade au niveau des sorts de lumière que la poussière du crépuscule mythique dissipe.

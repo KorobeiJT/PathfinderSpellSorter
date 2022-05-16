@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Faux-semblant
+Title: Faux-semblant
+LastModified: 2012-11-03 18:53
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 5'
+  - 'Sort magicien 5'
+---
+[École] Illusion (hallucination)
+[Niveau] barde 5, ensorceleur/magicien 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] 1 créature/2 niveaux, distantes de moins de 9 m les unes des autres
+[Durée] 12 heures
+[Jet de sauvegarde] Volonté, annule ou Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] oui ou non (voir description)
+
+Ce sort fonctionne comme ''déguisement'', à ceci près que le lanceur de sorts peut modifier l'apparence de plusieurs autres personnes en plus de la sienne. Les individus affectés retrouvent leur aspect normal s'ils meurent. Les cibles non-consentantes peuvent se soustraire à l'effet du sort en réussissant un jet de Volonté ou grâce à leur RM|résistance à la magie.
+

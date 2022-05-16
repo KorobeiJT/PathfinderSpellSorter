@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Examen approfondi
+Title: Examen approfondi
+LastModified: 2020-05-15 16:14
+---
+[École] Divination
+[Niveau] alchimiste 2, Barde 2, Chaman 2, inquisiteur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible [le lanceur de sorts
+[Durée] 10 minutes/niveau
+
+Le personnage développe une sensibilité accrue vis-à-vis des manières, des réactions et du langage corporel d'une créature située dans son champ de vision, ce qui lui permet de percevoir son état d'esprit  et de l'influencer facilement. Il gagne un bonus de +10 aux tests de Perception, de Psychologie et de Survie contre cette créature, ainsi qu'un bonus de +5 aux tests de Diplomatie et d'Intimidation contre elle.

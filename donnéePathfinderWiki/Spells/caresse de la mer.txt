@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Caresse de la mer
+Title: Caresse de la mer
+LastModified: 2012-11-04 21:37
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 1'
+  - 'Sort druide 1'
+  - 'Sort magicien 1'
+---
+
+[École] Transmutation 
+[Niveau] alchimiste 1, ensorceleur/magicien 1, druide 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (écaille de poisson)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage fait pousser des filaments entre les doigts et les orteils de sa cible. Ils s'épaississent jusqu'à former des palmes qui lui accordent une vitesse de nage de 9 mètres et un bonus de Natation associé de +8 ainsi que la possibilité de faire 10 même si elle est distraite ou en danger. La cible peut également utiliser l'option de course tant qu'elle nage en ligne droite. Ce sort fusionne les bottes et les gants que porte éventuellement la cible avec les palmes (mais les objets magiques à effet continu fonctionnent tout de même). Ce sort ne permet pas de respirer sous l'eau.
+

@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Brume sanglante
+Title: Brume sanglante
+LastModified: 2012-11-01 18:06
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 8'
+---
+
+[École] invocation (création) poison
+[Niveau] druide 8
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée d'algue rouge séchée)
+[Portée] moyenne 
+[Cible] 18 m (12 ) de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (voir texte)
+[Résistance à la magie] oui
+
+Ce sort invoque une nappe de brume faite d'algues toxiques couleur rouille. Les créatures qui se trouvent à l'intérieur sont enduites d'algues et prennent la même couleur rougeâtre. Toutes les cibles situées dans la brume gagnent un camouflage et doivent réussir un jet de sauvegarde ou subir 1d4 points d'affaiblissement de Sagesse et devenir enragées. Elles attaquent alors les créatures qu'elles sentent proches (comme si elles étaient confus|confuses et avaient tiré le résultat « attaque la créature la plus proche »). Les créatures enragées le restent jusqu'à ce que le sort se dissipe. Une créature fait un seul jet de sauvegarde pour tout le temps qu'elle passe dans la brume mais, si elle sort et y rentre à nouveau, elle doit en refaire un.

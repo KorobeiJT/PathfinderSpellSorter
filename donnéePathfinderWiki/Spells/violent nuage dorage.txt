@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Violent nuage dorage
+Title: Violent nuage d'orage
+LastModified: 2020-05-15 16:27
+---
+[École] évocation électricité
+[Niveau] druide 2, ensorceleur/magicien 2, magus 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un morceau d'arbre frappé par la foudre)
+[Portée] moyenne
+[Cible] sphère de 1,5 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler
+[Résistance à la magie] oui
+
+Un nuage de tempête sphérique et crépitant vole dans la direction indiquée par le personnage et inflige des dégâts d'électricité à ceux qui le touchent. Il a une vitesse de vol de 6 mètres avec une manœuvrabilité parfaite. Si l'orage entre dans un espace qui accueille une créature, il arrête de se déplacer pour le round et inflige 3d6 points de dégâts d'électricité à cette créature, mais un jet de Réflexes réussi annule ces dégâts. Le nuage offre un camouflage (20% de chances de rater) à tout ce qui s'y trouve et sa lumière vacillante illumine la même zone que le ferait une bougie.
+La sphère se déplace tant que le personnage la dirige activement (ce qui requiert une action de mouvement de sa part). Sinon, elle reste en place et crépite d'éclairs. Les effets de vent permettent de la déplacer et elle compte comme une créature de taille P quand il s'agit de déterminer la manière dont les vents l'affectent. La sphère n'a pas de substance physique et ne peut exercer aucune force sur les créatures tangibles ou les objets. Elle se disperse si elle sort de la portée du sort.

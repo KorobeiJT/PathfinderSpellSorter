@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.sort destruction
+Title: Destruction
+LastModified: 2020-02-27 03:16
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 7'
+---
+{s:Desambi|Destruction est également le nom d'une destruction (propriété)|propriété d'armes magiques et d'une destruction|manœuvre de combat.}
+[École] Nécromancie (mort)
+[Niveau] prêtre 7, sorcière 8
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (symbole sacré ou maudit d'une valeur de 500 po)
+[Portée] courte 
+[Cible] 1 créature
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] oui
+
+Ce sort inflige immédiatement 10 points de dégâts par NLS|niveau de lanceur de sorts. S'il tue la cible, il consume le corps de celle-ci dans une flamme sacrée (ou maudite) (mais ni son équipement ni ses possessions). Si la victime réussit son jet de Vigueur, elle perd tout de même 10d6 points de vie. Un individu tué par ce sort ne peut être ramené à la vie que par une ''résurrection suprême'', par un ''souhait'' énoncé avec le plus grand soin et suivi d'une ''résurrection'', ou par un ''miracle''.
+

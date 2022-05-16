@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.objet fantomatique mineur
+Title: Objet fantomatique mineur
+LastModified: 2020-07-10 01:42
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+---
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}
+[École] Illusion (ombre) ombre; 
+[Niveau] ensorceleur/magicien 4
+[Composantes] V, G
+[Temps d'incantation] 1 minute
+[Portée] 0 m
+[Cible] un objet illusoire non magique abandonné, en matière végétale non vivante, d'un maximum de 0,03 m3/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+Ce sort fonctionne comme ''création mineure'', mais crée seulement un objet illusoire. Si une créature interagit avec, elle a droit à un jet de Volonté pour faire disparaître l'objet. Un gnome qui lance ce sort peut faire un test d'Art de la magie au lieu d'un test d'Artisanat pour fabriquer un objet complexe.

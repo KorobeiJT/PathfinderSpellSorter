@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Possession spirituelle suprême
+Title: Possession spirituelle suprême
+LastModified: 2020-05-04 23:04
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 8, occultiste|Occ 6,
+psychiste|Psy 8, sorcière 8
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] 1 créature
+[Durée] 1 h/niveau
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui
+
+Ce sort fonctionne comme ''possession spirituelle (sort)|possession spirituelle'' mais, quand le personnage prend possession du corps de son hôte, il entre dans ce dernier tandis que son propre corps disparaît. Quand le sort se termine ou que le corps de l'hôte meurt, le personnage est propulsé dans l'espace libre le plus proche.

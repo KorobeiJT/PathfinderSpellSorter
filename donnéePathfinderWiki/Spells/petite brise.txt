@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Petite brise
+Title: Petite brise
+LastModified: 2020-05-15 16:23
+---
+[École] Évocation (Air)
+[Niveau] ensorceleur/magicien 1, druide 1,  sorcière 1, Chaman 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature ou un objet
+[Durée] 1 heure
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage crée un vent léger qui souffle, dans la direction de son choix, mais uniquement sur sa cible. Cette brise accorde à la cible un bonus de circonstances de +2 aux jets de sauvegarde dans les environnements très chauds, contre les fortes chaleurs ainsi que contre les nuages, les vapeurs et les gaz (comme ''brume mortelle'', ''nuage nauséabond'' et les poisons inhalés). Il doit y avoir de l'air pour pouvoir lancer ce sort.

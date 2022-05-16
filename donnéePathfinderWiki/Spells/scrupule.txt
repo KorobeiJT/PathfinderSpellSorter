@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Scrupule
+Title: Scrupule
+LastModified: 2015-06-23 21:48
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort inquisiteur 2'
+  - 'Sort magicien 2'
+  - 'Sort sorcière 2'
+---
+
+[École] Enchantement (coercition) mental
+[Niveau] Barde 2, ensorceleur/magicien 2, inquisiteur 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature
+[Durée] 1 minute/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+La cible est soudain assaillie de doutes quant à l'efficacité de ses actions et la justesse de sa cause. Elle subit un malus de -10 aux tests de caractéristique, test de compétence|de compétence et Test de concentration|de Concentration, jusqu'à la fin du sort ou jusqu'à ce qu'elle passe un tour entier sans rien faire (elle utilise une action complexe pour reprendre ses esprits). Le sort expire après un round à ne rien faire.

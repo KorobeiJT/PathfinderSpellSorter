@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Confusion mineure
+Title: Confusion mineure
+LastModified: 2012-11-01 18:32
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] barde 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] 1 créature vivante
+[Durée] 1 round
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+Cet enchantement rend une cible confus|confuse pendant 1 round.

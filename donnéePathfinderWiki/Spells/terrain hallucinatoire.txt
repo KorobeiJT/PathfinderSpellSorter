@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Terrain hallucinatoire
+Title: Terrain hallucinatoire
+LastModified: 2012-10-14 17:52
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 4'
+  - 'Sort magicien 4'
+---
+[École] Illusion (hallucination)
+[Niveau] barde 4, ensorceleur/magicien 4
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (un caillou, une brindille et une feuille verte)
+[Portée] longue
+[Zone d'effet] 1 cube de 9 m de côté/niveau (F)
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non
+
+Grâce à ce sort, le lieu naturel choisi par le personnage change d'aspect (au niveau visuel, sonore et olfactif). Les bâtiments, les objets manufacturés et les créatures ne sont pas transformés par le sort.
+

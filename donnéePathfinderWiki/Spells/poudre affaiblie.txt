@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Poudre affaiblie
+Title: Poudre affaiblie
+LastModified: 2018-02-23 18:32
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort magicien 1'
+  - 'Sort sorcière 1'
+---
+
+[École] Transmutation
+[Niveau] druide 1, ensorceleur/magicien 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (une cartouche de papier vide)
+[Portée] courte 
+[Cible] une arme à feu chargée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)
+
+La munition chargée a des difficultés à exploser quand l'arme tire. Le FP|facteur de portée de l'arme à feu est réduit de moitié et le tireur reçoit un malus de -2 au jet de dégâts. S'il sait ce que fait le sort avant de tirer (un test d'Art de la magie ou un effet similaire permet d'identifier le sort), le tireur peut passer une action simple à nettoyer l'arme pour la débarrasser de la munition défectueuse. Cette dernière est détruite lors du nettoyage.

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.extraction du demi-sang
+Title: Extraction du demi-sang
+LastModified: 2020-07-10 01:37
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 5'
+  - 'Sort druide 5'
+  - 'Sort magicien 5'
+  - 'Sort prêtre 5'
+  - 'Sort sorcière 5'
+---
+{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}
+[École] Transmutation
+
+[Niveau] Alchimiste 5, Prêtre 5, Druide 5, ensorceleur/magicien 5, Sorcière 5
+[Temps d'incantation] 1 heure
+[Composantes] V, G, FD (huiles et poisons d'une valeur de 3 000 po)
+[Portée] contact
+[Cible] demi-orque consentant touché
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Le personnage transforme la cible demi-orque en orque (race)|orque de sang pur. La cible perd tous ses traits raciaux de demi-orque et gagne ceux des orques.

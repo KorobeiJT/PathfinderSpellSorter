@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Ventriloquie
+Title: Ventriloquie
+LastModified: 2015-06-22 14:39
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort magicien 1'
+---
+[École] Illusion (chimère)
+[Niveau] barde 1, conjurateur 1, ensorceleur/magicien 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, F (un parchemin roulé en forme de cône)
+[Portée] courte 
+[Cible] sons intelligibles (paroles le plus souvent)
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non
+
+Le personnage peut donner l'impression que sa voix (ou tout autre son) semble surgir d'un endroit au choix. Il peut s'exprimer par ''ventriloquie'' dans une langue qu'il connaît. Quiconque réussit son jet de sauvegarde prend conscience que les bruits sont illusoires (ce qui n'empêche pas de les entendre tout de même).
+

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Attirance
+Title: Attirance
+LastModified: 2015-06-24 21:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 9'
+  - 'Sort magicien 8'
+---
+[École] Enchantement (coercition) émotion, mental
+[Niveau] conjurateur 6, druide 9, ensorceleur/magicien 8, sorcière 8
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (une goutte de miel et des perles broyées (1 500 po))
+[Portée] courte 
+[Cible] 1 lieu (volume n'excédant pas 1 cube de 3 m d'arête/niveau) ou 1 objet
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui
+
+L'objet ou le lieu désigné par le jeteur de sort engendre des vibrations attirant, au choix, un Types de créatures|type donné de créatures intelligentes ou tous les êtres d'un même alignement. La race de créatures affectée doit être nommée lors de l'incantation. Les Sous-types de créatures|sous-types ne sont pas assez spécifiques. Si le personnage préfère affecter un alignement, il doit l'indiquer.
+
+Les créatures de la race ou de l'alignement choisi ressentent un vif plaisir à l'idée de se trouver dans le lieu affecté ou une irrésistible envie de toucher l'objet enchanté. Si elles réussissent leur jet de sauvegarde, la magie n'a plus d'effet sur eux, mais cela nécessite un nouveau jet de Volonté au bout de 1d6x10 minutes. En cas d'échec, elles reviennent à l'endroit (ou près de l'objet) choisi par le jeteur de sorts.
+
+''Attirance'' contre et dissipe ''aversion''.
+

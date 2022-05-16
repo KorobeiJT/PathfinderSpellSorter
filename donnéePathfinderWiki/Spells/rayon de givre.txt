@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Rayon de givre
+Title: Rayon de givre
+LastModified: 2015-06-20 18:10
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 0'
+---
+[École] Évocation (froid)
+[Niveau] ensorceleur/magicien 0, magus 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] rayon
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Un ''rayon de givre'' jaillit du doigt tendu du mage, qui doit réussir une attaque de contact à distance pour atteindre sa cible. Le rayon inflige 1d3 points de dégâts de froid.
+

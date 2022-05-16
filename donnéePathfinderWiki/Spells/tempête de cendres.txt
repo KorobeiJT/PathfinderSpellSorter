@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Tempête de cendres
+Title: Tempête de cendres
+LastModified: 2014-07-08 02:42
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 3'
+  - 'Sort magicien 3'
+  - 'Sort sorcière 3'
+---
+
+[École] Invocation (création) feu
+[Niveau] druide 3, ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une pincée de cendres)
+[Portée] longue
+[Cible] cylindre (12 m (8  de rayon, 6 m de haut)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Les cendres bloquent la visibilité dans toute la zone d'effet du sort (même la vision dans le noir) et les braises qui tombent la transforment en terrain difficile.

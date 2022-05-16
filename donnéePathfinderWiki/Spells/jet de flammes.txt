@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Jet de flammes
+Title: Jet de flammes
+LastModified: 2015-06-21 15:01
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+---
+
+[École] Transmutation (feu) 
+[Niveau] ensorceleur/magicien 4, magus 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une source de feu)
+[Portée] longue
+[Cible] une source de feu, jusqu'à 0,60 mètres cube
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler et Réflexes pour annuler ; voir texte
+[Résistance à la magie] non
+
+''Jet de flammes'' fait exploser un feu en un geyser de flamme liquide aveuglante. Le sort utilise une source de feu qui s'éteint automatiquement. Un feu de plus de 0,60 mètre cube ne s'éteindra qu'en partie. Les feux magiques ne s'éteignent pas, mais une créature de sous-type feu utilisée comme source reçoit 1 point de dégâts par NLS|niveau de lanceur de sorts (pas de jet de sauvegarde).
+
+La pluie de feu lumineuse remplit un rayonnement hémisphérique de 18 mètres (12 ) de rayon. Toutes les créatures et les objets subissent 5d6 points de dégâts de feu et Dangers naturels#PRENDREFEU|prennent feu. Les créatures qui réussissent leur jet de Réflexes ne subissent que la moitié des dégâts et ne s'enflamment pas. Les créatures qui se trouvent à 36 mètres (24 ) de la source de feu originelle sont aveuglé|aveuglées pendant 1d4+1 rounds (Volonté pour annuler).
+

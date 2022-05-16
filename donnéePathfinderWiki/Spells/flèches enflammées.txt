@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Flèches enflammées
+Title: Flèches enflammées
+LastModified: 2015-06-21 14:46
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 3'
+---
+[École] Transmutation (feu)
+[Niveau] ensorceleur/magicien 3, magus 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte d'huile et un fragment de silex)
+[Portée] courte 
+[Cibles ou effet] 50 projectiles devant être en contact les uns avec les autres au moment de l'incantation
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Grâce à ce sort, le personnage peut transformer des munitions (des flèches, des carreaux d'arbalète, des shurikens ou des billes de fronde par exemple) en projectiles enflammés. Chacun des projectiles inflige alors 1d6 points de dégâts de feu supplémentaires aux cibles touchées. Un projectile enflammé peut facilement mettre le feu aux objets et aux structures inflammables, mais pas aux créatures touchées.
+

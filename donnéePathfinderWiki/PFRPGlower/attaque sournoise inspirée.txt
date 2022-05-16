@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Attaque sournoise inspirée
+Title: Attaque sournoise inspirée
+LastModified: 2020-09-03 17:22
+Categories:
+  - 'Contenu supplémentaire'
+  - 'Dirty Tactics Toolbox'
+  - 'Don'
+  - 'Don Combat'
+---
+{s:cs|Dirty Tactics Toolbox}
+
+''Votre brillante inspiration vous rend plus dangereux au combat.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Condition.''' Réserve d'[[Enquêteur#INSPIRATION|inspiration]]; capacité de classe [[attaque sournoise]] ou [[Enquêteur#FRAPPEETUDIEE|frappe étudiée]]
+
+'''Avantage.''' Lorsque le personnage inflige des dégâts d'attaque sournoise ou de frappe étudiée, il peut dépenser une utilisation d'inspiration pour relancer tous les dés de dégâts d'attaque sournoise qui donnent 1. 
+
+Si le personnage bénéficie du talent de roublard [[Talents#ATTAQUESOURNOISEPUISSANTE|attaque sournoise puissante]], plutôt que de considérer tous les 1 comme des 2, il peut relancer tous les 1.
+
+Si le personnage dispose du talent de maître roublard [[Talents#ATTAQUESOURNOISEMORTELLE|attaque sournoise mortelle]], plutôt que de considérer tous les 1 et les 2 comme des 3, il peut relancer tous les 1 et les 2.
+
+Dans tous les cas, le personnage doit utiliser les résultats de sa relance, même s'ils sont pires que les premiers. 
+
+(((Inspired Sneak Attack (Combat)
+
+Your brilliant insight makes you more dangerous in combat.
+
+Prerequisites: Inspiration pool; sneak attack or studied strike class feature.
+
+Benefit: When dealing sneak attack or studied strike damage, you can expend a use of inspiration from your pool to reroll all of your sneak attack dice that resulted in 1s. If you have the powerful sneak rogue talent, rather than treat all 1s on your sneak attack damage dice as 2s, you can reroll all your sneak attack dice that resulted in 1s. If you have the deadly sneak advanced rogue talent, rather than treat all 1s and 2s on your sneak attack damage dice as 3s, you can reroll all your sneak attack damage dice that resulted in 1s or 2s. In either case, you must take the result of the rerolls, even if it’s worse than the original result.)))

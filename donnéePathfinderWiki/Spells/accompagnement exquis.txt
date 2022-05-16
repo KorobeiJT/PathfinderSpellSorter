@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Accompagnement exquis
+Title: Accompagnement exquis
+LastModified: 2012-10-31 16:52
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 3'
+---
+
+[École] illusion ombre
+[Niveau] barde 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] instrument fantomatique
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Le personnage crée un instrument fantomatique, une créature artificielle magique luisante qui prend la forme d'un instrument de musique choisi par le personnage. L'instrument flotte à côté de lui et se déplace avec lui (même s'il se téléportation|téléporte). Il est impossible de l'endommager mais on peut le dissipation de la magie|dissiper. L'instrument joue comme le personnage le lui demande et, tant qu'il joue, le barde n'a pas besoin de dépenser de round de représentation bardique pour maintenir un effet. Si le personnage active une représentation bardique|représentation ou un nouvel effet, cela lui coûte toujours le nombre de rounds de représentation bardique|représentation habituel.

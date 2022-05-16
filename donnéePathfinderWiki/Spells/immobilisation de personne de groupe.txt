@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Immobilisation de personne de groupe
+Title: Immobilisation de personne de groupe
+LastModified: 2015-06-24 20:53
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] ensorceleur/magicien 7, sorcière 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un petit bout de fer bien droit)
+[Portée] moyenne 
+[Cible] 1 ou plusieurs type humanoïde|humanoïdes, distants de moins de 9 m/6  les uns des autres
+[Durée] 1 round/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui
+
+Les cibles du sort se figent et se retrouvent paralysé|paralysées. Elles restent conscientes de ce qui se passe autour d'elles et peuvent respirer normalement mais ne peuvent entreprendre aucune action, pas même parler. Chaque round, lors de leur tour, elles peuvent effectuer un nouveau jet de sauvegarde pour tenter de mettre fin à l'effet. Il s'agit d'une action complexe qui ne provoque pas d'attaque dopportunité|attaques d'opportunité. Si une créature ailée se retrouve paralysé|paralysée, elle ne peut plus battre des ailes et tombe. Un nageur paralysé ne peut plus bouger et risque de se noyer.
+
+(((Ce sort fonctionne comme ''immobilisation de personne'', si ce n'est qu'il affecte un groupe d'type humanoïde|humanoïde et immobilise tous ceux qui ratent leur jet de Volonté.)))
+

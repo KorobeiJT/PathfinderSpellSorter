@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Transmutation de potion en poison
+Title: Transmutation de potion en poison
+LastModified: 2012-10-16 20:08
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 2'
+---
+
+[École] Transmutation poison 
+[Niveau] alchimiste 2
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round puis 1 minute/niveau ; voir texte

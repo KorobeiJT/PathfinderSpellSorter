@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.sort résistance à la magie
+Title: Résistance à la magie
+LastModified: 2020-03-10 17:34
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 5'
+---
+{s:Desambi|Résistance à la magie est également le nom d'une résistance à la magie|capacité spéciale et d'une résistance à la magie (propriété)|propriété d'armures magiques.}
+[École] Abjuration
+[Niveau] alchimiste 5, inquisiteur 5, prêtre 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+L'individu touché acquiert une RM|résistance à la magie égale à 12 + NLS|niveau de lanceur de sorts.
+

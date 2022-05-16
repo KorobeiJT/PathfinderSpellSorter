@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Allonge de la lance dansante
+Title: Allonge de la lance dansante
+LastModified: 2022-02-24 19:11
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Src Weapon Masters Handbook'
+---
+{s:cs}{s:WMH}''Vous pouvez frapper de loin avec les armes doubles.''
+
+'''Catégorie :''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Dex]] 17, [[Spirale de la lance dansante]], [[École de la lance dansante]], [[Attaque en finesse]], [[Combat à deux armes]], [[Arme de prédilection]] avec l'arme choisie
+
+'''Avantages.''' Lorsque le personnage utilise l'[[École de la lance dansante]] et initie une [[attaque à outrance]] en utilisant l'arme choisie comme une arme [[Caractéristiques des armes#DOUBLE|double]], il peut ajouter l'attribut d'[[Caractéristiques des armes#ALLONGE|allonge]] à une ou aux deux extrémités de l'arme jusqu'à la fin de son tour par une [[action rapide]].

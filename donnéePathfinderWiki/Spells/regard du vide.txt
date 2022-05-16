@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Regard du vide
+Title: Regard du vide
+LastModified: 2020-06-09 17:46
+---
+[École] transmutation
+[Niveau] alchimiste 4, antipaladin 4, ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de carottes séchées ou une agate)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minutes/niveau
+
+Le personnage gagne vision dans le noir, la capacité à voir à 18 mètres (12 ) même dans les ténèbres complètes, y compris dans celles que créent ''ténèbres profondes''. La vision dans le noir ne se fait qu'en noir et blanc mais, outre cela, offre une vue normale. Lorsque le personnage est affecté, ses yeux deviennent complètement noirs (mais apparaissent blancs à quiconque le voit grâce à vision dans le noir).

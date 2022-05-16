@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Régénération
+Title: Régénération
+LastModified: 2018-07-24 16:58
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 9'
+  - 'Sort prêtre 7'
+---
+{s:Desambi|Il peut également s'agir d'une Régénération (capacité)|capacité.}
+[École] Invocation (guérison)
+[Niveau] druide 9, prêtre 7, sorcière 7
+[Temps d'incantation] 3 rounds entiers
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort fait repousser les membres tranchés (doigt, orteil, main, pied, bras, jambe, queue, ou même tête pour une créature en ayant plusieurs), ressoude les os brisés et reconstitue les organes détruits. Une fois le sort lancé, la ''régénération'' prend 1 round si les membres tranchés sont appliqués contre la plaie ou 2d10 rounds s'ils sont absents.
+
+De plus, le sujet récupère 4d8 points de vie, +1 par NLS|niveau de lanceur de sorts (jusqu'à un maximum de +35). Le sort le débarrasse de toute fatigué|fatigue et/ou épuisé|épuisement et élimine les dégâts non-létaux. Il n'a aucun effet sur les créatures non-vivantes (ce qui inclut les type mort-vivant|morts-vivants).
+
+===Mythique===
+
+Le temps d'incantation devient une action simple et la cible du sort une créature vivante ou un cadavre touché. Le sort dissipe les états préjudiciables aveuglé, ébloui et assourdi. La cible bénéficie d'une régénération égale au grade du personnage (ignorée par l'acide et le feu) pendant un round par NLS|niveau de lanceur de sorts. Si la cible est morte par amputation ou décapitation (comme avec une arme vorpale par exemple) lors du round précédent, le sort régénère les parties du corps perdues et ramène la créature à la vie (comme avec un souffle de vie), en considérant que son total de points de vie négatifs est égal à sa valeur de Constitution.

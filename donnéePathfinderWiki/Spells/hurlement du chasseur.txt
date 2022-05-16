@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Hurlement du chasseur
+Title: Hurlement du chasseur
+LastModified: 2012-11-04 00:56
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort rôdeur 1'
+---
+
+[École] Nécromancie émotion, effet mental, peur 
+[Niveau] rôdeur 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m 
+[Cible] émanation de 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] non
+
+D'un seul hurlement primitif, le personnage terrifie ses adversaires. Pendant toute la durée du sort, il considère les créatures affectées comme ses rôdeur#ENNEMIJURE|ennemis jurés, gagnant ainsi un bonus de +2 aux jets d'attaque, de dégâts et aux tests de Bluff, de Connaissances, de Perception, de Psychologie et de Survie lancés contre elles. Si l'une des créatures est déjà un rôdeur#ENNEMIJURE|ennemi juré du personnage, elle est secoué|secouée. C'est un effet mental de peur.
+

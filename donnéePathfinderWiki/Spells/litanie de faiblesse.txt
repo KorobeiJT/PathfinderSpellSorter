@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Litanie de faiblesse
+Title: Litanie de faiblesse
+LastModified: 2012-07-01 13:06
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort antipaladin 1'
+  - 'Sort inquisiteur 1'
+---
+
+[École] Nécromancie langage
+[Niveau] antipaladin 1, inquisiteur 1
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] une créature
+[Durée] 1 round
+[Jet de sauvegarde] non
+[Résistance à la magie] oui
+
+Cette litanie affirme que la cible du personnage est faible et sape ses forces. La cible est fatigué|fatiguée pour 1 round.
+
+Quand il est sous l'effet de ce sort, il ne peut pas bénéficier des effets d'un autre sort de litanie.

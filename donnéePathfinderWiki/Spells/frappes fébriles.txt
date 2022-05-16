@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Frappes fébriles
+Title: Frappes fébriles
+LastModified: 2020-07-10 15:02
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 2'
+  - 'Sort antipaladin 2'
+  - 'Sort druide 2'
+  - 'Sort magus 3'
+  - 'Sort rôdeur 4'
+  - 'Sort sorcière 2'
+---
+{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}
+[École] Transmutation créer un sort#MALADIE|maladie
+[Niveau] alchimiste 2, antipaladin 2, druide 2, rôdeur|Rôd 4,magusus 3, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V,G
+[Portée] personnelle
+[Cible] le lanceur de sort
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui
+
+Le lanceur de sorts est en proie à la Maladies|maladie et toutes les créatures qui le frappent avec Actions simples#ATTAQUECORPSACORPS|une attaque de corps à corps doivent réussir un jet de Vigueur ou être États préjudiciables#Fiévreux|fiévreuses pendant 1 minute. Les créatures immunisées aux maladies sont immunisées à cet effet de fièvre.

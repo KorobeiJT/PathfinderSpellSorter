@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Sables changeants
+Title: Sables changeants
+LastModified: 2012-11-04 21:59
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 3'
+  - 'Sort magicien 3'
+---
+
+[École] Transmutation (terre) 
+[Niveau] druide 3, ensorceleur/magicien 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une poignée de sable)
+[Portée] moyenne 
+[Cible] étendue de 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler ; voir texte
+[Résistance à la magie] non
+
+Le personnage provoque des remous dans une surface de terre ou de sable. Les ''sables changeants'' oblitèrent toute piste et sont considérés comme un terrain difficile. Dans cette zone, les tests d'Acrobaties subissent un malus égal au NLS|niveau de lanceur de sorts (+10 au maximum). Les créatures qui entrent dans la zone d'effet ou y commencent leur tour doivent faire un jet de Réflexes à chaque round ou se retrouver enchevêtré|enchevêtrées jusqu'au début du tour suivant. Si elles essayent de se déplacer dans ces conditions, elles doivent faire un nouveau jet de Réflexes ou tomber à terre. Les créatures qui disposent du trait racial stabilité (comme les nain|nains) peuvent l'appliquer comme bonus à ces jet de sauvegarde|jets de sauvegarde.
+
+Le personnage peut déplacer la zone de ''sables changeants'' par une action de mouvement et dans n'importe quelle direction, dans une limite de 3 mètres. Les créatures enchevêtré|enchevêtrées ou à terre|par terre sont emportées avec les sables, dans la même direction si possible. Ce mouvement ne provoque pas d'attaque dopportunité|attaque d'opportunité. Les objets de taille M ou plus petite qui ne se trouvent pas en possession d'une créature sont emportés ou s'enfoncent dans les sables.
+

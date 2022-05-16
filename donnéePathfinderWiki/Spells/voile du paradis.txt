@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Voile du paradis
+Title: Voile du paradis
+LastModified: 2020-07-10 01:50
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 1'
+---
+{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}
+[École] Abjuration (bien)
+[Niveau] Paladin 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle ou 1,50 m (voir description)
+[Cible] Lanceur de sorts ou toutes les créatures dans un rayon de 1,5 m (voir description)
+[Durée] 10 minute/niveau
+[Jet de sauvegarde] Volonté pour 1/2 dégâts
+[Résistance à la magie] non
+
+Le lanceur de sorts s'entoure d'un voile d'énergie positive : les type extérieur|extérieurs Mauvais ont plus de mal à le blesser. 
+
+Pour la durée du sort, le lanceur bénéficie d'un bonus sacré de +2 à la CA et à ses jds|jets de sauvegarde. Ces deux bonus ne s'appliquent que contre les attaques ou les effets créés par les extérieurs de sous-type Mal. Il peut mettre un terme à ce sort par une action rapide, infligeant alors 1d8 points de dégâts + 1 point par niveau de paladin contre de tels extérieurs situés dans un rayon de 1,5 m. Un jet de Volonté réussi divise ces dégâts par deux.

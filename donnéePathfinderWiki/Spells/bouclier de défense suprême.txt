@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Bouclier de défense suprême
+Title: Bouclier de défense suprême
+LastModified: 2020-05-15 16:09
+Categories:
+  - 'Manuel des Classes avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 3'
+  - 'Sort paladin 3'
+  - 'Sort prêtre 4'
+---
+[École] abjuration
+[Niveau] inquisiteur 3, paladin 3, prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] la créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage crée une barrière magique qui protège les zones vitales de la cible. Quand la cible est touchée par un coup critique ou une attaque sournoise, il y a 50% de chances que le critique ou l'attaque sournoise soit annulé et que les dégâts soient lancés normalement.
+
+Cet avantage ne se cumule pas avec les autres effets permettant de transformer les coups critiques ou les attaques sournoises en attaques normales, comme la propriété spéciale d'armure de défense.
+
+(((''Ce sort fonctionne comme bouclier de défense, à la seule différence qu'il y a 50% de chances au lieu de 25% que les coups critiques et les attaques sournoises soient annulés et que les dégâts soient lancés normalement.'')))

@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Forme miasmatique
+Title: Forme miasmatique
+LastModified: 2020-08-03 15:11
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort alchimiste 4'
+  - 'Sort magicien 4'
+---
+{s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}
+[École] Transmutation créer un sort#AIR|air, créer un sort#POISON|poison
+
+[Niveau] alchimiste 4, ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (poison de contact ou à inhaler d'une valeur de 100 po)
+[Portée] contact
+[Cible] créature tangible et consentante touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] Non
+
+Ce sort fonctionne comme ''état gazeux'', à la seule différence que le corps vaporeux de la cible est dangereux pour les créatures qui le touchent. Une créature peut faire un jet de Vigueur (DD 14 + modificateur d'Caractéristiques#INTELLIGENCE|Intelligence du lanceur) lors de son tour pour résister aux vapeurs. Lorsqu'il lance ce sort, le personnage choisit l'une des options suivantes :
+* ''Nuage empoisonné.'' Le corps de la cible est un poison mortel provoquant un affaiblissement temporaire (capacité)|affaiblissement temporaire de 1d2 points de Caractéristiques#CONSTITUTION|Constitution aux créatures qui ratent leur Valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde (Vigueur pour 1/2 dégâts). Cette forme du sort nécessite une composante matérielle.
+* ''Nuage nauséabond.'' Le corps de la cible rend États préjudiciables#NAUSEEUX|nauséeuses les créatures qui ratent leur jet de sauvegarde, comme un nuage nauséabond (Vigueur pour annuler, voir description). Cette forme du sort ne requiert pas de composante matérielle.

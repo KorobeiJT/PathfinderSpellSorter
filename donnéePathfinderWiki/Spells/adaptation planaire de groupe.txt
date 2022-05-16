@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Adaptation planaire de groupe
+Title: Adaptation planaire de groupe
+LastModified: 2014-07-09 13:29
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort conjurateur 6'
+  - 'Sort magicien 7'
+  - 'Sort prêtre 6'
+---
+
+[École] Transmutation 
+[Niveau] conjurateur 6, ensorceleur/magicien 7, prêtre 6
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+[Durée] 1 heure/niveau
+
+''Adaptation planaire'' immunise les créatures contre les effets néfastes dus à l'environnement d'un plans|plan particulier, y compris contre la toxicité, les températures extrêmes et le manque d'air. De plus, les créatures gagnent une résistance à l'énergie de 20 contre le type d'énergie qui prévaut sur ce plans|plan (en choisir un si le plans|plan est dominé par plusieurs types d'énergie). 
+
+''Adaptation planaire'' n'a aucun effet s'il est lancé sur le plans|plan d'origine du personnage.
+
+(((Ce sort fonctionne comme ''adaptation planaire'' mais il affecte plusieurs créatures.)))

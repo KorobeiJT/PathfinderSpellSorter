@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Bombardement du frondeur-disperseur
+Title: Bombardement du frondeur-disperseur
+LastModified: 2022-02-24 19:12
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Src Weapon Masters Handbook'
+---
+{s:cs}{s:WMH}''Vous pouvez faire pleuvoir les armes à aspersion sur vos ennemis avec votre fronde.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Arme en main]], [[Grenadier frondeur-disperseur]], [[École du frondeur-disperseur]], [[Lancer improvisé]], [[Arme de prédilection]] (fronde) ou capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (armes de jet), trait racial [[Halfelin#Traits_raciaux_alternatifs_7|guerrier à la fronde]]
+
+'''Avantage.''' Le personnage peut utiliser une [[fronde (arme)|fronde]] pour lancer des [[arme à aspersion|armes à aspersion]] avec le don [[Grenadier frondeur-disperseur]] lors d'une action d'attaque ou d'une [[attaque à outrance]], en rechargeant sa fronde avec ces armes par une [[action libre]].
+
+'''Spécial.''' Ce don ne peut pas être utilisé avec les [[ALchimiste#BOMBES|bombes de l'alchimiste]].

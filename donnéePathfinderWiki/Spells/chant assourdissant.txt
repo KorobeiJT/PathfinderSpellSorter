@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Chant assourdissant
+Title: Chant assourdissant
+LastModified: 2020-11-07 19:46
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 5'
+---
+
+[École] Évocation (sonore) 
+[Niveau] barde 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] jusqu'à trois créatures qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Le personnage chante ou joue trois notes qui se transforment en énergie profane tangible et hurlent sur tout le champ de bataille. Elles doivent réussir une attaque de contact à distance pour toucher leur cible et infligent 3d10 points de dégâts sonores chacune et la rendent assourdi|sourde pendant 1d6 rounds. Les notes peuvent être dirigées contre une même cible ou contre plusieurs mais elles doivent toutes partir simultanément.
+
+

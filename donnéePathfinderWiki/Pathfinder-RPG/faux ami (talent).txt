@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.faux ami (talent)
+Title: faux ami (talent)
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+---
+>>> Talents#FAUXAMI

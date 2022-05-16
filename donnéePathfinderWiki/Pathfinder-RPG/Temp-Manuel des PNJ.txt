@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.Temp-Manuel des PNJ
+Title: Temp-Manuel des PNJ
+---
+Le manuel des PNJ en vf comprend plusieurs livres édités en vo : 
+
+snippet à créer MPNJ pour manuel des PNJ et guide des PNJ Rivaux
+
+
+

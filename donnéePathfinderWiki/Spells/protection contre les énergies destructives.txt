@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Protection contre les énergies destructives
+Title: Protection contre les énergies destructives
+LastModified: 2015-06-23 21:57
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 3'
+  - 'Sort magicien 3'
+  - 'Sort prêtre 3'
+  - 'Sort rôdeur 2'
+---
+[École] Abjuration
+[Niveau] alchimiste 3,  conjurateur 3, druide 3, inquisiteur 3, ensorceleur/magicien 3, prêtre 3, rôdeur|Rôd 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] 10 minutes/niveau ou jusqu'à épuisement
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort offre une immunité temporaire contre le type d'énergie sélectionné (acide, électricité, feu, froid ou son). Une fois que l'abjuration a absorbé 12 points de dégâts par NLS|niveau de lanceur de sorts de celui qui l'a lancée (jusqu'à un maximum de 120 points de dégâts au niveau 10), elle cesse de faire effet.
+
+''Protection contre les énergies destructives'' remplace ''résistance aux énergies destructives'' (et n'est pas cumulable avec ce dernier). Si un personnage bénéficie de ''protection contre les énergies destructives'' et de ''résistance aux énergies destructives'', la protection agit seule jusqu'à ce que son potentiel d'absorption soit épuisé.
+

@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Purulence
+Title: Purulence
+LastModified: 2012-11-04 21:50
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 3'
+  - 'Sort sorcière 2'
+---
+
+[École] Nécromancie 
+[Niveau] inquisiteur 3, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (viande avariée)
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] 1 round/niveau ou 1 round, voir texte
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui
+
+Des énergies nécrotiques s'insinuent dans la cible et bloquent ses capacités de guérison. Le sujet gagne une RM|résistance à la magie de 12 + NLS|niveau du lanceur de sorts contre les effets qui rendent des points de vie ou en accordent temporairement. De plus, tout soin apporté par un effet qui ignore la RM|résistance à la magie (comme la guérison accélérée, la régénération et quelques sorts) sont réduits de moitié. Si la cible réussit un jet de Vigueur, ''purulence'' ne dure qu'un round.
+

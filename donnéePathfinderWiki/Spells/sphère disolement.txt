@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Sphère disolement
+Title: Sphère d'isolement
+LastModified: 2012-10-26 14:38
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+---
+[École] Évocation (force)
+[Niveau] ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une sphère de cristal)
+[Portée] courte 
+[Cible] sphère de 30 cm de diamètre/niveau, centrée sur une créature
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Réflexes, annule
+[Résistance à la magie] oui
+
+Une sphère de force scintillante englobe la créature désignée, à condition que celle-ci soit suffisamment petite pour tenir à l'intérieur. Elle garde la cible prisonnière jusqu'à la fin de la durée indiquée. Elle fonctionne comme un ''mur de force'' sensible à ''dissipation de la magie''. À l'intérieur de la sphère, le sujet respire normalement. Rien ne peut bouger la sphère, ni les efforts de son captif, ni ceux des intervenants extérieurs.
+

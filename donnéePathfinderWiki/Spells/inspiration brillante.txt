@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Inspiration brillante
+Title: Inspiration brillante
+LastModified: 2012-11-04 12:59
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 6'
+---
+
+[École] Évocation (langage) 
+[Niveau] barde 6
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] 1 round/niveau et spécial (voir plus bas)
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage ouvre un lien entre son esprit et celui de sa cible pour lui donner des conseils et des encouragements pendant toute la durée du sort. À chaque fois que la cible du sort fait un jet d'attaque, un test de caractéristique ou un test de compétence, elle lance deux d20 et prend le meilleur résultat des deux. Si la cible obtient un 20 naturel, le sort se termine : le brillant conseil du personnage a été utilisé.
+
+

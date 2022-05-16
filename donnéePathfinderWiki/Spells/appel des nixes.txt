@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Appel des nixes
+Title: Appel des nixes
+LastModified: 2021-07-20 14:42
+Categories:
+  - 'Règle officielle'
+  - 'Sort'
+  - 'Sort barde 3'
+  - 'Sort conjurateur 4'
+  - 'Sort druide 4'
+  - 'Sort hypnotiseur 3'
+  - 'Sort magicien 4'
+  - 'Sort psychiste 3'
+  - 'Sort sorcière 4'
+  - 'Src Manuel des races'
+---
+{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}
+[École] Enchantement (charme) créer un sort#EFFETMENTAL|effet mental, créer un sort#SONORE|sonore
+
+[Niveau] barde 3, druide 4, ensorceleur/magicien 4, conjurateur 4, sorcière 4
+[Temps d'incantation] 1 action simple
+[Composantes] V,G
+[Portée] 90 mètres
+[Cible] toute créature dans un rayon de 90 mètres centré sur le lanceur de sorts
+[Durée] concentration +1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+Ce sort génère un chant étrange et contagieux qui séduit et
+appelle tous ceux qui l'entendent. L'Appel des nixes affecte un maximum
+de 24 Vocabulaire courant#DESDEVIE|dés de vie de créatures. Les créatures dans la zone qui
+ratent leur jet de sauvegarde sont attirées par le chant et s'avancent
+dans sa direction en empruntant le chemin le plus direct. Si leur
+itinéraire les conduit dans une zone dangereuse, comme au milieu
+d'un feu ou sur le bord d'une falaise, les créatures ont toutes droit
+à un deuxième jet de sauvegarde pour mettre fin à l'effet avant de
+se diriger vers le danger. Les créatures attirées par le chant du sort
+ne peuvent rien faire d'autre que se défendre. Une victime dans un
+rayon de 1,5 mètre du lanceur de sorts reste simplement où elle est
+et demeure États préjudiciables#Fasciné|fascinée pendant toute la durée du sort.

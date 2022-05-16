@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.Fracassement (rage)
+Title: Fracassement (rage)
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+---
+>>> pouvoirs de rage#FRACASSEMENT

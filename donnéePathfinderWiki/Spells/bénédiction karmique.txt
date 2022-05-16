@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Bénédiction karmique
+Title: Bénédiction karmique
+LastModified: 2020-07-10 01:19
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 1'
+  - 'Sort sorcière 1'
+---
+{s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}
+[École] Divination Créer un sort#BIEN|Bien
+[Niveau] prêtre 1, Sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui (inoffensif)
+
+La cible traite l'une des Compétences|compétences de son choix comme une compétence de classe.

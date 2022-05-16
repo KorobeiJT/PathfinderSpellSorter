@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Gloire partagée
+Title: Gloire partagée
+LastModified: 2018-07-24 11:23
+Categories:
+  - 'Campagne mythique'
+  - 'Magie'
+  - 'Règles officielles'
+  - 'Sort barde 2'
+  - 'sort conjurateur 2'
+  - 'Sort magicien 3'
+  - 'Sort prêtre 3'
+  - 'Sort sorcière 3'
+---
+
+[École :] Transmutation
+[Niveau :] barde 2, prêtre 3, druide 3, ensorceleur/magicien 3, conjurateur 2, sorcière 3
+[Temps d'incantation :] 1 action simple
+[Composantes :] V, G
+[Portée :] courte
+[Cible :] une créature non-mythique/3 niveaux
+[Durée :] 1 minute/niveau
+[Jet de sauvegarde :] Volonté, annule (inoffensif)
+[Résistance à la magie :] oui (inoffensif)
+
+Le personnage octroie aux cibles une fraction de sa nature mythique. Elles sont ainsi considérées comme des créatures mythiques en ce qui concerne l'utilisation des aptitudes de voie, des sorts mythiquests et des effets qui fonctionnent différemment avec les créatures mythiques. Ce sort ne confère pas pour autant des grades mythiques ou des utilisations de pouvoir mythique aux cibles, mais il leur procure simplement un avantage plus important lorsque d'autres créatures utilisent des aptitudes qui fonctionnent différemment sur des créatures mythiques. Le personnage doit être au minimum un personnage mythique de grade 1 pour pouvoir lancer ce sort.

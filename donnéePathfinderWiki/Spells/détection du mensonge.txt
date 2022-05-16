@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Détection du mensonge
+Title: Détection du mensonge
+LastModified: 2015-06-24 20:35
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 3'
+  - 'Sort prêtre 4'
+---
+[École] école divination|Divination
+[Niveau] alchimiste 4, inquisiteur 4, paladin|Pal 3, prêtre 4, sorcière 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Zone d'effet] 1 créature/niveau, distantes de moins de 9 m les uns des autres
+[Durée] concentration, jusqu'à 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] non
+
+Chaque round, le lanceur de sorts se concentration|concentre sur une créature située dans la zone deffet|zone d'effet. Grâce aux subtiles perturbations que le sort lui permet de voir dans l'aura de la cible, il sait si celle-ci prononce intentionnellement un mensonge. ''Détection du mensonge'' n'indique pas la vérité ni les erreurs commises en toute bonne foi, et il ne détecte pas toujours les semi-vérités.
+
+Chaque round, le personnage peut se concentration|concentrer sur un sujet différent.
+

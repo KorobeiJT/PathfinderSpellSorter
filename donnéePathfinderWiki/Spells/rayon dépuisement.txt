@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Rayon dépuisement
+Title: Rayon d'épuisement
+LastModified: 2015-06-24 17:41
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 3'
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 3, magus 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sueur)
+[Portée] courte 
+[Cible] rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur, partiel (voir description)
+[Résistance à la magie] oui
+
+Un rayon noir jaillit du doigt tendu du personnage qui doit réussir une ([attaque de contact à distance pour toucher sa cible.
+
+Celle-ci est alors épuisé|épuisée jusqu'à la fin du sort. Si elle réussit un jet de Vigueur, elle est seulement fatigué|fatiguée.
+
+Un personnage déjà fatigué devient épuisé.
+
+Ce sort n'a aucun effet sur les créatures qui sont déjà épuisé|épuisées. Contrairement à la fatigué|fatigue et à l'épuisé|épuisement normaux, l'effet s'arrête au terme du sort.
+

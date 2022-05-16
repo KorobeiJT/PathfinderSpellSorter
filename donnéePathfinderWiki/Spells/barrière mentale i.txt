@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Barrière mentale I
+Title: Barrière mentale I
+LastModified: 2021-07-18 00:04
+Categories:
+  - 'Sort'
+  - 'Sort psychiste 2'
+  - 'Src Aventures occultes'
+---
+[École [Abjuration 
+[Niveau ] psychiste|Psy 2
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée ] personnelle
+[Cible [lanceur de sorts
+[Durée [1 round
+
+Le personnage érige une barrière d'énergie mentale qui le protège. Elle lui offre un bonus de bouclier de +4 à la CA. De plus, le personnage subit seulement la moitié des dégâts de ''coup mental I'' et ''coup mental II|II'' (réduits à 1/4 en cas de réussite au jet de sauvegarde).

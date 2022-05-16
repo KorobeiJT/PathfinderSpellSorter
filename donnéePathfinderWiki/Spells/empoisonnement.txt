@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Empoisonnement
+Title: Empoisonnement
+LastModified: 2015-06-24 20:35
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 3'
+  - 'Sort prêtre 4'
+---
+[École] Nécromancie poison
+[Niveau] antipaladin 4, druide 3, prêtre 4, sorcière 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée (voir description)
+[Jet de sauvegarde] Vigueur, annule (voir description)
+[Résistance à la magie] oui
+
+Ce sort fait appel au pouvoir des entités venimeuses. Il permet au personnage d'empoisonner sa cible en réussissant une attaque de contact au corps à corps. Le poison inflige 1d3 points d'affaiblissement temporaire de Constitution par round pendant 6 rounds. Une créature empoisonnée a droit à un jet de Vigueur par round pour annuler les dégâts et se débarrasser du poison.
+

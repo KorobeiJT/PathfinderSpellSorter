@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Aliénation mentale
+Title: Aliénation mentale
+LastModified: 2015-06-24 20:51
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 7'
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] ensorceleur/magicien 7, sorcière 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] 1 créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+La créature affectée souffre en permanence de l'effet du sort ''confusion''. ''Délivrance des malédictions'' est insuffisant pour soigner un individu frappé d'''aliénation mentale''. Un sort tel que ''guérison suprême'', ''miracle'', ''restauration suprême'', ''souhait'' ou ''souhait limité'' est nécessaire pour lui permettre de recouvrer ses facultés.
+

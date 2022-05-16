@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Vague
+Title: Vague
+LastModified: 2012-11-04 22:08
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort magicien 2'
+  - 'Sort rôdeur 2'
+---
+
+[École] Invocation (création) (eau) 
+[Niveau] druide 2, ensorceleur/magicien 2, rôdeur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (quelques gouttes d'huile et d'eau)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Réflexes pour annuler (inoffensif)
+[Résistance à la magie] non
+
+Le personnage crée une vague de petite taille qui l'emporte sur l'eau ou sur terre. Quand elle se déplace sur terre, elle augmente la VD|vitesse du personnage de 3 mètres. Si elle dévale une colline, sa vitesse augmente de 6 mètres mais la ''vague'' n'apporte aucun bonus de mouvement si elle doit remonter une pente. Quand le personnage nage, la ''vague'' augmente sa vitesse de natation de 6 mètres. Si le personnage n'a pas de vitesse de nage, le sort lui en accorde une de 6 mètres.
+

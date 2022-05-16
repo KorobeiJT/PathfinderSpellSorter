@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.mirage
+Title: Mirage
+LastModified: 2012-10-14 17:54
+Categories:
+  - 'Sort'
+  - 'Sort barde 5'
+  - 'Sort magicien 5'
+---
+{s:Desambi|Il s'agit aussi d'une branche mirage|branche de l'école d'Illusion.}
+[École] Illusion (hallucination)
+[Niveau] barde 5, ensorceleur/magicien 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] longue
+[Zone d'effet] 1 cube de 6 m d'arête/niveau (F)
+[Durée] concentration + 1 heure/niveau
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non
+
+Ce sort permet au personnage de faire passer un endroit choisi pour ce qu'il n'est pas. L'illusion comporte des composantes visuelles, auditives, tactiles et olfactives. ''Mirage'' peut modifier l'aspect des structures existantes (ou en rajouter s'il n'y en a pas). Ce sort ne permet pas de déguiser, de dissimuler ou d'ajouter des créatures dans la zone d'effet (bien que celles-ci puissent se camouflage|camoufler normalement au sein de l'illusion comme s'il s'agissait d'un lieu normal).
+
+(((Ce sort est identique à ''terrain hallucinatoire'', sauf qu'il permet au personnage de faire passer un endroit choisi pour ce qu'il n'est pas. L'illusion comporte des composantes visuelles, auditives, tactiles et olfactives. Contrairement à ''terrain hallucinatoire'', ''mirage'' peut modifier l'aspect des structures existantes (ou en rajouter s'il n'y en a pas). Ce sort ne permet pas de déguiser, de dissimuler ou d'ajouter des créatures dans la zone d'effet (bien que celles-ci puissent se camouflage|camoufler normalement au sein de l'illusion comme s'il s'agissait d'un lieu normal).)))
+
+ {c:Sort barde 5} {c:Sort magicien 5} 

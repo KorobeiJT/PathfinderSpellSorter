@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Morsure magique
+Title: Morsure magique
+LastModified: 2018-07-24 16:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort rôdeur 1'
+---
+[École] Transmutation
+[Niveau] conjurateur 1, druide 1, rôdeur|Rôd 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+''Morsure magique'' donne à l'une des arme naturelle|armes naturelles de la cible un bonus daltération|bonus d'altération de +1 aux jet dattaque|jets d'attaque et de dégâts. Le sort peut affecter une morsure, un coup de poing, ou toute autre attaque portée par une arme naturelle. Ce sort ne transforme pas les dégâts non-létaux des attaque à mains nues|attaques à mains nues en dégâts létaux.
+
+Il est possible d'user de ''permanence'' sur un sort de ''morsure magique''.
+
+===Mythique===
+
+Le sort affecte un nombre supplémentaire d'armes naturelles possédées par la cible égal au grade du personnage. Par exemple, si le personnage est de grade 3, le sort peut affecter deux griffes et une morsure.

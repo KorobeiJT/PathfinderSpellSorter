@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Cécitésurdité
+Title: Cécité/surdité
+LastModified: 2018-07-23 19:16
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 2'
+  - 'Sort prêtre 3'
+---
+[École] Nécromancie malédiction
+[Niveau] antipaladin 2, barde 2, ensorceleur/magicien 2, prêtre 3, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] moyenne 
+[Cible] 1 créature vivante
+[Durée] permanente
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui
+
+La victime du sort devient assourdi|sourde ou aveuglé|aveugle, au choix du lanceur de sorts faisant appel aux forces de la mort.
+
+===Mythique===
+
+Le personnage peut provoquer la cécité et la surdité de la cible au même moment. Celle-ci doit effectuer un jet de sauvegarde contre chaque effet séparément.

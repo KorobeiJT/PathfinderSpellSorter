@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Vol de groupe
+Title: Vol de groupe
+LastModified: 2012-11-04 22:10
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 7'
+---
+
+[École] Transmutation 
+[Niveau] ensorceleur/magicien 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une plume)
+[Portée] courte 
+[Cible] une créature/niveau, qui doivent se trouver à moins de 9 mètres les unes des autres
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Les cibles du sort acquierent la capacité de voler à la vitesse de 18 m (12 ) par round (12 m (9 ) s'il porte une armure lourde ou intermédiaire, ou encore une charge lourde ou intermédiaire). Si la cible monte, sa vitesse diminue de moitié, mais elle double dès qu'elle descend. Sa manœuvrabilité est bonne. Voler ne lui demande pas plus d'effort mental que marcher, ce qui signifie qu'elle peut attaquer ou lancer des sorts normalement depuis les airs. Elle peut charge|charger mais pas Actions complexes#COURIR|courir, et il lui est impossible de soulever plus que sa charge maximale autorisée plus son armure. Le sujet gagne un bonus égal à la moitié du NLS|niveau de lanceur de sorts du personnage aux tests de compétence de Vol.
+
+Si le sort s'achève alors que le sujet se trouve toujours en l'air, la magie se dissipe peu à peu et le personnage perd dix-huit mètres d'altitude par round pendant 1d6 rounds. S'il atteint le sol avant la fin de ce délai, il atterrit sans souci. Dans le cas contraire, il tombe et l'impact lui inflige 1d6 points de dégâts tous les trois mètres d'altitude restants. Il chute également si ''vol'' est dissipé mais pas s'il est annulé par une ''zone dantimagie|zone d'antimagie''.
+
+(((Ce sort fonctionne comme ''sort vol|vol'' mais il affecte plusieurs créatures et dure plus longtemps.)))
+

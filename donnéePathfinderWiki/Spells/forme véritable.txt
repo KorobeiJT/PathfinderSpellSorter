@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Forme véritable
+Title: Forme véritable
+LastModified: 2018-07-24 15:23
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 4'
+  - 'Sort magicien 4'
+---
+
+[École] Abjuration 
+[Niveau] druide 4, ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] jusqu'à 1 créature/3 niveaux qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+''Forme véritable'' dissipe tout branche métamorphose|effet de métamorphose qui affecte la créature visée et lui rend sa forme naturelle, même contre son gré. Si le personnage lance ce sort contre une cible affectée par un branche métamorphoset de métamorphose comme ''métamorphose funeste'', ''forme de géant I'' ou ''forme de géant II'', il doit réussir un test de lanceur de sorts (1d20 + NLS|niveau de lanceur de sorts, maximum +15) contre un DD de 11 + NLS|niveau de lanceur de sorts de l'effet. En cas de succès, l'branche métamorphose|effet de métamorphose se termine immédiatement.
+
+Une créature qui possède le pouvoir surnaturel de Changement de forme (capacité)|métamorphose (comme un Lycanthrope, archétype|lycanthrope) doit réussir un jet de Volonté s'il ne veut pas retrouver immédiatement sa véritable apparence. Si elle rate ce jet, elle peut en faire un second pour vaincre le sort. Ceci demande une action complexe qui ne provoque pas d'attaque dopportunité|attaque d'opportunité. Si elle réussit, le sort se dissipe et la créature peut à nouveau changer de forme. Si elle échoue, elle reste coincée sous sa véritable apparence pendant toute la durée du sort car il empêche toute métamorphose ultérieure.
+
+===Mythique===
+
+La cible du sort change et devient « jusqu'à une créature par tranche de 2 NLS|niveaux de lanceur de sorts ». Si une cible est une créature capable de revêtir plusieurs formes bien définies (comme un barghest ou un lycanthrope), le personnage peut choisir la forme adoptée par cette créature. Pour obliger une telle créature à adopter une forme, le personnage doit l'avoir déjà vue sous cette forme ou doit avoir réussi un test de Connaissances approprié pour savoir que la créature a le pouvoir de prendre cette forme.
+
+[Amplifié (6ème).] Si le personnage dépense trois utilisations de pouvoir mythique, le sort crée une zone d'effet qui affecte toutes les créatures métamorphes. La portée s'élève à 9 mètres et le sort affecte toutes les créatures dans un rayon de 9 mètres autour du personnage. Chaque créature doit effectuer un jet de sauvegarde contre le sort à chaque fois qu'elle passe un round dans la zone d'effet.

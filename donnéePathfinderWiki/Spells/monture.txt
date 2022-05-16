@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Monture
+Title: Monture
+LastModified: 2015-06-22 14:39
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 1'
+---
+[École] Invocation (convocation)
+[Niveau] conjurateur 1, ensorceleur/magicien 1,sorcière 1, magus 1
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (quelques crins)
+[Portée] courte 
+[Cible] 1 monture
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Ce sort fait apparaître un cheval|cheval léger ou un poney (au choix) servant de monture au personnage (voir le Bestiaire Pathfinder RPG). L'animal le sert fidèlement et de son plein gré. Il est équipé d'un mors et d'une selle.
+
+ {c:sort magicien 1} {c:manuel des joueurs} {c:Règles officielles}

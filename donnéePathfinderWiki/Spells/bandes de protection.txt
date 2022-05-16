@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Bandes de protection
+Title: Bandes de protection
+LastModified: 2013-10-03 22:53
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'sort conjurateur 2'
+  - 'Sort magicien 2'
+---
+
+[École] invocation (création) force
+[Niveau] conjurateur 2, ensorceleur/magicien 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 heure/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler (inoffensif )
+[Résistance à la magie] oui
+
+Des bandes de force invisible encerclent les points vitaux de la cible. Elles résistent au broyage et aux impacts sans gêner les mouvements. La cible gagne une RD 2/perforant ou tranchant et ne reçoit que la moitié des dégâts de la part de la constriction, des chutes et de l'ensevelissement, ainsi que des effets d'écrasement similaires comme main broyeuse. Les tests de lutte pour autre chose que la constriction (comme une immobilisation ou un engloutissement) ne sont pas affectés. Le sort se décharge après avoir bloqué 12 points de dégâts par 
+NLS|niveau de lanceur de sorts (avec un maximum de 120 au niveau 10). Les bandes n'ont aucun effet sur les attaques intangibles à moins qu'elles ne fassent des dégâts de constriction ou d'écrasement ou qu'elles ne soient sujettes à la RD|réduction de dégâts.

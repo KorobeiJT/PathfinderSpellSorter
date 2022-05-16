@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Poudre mouillée
+Title: Poudre mouillée
+LastModified: 2013-03-30 19:05
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort magicien 1'
+  - 'Sort sorcière 1'
+---
+
+[École] Transmutation
+[Niveau] druide 1, ensorceleur/magicien 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un morceau de coton mouillé)
+[Portée] courte 
+[Cible] une arme à feu chargée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)
+
+Ce sort gâche les munitions déjà chargées dans une arme avec de l'humidité. Toute tentative pour tirer avec ces munitions mouillées échoue, sans risque de long feu, et le tireur doit passer une action complexe à nettoyer son arme avant de la recharger et de pouvoir tirer à nouveau. Si le tireur est conscient de l'effet du sort avant d'essayer de tirer avec la munition mouillée (Art de la magie DD 16 pour identifier le sort au moment de l'incantation ou effet similaire), il peut utiliser une action simple pour évacuer la munition gâchée qui est alors détruite.

@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Sommeil réparateur
+Title: Sommeil réparateur
+LastModified: 2012-11-04 22:01
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+---
+
+[École] Nécromancie 
+[Niveau] barde 1
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (une pincée de sable)
+[Portée] courte 
+[Cible] une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 8 ou 24 heures ; voir texte
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage lance ce sort juste avant de se reposer. Tant que ses alliés et lui sont sous l'effet de ce sort, ils bénéficient d'une nuit de sommeil réparateur. Si le sujet profite d'une nuit de sommeil complet, il regagne ses points de vie comme s'il avait passé une journée entière au lit (il regagne alors deux fois son niveau de personnage en points de vie). Si le sujet se repose une journée entière, il récupère trois fois son niveau de personnage en points de vie. Toute interruption de la période de repos (si on réveille le sujet par exemple) l'empêche de guérir pendant la nuit et met un terme au sort pour le sujet éveillé. Toute guérison reçue sous l'effet du sort est considérée comme une guérison naturelle et n'affecte pas les effets qui requièrent des soins magiques.
+

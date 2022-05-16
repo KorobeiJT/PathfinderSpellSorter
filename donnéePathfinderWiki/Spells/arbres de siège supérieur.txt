@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Arbres de siège supérieur
+Title: Arbres de siège supérieur
+LastModified: 2012-06-30 11:29
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 9'
+---
+
+[École] Transmutation
+[Niveau] druide 9
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F
+[Portée] courte 
+[Cible] une plante taille G|G, taille TG|TG ou taille Gig|Gig tous les trois niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Ce sort fonctionne comme ''arbres de siège'' mais il affecte des plantes de plus grande taille. Chaque plante se comporte comme une catapulte de sa taille.

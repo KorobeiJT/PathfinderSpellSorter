@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Forteresse intellectuelle III
+Title: Forteresse intellectuelle III
+LastModified: 2020-03-11 16:01
+---
+[École] Abjuration
+[Niveau] psychiste|Psy 6
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] 6 m
+[Cible] émanation de 6 m de rayon centrée sur le lanceur
+[Durée] 1 round
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort fonctionne comme ''Forteresse intellectuelle II''. De plus, les créatures situées dans la zone d'effet ne souffrent d'aucun effet néfaste quand elles réussissent un jet de sauvegarde contre un effet d'émotion ou de terreur, même si le jet de sauvegarde a habituellement un effet partiel seulement. On peut lancer une version réduite de ce sort.

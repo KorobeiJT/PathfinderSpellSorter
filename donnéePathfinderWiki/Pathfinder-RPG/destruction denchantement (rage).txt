@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.destruction denchantement (rage)
+Title: destruction d'enchantement
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Art de la guerre'
+  - 'Redirection'
+---
+>>> Pouvoirs de rage#DESTRUCTIONDENCHANTEMENT

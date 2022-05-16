@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Dague de stalactite
+Title: Dague de stalactite
+LastModified: 2020-02-27 02:27
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort conjurateur 1'
+  - 'Sort magicien 1'
+  - 'Sort sorcière 1'
+---
+
+[École] invocation (création) froid
+[Niveau] conjurateur 1, ensorceleur/magicien 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 0 m
+[Cible] une stalactite
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Le personnage crée une dague de maître de glace. Elle inflige 1 point de dégâts de froid en plus des dégâts habituels des dagues. Si elle quitte la main du personnage pendant plus d'un round, elle fond et le sort se termine. Au niveau 6, la dague fonctionne comme une ''dague de froid'' +1. Au niveau 11, elle gagne la propriété
+''boomerang (propriété)|boomerang'' quand le personnage la lance : elle fond et se reforme dans sa main au round suivant.

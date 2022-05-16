@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.réserve de coups persistante (arcane)
+Title: réserve de coups persistante
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+  - 'Règles officielles'
+---
+>>> arcanes#RESERVEDECOUPSPERSISTANTE

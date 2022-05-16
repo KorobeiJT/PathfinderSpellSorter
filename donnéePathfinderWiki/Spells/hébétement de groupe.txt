@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Hébétement de groupe
+Title: Hébétement de groupe
+LastModified: 2012-10-24 17:19
+---
+
+[École] enchantement (coercition) mental
+[Niveau] barde 4, ensorceleur/magicien 4, inquisiteur 4, conjurateur 4, sorcière 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] une créature humanoïde ou plusieurs qui ne doivent pas être distantes de plus de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+Ce sort embue l'esprit d'un ou plusieurs type humanoïde|humanoïdes possédant 4 DV ou moins, ce qui les empêche d'entreprendre la moindre action. Les type humanoïde|humanoïdes ayant au moins 5 DV sont immunisé|immunisés aux effets d'''hébétement''. La victime est hébété|hébétée mais pas étourdi|étourdie, de sorte que ses adversaires ne bénéficient d'aucun avantage lorsqu'ils s'en prennent à elle. Si une créature a été hébété|hébétée par ce sort, elle ne peut plus être affectée par celui-ci pendant une minute.
+
+
+(((Ce sort fonctionne comme ''hébétement'', en dehors de ce qui est noté plus haut.)))

@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Neutralisation du poison
+Title: Neutralisation du poison
+LastModified: 2015-06-24 20:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 4'
+  - 'Sort druide 3'
+  - 'Sort paladin 4'
+  - 'Sort prêtre 4'
+  - 'Sort rôdeur 3'
+---
+[École] Invocation (guérison)
+[Niveau] alchimiste 4, barde 4, druide 3, paladin|Pal 4, inquisiteur 4, prêtre 4, rôdeur|Rôd 3, sorcière 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (charbon)
+[Portée] contact
+[Cible] créature ou objet (30 dm³/niveau) touché
+[Durée] 10 minutes/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)
+
+Ce sort chasse toutes les formes de poison de l'organisme de la créature ou de l'objet touché. S'il s'agit d'une créature, le personnage fait un test de lanceur de sorts (1d20 + niveau de lanceur de sorts) contre le DD de chaque poison qui affecte la cible. En cas de succès, le poison est neutralisé. La créature ne souffre plus et les effets temporaires du poison disparaissent aussitôt mais le sort n'annule pas les effets instantanés du poison (à savoir la perte de points de vie, un affaiblissement temporaire de caractéristique et autres effets qui ne se dissipent pas d'eux-mêmes).
+
+Un autre effet du sort consiste à neutraliser le poison d'une créature venimeuse ou d'un objet empoisonné pendant dix minutes par niveau de lanceur de sorts. Si le personnage lance ce sort sur une créature venimeuse, celle-ci a droit à un jet de Volonté pour annuler l'effet.
+

@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Ouverturefermeture
+Title: Ouverture/fermeture
+LastModified: 2015-06-20 18:02
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 0'
+  - 'Sort magicien 0'
+---
+[École] Transmutation
+[Niveau] ensorceleur/magicien 0, barde 0, conjurateur 0, magus 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une clef en laiton)
+[Portée] courte 
+[Cible] objet pesant jusqu'à 15 kg ou porte pouvant être ouverte ou fermée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)
+
+Ce sort permet, au choix, d'ouvrir ou de fermer une porte, un coffre, une boîte, une fenêtre, un sac, une bourse, une bouteille ou tout autre récipient. Il échoue automatiquement si l'objet dispose d'un mécanisme de fermeture (barre, serrure fermée, etc.). De plus, il ouvre et ferme seulement les objets qui pèsent 15 kg ou moins. Le couvercle d'un gros coffre ou une porte de grande taille représentent des masses trop importantes pour lui.
+

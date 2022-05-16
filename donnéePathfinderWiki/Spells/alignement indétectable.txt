@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Alignement indétectable
+Title: Alignement indétectable
+LastModified: 2015-06-23 21:30
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 2'
+---
+[École] Abjuration
+[Niveau] alchimiste 2, antipaladin 2, inquisiteur 2, Barde 1, paladin|Pal 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] 1 créature ou 1 objet
+[Durée] 24 heures
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)
+
+''Alignement indétectable'' empêche de connaître par école divination|divination l'alignement de la créature ou de l'objet protégé.
+

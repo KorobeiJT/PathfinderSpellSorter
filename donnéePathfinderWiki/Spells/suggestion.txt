@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Suggestion
+Title: Suggestion
+LastModified: 2018-07-23 20:45
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 3'
+---
+[École] Enchantement (coercition) (langage, mental)
+[Niveau] barde 2, ensorceleur/magicien 3, sorcière 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, M (une langue de serpent et un rayon de miel)
+[Portée] courte 
+[Cible] 1 créature vivante
+[Durée] 1 heure/niveau ou jusqu'à accomplissement
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+Ce sort permet d'influer sur les actes de la cible en lui suggérant la conduite à suivre. La ''suggestion'', qui se limite nécessairement à une ou deux phrases, doit être formulée de façon à paraître raisonnable. Toute ''suggestion'' visiblement néfaste pour la cible annule immédiatement le sort.
+
+L'action suggérée peut se poursuivre jusqu'au terme de la durée indiquée, en revanche, si la cible la termine plus rapidement, le sort s'achève dès que le sujet a obéit à la ''suggestion''. Le lanceur de sorts peut aussi spécifier un événement qui incitera la cible à se comporter d'une certaine façon. Si la condition donnée ne se présente pas avant la fin de la durée du sort, le sort reste sans effet.
+
+Si la ''suggestion'' est particulièrement raisonnable, le jet de sauvegarde peut s'accompagner d'un malus (-1, -2, etc.).
+
+===Mythique===
+
+Le sort de suggestion mythique ne possède plus le registre de langage et peut cibler plusieurs créatures vivantes dans un rayonnement de 3 mètres de rayon.

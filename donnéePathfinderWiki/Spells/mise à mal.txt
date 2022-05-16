@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Mise à mal
+Title: Mise à mal
+LastModified: 2020-08-04 11:41
+Categories:
+  - 'Sort'
+  - 'Sort prêtre 6'
+---
+[École] Nécromancie
+[Niveau] inquisiteur 6, prêtre 6, sorcière 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature touchée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, 1/2 dégâts (voir description)
+[Résistance à la magie] oui
+
+Ce sort projette une grande quantité d'énergie négative vers la cible, qui subit 10 points de dégâts par niveau de lanceur de sorts (pour un maximum de 150 points au niveau 15). Si la créature réussit son jet de sauvegarde, ''mise à mal'' lui inflige des dégâts diminués de moitié. Que le jet de sauvegarde soit réussi ou pas, ce sort ne saurait réduire les points de vie de la cible à moins de 1.
+
+Sur un type mort-vivant|mort-vivant, ''mise à mal'' a l'effet de ''guérison suprême''.
+
+ {c:sort prêtre 6}
+
+===Mythique===
+
+Les dégâts infligés s'élèvent à 15 points de dégâts par NLS|niveau de lanceur de sorts (225 points maximum).
+
+[Amplifié.] Si le personnage dépense deux utilisations de pouvoir mythique, le sort fonctionne également comme un empoisonnement.

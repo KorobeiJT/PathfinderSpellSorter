@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Vagues dépuisement
+Title: Vagues d'épuisement
+LastModified: 2015-06-24 20:56
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 7'
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 7, sorcière 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 18 m (12 )
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Des vagues d'énergie négative épuisé|épuisent toutes les créatures situées dans la zone. Ce sort n'a aucun effet sur les créatures déjà épuisé|épuisées.
+

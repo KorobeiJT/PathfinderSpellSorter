@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Renvoi
+Title: Renvoi
+LastModified: 2015-06-23 23:01
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 5'
+  - 'Sort prêtre 4'
+---
+[École] Abjuration
+[Niveau] conjurateur 4, inquisiteur 4, ensorceleur/magicien 5, prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] 1 créature extraplanaire
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui
+
+Ce sort force la créature extraplanaire ciblée à retourner dans son plan d'origine si elle rate son jet de Volonté. Dans ce cas, elle disparaît aussitôt mais elle a 20 % de chances de se retrouver dans un plan autre que le sien.
+

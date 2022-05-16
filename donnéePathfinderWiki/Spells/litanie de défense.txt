@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Litanie de défense
+Title: Litanie de défense
+LastModified: 2012-07-01 13:02
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort antipaladin 2'
+  - 'Sort inquisiteur 2'
+  - 'Sort paladin 2'
+---
+
+[École] Transmutation
+[Niveau] antipaladin 2, inquisiteur 2, paladin 2
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round
+[Jet de sauvegarde] non
+[Résistance à la magie] oui
+
+Les défenses du personnage se renforcent quand il invoque cette litanie. Tous les bonus d'altération de son armure doublent et il est immunité|immunisé contre la peur.
+
+Quand il est sous l'effet de ce sort, il ne peut pas bénéficier des effets d'un autre sort de litanie.
+

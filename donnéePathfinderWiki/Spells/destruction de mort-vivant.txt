@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Destruction de mort-vivant
+Title: Destruction de mort-vivant
+LastModified: 2015-06-20 16:40
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 0'
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 0, inquisiteur 0, magus 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] rayon
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui
+
+Ce sort crée un rayon d'énergie positive. Le personnage doit réussir une attaque de contact à distance pour atteindre le type mort-vivant|mort-vivant. Si l'attaque touche, le type mort-vivant|mort-vivant subit 1d6 points de dégâts.
+

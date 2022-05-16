@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Contact calcificateur
+Title: Contact calcificateur
+LastModified: 2012-11-04 21:39
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+---
+
+[École] Transmutation (terre) 
+[Niveau] ensorceleur/magicien 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature(s) touchée(s) (jusqu'à une par niveau)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui
+
+Le contact du personnage transmute la substance de la créature touchée en pierre. Une fois par round, il peut faire une attaque de contact qui inflige 1d4 points d'affaiblissement temporaire de Dextérité et ralentit la cible (comme par un sort de ''lenteur'') pendant 1 round. Un jet de Vigueur permet d'annuler l'effet de ''lenteur'' mais pas l'affaiblissement temporaire|affaiblissement de caractéristique. Une cible avec une Dextérité réduite à 0 est pétrifié|pétrifiée de façon permanente. ''annulation denchantement|Annulation d'enchantement'', ''restauration'' ou ''Transmutation de la pierre en chair'' inversent les effets du ''contact calcificateur''.
+

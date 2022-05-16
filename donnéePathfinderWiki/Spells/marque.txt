@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Marque
+Title: Marque
+LastModified: 2015-05-17 11:12
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 0'
+---
+
+[École] Transmutation malédiction 
+[Niveau] inquisiteur 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Vigueur annule
+[Résistance à la magie] oui
+
+''Marque'' appose une rune ou une marque indélébile de 6 caractères au maximum sur une créature, lui infligeant 1 point de dégâts. La marque se place sur toute zone exposée de la créature, typiquement sur le visage ou l'avant-bras. On peut cacher la ''marque'' à l'aide de vêtements ou l'ôter en la raclant (ce qui inflige 1d6 points de dégâts), bien que la ''marque'' revienne si l'on soigne ces dégâts.
+
+

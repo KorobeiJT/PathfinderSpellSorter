@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.fragile
+Title: fragile
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+---
+>>> Armes et armures primitives#FRAGILE

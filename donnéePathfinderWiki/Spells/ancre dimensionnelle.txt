@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Ancre dimensionnelle
+Title: Ancre dimensionnelle
+LastModified: 2015-06-23 21:54
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 4'
+  - 'Sort prêtre 4'
+---
+[École] Abjuration
+[Niveau]  conjurateur 3, inquisiteur 3, ensorceleur/magicien 4, prêtre 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] RM|oui (objet)
+
+Un rayon vert jaillit de la main tendue du personnage, qui doit réussir une attaque de contact à distance pour atteindre sa cible (créature ou objet). En cas de succès, la cible se retrouve entourée d'une aura vert émeraude lui interdisant toute forme de déplacement extradimensionnel. Les sorts affectés sont ''changement de plan'', ''clignotement'', ''dédale'', ''forme éthérée'', ''passage dans léther|passage dans l'éther'', ''portail'', ''porte dimensionnelle'', ''projection astrale'', ''téléportation'' et ''traversée des ombres'' ainsi que les pouvoirs magiques correspondants. La victime ne peut pas non plus utiliser un ''portail'' ou un ''cercle de téléportation''.
+
+''Ancre dimensionnelle'' ne gêne pas les déplacements d'une créature qui progressait déjà dans le plan Astral ou le plan Éthéré quand elle a été affectée par le sort. Elle reste également sans effet sur les perceptions ou les attaques extradimensionnelles. Pour finir, elle n'empêche pas les créatures convoquées de disparaître à la fin du sort qui les a appelées.
+

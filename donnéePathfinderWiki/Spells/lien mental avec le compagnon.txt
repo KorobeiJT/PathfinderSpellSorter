@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Lien mental avec le compagnon
+Title: Lien mental avec le compagnon
+LastModified: 2020-06-18 23:40
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 3'
+  - 'Sort rôdeur 3'
+---
+
+[École] Enchantement (charme) mental
+[Niveau] druide 3, rôdeur 3
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] le compagnon animal
+[Durée] 1 minute/niveau
+
+Le lien qui unit le personnage et son compagnon animal se renforce. Tant que le personnage reste dans le champ de vision de son compagnon animal|compagnon, il peut communiquer avec lui par télépathie comme s'ils partageaient le même langage. De plus, tant qu'il reste dans le champ de vision de l'animal, il peut le pousser avec une action rapide au lieu d'une action de mouvement et il n'a pas besoin de faire de test de Dressage pour le gérer, il réussit automatiquement le test.
+
+===Mythique===
+
+Le compagnon animal du personnage comprend les instructions complexes transmises par le sort. Il peut accomplir n'importe quel tour (même ceux qu'il ne connaît pas) et toutes les activités qu'une créature avec une Intelligence de 8 est capable de comprendre.

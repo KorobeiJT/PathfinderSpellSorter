@@ -158,9 +158,9 @@ class SpellGUI:
             self.lvlList.remove(level)
             return False
 
-sgui = SpellGUI()
-sgui.addClass("bard")
-sgui.addClass("druid")
-sgui.addLevel(0)
-sgui.addLevel(1)
-sgui.OpenGUI()
+# sgui = SpellGUI()
+# sgui.addClass("bard")
+# sgui.addClass("druid")
+# sgui.addLevel(0)
+# sgui.addLevel(1)
+# sgui.OpenGUI()

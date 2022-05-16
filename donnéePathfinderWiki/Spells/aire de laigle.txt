@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Aire de laigle
+Title: Aire de l'aigle
+LastModified: 2012-10-28 15:54
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort conjurateur 6'
+  - 'Sort druide 6'
+---
+
+[École] Invocation (convocation) Bien
+[Niveau] conjurateur 6, druide 6
+[Temps d'incantation] 1 round
+[Composantes] V, G, FD
+[Portée] longue
+[Cible] convoque des aigle géant|aigles géants
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Le personnage convoque un vol d'aigle géant|aigles géants (un par tranche de trois NLS|niveaux de lanceur de sorts, six au maximum) pour qu'ils les emportent, ses alliés et lui, à travers les cieux. Les aigle géant|aigles évitent de se battre autant que possible mais ils se défendent si on les attaque. Dans ce cas, la durée restante du sort passe de 1 heure par niveau à 1 round par niveau (si le sort devait encore durer 5 heures, les aigle géant|aigles ne se battent que 5 rounds avant que le sort ne se termine).

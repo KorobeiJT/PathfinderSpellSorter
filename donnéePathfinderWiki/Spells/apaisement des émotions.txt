@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Apaisement des émotions
+Title: Apaisement des émotions
+LastModified: 2015-06-23 21:31
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort prêtre 2'
+---
+[École] Enchantement (coercition) émotion, mental
+[Niveau] barde 2, inquisiteur 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] moyenne 
+[Zone d'effet] créatures situées dans une étendue de 6 m de rayon
+[Durée] concentration, jusqu'à 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui
+
+Ce sort calme les créatures agitées. Le lanceur de sort ne les contrôle pas, mais il peut les empêcher de combattre si elles sont agressives, ou de faire la fête si elles se montrent trop démonstratives. Les créatures affectées ne peuvent agir de façon destructrice ou faire preuve de violence, sauf pour se défendre. Si on les attaque ou si elles subissent des dégâts, le sort cesse instantanément de faire effet.
+
+''Apaisement des émotions'' enraye également (mais sans les dissiper) les bonus de moral de sorts tels que ''bénédiction'', ''espoir'' ou ''rage'', ainsi que la barbare#RAGEDEBERSERKER|rage du barbare ou le représentations|courage inspiré par un barde. Il réprime les effets de terreur et délivre les cibles de toute confus|confusion. Tant que l'enchantement est actif, les sorts concernés restent sans effet, mais ils recommencent à agir normalement à la fin de la durée d'''apaisement des émotions'' (s'ils ne se sont pas arrêtés d'eux-mêmes plus tôt).
+

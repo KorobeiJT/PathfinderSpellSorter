@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Éruption ectoplasmique
+Title: Éruption ectoplasmique
+LastModified: 2019-10-28 23:05
+---
+[École] Évocation
+[Niveau] psychiste|Psy 7, spirite|Spi 6
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Zone [rayonnement de 9 m
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes 1/2 dégâts, Volonté partiel
+voir texte
+[Résistance à la magie] oui
+
+Une avalanche de matière blafarde et tournoyante s'abat depuis le point que le personnage choisit. Toutes les créatures situées dans la zone d'effet subissent 6d6 points de dégâts contondants et sont États préjudiciables#Enchevêtré|enchevêtrées pendant un nombre de rounds égal au NLS|niveau de lanceur de sorts du personnage. Ce sort traverse les plans et affecte donc les créatures éthérées et intangibles comme les autres. De plus, chaque créature éthérée ou intangible de la zone doit réussir un jet de Volonté ou se retrouver en partie repoussée sur le plan Matériel pendant un nombre de rounds égal au NLS|niveau de lanceur de sorts du personnage. Elle doit faire ce jet de Volonté qu'elle ait réussi son jet de Réflexes ou non. Une créature intangible partiellement repoussée sur le plan Matériel ne peut plus entrer dans un objet solide ni le traverser, subit la moitié des dégâts des attaques non magiques et la totalité de ceux émanant d'armes magiques, de sorts, de pouvoirs magiques et d'effets surnaturels. Les sorts et effets tangibles qui n'infligent pas de dégâts affectent la créature normalement au lieu d'avoir 50 % de chances de la rater. La créature conserve les autres avantages de son intangibilité, ainsi que ses bonus à l'attaque et à la CA.

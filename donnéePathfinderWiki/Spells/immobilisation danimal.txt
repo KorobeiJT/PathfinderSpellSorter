@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Immobilisation danimal
+Title: Immobilisation d'animal
+LastModified: 2012-10-12 14:13
+---
+[École] Enchantement (coercition) (mental)
+[Niveau] druide 2, rôdeur|Rôd 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne 
+[Cible] 1 animal
+[Durée] 1 round/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui
+
+La cible du sort se fige et se retrouve paralysé|paralysée. Elle reste consciente de ce qui se passe autour d'elle et peut respirer normalement mais ne peut entreprendre aucune action, pas même parler. Chaque round, lors de son tour, elle peut effectuer un nouveau jet de sauvegarde pour tenter de mettre fin à l'effet. Il s'agit d'une action complexe qui ne provoque pas d'attaque dopportunité|attaques d'opportunité. Si une créature ailée se retrouve paralysé|paralysée, elle ne peut plus battre des ailes et tombe. Un nageur paralysé ne peut plus bouger et risque de se noyer.
+
+(((Ce sort fonctionne comme ''immobilisation de personne'', si ce n'est qu'il affecte un animal.)))
+

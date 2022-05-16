@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Mâchoires dacier
+Title: Mâchoires d'acier
+LastModified: 2017-11-30 01:48
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort rôdeur 2'
+---
+
+[École] Transmutation 
+[Niveau] druide 2, rôdeur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (sève d'arbre à gomme)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage permet à une créature de se servir de l'une de ses attaque naturelle|attaques naturelles pour s'attacher fermement à son adversaire. Il choisit l'une des attaque naturelle|attaques naturelles de la créature (généralement une attaque de griffe ou de morsure) et offre à la créature le pouvoir d'étreinte (qui comprend un bonus de +4 aux tests de BMO|manœuvres de combat pour démarrer une situation de lutte ou la maintenir). Une créature qui dispose de plusieurs attaque naturelle|attaques naturelles peut frapper un adversaire agrippé avec ses attaques supplémentaires mais ne peut pas frapper une autre créature.
+

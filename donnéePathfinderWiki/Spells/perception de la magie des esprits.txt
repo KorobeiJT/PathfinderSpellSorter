@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Perception de la magie des esprits
+Title: Perception de la magie des esprits
+LastModified: 2020-06-09 17:59
+---
+[École] Divination
+[Niveau] chaman 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle,  
+[Cible] le lanceur de sort  
+[Durée] 24 heures
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Le personnage gagne une plus grande sensibilité à la magie associée à son Chaman#ESPRITSUPREME|esprit principal et à ses esprits errants (tous les sorts de la liste de magie des esprits associés à ces esprits ainsi que les pouvoirs magiques qui reproduisent les effets de ces sorts). Il bénéficie d'un bonus de circonstances de +10 aux tests d'Art de la magie pour identifier ces sorts si quelqu'un les lance dans la zone du sort, et d'un bonus de circonstances de +2 aux jets de sauvegarde pour résister aux effets de ces sorts. Si l'un de ces sorts nécessite un jet d'attaque, alors le personnage n'est jamais considéré comme pris au dépourvu contre de telles attaques.

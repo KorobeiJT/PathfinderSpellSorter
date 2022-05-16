@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Restauration deidolon mineure
+Title: Restauration d'eidolon mineure
+LastModified: 2012-10-26 18:02
+---
+
+[École] invocation(guérison) 
+[Niveau] conjurateur 2
+[Temps d'incantation] 3 rounds
+[Composantes] V, G, M (poussière de diamant d'une valeur  de 100 po ou 1 000 po, voir texte)
+[Portée] contact
+[Cible] eidolon touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort dissipe les effets magiques réduisant l'une des caractéristiques de l'eidolon ou permet de récupérer 1d4 points d'une caractéristique affaiblissement temporaire|temporairement affaiblie. ''Restauration partielle'' élimine toute fatigué|fatigue dont est victime l'eidolon. Si l'eidolon est épuisé, il devient simplement fatigué. Le sort ne peut rien contre les diminution permanente|diminutions permanentes de caractéristique.
+
+(((Ce sort fonction comme ''restauration partielle '' mais affecte uniquement un eidolon.)))
+

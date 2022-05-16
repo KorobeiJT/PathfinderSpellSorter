@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Le roi et la tour
+Title: Le roi et la tour
+LastModified: 2012-11-04 16:04
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 4'
+---
+
+[École] Invocation (téléportation) 
+[Niveau] paladin 4
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort permet au personnage d'échanger sa place contre celle d'un allié. Quand il lance ce sort, il choisit un unique allié à portée. Il se téléporte dans sa case alors que l'allié se téléporte dans celle que le personnage occupait.
+

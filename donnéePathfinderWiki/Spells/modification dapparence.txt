@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Modification dapparence
+Title: Modification d'apparence
+LastModified: 2016-09-16 09:14
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 2'
+---
+[École] Transmutation (métamorphose)
+[Niveau] alchimiste 2, barde 2, conjurateur 2, ensorceleur/magicien 2, magus 2, sorcière 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (Un morceau de la créature dont le mage veut prendre l'apparence)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 minute/niveau
+
+Quand le mage lance ce sort, il peut prendre la forme de n'importe quelle créature type humanoïde|humanoïde de taille P ou taille M|M. Si cette créature possède l'une des aptitudes suivantes : vision dans le noir à 18 m (12 ), vision nocturne, odorat et nage 9 m, le personnage en dispose aussi.
+
+Créature P : Sous cette forme, le personnage gagne un bonus de taille de +2 à la Dextérité.
+
+Créature M : Sous cette forme, le personnage gagne un bonus de taille de +2 à la Force.

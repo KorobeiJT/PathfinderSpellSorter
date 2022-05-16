@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Restauration deidolon
+Title: Restauration d'eidolon
+LastModified: 2012-10-28 16:26
+---
+
+[École] invocation(guérison) 
+[Niveau] conjurateur 3
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (poussière de diamant d'une valeur  de 100 po ou 1 000 po, voir texte)
+[Portée] contact
+[Cible] eidolon touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort dissipe les effets magiques réduisant l'une des caractéristiques d'un eidolon ou permet de récupérer 1d4 points d'une caractéristique affaiblissement temporaire|temporairement affaiblie. Il dissipe également les niveau négatif|niveaux négatifs temporaires ou un niveau négatif permanent (auquel cas il nécessite de la poudre de diamant valant 1 000 po). Ce sort ne permet pas de dissiper plus d'un niveau négatif diminution permanente|permanent sur un même eidolon par semaine. ''Restauration partielle'' élimine toute fatigué|fatigue et épuisé|épuisement dont est victime l'eidolon. Le sort ne peut rien contre les diminution permanente|diminutions permanentes de caractéristique.
+
+(((Ce sort fonction comme ''restauration '' mais affecte uniquement un eidolon.)))
+

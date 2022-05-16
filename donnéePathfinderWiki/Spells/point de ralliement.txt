@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Point de ralliement
+Title: Point de ralliement
+LastModified: 2012-11-04 21:46
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort paladin 1'
+---
+
+[École] Enchantement (coercition) bien, émotion, mental 
+[Niveau] paladin 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] 1,50 m (1 )
+[Cible] case de 1,50 m (1 ) de côté
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage crée une case qui redonne courage à toute créature Bonne qui entre en contact avec. Toute créature d'alignement Bon qui entre dans cette case (même si c'est seulement lors de son déplacement normal) gagne un bonus de +2 aux jet dattaque|jets d'attaque, jet de sauvegarde|de sauvegarde et 2 points de vie temporaires par NLS|niveau de lanceur de sorts pendant 1 round. Les créatures d'un autre alignement ne tirent aucun avantage de ce sort. Une créature ne peut profiter de ce sort qu'une fois par incantation.
+

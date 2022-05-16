@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Démarche du caméléon
+Title: Démarche du caméléon
+LastModified: 2013-10-03 20:02
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort rôdeur 2'
+---
+
+[École] Illusion (hallucination) 
+[Niveau] rôdeur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+
+Le personnage se fond dans le décor et, même s'il n'est pas véritablement invisible, il est difficile à viser à cause de son aspect translucide. Tant qu'il est sous l'effet de ce sort, il bénéficie d'un bonus de +4 aux tests de Discrétion et il est camouflage|camouflé aux yeux des créatures qui se trouvent à plus de 1,50 mètre  (1 ) (les attaques ont 20% de chances de le rater).
+

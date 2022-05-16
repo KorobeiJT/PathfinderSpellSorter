@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Marchandises et services
+Title: Les marchandises et services
+LastModified: 2020-04-27 18:11
+Categories:
+  - 'Glossaire'
+  - 'Manuel des joueurs'
+---
+{s:MenuEquipement}
+* [[Équipement daventurier|Équipement d'aventurier]]
+* [[Trousses doutils et de compétences|Trousses d'outils et de compétences]]
+* [[Vêtements]]
+* [[Nourriture et Boissons]]
+* [[Animaux, montures et leur équipement]]
+* [[Moyens de transport]]
+* [[Jeux]]
+* [[Hébergement et services]]
+* [[Marchandises]]

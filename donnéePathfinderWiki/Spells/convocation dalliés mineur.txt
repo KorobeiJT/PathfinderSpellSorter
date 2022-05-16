@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Convocation dalliés mineur
+Title: Convocation d'alliés mineur
+LastModified: 2012-11-01 20:27
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort rôdeur 1'
+---
+
+[École] invocation (convocation)
+[Niveau] druide 1, rôdeur 1
+[Temps d'incantation] 1 round
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] 1d3 créatures invoquées
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Ce sort fonctionne comme ''convocation dalliés naturels I|convocation d'alliés naturels I'' mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les lézards, les singes, les rats, les
+corbeaux, les crapauds ou les belettes. Les animaux invoqués doivent tous être de la même sorte.

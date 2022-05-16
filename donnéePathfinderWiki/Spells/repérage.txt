@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Repérage
+Title: Repérage
+LastModified: 2018-02-12 08:12
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 0'
+  - 'sort chaman 0'
+  - 'Sort druide 0'
+---
+[École] Divination
+[Niveau] barde 0, druide 0, Chaman 0, psychiste|Psy 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] instantanée
+
+Le personnage sait immédiatement où se trouve le Nord. Ce sort fonctionne dans tous les environnements qui disposent d'un Nord magnétique mais il existe des plans où ce n'est pas le cas. De plus, même si le personnage découvre où se trouve le Nord, il peut perdre ce repère en quelques instants s'il ne dispose pas de repères visuels pour l'aider à s'orienter.
+

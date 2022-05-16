@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Arbres de siège
+Title: Arbres de siège
+LastModified: 2012-06-30 11:24
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 7'
+---
+
+[École] Transmutation
+[Niveau] druide 7
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F
+[Portée] courte 
+[Cible] une plante taille G|G tous les trois niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non
+
+Le personnage octroie une certaine mobilité et un semblant de vie à des plantes inanimées. Chacune se comporte comme une catapulte légère jusqu'à la fin de la durée du sort mais le personnage doit dépenser une action simple pour viser avec ces arbres-catapultes avant leur premier tir. La catapulte utilise le NLS|niveau de lanceur de sorts du personnage comme bonus de visée. Ensuite, il vise seulement s'il veut changer de cible. Il peut ordonner à un ou plusieurs arbres de cesser le tir. Les arbres-catapultes n'ont pas besoin de munitions, ils se chargent automatiquement avec des rochers voisins, en les sortant de terre s'il le faut. Le personnage peut tout de même leur donner des munitions s'il le désire. Les arbres n'acceptent pas de munitions enflammées et le personnage ne peut pas utiliser le sort ''tir dénergie à larme de siège|tir d'énergie à l'arme de siège'' avec eux s'il choisit le feu comme type d'énergie.

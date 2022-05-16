@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Chute renversante
+Title: Chute renversante
+LastModified: 2021-03-08 14:06
+Categories:
+  - 'Manuel des PNJ'
+  - 'Sort'
+  - 'Sort magicien 2'
+  - 'Sort prêtre 2'
+  - 'Sort sorcière 2'
+---
+[École] Transmutation
+[Niveau] Ensorceleur/Magicien 2, Prêtre 2, Sorcière 2  
+[Temps d'incantation] 1 action immédiate  
+[Composantes] V, G  
+[Portée] moyenne 
+[Cible] une créature qui tombe  
+[Durée] 1 round/niveau (voir ci-dessous)  
+[Jet de sauvegarde] Vigueur, partiel (voir ci-dessous)
+[Résistance à la magie] oui
+
+Ce sort doit être lancé sur une créature au moment où elle tombe, soit d'une certaine hauteur, soit après avoir été mise à terre ou victime d'un croc-en-jambe. La magie de ce sort augmente la violence de la chute, ce qui coupe le souffle de la victime. Celle-ci subit 1d6 points de dégâts de chute supplémentaires. En outre, elle est chancelant|chancelante pendant toute la durée du sort, à moins de réussir un jet de Volonté. Chaque round pendant lequel persistent les effets du sort, la créature peut tenter un nouveau jet de Volonté par une action libre pour mettre fin à l'état préjudiciable chancelant. Une créature sous les effets de ce sort doit réaliser une action simple pour se relever.

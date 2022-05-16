@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Mauvais œil
+Title: Mauvais œil
+LastModified: 2016-02-15 17:16
+---
+[École] Nécromancie douleur, émotion
+[Niveau] alchimiste 6, barde 6, ensorceleur/magicien 6, sorcière 6
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] 1 créature vivante
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui
+
+Chaque round, le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des DV de la cible, cette attaque peut avoir jusqu'à trois effets.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| DV || Effets
+|- CLASS="premier"
+| 10 ou plus || Fièvre
+|- CLASS="alt"
+| 5–9 || Terreur, fièvre
+|-
+| 4 ou moins || Sommeil, terreur, fièvre
+|}
+</center>
+
+Ces effets sont cumulatifs.
+
+[Fièvre.] La créature affectée est prise d'une brusque poussée de fiévreux|fièvre provoquant des douleurs terribles. L'effet dure pendant dix minutes par niveau de lanceur de sorts. Il ne peut pas être contré par ''guérison des maladies'' ou ''guérison suprême'', mais ''délivrance des malédictions'' y met un terme.
+
+[Terreur.] La cible est paniqué|paniquée pendant 1d4 rounds. Même lorsqu'elle reprend le contrôle de ses actes, elle reste secoué|secouée` pendant dix minutes par niveau de lanceur de sorts de ce dernier. Si elle se trouve de nouveau confrontée au jeteur de sorts, elle est de nouveau paniqué|paniquée pour 1d4 round. Il s'agit d'un effet de terreur.
+
+[Sommeil.] Le sujet tombe en catatonie pendant dix minutes par niveau de lanceur de sorts. On ne peut le réveiller pendant la durée de l'effet qu'en dissipant ce dernier. Il ne s'agit pas d'un effet de sommeil et les elfe|elfes n'y sont donc pas immunisé|immunisés.
+
+Pour continuer à affecter un adversaire après le premier round, il faut dépenser une action rapide par round.
+

@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Lien sacré
+Title: Lien sacré
+LastModified: 2018-07-24 17:04
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort inquisiteur 2'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 3'
+---
+
+[École] Invocation (guérison) 
+[Niveau] inquisiteur 2, paladin 2, prêtre 3
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (une paire de bracelets dorés d'une valeur de 100 po chacun, un porté par la cible, l'autre par le personnage)
+[Portée] contact (voir description)
+[Cible] créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Pour utiliser ce sort, le personnage doit tout d'abord toucher le récipiendaire afin de créer un champ d'énergies bénéfiques entre eux. Une fois le sort lancé, le personnage et la cible peuvent lancer des sorts d'Invocation (guérison) avec une portée définie comme « contact » alors qu'ils se trouvent à courte portée l'un de l'autre. Si le personnage ou la cible ôte son bracelet, le sort se termine immédiatement.
+
+===Mythique===
+
+Le personnage peut lancer sur la cible du sort (et vice-versa) des sorts d'invocation (guérison) en considérant que leur portée est moyenne (30 mètres + 3 mètres par NLS|niveau de lanceur de sorts). Lorsque le personnage ou la cible utilise le lien sacré pour lancer un sort de guérison sur son partenaire lié, le lanceur du sort récupère également un nombre de points de vie égal au montant minimum que le sort peut soigner.
+
+[Amplifié (6ème).] Si le personnage dépense deux utilisations de pouvoir mythique, l'incantation d'un sort de guérison par l'intermédiaire du lien soigne le lanceur du sort du nombre normal de points de vie au lieu du minimum. Le personnage et la cible peuvent utiliser le lien pour se soigner l'un l'autre grâce à des pouvoirs de soins ciblés tels que l'imposition des mains. À la différence des sorts de guérison, un personnage qui utilise un pouvoir de soins de cette façon ne peut se soigner lui-même.

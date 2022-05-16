@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Capture dâme
+Title: Capture d'âme
+LastModified: 2015-06-24 21:40
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 9'
+  - 'Sort prêtre 9'
+---
+[École] Nécromancie
+[Niveau] ensorceleur/magicien 9, prêtre 9, sorcière 9
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (voir description)
+[Portée] courte 
+[Cible] cadavre
+[Durée] permanente
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] non
+
+Ce puissant sort permet de s'emparer de l'âme d'un individu venant de mourir et de l'emprisonner dans un saphir noir. Le sujet doit être décédé depuis moins de 1 round par NLS|niveau de lanceur de sorts. Une fois enfermée dans la gemme, l'âme ne peut plus être libérée par des sorts tels que ''clone'', ''rappel à la vie'', ''réincarnation'', ''résurrection'' ou ''résurrection suprême'', ni même ''miracle'' ou ''souhait''. C'est uniquement en détruisant la pierre ou en dissipant le sort que l'on peut la délivrer (à noter que cela ne ramène nullement le mort à la vie).
+
+Focaliseur : un saphir noir coûtant au moins 1 000 po par DV|dé de vie de la créature que l'on cherche à capturer. Si la gemme ne vaut pas suffisamment cher, elle éclate au terme de l'incantation (même s'il est impossible de déterminer exactement le niveau ou le nombre de dés de vie de la cible, la valeur de la pierre, elle, peut être connue à force de recherches).
+

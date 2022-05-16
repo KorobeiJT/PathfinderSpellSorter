@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Carreau de peur
+Title: Carreau de peur
+LastModified: 2012-10-19 10:45
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort prêtre 2'
+---
+
+[École] évocation mal
+[Niveau] prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] projectile d'énergie maléfique en forme de flèche
+[Durée] instantanée (1d4 rounds)
+[Jet de sauvegarde] Volonté partiel (voir texte)
+[Résistance à la magie] oui
+
+Grâce à son symbole maudit, le personnage envoie un projectile fait de ténèbres crépitantes vers une cible à portée, par une attaque de contact à distance. Les créatures Bonnes frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux NLS|niveaux de lanceur de sorts (5d8 au maximum). Un extérieur Bon subit 1d6 points de dégâts par NLS|niveau de lanceur de sorts (10d6 au maximum) et se retrouve fiévreux pendant 1 round. Jet de Volonté 1/2 dégâts et annule la condition fiévreux. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni Bonnes ni Maléfiques, qui ne sont donc pas fiévreux|fiévreuses. Il n'a aucun effet sur les créatures Mauvaises.

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Poing invincible de la terre
+Title: Poing invincible de la terre
+LastModified: 2020-07-10 01:44
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort prêtre 1'
+---
+
+[École] Invocation (création) terre
+[Niveau] prêtre 1, druide 1
+[Temps d'incantation] 1 action simple
+[Composantes]  V, G, FD
+[Portée]  courte 
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] Oui
+
+Le lanceur de sorts crée une pierre de la taille d'un poing qui vole sur un ennemi. Le lanceur doit faire un Valeurs de combat#JETDATTAQUE|jet d'attaque Actions simples#ATTAQUEMAINSNUES|à mains nues contre la cible, comme si celle-ci était dans la zone qu'il menace. Si l'attaque réussit, la pierre inflige des dégâts contondants à la cible comme si le lanceur lui avait porté une Actions simples#ATTAQUEMAINSNUES|attaque à mains nues. Si le lanceur a une Moine#RESERVEDEKI|réserve de ki, la pierre compte comme une frappe ki. Au niveau 4, le Moine qinggong (moine)|moine qinggong peut choisir ce sort comme pouvoir ki dont l'activation coûte 1 point de ki (si le moine a 0 point de ki après l'activation de ce pouvoir ki, la pierre ne compte pas comme une frappe ki).
+
+===Mythique===
+
+Le personnage ajoute son grade aux jets d'attaque et de dégâts de la pierre. Il augmente le multiplicateur de critique de l'attaque de 1 (avec un maximum de ×4).

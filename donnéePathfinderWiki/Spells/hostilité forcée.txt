@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Hostilité forcée
+Title: Hostilité forcée
+LastModified: 2014-11-06 22:46
+Categories:
+  - 'Art de la guerre'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort conjurateur 1'
+  - 'Sort inquisiteur 1'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 1'
+  - 'Sort rôdeur 1'
+  - 'Sort sorcière 1'
+---
+
+[École] enchantement (coercition) (effet mental)
+[Niveau] barde 1, inquisiteur 1, paladin|Pal 1, prêtre 1, rôdeur|Rôd 1, sorcièrec 1, conjurateur 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte du sang du lanceur de sorts)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] voir texte
+
+Quand une créature, qui se trouve dans le champ de vision du personnage et qui le menace, attaque un de ses alliés, il peut, par une action immédiate, l'obliger à l'attaquer à la place. Pour obliger une créature à l'attaquer, le personnage doit d'abord vaincre une éventuelle résistance à la magie et la créature a ensuite droit à un jet de Volonté pour ignorer le personnage.
+Si un conjurateur utilise ce sort, il peut choisir d'obliger la cible à attaquer son eidolon.

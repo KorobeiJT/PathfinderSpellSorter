@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.sommeil de lamnésique
+Title: Sommeil de l'amnésique
+LastModified: 2020-07-10 01:49
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 4'
+  - 'Sort magicien 4'
+  - 'Sort sorcière 4'
+---
+{s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}
+[École] Enchantement (coercition) effet mental
+
+[Niveau] Barde 4, ensorceleur/magicien 4,  Sorcière 4
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (quelques gouttes d'eau d'un ruisseau)
+[Portée] courte
+[Cible] une créature vivante
+[Zone d'effet] émanation de 6 m de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort agit comme ''sommeil profond'', mais affecte seulement une créature de 10 DV ou moins. De plus, quand elle se réveille, elle ne garde aucun souvenir des circonstances dans lesquelles le sort a été lancé. La cible perd tout souvenir de ce qui s'est passé pendant les 5 minutes qui ont précédé le lancement du sort. Aucun effet ne peut
+lui rendre la mémoire, à part un miracle ou un souhait.

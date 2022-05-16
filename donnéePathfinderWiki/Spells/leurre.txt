@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Leurre
+Title: Leurre
+LastModified: 2012-11-04 16:06
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 5'
+  - 'Sort magicien 5'
+---
+[École] Illusion (hallucination)
+[Niveau] barde 5, ensorceleur/magicien 5
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poudre de jade (250 po))
+[Portée] contact
+[Zone d'effet] émanation de 12 m/8  de rayon
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+
+Tous les sorts de Divination (scrutation) lancés pour voir ce qui se trouve dans la zone deffet|zone d'effet obtiennent une image erronée (comme dans le cas du sort ''image accomplie''), que le lanceur de sorts imagine pendant l'incantation. Celui-ci peut changer cette image quand il le souhaite, ce qui nécessite sa concentration. L'image reste statique quand il ne se concentration|concentre pas.
+

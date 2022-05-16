@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Force de taureau
+Title: Force de taureau
+LastModified: 2015-06-22 16:22
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort magicien 2'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 2'
+---
+[École] Transmutation
+[Niveau] alchimiste 2, antipaladin 2, conjurateur 2, druide 2, ensorceleur/magicien 2, paladin|Pal 2, prêtre 2, magus 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (quelques poils de taureau ou une pincée de bouse séchée)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Le sujet devient plus fort. Ce sort lui confère un bonus daltération|bonus d'altération de +4 points en Force, ce qui induit un effet positif sur ses jet dattaque|jets d'attaque, ses jet de dégâts|jets de dégâts au corps à corps et sur tous les autres éléments dépendant du modificateur de Force.
+

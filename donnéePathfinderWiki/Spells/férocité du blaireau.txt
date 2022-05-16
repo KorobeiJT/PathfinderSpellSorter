@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Férocité du blaireau
+Title: Férocité du blaireau
+LastModified: 2015-09-06 22:15
+---
+
+[École] transmutation
+[Niveau] druide 3,  ensorceleur/magicien 2, prêtre 3, rôdeur 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une arme/3 niveaux
+[Durée] concentration
+[Jet de sauvegarde] Volonté (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Fonctionne comme affûtage mais affecte plusieurs armes et demande de la concentration. Le personnage choisit les armes qu'il veut affecter et ne peut en améliorer qu'une par créature. Si une arme sort de la zone d'effet du sort, ce dernier se termine pour elle.

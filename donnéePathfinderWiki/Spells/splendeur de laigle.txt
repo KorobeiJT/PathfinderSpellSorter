@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Splendeur de laigle
+Title: Splendeur de l'aigle
+LastModified: 2015-06-22 16:27
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 2'
+  - 'Sort magicien 2'
+  - 'Sort paladin 2'
+  - 'Sort prêtre 2'
+---
+[École] Transmutation
+[Niveau] alchimiste 2, antipaladin 2, bardee 2, conjurateur 2, ensorceleur/magicien 2, paladin|Pal 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (des plumes ou des fientes d'aigle)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui
+
+La créature transformée affiche un maintien inhabituel, s'exprime avec plus d'aisance et projette une impression de plus grande puissance. Le sort offre un bonus daltération|bonus d'altération de +4 au Charisme. La cible en bénéficie à chaque fois qu'elle doit se servir de son Charisme. Les ensorceleurorceleurs et les bardees (et autres lanceurs de sorts qui dépendent du Charisme) qui bénéficient de ''splendeur de l'aigle'' ne gagnent pas de sorts supplémentaires mais cela augmente le DD de leurs sorts.
+

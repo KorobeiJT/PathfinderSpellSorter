@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Aversion
+Title: Aversion
+LastModified: 2015-06-24 21:36
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 9'
+  - 'Sort magicien 8'
+---
+[École] Enchantement (coercition) émotion, mental
+[Niveau] conjurateur 6, druide 9, ensorceleur/magicien 8, sorcière 8
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M/FD (un peu d'alun trempé dans du vinaigre)
+[Portée] courte 
+[Cible] 1 lieu (volume n'excédant pas un cube de 3 m d'arête/niveau) ou 1 objet
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui
+
+L'objet ou le lieu choisi par le personnage engendre des ondes repoussant, au choix, un Types de créatures|type donné de créatures intelligentes ou tous les êtres d'un même alignement. La race de créatures affectée doit être nommée lors de l'incantation. Les Sous-types de créatures|sous-types ne sont pas assez précis. Si le personnage préfère affecter un alignement, il doit l'indiquer.
+
+Les créatures de la race ou de l'alignement choisi ressentent une envie quasi irrépressible de s'éloigner de l'endroit ou de l'objet protégé.
+
+Une force indéfinissable les pousse à s'éloigner de la zone ou de l'objet affecté par le sort pour ne pas revenir tant que le sort fait effet.). Si elles réussissent leur jet de sauvegarde, elles peuvent rester sur place ou toucher l'objet affecté, mais cela ne les empêche pas de se sentir mal à l'aise, ce qui réduit fortement leur Dextérité (-4).
+
+''Aversion'' contre et dissipe ''attirance''.
+

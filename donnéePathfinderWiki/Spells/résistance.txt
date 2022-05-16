@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.sort Résistance
+Title: Résistance
+LastModified: 2018-02-12 08:10
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 0'
+  - 'sort chaman 0'
+  - 'Sort druide 0'
+  - 'Sort inquisiteur 0'
+  - 'Sort magicien 0'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 0'
+  - 'Sort sorcière 0'
+---
+{s:Desambi|Résistance est également le nom d'une résistance|capacité spéciale.}
+[École] Abjuration
+[Niveau] ensorceleur/magicien 0, barde 0, druide 0, paladin|Pal 1, prêtre 0, conjurateur 0, inquisiteur 0, sorcière 0, Chaman 0, psychiste|Psy 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une cape miniature)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort protège la cible en lui offrant temporairement un bonus de résistance de +1 aux jet de sauvegarde|jets de sauvegarde.
+
+On peut user de ''permanence'' sur un sort de ''résistance''.
+

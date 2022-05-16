@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Stabilisation
+Title: Stabilisation
+LastModified: 2016-07-04 21:21
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'sort chaman 0'
+  - 'Sort druide 0'
+  - 'Sort prêtre 0'
+  - 'Sort sorcière 0'
+---
+[École] Invocation (guérison)
+[Niveau] prêtre 0, druide 0, inquisiteur 0, sorcière 0, Chaman 0
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Quand le personnage lance ce sort, il vise une créature ayant -1 PV|point de vie ou moins. Cette créature se Blessures et mort#STABLE|stabilise alors automatiquement et ne perd pas d'autres points de vie. Si, par la suite, elle reçoit de nouveaux dégâts, elle agonise de nouveau.
+

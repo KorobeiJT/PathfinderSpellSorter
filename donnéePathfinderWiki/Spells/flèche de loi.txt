@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Flèche de loi
+Title: Flèche de loi
+LastModified: 2013-10-03 22:55
+---
+
+[École] évocation loi
+[Niveau]  paladin 2, prêtre 2
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD(un symbole sacré)
+[Portée] courte 
+[Cible] projectile en forme de flèche fait d'énergie loyale
+[Durée] instantanée (1 round); voir texte
+[Jet de sauvegarde] Volonté partiel (voir texte)
+[Résistance à la magie] oui
+
+Une flèche d'ordre pur fuse du symbole du personnage vers une cible à portée, grâce à une attaque de contact à distance. Toute créature Chaotique touchée par la flèche reçoit 1d8 points de dégâts par tranche de deux niveaux de lanceurs de sorts (5d8 au maximum). Un extérieur Chaotique reçoit 1d6 points de dégâts par niveau de lanceur de sorts (10d6 au maximum) et il est hébété pendant 1 round. Jet de volonté 1/2 dégâts et annule hébété|l'hébètement. Ce sort inflige la moitié des dégâts aux créatures qui ne sont ni chaotique ni loyales et ne les hébété|hébète pas. La flèche n'a aucun effet sur une créature loyale.

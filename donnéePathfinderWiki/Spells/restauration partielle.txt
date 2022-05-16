@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Restauration partielle
+Title: Restauration partielle
+LastModified: 2015-06-23 21:46
+Categories:
+  - 'Manuel des joueurs'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 2'
+  - 'Sort paladin 1'
+  - 'Sort prêtre 2'
+---
+[École] Invocation (guérison)
+[Niveau] alchimiste 2, druide 2, inquisiteur 2, paladin|Pal 1, prêtre 2
+[Temps d'incantation] 3 rounds
+[Composantes] V, G
+[Portée] contact
+[Cible] créature touchée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+
+Ce sort dissipe les effets magiques réduisant l'une des caractéristiques de la cible ou permet de récupérer 1d4 points d'une caractéristique affaiblissement temporaire|temporairement affaiblie. ''Restauration partielle'' élimine toute fatigué|fatigue dont est victime le sujet. Si le personnage est épuisé, il devient simplement fatigué. Le sort ne peut rien contre les diminution permanente|diminutions permanentes de caractéristique.
+

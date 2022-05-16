@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Brandon
+Title: Brandon
+LastModified: 2013-10-03 22:52
+Categories:
+  - 'Manuel des joueurs, règles avancées'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort magicien 7'
+---
+
+[École] Transmutation (feu) 
+[Niveau] ensorceleur/magicien 7
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature/4 niveaux, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif), voir plus bas
+[Résistance à la magie] oui (inoffensif)
+
+Le personnage marque plusieurs alliés avec une rune enflammée. Cette rune ne provoque pas de dégâts et émet autant de lumière qu'une torche. Tant que le ''brandon'' brûle, toute créature marquée est immunité|immunisée contre les dégâts de tout sort de feu lancé par le personnage. Toutes les armes de la cible (naturelles ou manufacturées) infligent +1d6 points de dégâts de feu sur un coup réussi (ce bonus de dégâts se cumule avec tout dégâts de feu que les armes de la cible infligeaient déjà). Tant que le sort est actif, la créature qui porte un ''brandon ''peut, à tout moment, lancer un rayon de feu sur toute cible distante de moins de 9 mètres ((6 ) par une action rapide. Ce rayon nécessite une attaque de contact à distance et inflige 6d6 points de dégâts de feu. Une fois qu'une créature a utilisé son ''brandon'' pour lancer un rayon de feu, le sort se termine pour cette créature.
+

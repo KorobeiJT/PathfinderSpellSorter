@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Combattant pris au dépourvu
+Title: Combattant pris au dépourvu
+LastModified: 2012-10-19 11:49
+Categories:
+  - 'Art de la Magie'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort barde 1'
+  - 'Sort magicien 1'
+  - 'Sort sorcière 1'
+---
+
+[École] enchantement (coercition) émotion, mental
+[Niveau] barde 1, ensorceleur/magicien 1, sorcière 1
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] une créature
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui
+
+La cible reçoit un malus de -4 aux tests d'initiative et aux jets de Réflexes.
