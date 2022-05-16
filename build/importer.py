@@ -21,26 +21,26 @@ class LoaderData:
     
     def sortSpellsListFromClasses(self, classList):
         res = {}
-        for nameSpell, currentSpell in self.sorted_dict:
-            for nameClass, lvlClass in currentSpell["Niveau"]:
+        for nameSpell, currentSpell in self.sorted_dict.items():
+            for nameClass, lvlClass in currentSpell["Niveau"].items():
                 if ((nameClass in classList) and (not nameSpell in res)):
-                    res[nameClass] = currentSpell
+                    res[nameSpell] = currentSpell
         self.sorted_dict = res
     
     def sortSpellsListFromLevels(self, levelsList):
         res = {}
-        for nameSpell, currentSpell in self.sorted_dict:
-            for nameClass, lvlClass in currentSpell["Niveau"]:
+        for nameSpell, currentSpell in self.sorted_dict.items():
+            for nameClass, lvlClass in currentSpell["Niveau"].items():
                 if ((lvlClass in levelsList) and (not nameSpell in res)):
-                    res[nameClass] = currentSpell
+                    res[nameSpell] = currentSpell
         self.sorted_dict = res
     
-    def sortSpellsListFromClassesAndLevels(self, classList, levelsList):
+    def sortSpellsListFromClassesAndLevels(self, levelsList, classList):
         res = {}
-        for nameSpell, currentSpell in self.sorted_dict:
-            for nameClass, lvlClass in currentSpell["Niveau"]:
+        for nameSpell, currentSpell in self.sorted_dict.items():
+            for nameClass, lvlClass in currentSpell["Niveau"].items():
                 if ((nameClass in classList) and (lvlClass in levelsList) and (not nameSpell in res)):
-                    res[nameClass] = currentSpell
+                    res[nameSpell] = currentSpell
         self.sorted_dict = res
     
     def printSortedSpellsNames(self):
@@ -52,12 +52,8 @@ class LoaderData:
 
 
 loaderData = LoaderData()
-for k in loaderData.sorted_dict:
-    print(k)
 
-# print(loaderData.sorted_dict)
-# loaderData.sortSpellsListFromClassesAndLevels([0], ["Bard"])
-# loaderData.sortSpellsListFromClasses(["Bard"])
-# loaderData.printSortedSpellsNames()
-# print(loaderData.numberSpells())
+loaderData.sortSpellsListFromClassesAndLevels([0], ["Bard"])
+loaderData.printSortedSpellsNames()
+print(loaderData.numberSpells())
 

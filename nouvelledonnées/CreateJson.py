@@ -23,7 +23,7 @@ def getClassesLevel(line):
     classes = {}
     for level in raw.split(", "):
         if level.split(' ')[0] in wanted:
-            classes[level.split(' ')[0]] = level.split(' ')[1]
+            classes[level.split(' ')[0]] = int(level.split(' ')[1])
     return classes
 
 
