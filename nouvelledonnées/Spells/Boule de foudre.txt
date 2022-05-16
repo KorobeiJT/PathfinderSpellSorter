@@ -1,0 +1,8 @@
+[École] Évocation (air, électricité) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un petit anneau de fer)
+[Portée] moyenne
+[Cible] deux sphères ou plus de 1,50 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler 
+[Résistance à la magie] oui

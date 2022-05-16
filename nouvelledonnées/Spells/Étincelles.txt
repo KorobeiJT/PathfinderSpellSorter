@@ -1,0 +1,8 @@
+[École] Évocation (feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V ou G
+[Portée] courte
+[Cible] un objet infime
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler (objet)
+[Résistance à la magie] oui (objet)

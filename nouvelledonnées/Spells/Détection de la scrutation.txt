@@ -1,0 +1,8 @@
+[École] école Divination
+[Composantes] V, G, M (un éclat de miroir et un cornet acoustique miniature en laiton)
+[Temps d'incantation] 1 action simple
+[Portée] 12 m
+[Cible] émanation de 12 m de rayon centrée sur le jeteur de sorts
+[Durée] 24 heures
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

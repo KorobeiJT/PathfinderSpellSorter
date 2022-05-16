@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une gemme noire de n'importe quel type d'une valeur de 50 po)
+[Portée] courte
+[Cible] sphère de 30 cm de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

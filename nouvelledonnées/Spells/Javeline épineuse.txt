@@ -1,0 +1,8 @@
+[École] Invocation(création) (poison)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 0 m
+[Cible] épine en forme de javeline
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

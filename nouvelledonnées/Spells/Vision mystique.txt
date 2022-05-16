@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (encens (250 po)), F (quatre lamelles d'ivoire (50 po chacune))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] voir description

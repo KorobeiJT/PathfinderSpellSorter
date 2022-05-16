@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, effet mental
+[Temps d'incantation] 1 action simple  
+[Composantes] G  
+[Portée] courte
+[Cible] une créature vivante  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

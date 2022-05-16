@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] moyenne (30 m + 3m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
+[Cible] une créature  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Volonté, annule (voir texte)
+[Résistance à la magie] oui

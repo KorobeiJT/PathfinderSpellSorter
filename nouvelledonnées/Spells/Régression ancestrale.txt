@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] drow volontaire touché
+[Durée] 24 heures
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

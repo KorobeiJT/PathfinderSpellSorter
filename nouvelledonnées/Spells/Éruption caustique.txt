@@ -1,0 +1,8 @@
+[École] invocation (création) acide
+[Temps d'incantation] 1 action simple
+[Composantes] V, G 
+[Portée] 9 m
+[Cible] 9 m de rayon
+[Durée] instantanée et 2 rounds (voir texte)
+[Jet de sauvegarde] Réflexes 1/2 dégâts (voir texte)
+[Résistance à la magie] non

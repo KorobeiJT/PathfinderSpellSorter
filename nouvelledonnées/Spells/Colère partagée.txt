@@ -1,0 +1,8 @@
+[École] Enchantement (coercition)  émotion, mental 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une ronce)
+[Portée] courte
+[Cible] jusqu'à une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 minute
+[Jet de sauvegarde] Volonté pour annuler (inoffensif) 
+[Résistance à la magie] oui (inoffensif)

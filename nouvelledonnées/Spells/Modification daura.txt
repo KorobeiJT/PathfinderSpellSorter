@@ -1,0 +1,8 @@
+[École]Illusion
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] un objet ou une créature consentante
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Volonté annule (inoffensif, objet)
+[Résistance à la magie] oui

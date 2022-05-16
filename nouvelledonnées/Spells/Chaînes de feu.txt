@@ -1,0 +1,8 @@
+[École] Évocation feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une goutte d'huile et un petit éclat de silex)
+[Portée] moyenne (30 m + 3 m/niveau)
+[Cible] 1 cible principale + 1 cible secondaire/niveau (dans un rayon de 9 m (6 cases) autour de la principale)
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

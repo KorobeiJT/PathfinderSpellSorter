@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 round
+[Composantes] V, G, F/FD (un petit sac et une bougie)
+[Portée] courte
+[Cible] 1 créature de niveau 4 ou 1d3 créatures de niveau 3 ou 1d4+1 créatures de niveau moindre convoquées
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] évocation feu
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] moyenne
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

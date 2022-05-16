@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un coquelicot)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun et Volonté partiel (voir plus bas)
+[Résistance à la magie] oui

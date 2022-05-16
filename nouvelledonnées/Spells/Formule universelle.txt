@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (du vif-argent et de platine en poudre d'une valeur de 100 po)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] instantanée

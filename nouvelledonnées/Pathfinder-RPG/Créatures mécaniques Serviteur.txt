@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.Créatures mécaniques Serviteur
+Title: Créature mécanique, Serviteur (doublon)
+LastModified: 2021-04-06 00:49
+Categories:
+  - 'Monstre'
+  - 'Règle officielle'
+  - 'Src Bestiaire 3'
+---
+>>> Serviteur mécanique

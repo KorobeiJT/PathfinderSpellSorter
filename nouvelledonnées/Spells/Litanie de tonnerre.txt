@@ -1,0 +1,8 @@
+[École] Évocation (charme) langage, son
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une créature
+[Durée] 1 round ou plus (voir plus bas)
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

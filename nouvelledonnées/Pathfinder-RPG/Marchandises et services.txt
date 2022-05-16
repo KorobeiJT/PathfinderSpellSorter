@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Marchandises et services
+Title: Les marchandises et services
+LastModified: 2021-10-25 16:10
+Categories:
+  - 'Glossaire'
+  - 'Src Manuel des joueurs'
+---
+{s:MenuEquipement}
+* [[Animaux, montures et leur équipement]]
+* [[Chroniques des Éclaireurs|Chroniques des Explorateurs]]
+* [[Équipement daventurier|Équipement d'aventurier]]
+* [[Focalisateurs de canalisation]]
+* [[Hébergement et services]]
+* [[Jeux]]
+* [[Marché noir]]
+* [[Moyens de transport]]
+* [[Nourriture et Boissons]]
+* [[Outils de compétences]]
+* [[Trousses déquipement|Trousses d'équipement]]
+* [[Vêtements]]

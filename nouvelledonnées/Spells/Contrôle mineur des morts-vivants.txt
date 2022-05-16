@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de viande crue ou un éclat d'os)
+[Portée] courte
+[Cible] 1 type mort-vivant
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

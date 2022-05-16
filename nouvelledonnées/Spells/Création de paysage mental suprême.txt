@@ -1,0 +1,3 @@
+[École]Illusion (fantasme) effet mental
+[Cible] 1 créature/niveau
+[Durée] 1 jour/niveau

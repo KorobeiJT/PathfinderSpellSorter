@@ -1,0 +1,8 @@
+[École] Nécromancie Mal, maladie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

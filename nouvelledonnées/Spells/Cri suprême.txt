@@ -1,0 +1,7 @@
+[École] Évocation (son)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un petit cor en métal ou en ivoire)
+[Portée] 18 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel ou Réflexes, annule (objet) (voir description)

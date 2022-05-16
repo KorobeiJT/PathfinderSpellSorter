@@ -1,0 +1,8 @@
+[École] Évocation (eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une cuillère à touiller)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] tourbillon de 15 m (10 {s:c} de profondeur, de 9 mètres de large au sommet et 1,50 m à la base
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler ; voir texte
+[Résistance à la magie] oui

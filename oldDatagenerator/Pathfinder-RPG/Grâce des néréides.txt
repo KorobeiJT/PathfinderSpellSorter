@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Grâce des néréides
+Title: Grâce des néréides
+LastModified: 2020-07-10 01:39
+Categories:
+  - 'Manuel des races'
+  - 'Règles officielles'
+  - 'Sort'
+  - 'Sort druide 1'
+  - 'Sort sorcière 1'
+---
+{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
+'''École''' [[Abjuration]] ; 
+'''Niveau''' [[druide]] 1, [[sorcière]] 1<br/>
+'''Temps d’incantation''' 1 [[action simple]]<br/>
+'''Composantes''' [[Composantes|V,G]]<br/>
+'''Portée''' [[Présentation des sorts#PORTEE|personnelle]]<br/>
+'''Cible''' lanceur de sorts<br/>
+'''Durée''' 1 [[round]]/[[niveau]]
+
+Le lanceur de sorts respire la grâce surnaturelle des néréides.
+S’il ne porte pas d’[[Tableau récapitulatif des armures|armure]], il gagne un [[Valeurs de combat#BONUSPARADE|bonus de parade à la CA]] et au [[Manœuvres offensives#DMD|DMD]] égal à son bonus de [[Caractéristiques#CHARISME|Charisme]] (maximum+3). Le maximum augmente de 1 tous les 6 niveaux de lanceur de sorts (maximum +6 au niveau 18).

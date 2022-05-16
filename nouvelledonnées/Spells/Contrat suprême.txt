@@ -1,0 +1,8 @@
+[École] Invocation (appel) (voir description)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte (voir description)
+[Cible] jusqu'à 3 sous-type élémentaires ou type Extérieurs (ne totalisant pas plus de 18 DV), apparaissant à 9 m ou moins les uns des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] non et oui (voir description)

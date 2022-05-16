@@ -1,0 +1,8 @@
+[École] Transmutation feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une arme de corps à corps
+[Durée] 1 round/niveau (voir texte)
+[Jet de sauvegarde] vigueur pour annuler
+[Résistance à la magie] oui (objet)

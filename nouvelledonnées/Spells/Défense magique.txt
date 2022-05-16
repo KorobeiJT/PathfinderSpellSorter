@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 30 minutes
+[Composantes] V, G, M (encens, soufre et huile, cordelette nouée, un peu de sang), F (un bâtonnet en argent)
+[Portée] n'importe où dans la zone défendue
+[Cible] jusqu'à 20 m²/niveau
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description

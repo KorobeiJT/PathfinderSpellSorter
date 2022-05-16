@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 1 créature/3 niveaux, situées à moins de 9 m les unes des autres
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (voir texte)
+[Résistance à la magie] oui

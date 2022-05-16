@@ -1,0 +1,8 @@
+[École] Évocation (Loi)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] toutes les créatures non-Loyales qui se trouvent dans un cube de 9 m de côté
+[Durée] instantanée (1 round) ; voir description
+[Jet de sauvegarde] Volonté, partiel, voir description
+[Résistance à la magie] oui

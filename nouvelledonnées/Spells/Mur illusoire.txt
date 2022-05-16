@@ -1,0 +1,8 @@
+[École] Illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] image de 3 m x 3 m x 30 cm (2 {s:c} x 2 {s:c} x 0,2 {s:c})
+[Durée] permanente
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non

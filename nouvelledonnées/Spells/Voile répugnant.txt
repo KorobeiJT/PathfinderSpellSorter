@@ -1,0 +1,8 @@
+[École] Illusion (mirage) mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un écheveau de fils multicolores)
+[Portée] courte
+[Cible] voile transparent de 12 m de long et 6 m de haut
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

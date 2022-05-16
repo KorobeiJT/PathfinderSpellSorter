@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un petit bout de fer ayant fait partie d'un golem de fer, de l'armure d'un héros ou d'une machine de guerre)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 minute/niveau

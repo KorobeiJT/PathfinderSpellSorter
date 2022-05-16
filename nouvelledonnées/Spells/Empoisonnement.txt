@@ -1,0 +1,8 @@
+[École] Nécromancie poison
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée (voir description)
+[Jet de sauvegarde] Vigueur, annule (voir description)
+[Résistance à la magie] oui

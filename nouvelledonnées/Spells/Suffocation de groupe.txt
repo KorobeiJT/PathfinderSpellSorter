@@ -1,0 +1,8 @@
+[École] Nécromancie 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une fiole contenant une bouffée de souffle du lanceur de sort)
+[Portée] courte
+[Cible] une créature vivante/2 niveaux qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

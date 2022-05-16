@@ -1,0 +1,8 @@
+[École] Illusion (ombre)
+[Temps d'incantation] 1 round  
+[Composantes] V, G, F (un médaillon de Légionnaire infernal défunt ou une copie d'un opéra de l'Empire diabolique, tous deux valant 100 po)  
+[Portée] 36 m  
+[Cible] ligne de 36 mètres de long et de 3 mètres de large  
+[Durée] instantanée  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

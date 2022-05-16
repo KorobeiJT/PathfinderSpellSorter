@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une créature Mauvaise qui n'est pas de sous-type Mal
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

@@ -1,0 +1,7 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (poudre de diamant (500 po))
+[Portée] moyenne
+[Cible] plusieurs type morts-vivants situés dans un rayonnement de 12 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule

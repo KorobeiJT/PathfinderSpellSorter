@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] 0 m
+[Cible] un carrosse quasi-réel et ses chevaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

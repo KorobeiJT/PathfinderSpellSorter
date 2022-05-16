@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Science du tir soudain
+Title: Science du tir soudain
+LastModified: 2021-04-30 16:23
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''Le personnage sait tirer parti des faiblesses de son adversaire, même de loin et sans vous exposer. ''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Dex]] 15, [[Arme de prédilection]], [[Tir à bout portant]], [[Tir rapide]], [[Tir soudain]], [[BBA]] +9
+
+'''Avantage.''' Le personnage peut utiliser [[Tir soudain]] à 1.5 m (1 {s:c}) de plus.
+
+'''Normal.''' Le personnage provoque une [[attaque dopportunité|attaque d’opportunité]] quand il fait une [[attaque à distance]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+À la fin de son tour, le personnage peut dépenser 5 points d’endurance pour menacer une zone de 4,50 mètres de plus (au lieu de 3) avec le [[Tir soudain]]. Cet effet persiste jusqu’à ce que le personnage fasse une [[AO|attaque d’opportunité]] contre un adversaire situé dans la [[espace contrôlé|zone de contrôle]] accrue ou jusqu’au début de son prochain tour, selon ce qui se produit en premier.

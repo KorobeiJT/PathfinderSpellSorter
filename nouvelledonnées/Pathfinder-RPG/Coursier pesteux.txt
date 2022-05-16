@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.Coursier pesteux
+Title: Coursier pesteux
+LastModified: 2021-04-03 21:32
+---
+<div class="description">
+'''Source initiale :''' Guide de la Plaie du Monde p.43
+
+'''Source à jour :''' Bestiaire 5 p.46
+</div>
+>>> Cheval pestiféré
+

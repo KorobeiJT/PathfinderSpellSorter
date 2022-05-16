@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (une clochette et un peu de fil d'argent extrêmement fin)
+[Portée] courte
+[Cible] émanation de 6 m de rayon autour du point choisi
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

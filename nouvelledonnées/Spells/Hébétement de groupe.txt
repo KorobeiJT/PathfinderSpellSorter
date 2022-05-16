@@ -1,0 +1,8 @@
+[École] enchantement (coercition) mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] une créature humanoïde ou plusieurs qui ne doivent pas être distantes de plus de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

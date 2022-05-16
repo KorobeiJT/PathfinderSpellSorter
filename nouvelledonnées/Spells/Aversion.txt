@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M/FD (un peu d'alun trempé dans du vinaigre)
+[Portée] courte
+[Cible] 1 lieu (volume n'excédant pas un cube de 3 m d'arête/niveau) ou 1 objet
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

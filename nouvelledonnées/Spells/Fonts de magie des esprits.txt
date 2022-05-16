@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière d'or d'une valeur de 50 po)
+[Portée] 9 m
+[Cible] émanation de 9 m de rayon centrée sur le lanceur
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non

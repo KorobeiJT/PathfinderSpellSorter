@@ -1,0 +1,3 @@
+[École] abjuration
+[Jet de sauvegarde] cf. texte
+[Résistance à la magie] non (objet) et oui (cf. texte)

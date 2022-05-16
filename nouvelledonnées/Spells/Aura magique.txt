@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un petit carré de soie à passer au-dessus de l'objet qui recevra l'aura)
+[Portée] contact
+[Cible] objet touché (2,5 kg/niveau maximum)
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] évocation son
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] 4,5 m  
+[Cible] explosion en cône  
+[Durée] 1 round/niveau ou jusqu'à déchargement (cf. texte)  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts (cf. texte)
+[Résistance à la magie] oui

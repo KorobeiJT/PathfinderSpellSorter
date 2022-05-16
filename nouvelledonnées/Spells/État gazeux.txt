@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] G, M/FD (un morceau de gaze et une volute de fumée)
+[Portée] contact
+[Cible] créature tangible et consentante touchée
+[Durée] 2 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

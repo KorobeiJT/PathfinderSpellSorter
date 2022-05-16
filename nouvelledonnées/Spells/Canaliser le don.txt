@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] contact  
+[Cible] le lanceur de sort allié touché  
+[Durée] 1 round ou voir texte  
+[Jet de sauvegarde] Volonté, annule (inoffensif) ou aucun
+[Résistance à la magie] oui (inoffensif) ou non

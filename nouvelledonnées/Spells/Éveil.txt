@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 24 heures
+[Composantes] V, G, M (2 000 po d'herbes et d'huiles), FD
+[Portée] contact
+[Cible] animal ou arbre touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

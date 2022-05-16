@@ -1,0 +1,8 @@
+[École] Transmutation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte d'huile et un fragment de silex)
+[Portée] courte
+[Cible] 50 projectiles devant être en contact les uns avec les autres au moment de l'incantation
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

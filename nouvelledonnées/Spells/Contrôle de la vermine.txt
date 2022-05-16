@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD/M (un scarabée)  
+[Portée] courte
+[Cible] jusqu'à 1 DV de vermine/niveau, les vermines ne devant pas être espacées de plus de 9 m les unes des autres  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] non

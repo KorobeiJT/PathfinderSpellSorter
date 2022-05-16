@@ -1,0 +1,4 @@
+[École] illusion (hallucination)
+[Portée] 1,5 m
+[Cible] alliés présents dans une émanation de 3 m centré sur le lanceur
+[Durée] 1 minute/niveau (cf. texte)

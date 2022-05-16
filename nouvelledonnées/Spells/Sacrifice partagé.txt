@@ -1,0 +1,8 @@
+[École] Nécromancie Mal
+[Temps d'incantation] 1 round  
+[Composantes] V, G  
+[Portée] courte
+[Cible] une créature  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature ou objet touché
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté annule (inoffensif) et Volonté pour percer à jour ; voir texte
+[Résistance à la magie] voir texte

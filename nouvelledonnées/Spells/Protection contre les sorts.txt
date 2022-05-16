@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de diamant (500 po)), F (un diamant (1 000 po) par cible. Chacune doit porter cette gemme pendant la durée du sort ; si elle la perd, le sort ne la protège plus)
+[Portée] contact
+[Cible] jusqu'à 1 créature touchée/4 niveaux
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] Nécromancie (mental) émotion, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature vivante ayant 5 DV ou moins
+[Durée] 1d4 rounds ou 1 round (voir description)
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

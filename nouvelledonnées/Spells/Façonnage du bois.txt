@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] morceau de bois touché, dans la limite de 0,3 m³ + 30 dm³/niveau
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

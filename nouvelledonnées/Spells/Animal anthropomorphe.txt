@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une phalange de pouce humain)
+[Portée] contact
+[Cible] animal touché
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

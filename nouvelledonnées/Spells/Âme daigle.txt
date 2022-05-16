@@ -1,0 +1,6 @@
+[École] Invocation (convocation) Bien
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (du vélin sur lequel est inscrit le nom de l'extérieur bon)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 heure/niveau (voir description)

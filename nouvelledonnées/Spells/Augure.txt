@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (25 po d'encens), F (jeu de bâtonnets ou d'osselets couverts de runes (valeur minimale 25 po))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] instantanée

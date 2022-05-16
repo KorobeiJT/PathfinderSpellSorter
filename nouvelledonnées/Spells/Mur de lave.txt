@@ -1,0 +1,8 @@
+[École] Invocation (création) (terre, feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un morceau de lave refroidie)
+[Portée] moyenne
+[Cible] mur de lave qui occupe une zone de 1,50 m/niveau au maximum
+[Durée] 1 round/niveau
+[Jet de sauvegarde] voir texte 
+[Résistance à la magie] non

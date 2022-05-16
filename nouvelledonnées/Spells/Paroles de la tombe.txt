@@ -1,0 +1,6 @@
+[École] Nécromancie dépend de la langue
+[Temps d'incantation] 1 minute
+[Composantes] S
+[Portée] contact
+[Cible] 1 créature morte
+[Durée] 1 round

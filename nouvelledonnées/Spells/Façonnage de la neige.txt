@@ -1,0 +1,8 @@
+[École] Transmutation eau
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M/FD (une pelle miniature)  
+[Portée] contact  
+[Cible] de la neige ou une sculpture de neige touchée, d'un maximum de 1,5 m<sup>3</sup> + 30 cm<sup>3</sup>/niveau  
+[Durée] instantanée  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

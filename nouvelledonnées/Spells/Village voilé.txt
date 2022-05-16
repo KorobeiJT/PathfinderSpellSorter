@@ -1,0 +1,7 @@
+[École] Illusion (chimère) effet mental[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] cube de 3 m de côté par niveau
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Volonté pour dévoiler
+[Résistance à la magie] non

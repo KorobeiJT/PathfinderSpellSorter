@@ -1,0 +1,8 @@
+[École] abjuration émotion, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G (crachat)
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 round/niveau et 1 minute, voir texte
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

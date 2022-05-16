@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Tir en retraite
+Title: Tir en retraite
+LastModified: 2021-04-30 16:32
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Manuel des joueurs - Règles avancées'
+---
+{s:apg}''Le personnage est un tirailleur expert capable de faire s’abattre une pluie de flèches sur ses ennemis tout en avançant ou en battant en retraite.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Dextérité|Dex]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]], [[BBA]] +6.
+
+'''Avantage.''' Une fois par rencontre, lorsque le personnage utilise l’action de retraite, il peut effectuer une unique [[attaque à distance]] à n’importe quel moment au cours de son déplacement.
+
+'''Normal.''' Le personnage ne peut pas attaquer au cours d’une retraite.
+
+'''Spécial.''' Dès le niveau 6, un [[rôdeur]] ayant choisi le style de combat « à distance » peut choisir [[Tir en retraite]] comme don de style de combat.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Le personnage peut dépenser 2 points d’endurance pour utiliser les avantages de ce don une deuxième fois au cours d’une même rencontre. Il ne peut utiliser cette astuce martiale qu’une seule fois par rencontre et ne peut donc pas effectuer plus de deux attaques de Tir en retraite par combat.

@@ -1,0 +1,8 @@
+[École] Nécromancie mort, mal
+[Temps d'incantation]  1 round  
+[Composantes] V, G, F (quatre vases canopes en albâtre (100 po pièce)), M (onyx noire d'une valeur de 100 po par DV de la cible)  
+[Portée] courte
+[Cible] une créature  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, 1/2
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (fantasme) (Mal, mental)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] illimitée
+[Cible] 1 créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

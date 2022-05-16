@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G (un biscuit dur émietté)
+[Portée] contact
+[Cible] lanceur de sorts plus 1 créature touchée/3 niveaux
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)
+[Durée] 1 heure/niveau

@@ -1,0 +1,8 @@
+[École] évocation mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] projectile d'énergie maléfique en forme de flèche
+[Durée] instantanée (1d4 rounds)
+[Jet de sauvegarde] Volonté partiel (voir texte)
+[Résistance à la magie] oui

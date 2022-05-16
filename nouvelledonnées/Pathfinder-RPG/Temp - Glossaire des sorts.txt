@@ -1,0 +1,6 @@
+---
+Name: Pathfinder-RPG.Temp - Glossaire des sorts
+Title: Temp - Glossaire des sorts
+LastModified: 2020-12-18 23:00
+---
+<iframe width="100%" style="height: 600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSru9DOCcQddRQpn15gSfY8ps22g-0kTvwaPcnCK3HHbLYnRr2k0UJoy46rfUNnj82KHx0Die_YL4pL/pubhtml?gid=1271745896&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

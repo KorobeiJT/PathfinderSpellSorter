@@ -1,0 +1,6 @@
+[École]Invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (boîte de cristal vide)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 heure/niveau

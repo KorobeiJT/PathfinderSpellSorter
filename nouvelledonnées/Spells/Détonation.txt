@@ -1,0 +1,8 @@
+[École] Évocation (acide, froid, électricité ou feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (deux fioles ; une contenant de l'acide, l'autre une solution alcaline, le tout pour une valeur de 50 po)
+[Portée] 9 m 
+[Cible] étendue de 9 m de rayon centrée sur le lanceur de sorts
+[Durée] 1 round puis instantanée
+[Jet de sauvegarde] Réflexes pour réduire de moitié
+[Résistance à la magie] oui

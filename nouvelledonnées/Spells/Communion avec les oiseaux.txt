@@ -1,0 +1,7 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lanceur de sort
+[Durée] 10 minutes 
+[Jet de sauvegarde] voir description

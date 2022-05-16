@@ -1,0 +1,6 @@
+[École] Enchantement (charme) mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] le compagnon animal
+[Durée] 1 minute/niveau

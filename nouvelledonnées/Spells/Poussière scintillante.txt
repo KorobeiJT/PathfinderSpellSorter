@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (mica réduit en poudre)
+[Portée] moyenne
+[Cible] créatures et objets compris dans une étendue de 3 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule (uniquement la cécité)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (du sable fin et une fiole d'encre)  
+[Portée] 1,5 m  
+[Cible] un ou plusieurs objets écrits  
+[Durée] concentration, jusqu'à 1 minute/niveau  
+[Jet de sauvegarde] Volonté (objet, inoffensif)
+[Résistance à la magie] oui (objet)

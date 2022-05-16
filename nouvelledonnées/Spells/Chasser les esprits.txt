@@ -1,0 +1,8 @@
+[École]Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 1 créature ou apparition
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

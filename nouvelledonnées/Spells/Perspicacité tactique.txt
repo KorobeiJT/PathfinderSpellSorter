@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un bout de carte)
+[Portée] 9 m
+[Cible] lanceur de sorts et les alliés dans un rayon de 9 m centré sur le lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

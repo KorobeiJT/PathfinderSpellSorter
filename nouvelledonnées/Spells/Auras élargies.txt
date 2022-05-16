@@ -1,0 +1,6 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 minute/niveau

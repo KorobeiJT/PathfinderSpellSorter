@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action rapide  
+[Composantes] V, G  
+[Portée] 9 m  
+[Cible] une arme de corps à corps maniée par un allié  
+[Durée] instantanée

@@ -1,0 +1,7 @@
+[École] Enchantement (nécromancie) effet mental[Temps d'incantation] voir texte
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature vivante
+[Durée] voir texte
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

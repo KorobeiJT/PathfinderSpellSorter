@@ -1,0 +1,8 @@
+[École] nécromancie maladie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1d3 jours
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

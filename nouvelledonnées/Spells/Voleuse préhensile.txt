@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 Vocabulaire courant#round/niveau
+[Jet de sauvegarde] Vigueur annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

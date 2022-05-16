@@ -1,0 +1,8 @@
+[École] Abjuration (mal) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] armure touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

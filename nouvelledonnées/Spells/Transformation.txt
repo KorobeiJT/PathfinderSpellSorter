@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (une fiole de vif-argent d'une valeur de 1 000 po)
+[Portée] contact
+[Cible] eidolon du lanceur de sorts
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non

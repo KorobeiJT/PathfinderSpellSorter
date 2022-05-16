@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de ficelle et un bout de bois)
+[Portée] courte
+[Cible] 1 serviteur invisible, dénué de forme et d'intelligence
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

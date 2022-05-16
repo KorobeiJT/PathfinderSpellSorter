@@ -1,0 +1,8 @@
+[École] Transmutation air
+[Temps d'incantation] 1 action simple
+[Composantes] G, M/FD (un morceau de gaze et une volute de fumée)
+[Portée] personelle
+[Cible] lanceur de sort
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] Non

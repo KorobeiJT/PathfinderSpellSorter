@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] G, FD
+[Portée] Personnelle
+[Cible] le lanceur de sorts
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

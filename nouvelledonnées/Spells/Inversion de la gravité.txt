@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (de la magnétite et quelques copeaux de fer)
+[Portée] moyenne
+[Cible] jusqu'à 1 cube de 3 m/2 {s:c} d'arête par 2 niveaux
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] non

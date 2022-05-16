@@ -1,0 +1,8 @@
+[École] Transmutation acide
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] courte
+[Cible] le compagnon animal du personnage  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui

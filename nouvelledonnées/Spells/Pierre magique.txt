@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] jusqu'à 3 cailloux touchés
+[Durée] 30 minutes ou jusqu'à utilisation
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

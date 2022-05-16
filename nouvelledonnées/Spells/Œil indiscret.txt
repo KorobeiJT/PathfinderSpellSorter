@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (une poignée de billes de cristal)
+[Portée] 1,5 km
+[Cible] 10 yeux au moins en état de lévitation
+[Durée] 1 heure/niveau (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

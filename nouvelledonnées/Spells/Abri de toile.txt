@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] sphère de toile de 1,50 à 3 m de diamètre ou demi-sphère de 1,50 à 6 m
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

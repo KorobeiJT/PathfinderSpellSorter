@@ -1,0 +1,8 @@
+[École] Nécromancie émotion, mental, peur
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (mercure et phosphore, plus un diamant et une opale en poudre (1 000 po au total))
+[Portée] 0 m (voir description)
+[Cible] 1 symbole
+[Durée] voir description
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

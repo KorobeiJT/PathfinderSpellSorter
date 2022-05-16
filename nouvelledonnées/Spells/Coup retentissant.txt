@@ -1,0 +1,8 @@
+[École] Évocation (sonore) 
+[Temps d'incantation] 1 action rapide
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partiel ; voir texte
+[Résistance à la magie] non

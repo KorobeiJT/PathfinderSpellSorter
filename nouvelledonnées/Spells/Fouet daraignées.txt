@@ -1,0 +1,8 @@
+[École] invocation (convocation)
+[Temps d'incantation] 1 action (convocation simple
+[Composantes] V, G, M/FD (un carré de tissu rouge)
+[Portée] 0 m
+[Cible] nuée en forme de fouet
+[Durée] 1 round/niveau (cf. texte)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

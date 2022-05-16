@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, FD
+[Portée] illimitée
+[Cible] 1 créature ou 1 objet
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

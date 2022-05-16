@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] personnelle
+[Cible] une arme (arc)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

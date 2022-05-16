@@ -1,0 +1,8 @@
+[École] Évocation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 4,50 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

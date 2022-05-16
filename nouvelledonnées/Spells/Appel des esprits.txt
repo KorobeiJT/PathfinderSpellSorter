@@ -1,0 +1,6 @@
+[École] Enchantement
+[Temps d'incantation] 1 round  
+[Composantes] V, G, FD  
+[Portée] 30 m  
+[Cible] étendue de 30 m de rayon centrée sur le personnage  
+[Durée] 1 minute/niveau

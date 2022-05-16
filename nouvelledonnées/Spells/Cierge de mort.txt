@@ -1,0 +1,6 @@
+[École] Nécromancie mort, mal, feu
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Durée] instantanée/1 round par DV du sujet ; voir description
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

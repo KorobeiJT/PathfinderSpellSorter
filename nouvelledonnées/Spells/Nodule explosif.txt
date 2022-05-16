@@ -1,0 +1,8 @@
+[École] Abjuration effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] 1 objet touché pesant moins de 5 kg
+[Durée] permanente jusqu'à déchargement
+[Jet de sauvegarde] Volonté partiel ; voir texte
+[Résistance à la magie] non

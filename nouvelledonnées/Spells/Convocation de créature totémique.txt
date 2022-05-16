@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, M/FD (un bout d'os de n'importe quel animal totem du lanceur)  
+[Portée] courte
+[Cible] une créature convoquée  
+[Durée] 1 heure  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

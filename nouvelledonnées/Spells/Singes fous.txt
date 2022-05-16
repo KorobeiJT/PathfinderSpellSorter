@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 round
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une nuée de singes
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

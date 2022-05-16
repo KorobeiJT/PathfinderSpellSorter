@@ -1,0 +1,8 @@
+[École] enchantement(coercition) mental
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un coupon de tissu noir)
+[Portée] courte
+[Cible] une animal indifférent ou amical
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

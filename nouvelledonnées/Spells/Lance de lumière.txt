@@ -1,0 +1,6 @@
+[École] Évocation (bien, lumière) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lance de lumière
+[Durée] 1 round + 1 round/niveau

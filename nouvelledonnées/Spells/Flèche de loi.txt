@@ -1,0 +1,8 @@
+[École] évocation loi
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD(un symbole sacré)
+[Portée] courte
+[Cible] projectile en forme de flèche fait d'énergie loyale
+[Durée] instantanée (1 round); voir texte
+[Jet de sauvegarde] Volonté partiel (voir texte)
+[Résistance à la magie] oui

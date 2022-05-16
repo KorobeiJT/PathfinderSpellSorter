@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Empathie rapide
+Title: Empathie rapide
+LastModified: 2021-04-30 19:51
+Categories:
+  - 'Don'
+  - 'Règle officielle'
+  - 'Src Art de la magie'
+---
+{s:um}''L’harmonie empathique entre le personnage et la nature lui permet de se lier rapidement à l’esprit des bêtes. ''
+
+'''Conditions.''' 5 rangs en [[Dressage]], pouvoir de classe [[roublard#EMPATHIESAUVAGE|empathie sauvage]]
+
+'''Avantage.''' L’utilisation de l’[[roublard#EMPATHIESAUVAGE|empathie sauvage]] est un pouvoir de classe.
+
+'''Normal.''' L’utilisation de l’[[roublard#EMPATHIESAUVAGE|empathie sauvage]] nécessite 1 minute.
+
+{s:CMy}
+===Version mythique===
+''Le personnage peut calmer les animaux sauvages en faisant preuve d’une rapidité presque surnaturelle.''
+
+'''Condition.''' Empathie rapide
+
+'''Avantage.''' Le personnage peut utiliser [[empathie sauvage]] par une [[action rapide]].

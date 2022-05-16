@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 round  
+[Composantes] V, G, F (une plume en or d'une valeur de 100 po)  
+[Portée] courte
+[Cible] 1d4+1 créatures invoquées  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

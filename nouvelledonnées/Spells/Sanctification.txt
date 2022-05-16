@@ -1,0 +1,8 @@
+[École] Évocation (Bien)
+[Temps d'incantation] 24 heures
+[Composantes] V, G, M (herbes, huiles rares et encens, pour une valeur totale de 1 000 po, plus 1 000 po par niveau du sort associé), FD
+[Portée] contact
+[Cible] émanation de 12 m de rayon à partir du point touché
+[Durée] instantanée
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description

@@ -1,0 +1,8 @@
+[École] Évocation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 2 cubes de 3 m d'arête/niveau
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Évocation (feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 3 rayons ou plus
+[Durée] 3 rounds
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

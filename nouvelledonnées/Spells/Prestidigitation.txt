@@ -1,0 +1,8 @@
+[École] Universel
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 3 m
+[Cible] voir description
+[Durée] 1 heure
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] évocation (feu, dépendant du langage)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] 9 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes partiel, voir texte
+[Résistance à la magie] spécial, voir plus bas

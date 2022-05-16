@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action complexe  
+[Composantes] V, G, M (une plume blanche)  
+[Portée] 9 mètres  
+[Cible] créatures non-alliées dans une aura de 9 mètres de rayon  
+[Durée] 1 minute/niveau et instantanée  
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

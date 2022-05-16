@@ -1,0 +1,8 @@
+[École] enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une plume de cygne)
+[Portée] moyenne
+[Cible] une créature/niveau qui ne doivent pas être distantes de plus de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (voir texte)
+[Résistance à la magie] oui

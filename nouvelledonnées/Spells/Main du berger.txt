@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] 7,5 km
+[Cible] main spectrale
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

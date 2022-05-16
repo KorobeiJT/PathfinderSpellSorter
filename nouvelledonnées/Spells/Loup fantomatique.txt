@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, F (croc d'un loup sanguinaire)  
+[Portée] 0 m  
+[Cible] une créature quasi réelle ressemblant à un loup sanguinaire  
+[Durée] 1 heure/niveau ou 1 round/niveau ; voir description  
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] non

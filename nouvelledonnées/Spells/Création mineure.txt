@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un morceau de matériau correspondant à celui que l'on souhaite créer)
+[Portée] 0 m
+[Cible] objet non-magique de matière inerte et végétale de 30 dm³/niveau
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

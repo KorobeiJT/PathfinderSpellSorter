@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (laboratoire doté d'un matériel d'une valeur de 1 000 po), F (équipement de laboratoire spécial (500 po)
+[Portée] 0 m
+[Cible] 1 clone
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

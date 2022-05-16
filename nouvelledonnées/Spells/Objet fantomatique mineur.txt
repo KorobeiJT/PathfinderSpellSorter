@@ -1,0 +1,7 @@
+[École] Illusion (ombre) ombre[Composantes] V, G
+[Temps d'incantation] 1 minute
+[Portée] 0 m
+[Cible] un objet illusoire non magique abandonné, en matière végétale non vivante, d'un maximum de 0,03 m3/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

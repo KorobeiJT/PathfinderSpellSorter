@@ -1,0 +1,8 @@
+[École] Évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une épée de platine miniature (250 po))
+[Portée] courte
+[Cible] 1 épée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

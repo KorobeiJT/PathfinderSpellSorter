@@ -1,0 +1,8 @@
+[École] nécromancie douleur, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] émanation de 9 m
+[Durée] concentration +2 rounds
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (effet mental) 
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (un pétale de rose et une goutte de parfum)
+[Portée] 1,50 m
+[Cible] émanation de 1,50 m centrée sur le lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] l'arme de corps à corps touchée
+[Durée] 1 heure/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Réflexes pour annuler (cf. texte)
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, F (un parchemin roulé en forme de cône)
+[Portée] courte
+[Cible] sons intelligibles (paroles le plus souvent)
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (un canon ornementé miniature forgé avec une goutte du sang du personnage qui coûte 5 000 po)
+[Portée] courte
+[Cible] un canon animé
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

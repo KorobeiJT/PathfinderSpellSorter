@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (quelques crins)
+[Portée] courte
+[Cible] 1 monture
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

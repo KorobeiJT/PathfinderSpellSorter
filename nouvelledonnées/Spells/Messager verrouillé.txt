@@ -1,0 +1,8 @@
+[École] enchantement (coercition) effet mental, basé sur le langage
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature vivante volontaire
+[Durée] permanente jusqu'à déchargement (cf. texte)
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

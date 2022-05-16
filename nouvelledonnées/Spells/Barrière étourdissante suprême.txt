@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 round/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] aucun et Volonté, annule (cf. texte)
+[Résistance à la magie] non et oui (cf. texte)

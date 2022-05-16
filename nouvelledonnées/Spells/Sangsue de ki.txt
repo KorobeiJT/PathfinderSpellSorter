@@ -1,0 +1,6 @@
+[École] Nécromancie Mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau

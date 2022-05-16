@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une goutte extrêmement diluée de nectar d'orchidée solaire d'une valeur de 500 po)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 heure/niveau

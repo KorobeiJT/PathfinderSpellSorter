@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] voir description
+[Cible] voir description
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

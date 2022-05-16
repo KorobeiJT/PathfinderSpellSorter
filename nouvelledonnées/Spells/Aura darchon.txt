@@ -1,0 +1,8 @@
+[École] Évocation Bien, Loi
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m
+[Cible]  6 m de rayon, centrée sur le lanceur de sorts
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

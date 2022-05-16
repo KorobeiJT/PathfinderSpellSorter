@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M/FD (mince fil de cuivre)
+[Portée] voir description
+[Cible] 1 créature
+[Durée] 1 round (voir description)
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

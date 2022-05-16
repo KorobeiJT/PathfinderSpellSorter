@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Coup repositionnant
+Title: Coup repositionnant
+LastModified: 2021-04-29 19:24
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Manuel des joueurs - Règles avancées'
+---
+{s:apg}''Les coups critiques infligés par le personnage peuvent forcer ses ennemis à se déplacer selon ses désirs.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Intelligence|Int]] 13, [[Expertise du combat]], [[Science du repositionnement]], [[BBA]] +9.
+
+'''Avantage.''' Chaque fois que le personnage porte un [[coup critique]] avec une [[attaque au corps à corps]], il peut déplacer son adversaire en plus de lui infliger des dégâts normaux. Si le jet de confirmation du coup critique est supérieur ou égal au [[DMD]] de la cible, le personnage peut la déplacer comme s’il effectuait une manœuvre de [[repositionnement]] réussie. Cela ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].
+
+'''Normal.''' Il faut réaliser un test de manœuvre séparé pour [[repositionnement|repositionner]] un adversaire.
+
+'''Spécial. '''Le personnage ne peut utiliser qu’un seul des dons suivants à la fois en cas de coup critique : [[Coup bousculant]], [[Coup désarmant]], [[Coup déséquilibrant]], [[Coup destructeur]] et [[Coup repositionnant]]. Il peut décider d’utiliser ce don après avoir effectué le jet de confirmation.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage rate une confirmation de [[coup critique|critique]] avec une attaque au corps à corps, il peut dépenser 2 points d’endurance pour tenter de [[repositionnement|repositionner]] sa cible malgré tout. Il relance alors le jet de confirmation du critique pour savoir si sa tentative de repositionnement dépasse le [[DMD]] de son adversaire. Ce jet sert uniquement à la manœuvre offensive et ne permet pas de confirmer le critique. Le personnage ne peut pas faire cela si la cible est immunisée contre les coups critiques.

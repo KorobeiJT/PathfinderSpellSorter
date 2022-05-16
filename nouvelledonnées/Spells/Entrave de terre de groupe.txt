@@ -1,0 +1,2 @@
+[École] Transmutation  terre
+[Cible] une créature ou un objet/niveau, il ne doit pas y avoir plus de 9 mètres entre deux cibles.

@@ -1,0 +1,8 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G   
+[Portée] courte
+[Cible] une créature/niveau situées à moins de 9 mètres les unes des autres  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui

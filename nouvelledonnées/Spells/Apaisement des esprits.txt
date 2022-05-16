@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 mort-vivant intangible ou apparition
+[Durée] 1 minute ou 1 round/niveau ; voir texte
+[Jet de sauvegarde] Présentation des sorts#Jets_de_sauvegarde_9|Volonté annule ou aucun ; voir texte
+[Résistance à la magie] oui

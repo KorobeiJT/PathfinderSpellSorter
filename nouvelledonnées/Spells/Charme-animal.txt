@@ -1,0 +1,8 @@
+[École] Enchantement (charme) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 animal
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (hallucination) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau (jusqu'à 5 rounds)
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

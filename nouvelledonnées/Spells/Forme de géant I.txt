@@ -1,0 +1,6 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de la créature en laquelle le personnage veut se transformer)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minute/niveau

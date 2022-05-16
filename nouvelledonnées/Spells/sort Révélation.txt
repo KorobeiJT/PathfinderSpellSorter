@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 round  
+[Composantes] V, G  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 round/niveau ; voir texte

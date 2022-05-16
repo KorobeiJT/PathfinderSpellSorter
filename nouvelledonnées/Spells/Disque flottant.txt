@@ -1,0 +1,8 @@
+[École] Évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de mercure)
+[Portée] courte
+[Cible] disque de force de 90 cm de diamètre
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

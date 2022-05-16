@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.Créatures mécaniques Soldat
+Title: Créatures mécaniques Soldat (doublon)
+LastModified: 2021-04-17 15:18
+Categories:
+  - 'Monstre'
+  - 'Règle officielle'
+  - 'Src Bestiaire 3'
+---
+>>> Soldat mécanique

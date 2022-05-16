@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sueur)
+[Portée] courte
+[Cible] rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur, partiel (voir description)
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] moyenne
+[Cible] 1 objet magique lié au feu ou 1 cube de 6 m d'arête/niveau
+[Durée] instantanée
+[Jet de sauvegarde] aucun ou Volonté, annule (objet)
+[Résistance à la magie] non ou oui (objet)

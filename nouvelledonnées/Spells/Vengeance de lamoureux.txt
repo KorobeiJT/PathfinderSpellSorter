@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 minute  
+[Composantes] V, G (un bijou de 100 po minimum)  
+[Portée] contact  
+[Cible] créature touchée  
+[Durée] jusqu'à 1 jour/niveau ou jusqu'à déchargement  
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

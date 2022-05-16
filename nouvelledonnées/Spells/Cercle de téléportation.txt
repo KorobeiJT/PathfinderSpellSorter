@@ -1,0 +1,8 @@
+[École] Invocation (téléportation)
+[Temps d'incantation] 10 minutes
+[Composantes] V, M (suffisamment de poudre d'ambre pour recouvrir toute la surface du cercle (1 000 po))
+[Portée] 0 m
+[Cible] cercle de 1,50 m de rayon téléportant ceux qui l'activent
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

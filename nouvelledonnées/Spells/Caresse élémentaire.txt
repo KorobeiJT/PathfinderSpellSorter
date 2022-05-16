@@ -1,0 +1,8 @@
+[École] Évocation (acide, froid, électricité ou feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un peu de l'élément choisi : terre, eau, air ou feu)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] non

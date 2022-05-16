@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Maître du refus de mourir
+Title: Maître du refus de mourir
+LastModified: 2021-04-30 15:54
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''Même si le personnage est grièvement blessé, il peut ignorer les dégâts et continuer son assaut.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[For]] 13, [[Constitution|Con]] 15, [[orque]] ou [[demi-orque]], [[Initié du refus de mourir]], [[Dur à cuire]], [[Endurance]], [[Peau de fer]], [[BBA]] +9
+
+'''Avantage.''' Quand le personnage est à 0 [[pv|point de vie ou moins]], il ne perd pas de point de vie quand il fait une action.
+
+(((Ce don possède une variante [[Maître du refus de mourir (alternatif)]] pour utilisation avec les règles alternatives «&nbsp;[[Blessures et vitalité]]&nbsp;» de l’''Art de la Guerre'')))
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage est à 0 [[pv|point de vie]] ou moins, il peut dépenser 2 points d’endurance par une [[action simple]] au début de son tour pour gagner 2 points de vie temporaires. Ces points perdurent une minute.

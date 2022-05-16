@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature/2 niveaux, distantes de moins de 9 m les unes des autres
+[Durée] 12 heures
+[Jet de sauvegarde] Volonté, annule ou Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] oui ou non (voir description)

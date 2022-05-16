@@ -1,0 +1,8 @@
+[École] Invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] 1 objet touché, dans la limite de 25 kg/niveau et 0,1 m³/niveau
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

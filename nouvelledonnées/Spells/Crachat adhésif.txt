@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 4,5 m
+[Cible] une créature
+[Durée] 1 round/niveau ou jusqu'à déchargement (cf. texte)
+[Jet de sauvegarde] Réflexes pour dégâts partiels
+[Résistance à la magie] non

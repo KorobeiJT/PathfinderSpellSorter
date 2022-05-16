@@ -1,0 +1,8 @@
+[École] Évocation (feu, lumière) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (cendres d'épines brûlées)
+[Portée] courte
+[Cible] sphère de 6 m de rayon centrée sur un feu
+[Durée] 2 heures/niveau ; voir plus bas
+[Jet de sauvegarde] aucun 
+[Résistance à la magie] oui

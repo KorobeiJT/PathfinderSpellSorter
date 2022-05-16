@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] brouillard s'étendant sur 6 m de rayon
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

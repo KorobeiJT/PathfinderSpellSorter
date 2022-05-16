@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature/niveau, distantes de moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, 1/2 dégâts
+[Résistance à la magie] oui

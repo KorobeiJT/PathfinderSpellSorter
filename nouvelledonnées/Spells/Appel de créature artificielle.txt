@@ -1,0 +1,8 @@
+[École] Invocation (téléportation)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (saphir d'une valeur de 1 000 ou 5 000 po ; voir texte)
+[Portée] contact
+[Cible] créature artificielle touchée
+[Durée] permanente jusqu'à déchargement
+[Jet de sauvegarde] non
+[Résistance à la magie] non

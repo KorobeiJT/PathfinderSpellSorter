@@ -1,0 +1,8 @@
+[École] Illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un brin de laine ou un morceau de cire)
+[Portée] courte
+[Cible] sons illusoires
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, dévoile
+[Résistance à la magie] non

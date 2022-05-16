@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Feinte du traqueur au clair de lune
+Title: Feinte du traqueur au clair de lune
+LastModified: 2021-04-30 15:29
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''Le personnage se tapit dans les ombres et frappe si rapidement que son adversaire a à peine le temps de réagir.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Int]] 13, [[Combat en aveugle]], [[Expertise du combat]], , [[Science de la feinte]], [[Traqueur au clair de lune]], 6 [[rang|rangs]] en [[Bluff]], [[vision dans le noir]] ou [[vision nocturne]]
+
+'''Avantage.''' Une fois par round, quand le personnage est [[camouflage|camouflé]] aux yeux d’un adversaire, il peut utiliser une [[action rapide]] pour faire une [[feinte]] avec un test de [[Bluff]].
+
+'''Normal.''' La feinte est une [[action simple]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage effectue un test de [[Bluff]] pour faire une [[feinte]] à l’attention d’un adversaire contre lequel il bénéficie d’un [[camouflage]], il peut dépenser jusqu’à 5 points d’endurance pour bénéficier d’un bonus au test égal au double du nombre de points d’endurance dépensés.

@@ -1,0 +1,8 @@
+[École] Évocation (feu, terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] attaque à distance
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

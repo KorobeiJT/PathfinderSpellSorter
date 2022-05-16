@@ -1,0 +1,6 @@
+[École] Évocation (feu ou froid)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un peu de phosphore pour le bouclier chaud ; une luciole ou un ver luisant pour le bouclier froid)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 round/niveau

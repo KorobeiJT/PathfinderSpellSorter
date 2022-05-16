@@ -1,0 +1,6 @@
+[École] école Divination (air, terre, feu ou eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (limaille de fer)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau

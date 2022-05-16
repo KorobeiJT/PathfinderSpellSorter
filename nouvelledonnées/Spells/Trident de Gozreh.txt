@@ -1,0 +1,8 @@
+[École] Évocation électricité
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] 0 m  
+[Cible] rayon d'électricité en forme de trident  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

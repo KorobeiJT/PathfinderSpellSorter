@@ -1,0 +1,8 @@
+[École] Illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] clone monstrueux du lanceur de sorts
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (en cas d'interaction)
+[Résistance à la magie] non

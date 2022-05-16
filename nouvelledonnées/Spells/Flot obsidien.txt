@@ -1,0 +1,9 @@
+[École] Transmutation Terre, Feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un petit morceau d'obsidienne)
+[Portée] courte
+[Cible] rayon de 6 m
+[Cible] 1 projectile
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, partiel, voir texte
+[Résistance à la magie] non

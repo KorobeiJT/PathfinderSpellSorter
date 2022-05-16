@@ -1,0 +1,8 @@
+[École] transmutation eau, froid, mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une fiole d'eau maudite ou 2,5 kg d'argent en poudre d'une valeur de 25 po)
+[Portée] moyenne
+[Cible] un mur de glace ou un jet de javelots de glace (voir texte)
+[Durée] 1 minute/niveau, instantanée ou jusqu'à déchargement (voir texte)
+[Jet de sauvegarde] réflexes pour annuler ou aucun (voir texte)
+[Résistance à la magie] oui

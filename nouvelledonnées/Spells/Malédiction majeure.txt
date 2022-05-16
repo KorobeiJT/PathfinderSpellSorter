@@ -1,0 +1,8 @@
+[École] nécromancie malédiction
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature 
+[Durée] permanente
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

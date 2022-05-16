@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 30 minutes
+[Composantes] V, G, M (une hyacinthe de 1 000 po)
+[Portée] contact
+[Cible] le jeteur de sorts + 1 créature touchée/2 niveaux de lanceur de sorts
+[Durée] voir description
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

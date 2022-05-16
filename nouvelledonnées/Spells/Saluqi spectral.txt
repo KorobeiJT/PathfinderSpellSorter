@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation]  1 round  
+[Composantes] V, G, F (canine de statue en métal précieux d'une valeur de 100 po)  
+[Portée] courte
+[Cible] un chien fantôme  
+[Durée] 10 minutes/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

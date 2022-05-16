@@ -1,0 +1,7 @@
+[École]Nécromancie effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] courte
+[Cible] 1 créature
+[Durée] instantanée
+[Jet de sauvegarde] Volonté partiel et Vigueur partiel ; voir texte;[Résistance à la magie] oui

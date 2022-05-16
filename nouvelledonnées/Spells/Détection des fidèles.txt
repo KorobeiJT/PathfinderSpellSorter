@@ -1,0 +1,7 @@
+[École] école Divination
+[Temps d'incantation]  1 action simple  
+[Composantes] V, G, FD  
+[Portée] 18 m  
+[Cible] émanation en forme de cône  
+[Durée] concentration jusqu'à 1 minute/niveau  
+[Jet de sauvegarde] aucun ; Résistance magique non

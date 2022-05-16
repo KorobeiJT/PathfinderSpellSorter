@@ -1,0 +1,6 @@
+[École] Évocation 
+[Temps d'incantation] 1 action simple
+[Composantes] G, FD
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] instantanée

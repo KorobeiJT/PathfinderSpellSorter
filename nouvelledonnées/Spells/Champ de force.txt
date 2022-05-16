@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (une paire de statuettes canines (50 po))
+[Portée] jusqu'à 3 m/niveau
+[Cible] émanation de 3 m de rayon/niveau maximum, centrée sur le jeteur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

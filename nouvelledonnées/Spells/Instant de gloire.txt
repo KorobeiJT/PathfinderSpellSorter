@@ -1,0 +1,8 @@
+[École] enchantement (coercition) (effet mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (de la fourrure de lapin)
+[Portée] 15 m
+[Cible] lanceur de sorts et les alliés situés dans un rayon de 15 m autour du lanceur de sorts
+[Durée] 1 minute/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

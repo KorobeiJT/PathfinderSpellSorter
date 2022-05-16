@@ -1,0 +1,8 @@
+[École] Nécromancie 
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un petit oreiller de soie d'une valeur de 100 po)
+[Portée] 9 m
+[Cible] émanation de 9 m de rayon
+[Durée] 8 heures
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

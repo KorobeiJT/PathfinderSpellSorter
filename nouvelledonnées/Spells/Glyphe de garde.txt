@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (poudre de diamant (200 po))
+[Portée] contact
+[Cible] objet touché ou jusqu'à 0,5 m²/niveau
+[Durée] permanente jusqu'au déclenchement
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non (objet) et oui (voir description)

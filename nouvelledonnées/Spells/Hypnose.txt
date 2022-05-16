@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] courte
+[Cible] plusieurs créatures vivantes distantes de moins de 9 m les unes des autres
+[Durée] 2d4 rounds
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

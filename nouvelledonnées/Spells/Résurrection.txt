@@ -1,0 +1,8 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (diamant 10 000 po), FD
+[Portée] contact
+[Cible] créature morte touchée
+[Durée] instantanée
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] oui (inoffensif)

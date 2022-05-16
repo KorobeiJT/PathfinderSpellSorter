@@ -1,0 +1,7 @@
+[École] invocation (téléportation) (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Cible] lanceur de sort (téléportation) et créatures dans un rayon de 3 mètres (voir description)
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

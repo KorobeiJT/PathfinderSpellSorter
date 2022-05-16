@@ -1,0 +1,8 @@
+[École]Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] contact
+[Cible] créature consentante touchée
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

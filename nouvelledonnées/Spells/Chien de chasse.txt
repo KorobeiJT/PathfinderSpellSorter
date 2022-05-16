@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sang et une pincée de cannelle)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 heure/niveau

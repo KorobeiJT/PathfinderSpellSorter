@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.réserve magique
+Title: réserve magique
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+  - 'Règles officielles'
+---
+>>> magus#RESERVEMAGIQUE

@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] contact  
+[Cible] deux créatures touchées  
+[Durée] permanent (voir description)  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

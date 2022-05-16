@@ -1,0 +1,6 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une pincée de poussière, des braises, du sable soufflé par le vent ou des gouttes d'eau, en fonction du type de génie)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau

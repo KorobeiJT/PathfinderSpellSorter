@@ -1,0 +1,8 @@
+[École] Transmutation son
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une poignée de neige, de terre ou de gravier)  
+[Portée] courte
+[Cible] 1 mur de 1,50 m d'épaisseur, de 3 m de haut et de 6 m de large au maximum  
+[Durée] concentration, jusqu'à 1 round/2 niveaux  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts (voir description)
+[Résistance à la magie] oui (voir description)

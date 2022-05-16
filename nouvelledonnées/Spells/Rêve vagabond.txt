@@ -1,0 +1,8 @@
+[École] école Divination (scrutation)
+[Temps d'incantation] 10 minutes  
+[Composantes] V, FD  
+[Portée] illimitée  
+[Cible] capteur magique  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

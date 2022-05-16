@@ -1,0 +1,8 @@
+[École] Universel
+[Temps d'incantation] 2 rounds
+[Composantes] V, G, M (voir les tables)
+[Portée] voir description
+[Cible] voir description
+[Durée] permanente (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Invocation (création) (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (glands ou baies de houx)
+[Portée] contact
+[Cible] jusqu'à 4 glands ou 8 baies de houx
+[Durée] 10 minutes/niveau ou jusqu'à utilisation
+[Jet de sauvegarde] aucun ou Réflexes, 1/2 dégâts (voir description)
+[Résistance à la magie] non

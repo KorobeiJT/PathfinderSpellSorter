@@ -1,0 +1,8 @@
+[École] Enchantement (charme) effet mental, sonore
+[Temps d'incantation] 1 action simple
+[Composantes] V,G
+[Portée] 90 mètres
+[Cible] toute créature dans un rayon de 90 mètres centré sur le lanceur de sorts
+[Durée] concentration +1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

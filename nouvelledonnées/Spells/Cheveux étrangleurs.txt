@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature
+[Durée] concentration, jusqu'à 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

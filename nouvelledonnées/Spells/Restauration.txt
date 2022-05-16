@@ -1,0 +1,8 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 3 rounds
+[Composantes] V, G, M (poussière de diamant d'une valeur de 100 à 1 000 po ; voir description)
+[Portée] contact
+[Cible] créature touchée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

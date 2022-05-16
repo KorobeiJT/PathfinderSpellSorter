@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] une créature  
+[Durée] instantané  
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

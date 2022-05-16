@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] 1 objet ferreux non-magique (ou une partie seulement, jusqu'à 90 cm du point de contact) ou 1 créature ferreuse
+[Durée] voir description
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

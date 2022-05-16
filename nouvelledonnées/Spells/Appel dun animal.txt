@@ -1,0 +1,8 @@
+[École] enchantement (coercition) effet mental 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] voir description
+[Cible] un animal dont le FP est égal ou inférieur au niveau de lanceur de sorts du personnage
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun 
+[Résistance à la magie] non

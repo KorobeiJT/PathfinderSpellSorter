@@ -1,0 +1,8 @@
+[École] Évocation force
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] un récipient de force de 15 cm de diamètre
+[Durée] concentration
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

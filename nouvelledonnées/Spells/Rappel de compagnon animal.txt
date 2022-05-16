@@ -1,0 +1,8 @@
+[École] invocation(guérison)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un diamant d'une valeur de 1000po)
+[Portée] contact
+[Cible] un compagnon animal ou une monture lié mort
+[Durée] instantanée
+[Jet de sauvegarde] non, voir texte
+[Résistance à la magie] oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] Transmutation (air)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] le jeteur de sorts et 1 créature touchée/3 niveaux
+[Durée] 1 heure/niveau (voir description)
+[Jet de sauvegarde] aucun et Volonté, annule (inoffensif)
+[Résistance à la magie] non et oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] Abjuration
+[Composantes] V, G, M/FD (peau de caméléon)
+[Temps d'incantation] 1 action simple
+[Portée] contact
+[Cible] 1 objet touché, dans la limite de 50 kg/niveau
+[Durée] 8 heures
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

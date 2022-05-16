@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 objet faisant jusqu'à 0,3 m3/niveau ou une type créature créature artificielle de n'importe quelle taille
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

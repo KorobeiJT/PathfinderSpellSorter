@@ -1,0 +1,6 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sang)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 heure/niveau ou jusqu'à utilisation (voir description)

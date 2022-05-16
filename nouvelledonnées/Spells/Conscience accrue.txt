@@ -1,0 +1,6 @@
+[École] école divination
+[Temps d'incantation] 1 action simple \
+[Composantes] V, M/FD (un grain de café) \
+[Portée] personnelle \
+[Cible] le lanceur de sorts \
+[Durée] 10 minutes/niveau 

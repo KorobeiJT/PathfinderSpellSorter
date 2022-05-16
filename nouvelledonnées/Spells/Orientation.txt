@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 3 rounds
+[Composantes] V, G, F (un jeu d'objets divinatoires)
+[Portée] personnelle ou contact
+[Cible] le jeteur de sorts ou la créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun ou Volonté, annule (inoffensif)
+[Résistance à la magie] non ou oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] Évocation force, obscurité
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une dent de chauve-souris)  
+[Portée] courte
+[Cible] étendue de 18 m de rayon  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (voir description)

@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action immédiate
+[Composantes] V, FD
+[Portée] courte
+[Cible] un allié
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

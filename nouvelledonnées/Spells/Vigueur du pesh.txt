@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (1 dose de pesh d'une valeur de 15 po)  
+[Portée] contact  
+[Cible] créature vivante touchée  
+[Durée] 1 round/niveau; voir description  
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

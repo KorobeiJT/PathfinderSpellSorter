@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] moyenne
+[Cible] 1 porte, coffre ou boîte ne faisant pas plus de 1 m²/niveau
+[Durée] instantanée (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

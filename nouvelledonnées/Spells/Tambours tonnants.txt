@@ -1,0 +1,8 @@
+[École] Évocation (sonore) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 4,50 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

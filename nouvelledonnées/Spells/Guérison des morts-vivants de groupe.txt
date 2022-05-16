@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature morte-vivante/niveau, chacune ne devant pas être à plus de 9 m des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour 1/2 dégâts (inoffensif)
+[Résistance à la magie] oui (inoffensif)

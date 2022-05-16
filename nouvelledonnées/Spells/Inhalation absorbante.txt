@@ -1,0 +1,8 @@
+[École] Transmutation air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte 
+[Cible] un effet de nuage occupant un maximum de 3 m par niveau
+[Durée] 1 round/niveau; voir description 
+[Jet de sauvegarde] voir description
+[Résistance à la magie] Non

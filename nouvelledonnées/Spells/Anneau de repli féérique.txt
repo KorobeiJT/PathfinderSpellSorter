@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] prairie extradimensionnelle, faisant un maximum de trois cubes de 3 m de côté /niveau
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

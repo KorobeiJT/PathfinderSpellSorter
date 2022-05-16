@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (effet mental, sonore) 
+[Temps d'incantation] 1 action simple
+[Composantes] V ou F (instrument de musique)
+[Portée] 30 m
+[Cible] émanation de 30 m de rayon centrée sur le lanceur de sorts
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Volonté partiel ; voir texte
+[Résistance à la magie] oui

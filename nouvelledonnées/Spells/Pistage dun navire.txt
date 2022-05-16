@@ -1,0 +1,8 @@
+[École] école Divination (scrutation) voyage
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F (fragment de bateau)  
+[Portée] voir description  
+[Cible] symbole magique  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

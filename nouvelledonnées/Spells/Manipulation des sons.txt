@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature ou 1 objet/niveau, distants de moins de 9 m les uns des autres
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

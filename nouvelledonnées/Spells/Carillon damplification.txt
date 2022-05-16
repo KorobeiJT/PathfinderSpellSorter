@@ -1,0 +1,9 @@
+[École] transmutation son
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] vibrations perturbatrices  
+[Cible] un objet abandonné ou un objet en possession du lanceur  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Vigueur 1/2 dégâts (cf. texte)
+[Résistance à la magie] oui

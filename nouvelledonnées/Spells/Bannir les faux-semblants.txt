@@ -1,0 +1,8 @@
+[École] Abjuration 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un clou de fer froid)
+[Portée] contact
+[Cible] une créature ou un objet
+[Durée] instantanée et 1 round/niveau ; voir texte
+[Jet de sauvegarde] aucun 
+[Résistance à la magie] non

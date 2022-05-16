@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un outil)
+[Portée] courte
+[Cible] une créature
+[Durée] 1 jour/niveau ou jusqu'à utilisation
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

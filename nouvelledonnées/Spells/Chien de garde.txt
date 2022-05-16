@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un petit sifflet en argent, un morceau d'os et un bout de ficelle)
+[Portée] courte
+[Cible] chien de garde spectral
+[Durée] 1 heure/niveau ou jusqu'à apparition, puis 1 round/niveau (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

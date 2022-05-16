@@ -1,0 +1,8 @@
+[École] Abjuration (Loi)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un reliquaire (500 po))
+[Portée] 6 m
+[Cible] 1 créature/niveau dans un rayonnement de 6 m de rayon à partir du prêtre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui (inoffensif)

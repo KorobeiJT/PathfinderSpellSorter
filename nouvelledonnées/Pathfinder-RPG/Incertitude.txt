@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Incertitude
+Title: Incertitude
+LastModified: 2020-09-02 21:49
+Categories:
+  - 'Contenu supplémentaire'
+  - 'Don'
+  - 'Don maléfice sanglant'
+  - 'Src Magic Tactics Toolbox'
+---
+{s:cs|Magic Tactics Toolbox}
+
+''Lorsque vous versez le sang de votre adversaire cette créature commence à douter de ses compétences.''
+
+'''Catégorie.''' [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
+
+'''Conditions.''' [[Int]] 13; 5 rangs en [[Intimidation]], en [[Diplomatie]], et en [[Bluff]]
+
+'''Avantage.''' Par une [[action complexe]], le personnage peut diminuer la confiance que se porte une créature à qui il a infligé des dégâts dans la minute. Cette créature doit réussir un test de [[Volonté]] ou subir une pénalité de -6 aux tests de l'une des compétences suivantes au choix du personnage : [[Bluff]], [[Diplomatie]] ou [[Intimidation]]. Cette affliction dure jusqu'à ce que le sujet soit totalement guéri de ses points de vie, jusqu'à une durée maximale de 1 heure.
+
+'''Spécial.''' Un [[chaman]] ou une [[sorcière]] disposant de ce maléfice sanglant peut l'utiliser par une [[action simple]]. De plus, si un chaman ou une sorcière utilise ce maléfice sanglant, il s'applique aux tests de [[Bluff]], de [[Diplomatie]] et d'[[Intimidation]].
+
+(((Uncertainty (blood Hex)
+When you draw a foe’s blood in combat, that creature begins to doubt its skills.
+
+Prerequisites: Int 13; Bluff, Diplomacy, and Intimidate 5 ranks.
+
+Benefit: As a full-round action, you can diminish the confidence of a creature you’ve dealt damage to within the last minute. That creature must succeed at a Will save or take a –6 penalty on skill checks for one of the following skills of your choice: Bluff, Diplomacy, or Intimidate. This ability lasts until the subject is healed of all hit point damage, up to a maximum of 1 hour.
+
+Special: A shaman or witch with this blood hex can use it as a standard action. Additionally, if a shaman or witch uses this blood hex, the target takes the penalty on Bluff, Diplomacy, and Intimidate checks.)))

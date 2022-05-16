@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une poignée de plombs en métal ou de plombs en fer froid, en argent ou en adamantium ; consultez la description pour le prix)
+[Portée] 9 m
+[Cible] cône
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour 1/2 dégâts
+[Résistance à la magie] non

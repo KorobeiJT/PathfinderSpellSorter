@@ -1,0 +1,6 @@
+[École] Enchantement (coercition) mental
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, M (une gemme d'une valeur de 500 po au moins)  
+[Portée] personnelle  
+[Cible] une créature consentante  
+[Durée] permanent jusqu'à utilisation (voir texte)

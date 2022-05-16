@@ -1,0 +1,4 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F (une paire d'anneaux en argent ou en or d'une valeur de 10 po, portés par le lanceur de sorts et la cible)  
+[Durée] 1 minute/niveau

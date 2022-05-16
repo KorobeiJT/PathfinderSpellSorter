@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (tentacule de pieuvre ou de calmar)
+[Portée] moyenne
+[Cible] étendue de 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

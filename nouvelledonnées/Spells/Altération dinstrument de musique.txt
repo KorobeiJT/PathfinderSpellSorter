@@ -1,0 +1,8 @@
+[École] illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un instrument)
+[Portée] courte
+[Cible] un instrument de musique
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Vigueur pour annuler (objet)
+[Résistance à la magie] oui (objet)

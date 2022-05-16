@@ -1,0 +1,8 @@
+[École] Abjuration (feu)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (poussière d'or d'une valeur de 25 po)
+[Portée] contact
+[Cible] objet touché
+[Durée] permanente jusqu'au déclenchement
+[Jet de sauvegarde] Réflexes, 1/2 dégâts (voir description)
+[Résistance à la magie] oui

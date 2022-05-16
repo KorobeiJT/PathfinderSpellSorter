@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, M/FD (une goutte de miel)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 10 minutes/niveau

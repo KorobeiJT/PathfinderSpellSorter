@@ -1,0 +1,9 @@
+[École] Évocation (lumière)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de rubis (50 po))
+[Portée] contact
+[Cible] objet touché
+[Cible] flamme illusoire magique
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

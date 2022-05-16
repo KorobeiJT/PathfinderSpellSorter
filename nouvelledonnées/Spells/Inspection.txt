@@ -1,0 +1,8 @@
+[École] Divination 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 9 m
+[Cible] cube de 3 m de côté
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

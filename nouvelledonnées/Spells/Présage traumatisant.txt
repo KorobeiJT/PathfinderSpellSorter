@@ -1,0 +1,8 @@
+[École] Évocation électricité
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] moyenne (30 m + 3 m/niveau) / (20 {s:c} + 2 {s:c}/niveau)
+[Cible] une créature
+[Durée] 1 round/niveau voir texte
+[Jet de sauvegarde] non
+[Résistance à la magie] oui 

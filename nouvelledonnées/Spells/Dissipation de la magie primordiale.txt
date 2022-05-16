@@ -1,0 +1,6 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une pincée de sable du désert de la Cicatrice magique)  
+[Portée] 3 m  
+[Cible] émanation de 3 m de rayon centrée sur le personnage  
+[Durée] 1 round/niveau

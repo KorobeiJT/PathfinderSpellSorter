@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 2 rounds  
+[Composantes] V, G, M (au moins 1 000 po de poudre de diamant)  
+[Portée] contact  
+[Cible] l'objet magique permanent et non intelligent touché  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

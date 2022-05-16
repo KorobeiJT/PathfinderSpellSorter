@@ -1,0 +1,8 @@
+[École]Illusion (fantasme) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, M (un morceau de sucre)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour percer à jour (inoffensif)
+[Résistance à la magie] oui (inoffensif)

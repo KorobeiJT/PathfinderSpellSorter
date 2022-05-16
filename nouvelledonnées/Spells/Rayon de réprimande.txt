@@ -1,0 +1,7 @@
+[École] Évocation force
+[Temps d'incantation]  1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] un ou plusieurs rayons  
+[Durée] instantanée  
+[Jet de sauvegarde] aucun ; Résistance magique oui

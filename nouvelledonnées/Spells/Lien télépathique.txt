@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (deux coquilles d'œufs appartenant à des espèces différentes)
+[Portée] courte
+[Cible] le jeteur de sorts et 1 créature consentante/3 niveaux, distantes de moins de 9 m/6 cases les unes des autres
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

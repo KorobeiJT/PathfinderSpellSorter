@@ -1,0 +1,8 @@
+[École] invocation (création) eau
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 0 m
+[Cible] fouet d'eau
+[Durée] 1 minute/niveau ou jusqu'à déchargement (cf. texte)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

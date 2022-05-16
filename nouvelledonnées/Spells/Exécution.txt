@@ -1,0 +1,8 @@
+[École] Nécromancie (mort)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] oui

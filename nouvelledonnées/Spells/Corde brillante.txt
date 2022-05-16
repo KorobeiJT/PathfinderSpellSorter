@@ -1,0 +1,8 @@
+[École] Évocation force
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une petite et fine chaîne en argent d'une valeur de 100 po)  
+[Portée] 9 m  
+[Cible] une créature  
+[Durée] 1 round/niveau ou instantanée (voir description)  
+[Jet de sauvegarde] Vigueur, partiel (voir description)
+[Résistance à la magie] oui

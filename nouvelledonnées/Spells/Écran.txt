@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 cube de 9 m d'arête/niveau
+[Durée] 24 heures
+[Jet de sauvegarde] aucun ou Volonté, dévoile (en cas d'interaction) (voir description)
+[Résistance à la magie] non

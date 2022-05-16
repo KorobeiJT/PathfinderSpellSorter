@@ -1,0 +1,6 @@
+[École] Invocation (convocation) 
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] personnelle
+[Cible] une nuée nuée d'araignées
+[Durée] 1 round/niveau

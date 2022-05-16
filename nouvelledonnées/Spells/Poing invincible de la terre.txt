@@ -1,0 +1,8 @@
+[École] Invocation (création) terre
+[Temps d'incantation] 1 action simple
+[Composantes]  V, G, FD
+[Portée]  courte (7,5 m + 1,5 m/2 niveau)
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] Oui

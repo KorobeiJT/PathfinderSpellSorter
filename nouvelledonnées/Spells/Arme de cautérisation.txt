@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une goutte de cire fondue)  
+[Portée] courte
+[Cible]  une arme ou 50 projectiles qui doivent être tous regroupés au moment de l'incantation.  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté annuler (inoffensif, objet) 
+[Résistance à la magie] oui (inoffensif, objet)

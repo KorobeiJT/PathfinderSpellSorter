@@ -1,0 +1,8 @@
+[École] invocation (création) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne (30 m + 3 m/niveau)  (20 {s:c} + 2 {s:c}/niveau)
+[Cible] un éclair d'énergie ou plus
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour annuler ; voir description
+[Résistance à la magie] oui 

@@ -1,0 +1,817 @@
+---
+Name: Pathfinder-RPG.Aventures occultes (Contenu)
+Title: Aventures occultes (Contenu)
+LastModified: 2021-10-14 19:25
+Categories:
+  - 'Src Aventures occultes'
+---
+[[https://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures|Occult adventures]] a été publié en Juillet 2015 par Paizo inc.  
+Traduit et publié en français par Black Book Editions sous le nom d’[[https://www.black-book-editions.fr/produit.php?id=2684|Aventures occultes]],en Octobre 2015.
+
+{toc}
+
+===Archétypes===
+<div class="article_3col">
+[[Adepte informe (psychiste)]],  
+[[Âme invincible (cinétiste)]],  
+[[Amnésique (psychiste)]],  
+[[Annihilateur élémentaire (cinétiste)]],  
+[[Ascète élémentaire (cinétiste)]],  
+[[Canalisateur de geist (spirite)]],  
+[[Canalisateur de reliques (médium)]],  
+[[Casse-cou humiliant (hypnotiseur)]],  
+[[Chasseur de fantômes (paladin)]],  
+[[Chasseur de reliques (inquisiteur)]],  
+[[Chevalier fantôme (chevalier)]],  
+[[Chirurgien cinétique (cinétiste)]],  
+[[Cinétiste du sang (cinétiste)]],  
+[[Conteur (médium)]],  
+[[Danseur spirituel (médium)]],  
+[[Détective psychique (enquêteur)]],  
+[[Dévoreur de chair (barbare)]],  
+[[Dévoreur de livres (occultiste)]],  
+[[Duelliste psychique (psychiste)]],  
+[[Ectochimiste (alchimiste)]],  
+[[Ectoplasmiste (spirite)]],  
+[[Ésotériste (magus)]],  
+[[Esprit fracturé (spirite)]],  
+[[Esprit muté (psychiste)]],  
+[[Guerrier sensitif (guerrier)]],  
+[[Hôte de guerre (occultiste)]],  
+[[Interprète de ballades argentées (barde)]],  
+[[Inventeur alchimiste (alchimiste)]],  
+[[Lamesprit (magus)]],  
+[[Maître du culte (hypnotiseur)]],  
+[[Marcheur spirituel (hypnotiseur)]],  
+[[Médium des kamis (médium)]],  
+[[Médium factice (roublard)]],  
+[[Médium réanimé (médium)]],  
+[[Moine karmique (moine)]],  
+[[Nécroccultiste (occultiste)]],  
+[[Onmyoji (spirite)]],  
+[[Phrénologue (barde)]],  
+[[Protectrice des lignes telluriques (sorcière)]],  
+[[Roi de lévasion (roublard)|Roi de l'évasion (roublard)]],  
+[[Toxicologue (hypnotiseur)]],  
+[[Shair (occultiste)|Sha'ir (occultiste)]],  
+[[Spirite hanté (spirite)]].
+</div>
+
+
+===Classes===
+<div class="article_3col">
+[[Cinétiste]],  
+[[Hypnotiseur]],  
+[[Médium]],  
+[[Occultiste]],  
+[[Psychiste]],  
+[[Spirite]].
+</div>
+
+
+===Dons===
+Les dons marqués d’un astérisque (*) sont des dons de combat, ceux marqués d’un M sont des dons de métamagie, et ceux marqués d’un R sont des dons de regard.  
+<div class="article_3col">
+[[Adepte de la discipline]],  
+[[Adepte du chakra]],  
+[[Adepte psychique]],  
+[[Âme commune]],  
+[[Amplification supplémentaire]],  
+[[Appel spirituel]],  
+[[Briser le masque mental]]*,  
+[[Changement de focalisation efficace]],  
+[[Changement rapide de focalisation]],  
+[[Combattant psychique]]*,  
+[[Conduit émotionnel]],  
+[[Crâne allongé]],  
+[[Défense fantomatique]],  
+[[Défenseur psychique]],  
+[[Disciple psychique]],  
+[[Douleur composée]]*,  
+[[Douleur intense]]*<sup>R</sup>,  
+[[Empathe]],  
+[[Entremêler les explosions composites]]*<sup>E</sup>,  
+[[Équilibre spirituel]],  
+[[Esprit concentré]],  
+[[Explosion dadieu|Explosion d'adieu]],  
+[[Explosion retardée]],  
+[[Fantôme concentré]],  
+[[Fantôme vigilant]],  
+[[Feinte hypnotique]]*,  
+[[Feinte hypnotique supérieure]]*,  
+[[Focalisation instrumentale]],  
+[[Focalisation mentale supplémentaire]],  
+[[Fort lien avec un instrument]],  
+[[Guérison psychique]],  
+[[Guerrier fantôme]],  
+[[Induction dhypnotiseur supplémentaire|Induction d'hypnotiseur supplémentaire]],  
+[[Initié du chakra]],  
+[[Maître du chakra]],  
+[[Maestro psychique]],  
+[[Modification de paysage mental binaire]],  
+[[Palpation curative supplémentaire]],  
+[[Parade cinétique]],  
+[[Perception des esprits]],  
+[[Pouvoir de focalisation supplémentaire]],  
+[[Pouvoir de résonance accru]],  
+[[Présence cachée]],  
+[[Présence manipulatrice]],  
+[[Présence intrusive]],  
+[[Prêt à se battre]],  
+[[Prêt à souffrir]],  
+[[Regard démoralisant]]*<sup>R</sup>,  
+[[Regard écorcheur]]*<sup>R</sup>,  
+[[Regard étendu]],  
+[[Regard fatiguant]]*<sup>R</sup>,  
+[[Regard hémorragique]]*<sup>R</sup>,  
+[[Regard hypnotique intimidant]]*,  
+[[Réserve phrénique accrue]],  
+[[Rêveur lucide]],  
+[[Saut cinétique]],  
+[[Sensibilité psychique]],  
+[[Sort furieux]]<sup>M</sup>,  
+[[Sort intuitif]]<sup>M</sup>,  
+[[Sort logique]]<sup>M</sup>,  
+[[Sort marquant]]<sup>M</sup>,  
+[[Sort terrifiant]]<sup>M</sup>,  
+[[Sort traumatisant]]<sup>M</sup>,  
+[[Talent sauvage supplémentaire]],  
+[[Transfert longue distance]],  
+[[Troisième oeil]],  
+[[Virtuose psychique]],  
+[[Xénoglossie]].
+</div>
+
+
+===Équipement===
+====Équipement d’aventurier====
+<div class="article_3col">
+[[Équipement daventurier#﻿affiche peinte|﻿affiche peinte]],  
+[[Équipement daventurier#Baguette de sourcier|Baguette de sourcier]],  
+[[Équipement daventurier#Cagoule de contention|Cagoule de contention]],  
+[[Équipement daventurier#Carillon|Carillon]],  
+[[Équipement daventurier#Cloche de cérémonie|Cloche de cérémonie]],  
+[[Équipement daventurier#Cristal prismatique|Cristal prismatique]],  
+[[Équipement daventurier#Encens|Encens]],  
+[[Équipement daventurier#Jeton de représentation|Jeton de représentation]],  
+[[Équipement daventurier#Lunettes de lecture des auras|Lunettes de lecture des auras]],  
+[[Équipement daventurier#Médaillon d'hypnotiseur|Médaillon d'hypnotiseur]],  
+[[Équipement daventurier#Petit encensoir|Petit encensoir]],  
+[[Équipement daventurier#Planchette d'écriture automatique|Planchette d'écriture automatique]],  
+[[Équipement daventurier#Trompette pour esprits|Trompette pour esprits]],  
+[[Équipement daventurier#Trousse de cinétiste|Trousse de cinétiste]],  
+[[Équipement daventurier#Trousse de psychiste|Trousse de psychiste]],  
+[[Équipement daventurier#Trousse de médium|Trousse de médium]],  
+[[Équipement daventurier#Trousse de spirite|Trousse de spirite]],  
+[[Équipement daventurier#Trousse d'hypnotiseur|Trousse d'hypnotiseur]],  
+[[Équipement daventurier#Trousse d'occultiste|Trousse d'occultiste]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Trousses d'outils et de compétences====</div>
+<div class="article_3col">
+[[Gants de psychométricien (objet)|Gants de psychométricien]],  
+[[Instruments doccultiste (objet)|Instruments d'occultiste]],  
+[[Manuel des arts divinatoires (objet)|Manuel des arts divinatoires]],  
+[[Ouija (objet)|Ouija]],  
+[[Ouvrage de référence sur locculte (objet)|Ouvrage de référence sur l'occulte]],  
+[[Pantin de ventriloque (objet)|Pantin de ventriloque]],  
+[[Solarium portable (objet)|Solarium portable]],  
+[[Suerie portable (objet)|Suerie portable]],  
+[[Trousse de médium frauduleux (objet)|Trousse de médium frauduleux]],  
+[[Trousse de phrénologue (objet)|Trousse de phrénologue]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Vêtements====</div>
+<div class="article_3col">
+[[Vêtements#Camisole de force|Camisole de force]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Armes alchimiques====</div>
+<div class="article_3col">
+[[Armes alchimiques#Résidu ectoplasmique|Résidu ectoplasmique]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Outils alchimiques====</div>
+<div class="article_3col">
+[[Outils alchimiques#Papier magnétisé|Papier magnétisé]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Remèdes alchimiques====</div>
+<div class="article_3col">
+[[Remèdes alchimiques#Remède miracle|Remède miracle]].
+</div>
+
+
+===Objets magiques===
+====Anneaux====
+<div class="article_3col">
+[[Anneau de maîtrise psychique]],  
+[[Anneau de psyché secrète]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Artefacts====</div>
+<div class="article_3col">
+'''Mineurs.'''  
+[[Archive mémorielle]],  
+[[Couronne détain fondu|Couronne d'étain fondu]],  
+[[Portrait des âmes]],  
+[[Réseau de portails]],  
+[[Symbole primordial]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Bâtons====</div>
+<div class="article_3col">
+[[Bâton vril]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Objets maudits====</div>
+<div class="article_3col">
+[[Main de maniaque]],  
+[[Miroir de vampirisme des âmes]],  
+[[Patte de singe]],  
+[[Poupée hantée]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Objets merveilleux====</div>
+<div class="article_3col">
+'''Aucun (Sans emplacement).'''  
+[[Accumulateur dorgone|Accumulateur d'orgone]],  
+[[Ardoise spirituelle]],  
+[[Attrape-rêves]],  
+[[Cierge de protection contre les esprits]],  
+[[Encens de réceptivité mentale]],  
+[[Encens de réalité corporelle]],  
+[[Encens de revitalisation des esprits]],  
+[[Fer à cheval porte-bonheur]],  
+[[Fer à cheval porte-bonheur|Fer à cheval porte-bonheur (collectif)]],  
+[[Figurine de cire]],  
+[[Manuel dorigamis animaux|Manuel d'origamis animaux]],  
+[[Miroir aux esprits]],  
+[[Miroir de capture des âmes]],  
+[[Ouija magique]],  
+[[Pièce factice]],  
+[[Pierres de lithomancie]],  
+[[Pot de divination animale]],  
+[[Poudre fantôme]],  
+[[Poudre thaumaturgique]],  
+[[Poupée ganji]],  
+[[Poupée ganji|Poupée ganji (supérieure)]],  
+[[Skiff volant]],  
+[[Trèfle à quatre feuilles]].  
+  
+'''Cou.'''  
+[[Pendentif dinsoumission|Pendentif d'insoumission]],  
+[[les talismans#Chance|Talisman de chance (majeur)]],  
+[[les talismans#Chance|Talisman de chance (mineur)]],  
+[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées (majeur)]],  
+[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées (mineur)]],  
+[[les talismans#Courage du guerrier|Talisman de courage du guerrier (majeur)]],  
+[[les talismans#Courage du guerrier|Talisman de courage du guerrier (mineur)]],  
+[[les talismans#Liberté|Talisman de liberté (majeur)]],  
+[[les talismans#Liberté|Talisman de liberté (mineur)]],  
+[[les talismans#Puissance curative|Talisman de puissance curative (majeur)]],  
+[[les talismans#Puissance curative|Talisman de puissance curative (mineur)]],  
+[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes (majeur)]],  
+[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes (mineur)]],  
+[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles (majeur)]],  
+[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles (mineur)]],  
+[[les talismans#Sens du danger|Talisman de sens du danger (majeur)]],  
+[[les talismans#Sens du danger|Talisman de sens du danger (mineur)]],  
+[[les talismans#Souffle de vie|Talisman de souffle de vie (majeur)]],  
+[[les talismans#Souffle de vie|Talisman de souffle de vie (mineur)]],  
+[[les talismans#Vents avantageux|Talisman de vents avantageux (majeur)]],  
+[[les talismans#Vents avantageux|Talisman de vents avantageux (mineur)]],  
+[[Tête réduite]].  
+  
+'''Front.'''  
+[[Diadème de cinétiste]],  
+[[Diadème de cinétiste|Diadème de cinétiste (majeur)]],  
+[[Diadème de cinétiste|Diadème de cinétiste (mineur)]].  
+  
+'''Tête.'''  
+[[Cagoule de privation sensorielle]],  
+[[Calotte en fer blanc]],  
+[[Chaloupe volante]],  
+[[Masque dhypnotiseur|Masque d'hypnotiseur]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Sceptres====</div>
+<div class="article_3col">
+[[Sceptre de focalisation]],  
+[[Sceptre de bouillonnement]],  
+[[Sceptre de sourcier]],  
+[[Sceptre creux]],
+[[Sceptre du caducée]].
+</div>
+
+
+===Options de classe===
+====Amplifications phréniques de psychiste====
+<div class="article_3col">
+'''Amplifications.'''  
+[[Amplifications phréniques#ARMUREINVOQUÉE|Armure invoquée]],  
+[[Amplifications phréniques#CONTREMESURECOMPLEXE|Contre-mesure complexe]],  
+[[Amplifications phréniques#DÉFENSEPERSISTANTE|Défense persistante]],  
+[[Amplifications phréniques#FOCALISATIONINTENSIFIÉE|Focalisation intensifiée]],  
+[[Amplifications phréniques#FORCEINTENSIFIÉE|Force intensifiée]],  
+[[Amplifications phréniques#PRÉDICTIONDÉFENSIVE|Prédiction défensive]],  
+[[Amplifications phréniques#PROTECTIONMENTALE|Protection mentale]],  
+[[Amplifications phréniques#SONDEMENTALE|Sonde mentale]],  
+[[Amplifications phréniques#ESPRITDOMINANT|Esprit dominant]],  
+[[Amplifications phréniques#INCANTATIONIMPLACABLE|Incantation implacable]],  
+[[Amplifications phréniques#RENFORCEMENTDESINCANTATIONSRÉDUITES|Renforcement des incantations réduites]],  
+[[Amplifications phréniques#VOLONTÉDESMORTS|Volonté des morts]].  
+  
+'''Amplifications majeurs.'''  
+[[Amplifications phréniques#BOUCLIERDERENVOIDESSORTS|Bouclier de renvoi des sorts]],  
+[[Amplifications phréniques#CHOCSYNAPTIQUE|Choc synaptique]],  
+[[Amplifications phréniques#DISTORSIONDESDISTANCES|Distorsion des distances]],  
+[[Amplifications phréniques#DOUBLEAMPLIFICATION|Double amplification]],  
+[[Amplifications phréniques#IMITATIONDEMÉTAMAGIE|Imitation de métamagie]],  
+[[Amplifications phréniques#PULSATIONDISSIPATRICE|Pulsation dissipatrice]],  
+[[Amplifications phréniques#SORTSUBORDONNÉ|Sort subordonné]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Découvertes d’alchimiste====</div>
+<div class="article_3col">
+[[découvertes#DISCIPLEINVENTIF|Disciple inventif]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Disciplines psychiques de psychiste====</div>
+<div class="article_3col">
+[[Disciplines psychiques#ABOMINATION|Abomination]],  
+[[Disciplines psychiques#CONNAISSANCE|Connaissance]],  
+[[Disciplines psychiques#DOULEUR|Douleur]],  
+[[Disciplines psychiques#ENTENTE|Entente]],  
+[[Disciplines psychiques#FOI|Foi]],  
+[[Disciplines psychiques#PERFECTIONPERSONNELLE|Perfection personnelle]],  
+[[Disciplines psychiques#PSYCHÉDÉLISME|Psychédélisme]],  
+[[Disciplines psychiques#QUIÉTUDE|Quiétude]],  
+[[Disciplines psychiques#REVE|Rêve]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Émotions dominantes de fantôme====</div>
+<div class="article_3col">
+[[Fantômes (Spirite)#COLÈRE|Colère]],  
+[[Fantômes (Spirite)#DÉSESPOIR|Désespoir]],  
+[[Fantômes (Spirite)#DÉVOUEMENT|Dévouement]],  
+[[Fantômes (Spirite)#HAINE|Haine]],  
+[[Fantômes (Spirite)#JALOUSIE|Jalousie]],  
+[[Fantômes (Spirite)#TERREUR|Terreur]],  
+[[Fantômes (Spirite)#ZÈLE|Zèle]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Éléments de cinétiste====</div>
+<div class="article_3col">
+[[Talents sauvages#AIR|Air]],  
+[[Talents sauvages#EAU|Eau]],  
+[[Talents sauvages#ÉTHER|Éther]],  
+[[Talents sauvages#FEU|Feu]],  
+[[Talents sauvages#TERRE|Terre]],  
+[[Talents sauvages#UNIVERSEL|Universel]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Esprits de médium====</div>
+<div class="article_3col">
+[[Esprits (Médium)#ARCHIMAGE|Archimage]],  
+[[Esprits (Médium)#CHAMPION|Champion]],  
+[[Esprits (Médium)#FILOU|Filou]],  
+[[Esprits (Médium)#HIÉROPHANTE|Hiérophante]],  
+[[Esprits (Médium)#MARÉCHAL|Maréchal]],  
+[[Esprits (Médium)#PROTECTEUR|Protecteur]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Inductions d'hypnotiseur====</div>
+<div class="article_3col">
+'''Inductions.'''  
+[[inductions#APPARENCEDOCILE|Apparence docile]],  
+[[inductions#APPARENCETERRIFIANTE|Apparence terrifiante]],  
+[[inductions#ATTENUATIONDELADOULEUR|Atténuation de la douleur]],  
+[[inductions#CELERITEINDUITE|Célérité induite]],  
+[[inductions#DISPARITIONDEPROJECTILE|Disparition de projectile]],  
+[[inductions#DONDEVOLONTE|Don de volonté]],  
+[[inductions#ECHARDEDOMBRE|Écharde d'ombre]],  
+[[inductions#EVITEMENTSTUPEFIANT|Évitement stupéfiant]],  
+[[inductions#FAIBLESSEDUPLIQUEE|Faiblesse dupliquée]],  
+[[inductions#FEINTESOURNOISE|Feinte sournoise]],  
+[[inductions#FUMEEFANTOMATIQUE|Fumée fantomatique]],  
+[[inductions#LEVITATIONPROTECTRICE|Lévitation protectrice]],  
+[[inductions#MIROIRHYPNOTIQUE|Miroir hypnotique]],  
+[[inductions#PANTOMIMEHYPNOTIQUE|Pantomime hypnotique]],  
+[[inductions#REACTIONCONNEXE|Réaction connexe]],  
+[[inductions#SOUTIENPSYCHOSOMATIQUE|Soutien psychosomatique]],  
+[[inductions#TENAILLETROMPEUSE|Tenaille trompeuse]].  
+  
+'''Inductions de maître.'''  
+[[inductions#ANTICIPATIONMAGIQUE|Anticipation magique]],  
+[[inductions#ATTENUATIONSUPREMEDELADOULEUR|Atténuation suprême de la douleur]],  
+[[inductions#BLESSUREIMAGINAIRE|Blessure imaginaire]],  
+[[inductions#ECHANGEDEPOSITIONS|Échange de positions]],  
+[[inductions#FUITEAVIAIRE|Fuite aviaire]],  
+[[inductions#LIBERTEPSYCHIQUE|Liberté psychique]],  
+[[inductions#MORTFACTICE|Mort factice]],  
+[[inductions#RECOURSMENTAL|Recours mental]],  
+[[inductions#SANCTIONMAUDITE|Sanction maudite]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Lignages d’ensorceleur====</div>
+<div class="article_3col">
+[[Lignage Ectoplasmique]],  
+[[Lignage Psychique]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Ordres de chevalerie====</div>
+<div class="article_3col">
+[[Ordres#Ordre_de_l’étoile_orientale_2|Ordre de l’étoile orientale]],  
+[[Ordres#Ordre_du_linceul_8|Ordre du linceul]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Protecteurs de sorcière====</div>
+<div class="article_3col">
+[[Protecteurs#ESPRIT|Esprit]],  
+[[Protecteurs#ETHER|Éther]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Regards impudents d'hypnotiseur====</div>
+<div class="article_3col">
+[[Hypnotiseur#REGARDIMPUDENT|Charme]],  
+[[Hypnotiseur#REGARDIMPUDENT|Désorientation]],  
+[[Hypnotiseur#REGARDIMPUDENT|Frémissement psychique]],  
+[[Hypnotiseur#REGARDIMPUDENT|Indolence]],  
+[[Hypnotiseur#REGARDIMPUDENT|Magie affaiblie]],  
+[[Hypnotiseur#REGARDIMPUDENT|Susceptibilité]],  
+[[Hypnotiseur#REGARDIMPUDENT|Timidité]].
+</div>
+
+<div style="border-top:1px dashed #4b3124">
+====Talents sauvages de cinétiste====</div>
+<div class="article_3col">
+'''Explosions cinétiques.'''  
+[[Talents sauvages#EXPLOSIONDAIR|Explosion d’air]],  
+[[Talents sauvages#EXPLOSIONDEAU|Explosion d’eau]],  
+[[Talents sauvages#EXPLOSIONDEAUÉLECTRIFIÉE|Explosion d’eau électrifiée]],  
+[[Talents sauvages#EXPLOSIONDEBLIZZARD|Explosion de blizzard]],  
+[[Talents sauvages#EXPLOSIONDEBOUE|Explosion de boue]],  
+[[Talents sauvages#EXPLOSIONDÉCLAIR|Explosion d’éclair]],  
+[[Talents sauvages#EXPLOSIONDEFEU|Explosion de feu]],  
+[[Talents sauvages#EXPLOSIONDEFLAMMES BLEUES|Explosion de flammes bleues]],  
+[[Talents sauvages#EXPLOSIONDEFORCE|Explosion de force]],  
+[[Talents sauvages#EXPLOSIONDEFROID|Explosion de froid]],  
+[[Talents sauvages#EXPLOSIONDEGLACE|Explosion de glace]],  
+[[Talents sauvages#EXPLOSIONDEMAGMA|Explosion de magma]],  
+[[Talents sauvages#EXPLOSIONDEMÉTAL|Explosion de métal]],  
+[[Talents sauvages#EXPLOSIONDEPLASMA|Explosion de plasma]],  
+[[Talents sauvages#EXPLOSIONDESABLE|Explosion de sable]],  
+[[Talents sauvages#EXPLOSIONDETERRE|Explosion de terre]],  
+[[Talents sauvages#EXPLOSIONDEVAPEUR|Explosion de vapeur]],  
+[[Talents sauvages#EXPLOSIONÉLECTRIQUE|Explosion électrique]],  
+[[Talents sauvages#EXPLOSIONTÉLÉCINÉTIQUE|Explosion télécinétique]],  
+[[Talents sauvages#IMPREEGNIATIONÉTHÉRÉE|Imprégnation éthérée]].  
+  
+'''Défense.'''  
+[[Talents sauvages#CORPSBRULANT|Corps brûlant]],  
+[[Talents sauvages#MANTEAUDEAU|Manteau d’eau]],  
+[[Talents sauvages#PEAUDEPIERRE|Peau de pierre]],  
+[[Talents sauvages#PROTECTIONDEFORCE|Protection de force]],  
+[[Talents sauvages#VENTSPROTECTEURS|Vents protecteurs]].  
+  
+'''Injections.'''  
+[[Talents sauvages#ARMECINÉTIQUE|Arme cinétique]],  
+[[Talents sauvages#CYCLONE|Cyclone]],  
+[[Talents sauvages#DÉFLAGRATION|Déflagration]],  
+[[Talents sauvages#DÉLUGEDEXPLOSIONS|Déluge d’explosions]],  
+[[Talents sauvages#EMPALEMENT|Empalement]],  
+[[Talents sauvages#ENCHAINEMENT|Enchaînement]],  
+[[Talents sauvages#ÉRUPTION|Éruption]],  
+[[Talents sauvages#ÉVENTAILDEFLAMMES|Éventail de flammes]],  
+[[Talents sauvages#EXPLOSIONMOBILE|Explosion mobile]],  
+[[Talents sauvages#EXTENSIONDEPORTÉE|Extension de portée]],  
+[[Talents sauvages#FAUFILEMENT|Faufilement]],  
+[[Talents sauvages#FOUETCINÉTIQUE|Fouet cinétique]],  
+[[Talents sauvages#FRAGMENTATION|Fragmentation]],  
+[[Talents sauvages#GRAPPINDEFORCE|Grappin de force]],  
+[[Talents sauvages#INJECTIONDABSORPTION|Injection d’absorption]],  
+[[Talents sauvages#INJECTIONDAGRIPPEMENT|Injection d’agrippement]],  
+[[Talents sauvages#INJECTIONDENCHEVETREMENT|Injection d’enchevêtrement]],  
+[[Talents sauvages#INJECTIONDEXTINCTION|Injection d’extinction]],  
+[[Talents sauvages#INJECTIONDEBOURRASQUE|Injection de bourrasque]],  
+[[Talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade]],  
+[[Talents sauvages#INJECTIONDEBRILLANCE|Injection de brillance]],  
+[[Talents sauvages#INJECTIONDECROCENJAMBE|Injection de croc-en-jambe]],  
+[[Talents sauvages#INJECTIONDEDÉSINTÉGRATION|Injection de désintégration]],  
+[[Talents sauvages#INJECTIONDEDISSIPATION|Injection de dissipation]],  
+[[Talents sauvages#INJECTIONDEFEU|Injection de feu]],  
+[[Talents sauvages#INJECTIONDEFLAMMESPURES|Injection de flammes pures]],  
+[[Talents sauvages#INJECTIONDEFROID|Injection de froid]],  
+[[Talents sauvages#INJECTIONDELUMIÈREAVEUGLANTE|Injection de lumière aveuglante]],  
+[[Talents sauvages#INJECTIONDEMAGNÉTISME|Injection de magnétisme]],  
+[[Talents sauvages#INJECTIONDEÉTALRARE|Injection de métal rare]],  
+[[Talents sauvages#INJECTIONDETONNERRE|Injection de tonnerre]],  
+[[Talents sauvages#LANCERSMULTIPLES|Lancers multiples]],  
+[[Talents sauvages#MUR|Mur]],  
+[[Talents sauvages#NUAGE|Nuage]],  
+[[Talents sauvages#POINGCINÉTIQUE|Poing cinétique]],  
+[[Talents sauvages#PORTÉEEXTREME|Portée extrême]],  
+[[Talents sauvages#PROJECTIONDENNEMI|Projection d’ennemi]],  
+[[Talents sauvages#PULVÉRISATION|Pulvérisation]],  
+[[Talents sauvages#TERREMORTELLE|Terre mortelle]],  
+[[Talents sauvages#TORRENT|Torrent]].  
+  
+'''Utilitaires.'''  
+[[Talents sauvages#ARBICINÉTIQUE|Abri cinétique]],  
+[[Talents sauvages#ACCLIMATATIONÀLAIR|Acclimatation à l’air]],  
+[[Talents sauvages#ACCLIMATATIONàLACHALEUR|Acclimatation à la chaleur]],  
+[[Talents sauvages#ACCLIMATATIONAUFROID|Acclimatation au froid]],  
+[[Talents sauvages#AÉROCINÉTIQUESIMPLE|Aérocinetique simple]],  
+[[Talents sauvages#AILESDAIR|Ailes d’air]],  
+[[Talents sauvages#ASPHYXIE|Asphyxie]],  
+[[Talents sauvages#AUTOTÉLÉCINÉTIQUE|Autotélécinétique]],  
+[[Talents sauvages#AUTOTÉLÉCINÉTIQUESUPREME|Autotélécinétique suprême]],  
+[[Talents sauvages#BARRIÈREDEFORCE|Barrière de force]],  
+[[Talents sauvages#BARRIèRESDUVENT|Barrière du vent]],  
+[[Talents sauvages#BONDAÉRIEN|Bond aérien]],  
+[[Talents sauvages#CALCINATION|Calcination]],  
+[[Talents sauvages#CÉLÉRITÉ|Célérité]],  
+[[Talents sauvages#CHEVAUCHÉEEXPLOSIVE|Chevauchée explosive]],  
+[[Talents sauvages#CINÉTISTETALENTIEUX|Cinétiste talentueux]],  
+[[Talents sauvages#CINÉTISTETALENTUEUXSUPREME|Cinétiste talentueux suprême]],  
+[[Talents sauvages#COUSSINDAIR|Coussin d’air]],  
+[[Talents sauvages#DANSEURAQUATIQUE|Danseur aquatique]],  
+[[Talents sauvages#DANSEURAQUATIQUESUPREME|Danseur aquatique suprême]],  
+[[Talents sauvages#DÉCALAGEDELATERRE|Décalage de terre]],  
+[[Talents sauvages#DÉCALAGEDELATERRESUPREME|Décalage de terre suprême]],  
+[[Talents sauvages#DÉFENSEAMÉLIORÉE|Défense améliorée]],  
+[[Talents sauvages#DÉVIATIONDELAMAGIE|Déviation de la magie]],  
+[[Talents sauvages#DÉVIATIONTÉLÉCINÉTIQUE|Déviation télécinétique]],  
+[[Talents sauvages#ENFUMAGE|Enfumage]],  
+[[Talents sauvages#ESCALADEDELATERRE|Escalade de la terre]],  
+[[Talents sauvages#ESQUIVEAÉRIENNE|Esquive aérienne]],  
+[[Talents sauvages#ÉTINCELLEDEVIE|Étincelle de vie]],  
+[[Talents sauvages#FINESSETÉLÉCINÉTIQUE|Finesse télécinétique]],  
+[[Talents sauvages#FORMEINÉTIQUE|Forme cinétique]],  
+[[Talents sauvages#FURIEARDENTE|Furie ardente]],  
+[[Talents sauvages#GÉOCINÉTIQUESIMPLE|Géocinétiste simple]],  
+[[Talents sauvages#GLOBETÉLÉCINÉTIQUE|Globe télécinétique]],  
+[[Talents sauvages#HYDROCINÉTIQUESIMPLE|Hydrocinétique simple]],  
+[[Talents sauvages#INVISIBILITÉTÉLÉCINÉTIQUE|Invisibilité télécinétique]],  
+[[Talents sauvages#MAITREDESSÉISMES|Maître des séismes]],  
+[[Talents sauvages#MAITREDUCLIMAT|Maître du climat]],  
+[[Talents sauvages#MANIPULATIONDELEAU|Manipulation de l’eau]],  
+[[Talents sauvages#MANIPULATIONDUVENT|Manipulation du vent]],  
+[[Talents sauvages#MANOEUVRESTÉLÉCINÉTIQUES|Manoeuvres télécinétiques]],  
+[[Talents sauvages#MANTEAUDAIR|Manteau d’air]],  
+[[Talents sauvages#MANTEAUDAIRSUPREME|Manteau d’air suprême]],  
+[[Talents sauvages#MANUTENTIONTÉLÉCINÉTIQUE|Manutention télécinétique]],  
+[[Talents sauvages#MARCHEDELATERRE|Marche de la terre]],  
+[[Talents sauvages#MARCHESURLAGLACE|Marche sur la glace]],  
+[[Talents sauvages#MARIONNETTEDÉTHER|Marionnette d’éther]],  
+[[Talents sauvages#MIRAGEMIROITANT|Mirage miroitant]],  
+[[Talents sauvages#NAGEDANSLATERRE|Nage dans la terre]],  
+[[Talents sauvages#NAPPEGRAISSEUSE|Nappe graisseuse]],  
+[[Talents sauvages#PARALYSIEÉLÉMENTAIRE|Paralysie élémentaire]],  
+[[Talents sauvages#PASSERELLEDEGLACE|Passerelle de glace]],  
+[[Talents sauvages#PEAUDEPIERRESACÉRÉES|Peau de pierres acérées]],  
+[[Talents sauvages#PERCEPTIONAÉRIENNE|Perception aérienne]],  
+[[Talents sauvages#PERCEPTIONAÉRIENNESUPREME|Perception aérienne suprême]],  
+[[Talents sauvages#PERCEPTIONAQUATIQUE|Perception aquatique]],  
+[[Talents sauvages#PERCEPTIONARDENTE|Perception ardente]],  
+[[Talents sauvages#PERCEPTIONDESVIBRATIONS|Perception des vibrations]],  
+[[Talents sauvages#PERCEPTIONDESVIBRATIONSSUPREME|Perception des vibrations suprême]],  
+[[Talents sauvages#PORTÉEAÉRIENNE|Portée aérienne]],  
+[[Talents sauvages#PROPULSIONPARLESFLAMMES|Propulsion par les flammes]],  
+[[Talents sauvages#PROPULSIONPARLESFLAMMESSUPREME|Propulsion par les flammes suprême]],  
+[[Talents sauvages#PROTECTIONPARLEFEU|Protection par le feu]],  
+[[Talents sauvages#PYROCINÉTIQUESIMPLE|Pyrocinétique simple]],  
+[[Talents sauvages#RAZDEMARÉE|Raz de marée]],  
+[[Talents sauvages#RENAISSANCEDESCENDRES|Renaissance des cendres]],  
+[[Talents sauvages#SCULPTEURDEFEU|Sculpteur de feu]],  
+[[Talents sauvages#SCULPTEURSURGLACE|Sculpteur sur glace]],  
+[[Talents sauvages#SCULPTEURSURPIERRE|Sculpteur sur pierre]],  
+[[Talents sauvages#SOIGNEURCINÉTIQUE|Soigneur cinétique]],  
+[[Talents sauvages#TÉLÉCINÉTIQUESIMPLE|Télécinétique simple]],  
+[[Talents sauvages#TERREPERSISTANTE|Terre persistante]],  
+[[Talents sauvages#TRAINÉEDEFEU|Traînées de feu]],  
+[[Talents sauvages#TRANSPOSITIONVERSLÉTHER|Transposition vers l’éther]],  
+[[Talents sauvages#VAGUEDECHALEUR|Vague de chaleur]],  
+[[Talents sauvages#VAGUEDEFROID|Vague de froid]],  
+[[Talents sauvages#VENTDEMURMURES|Vent de murmures]],  
+[[Talents sauvages#VISIONTACTILE|Vision tactile]],  
+[[Talents sauvages#VISIONTACTILERÉACTIVE|Vision tactile réactive]],  
+[[Talents sauvages#VOILEDEBRUME|Voile de brume]].
+</div>
+
+
+===Périls===
+====Apparitions====
+<div class="article_3col">
+[[Exemples dapparitions#ESPRITBRUYANT|Esprit bruyant]],  
+[[Exemples dapparitions#MORTIMPERIEUX|Mort impérieux]],  
+[[Exemples dapparitions#VERMINESPECTRALE|Vermine spectrale]],  
+[[Exemples dapparitions#ARMEMALEFIQUE|Arme maléfique]],  
+[[Exemples dapparitions#PRESENCEINSIDIEUSE|Présence insidieuse]].
+</div>
+
+
+===Règles officielles===
+<div class="article_3col">
+[[Auras]],  
+[[Duels psychiques]],  
+[[Chakras]],  
+[[Créer un rituel occulte]],  
+[[Diriger une partie occulte]],  
+[[Exemples de rituels occultes]],  
+[[Extensions de compétences occultes]],  
+[[Les esprits des lieux]],  
+[[Les lignes telluriques]],  
+[[Parchemins magiques#PARCHEMINSPSYCHIQUES|Les parchemins de magie psychique]],  
+[[Lieux occultes]],  
+[[Nouvelles règles sur les apparitions]],  
+[[Paysages mentaux]],  
+[[Plans ésotériques]],  
+[[Possession spirituelle]],  
+[[Rituels occultes]].
+</div>
+
+
+===Rituels occultes===
+<div class="article_3col">
+[[Exemples de rituels occultes#APPELERPARDELALEVOILE|Appeler par-delà le voile]],  
+[[Exemples de rituels occultes#CERCLEDENCHEVETREMENT|Cercle d'enchevêtrement]],  
+[[Exemples de rituels occultes#COMMUNIONHANTEE|Communion hantée]],  
+[[Exemples de rituels occultes#DECHIRERLEVOILEDESREVES|Déchirer le voile des rêves]],  
+[[Exemples de rituels occultes#DECHIRUREETHEREE|Déchirure éthérée]],  
+[[Exemples de rituels occultes#EXORCISMERITUEL|Exorcisme rituel]],  
+[[Exemples de rituels occultes#OUVERTUREDUTROISIEMEOEIL|Ouverture du troisième oeil]],  
+[[Exemples de rituels occultes#PROTECTIONPSYCHIQUE|Protection psychique]],  
+[[Exemples de rituels occultes#RECHERCHEDINTUITIONASTRALE|Recherche d'intuition astrale]],  
+[[Exemples de rituels occultes#SCEAUDEVITEMENT|Sceau d'évitement]],  
+[[Exemples de rituels occultes#STRUCTUREVOILEE|Structure voilée]].
+</div>
+
+
+===Sorts===
+<div class="article_3col">
+[[Analyse daura|Analyse d’aura]],  
+[[Anticipation des pensées]],  
+[[Apaisement des esprits]],  
+[[Appel dun esprit|Appel d’un esprit]],  
+[[Asile psychique]],  
+[[Barrière mentale I]],  
+[[Barrière mentale II]],  
+[[Barrière mentale III]],  
+[[Barrière mentale IV]],  
+[[Barrière mentale V]],  
+[[Bilocation]],  
+[[Blocage cognitif]],  
+[[Blocage émotionnel]],  
+[[Blocage mental]],  
+[[Bouclier des pensées I]],  
+[[Bouclier des pensées II]],  
+[[Bouclier des pensées III]],  
+[[Bouclier des pensées IV]],  
+[[Bouclier des pensées V]],  
+[[Bouffée dintuition|Bouffée d’intuition]],  
+[[Bredouillement]],  
+[[Brouillage synaptique]],  
+[[Broyage psychique I]],  
+[[Broyage psychique II]],  
+[[Broyage psychique III]],  
+[[Broyage psychique IV]],  
+[[Broyage psychique V]],  
+[[Catatonie]],  
+[[Cercle thaumaturgique]],  
+[[Chaînes intangibles]],  
+[[Charger un objet]],  
+[[Chasser les esprits]],  
+[[Chirurgie psychique]],  
+[[Conseil onirique]],  
+[[Contempler de loin]],  
+[[Corps dombre|Corps d’ombre]],  
+[[Coup mental I]],  
+[[Coup mental II]],  
+[[Coup mental III]],  
+[[Coup mental IV]],  
+[[Coup mental V]],  
+[[Coup mental VI]],  
+[[Création de paysage mental suprême]],  
+[[Création de paysage mental]],  
+[[Dégoût]],  
+[[Déguisement décrépi]],  
+[[Déjà vu]],  
+[[Détection dimportance psychique|Détection d’importance psychique]],  
+[[Détection de paysage mental]],  
+[[Diviser lesprit|Diviser l’esprit]],  
+[[Échange desprits majeur|Échange d’esprits majeur]],  
+[[Échange desprits|Échange d’esprits]],  
+[[Écho des pensées]],  
+[[Éclats éthérés]],  
+[[Effacement dimpression|Effacement d’impression]],  
+[[Effacement de lesprit|Effacement de l’esprit]],  
+[[Effet placebo]],  
+[[Enveloppe éthérée]],  
+[[Enveloppement des pensées]],  
+[[Enveloppement éthéré]],  
+[[Éruption ectoplasmique]],  
+[[Esprit endormi]],  
+[[Éther condensé]],  
+[[Éveil de créature artificielle]],  
+[[Examen des rêves]],  
+[[Forme akashique]],  
+[[Forteresse intellectuelle I]],  
+[[Forteresse intellectuelle II]],  
+[[Forteresse intellectuelle III]],  
+[[Fouet dego I|Fouet d’ego I]],  
+[[Fouet dego II|Fouet d’ego II]],  
+[[Fouet dego III|Fouet d’ego III]],  
+[[Fouet dego IV|Fouet d’ego IV]],  
+[[Fouet dego V|Fouet d’ego V]],  
+[[Fouet fantôme]],  
+[[Horreur onirique suprême]],  
+[[Horreur onirique]],  
+[[Hypercognition]],  
+[[Image psychique]],  
+[[Implantation de lecture factice]],  
+[[Infliger des souffrances de groupe]],  
+[[Infliger des souffrances]],  
+[[Insinuation du ça I]],  
+[[Insinuation du ça II]],  
+[[Insinuation du ça III]],  
+[[Insinuation du ça IV]],  
+[[Lame spirituelle (sort)|Lame spirituelle]],  
+[[Lancer un duel psychique]],  
+[[Lecture dobjet|Lecture d’objet]],  
+[[Lecture psychique]],  
+[[Lien mental]],  
+[[Manoeuvre télékinétique]],  
+[[Microcosme]],  
+[[Modification daura|Modification d’aura]],  
+[[Montée dadrénaline|Montée d’adrénaline]],  
+[[Mur ectoplasmique]],  
+[[Nodule explosif]],  
+[[Nourrir la haine]],  
+[[Nuée de papier]],  
+[[Offrande exigée]],  
+[[Paranoïa]],  
+[[Paroles de la tombe]],  
+[[Passager clandestin]],  
+[[Perception des pensées]],  
+[[Piège ectoplasmique]],  
+[[Piéger un esprit]],  
+[[Poings éthérés]],  
+[[Porte sur un paysage mental]],  
+[[Possession spirituelle dobjet inférieure|Possession spirituelle d’objet inférieure]],  
+[[Possession spirituelle dobjet suprême|Possession spirituelle d’objet suprême]],  
+[[Possession spirituelle dobjet|Possession spirituelle d’objet]],  
+[[Possession spirituelle suprême]],  
+[[Possession spirituelle (sort)|Possession spirituelle]],  
+[[Projectile télékinétique]],  
+[[Projection télempathique]],  
+[[Pulsation synaptique suprême]],  
+[[Pulsation synaptique]],  
+[[Quintessence]],  
+[[Refouler un souvenir]],  
+[[Régression primale]],  
+[[Rétrocognition]],  
+[[Sonde mentale]],  
+[[Surcharge synaptique]],  
+[[Synesthésie de groupe]],  
+[[Synesthésie]],  
+[[Talisman instrumental]],  
+[[Télépathie (sort)|Télépathie]],  
+[[Tempête télékinétique]],  
+[[Tête explosive]],  
+[[Tour de volonté de fer I]],  
+[[Tour de volonté de fer II]],  
+[[Tour de volonté de fer III]],  
+[[Tour de volonté de fer IV]],  
+[[Tour de volonté de fer V]],  
+[[Transfert daffliction|Transfert d’affliction]],  
+[[Transport danimal|Transport d’animal]],  
+[[Transport dobjet|Transport d’objet]],  
+[[Traversée onirique]],  
+[[Vie scellée suprême]],  
+[[Vie scellée]],  
+[[Voyage onirique]],  
+[[Zèle contagieux]],  
+[[Zèle inébranlable]].
+</div>

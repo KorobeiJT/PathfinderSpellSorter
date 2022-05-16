@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un morceau de carapace de tortue)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 heure/niveau ou jusqu'à épuisement
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

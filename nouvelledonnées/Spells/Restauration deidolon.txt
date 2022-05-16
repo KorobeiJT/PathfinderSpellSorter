@@ -1,0 +1,8 @@
+[École] invocation(guérison) 
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (poussière de diamant d'une valeur  de 100 po ou 1 000 po, voir texte)
+[Portée] contact
+[Cible] eidolon touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

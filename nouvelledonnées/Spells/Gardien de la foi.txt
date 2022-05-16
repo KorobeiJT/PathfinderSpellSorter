@@ -1,0 +1,8 @@
+[École] abjuration (cf. texte)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (parchemin portant un texte sacré)
+[Portée] courte 
+[Cible] un allié
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non

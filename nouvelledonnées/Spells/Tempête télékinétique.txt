@@ -1,0 +1,7 @@
+[École] Évocation force
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte, 12m de rayon d'action centré sur vous
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur (voir le texte)
+[Résistance à la magie] oui

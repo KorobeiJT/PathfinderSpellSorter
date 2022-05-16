@@ -1,0 +1,4 @@
+[École] Nécromancie
+[Portée] courte
+[Cible] objet abandonné de taille G ou inférieure (TP au minimum)
+[Durée] 10 minutes/niveau

@@ -1,0 +1,8 @@
+[École] Transmutation variable
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F (une boulette de résine)
+[Portée] courte
+[Cible] un engin de siège G
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

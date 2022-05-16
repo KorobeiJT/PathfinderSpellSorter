@@ -1,0 +1,8 @@
+[École] évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un maillon de chaîne)
+[Portée] courte
+[Cible] 3 m de chaîne
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

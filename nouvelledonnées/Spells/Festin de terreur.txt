@@ -1,0 +1,8 @@
+[École] nécromancie effet mental, émotion, terreur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une ou plusieurs créature(s) vivante(s) (cf. texte)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

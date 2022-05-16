@@ -1,0 +1,403 @@
+---
+Name: Pathfinder-RPG.Temp objetsmagiques merveilleux MCA
+Title: Objets merveilleux - Manuel des Joueurs Classes Avancées
+LastModified: 2020-06-13 10:56
+---
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux mineurs de faible puissance || Prix
+|- CLASS="premier"
+| Élixir de voix tonitruante || 250 po
+|- CLASS="alt"
+| Cure-dent de pyrotechnie || 400 po
+|- 
+| Poussière du conteur || 600 po
+|- CLASS="alt"
+| Poussière de l’assassin || 750 po
+|- 
+| Cri en bouteille || 900 po
+|- CLASS="alt"
+| Collier sanguinaire || 1 000 po
+|- 
+| Plume de panache || 1 000 po
+|- CLASS="alt"
+| Maillage magique (niveau 1) || 1 000 po
+|- 
+| Faux visage || 1 600 po
+|- CLASS="alt"
+| Ceinturon de manoeuvres supérieures +1 || 2 000 po
+|- 
+| Bottes d’enthousiasme || 2 000 po
+|- CLASS="alt"
+| Encens d’eidos || 2 000 po
+|- 
+| Lanterne des auras || 2 000 po
+|- CLASS="alt"
+| Luth du va-t-en-guerre || 2 000 po
+|- 
+| Poussière de restauration || 2 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 1) || 2 000 po
+|- 
+| Élixir de changement de sexe || 2 250 po
+|- CLASS="alt"
+| Os de troll || 2 400 po
+|- 
+| Araignée d’airain || 2 500 po
+|- CLASS="alt"
+| Élégance de l’épéiste || 2 500 po
+|- 
+| Cloche des esprits-revenants || 3 000 po
+|- CLASS="alt"
+| Porte-clés magique || 3 000 po
+|- 
+| Bottes de voltige || 3 500 po
+|}
+</center>
+
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux mineurs de grande puissance || Prix
+|- CLASS="premier"
+| Maillage magique (niveau 2) || 4 000 po
+|- CLASS="alt"
+| Calebasse scintillante || 4 250 po
+|-
+| Lunettes de médecin || 4 900 po
+|- CLASS="alt"
+| Amulette de défense instinctive || 5 000 po
+|-
+| Bandeau du loup || 5 000 po
+|- CLASS="alt"
+| Fourreau des mille lames || 5 000 po
+|-
+| Fourreau de volatilisation || 5 000 po
+|- CLASS="alt"
+| Bannière des nuits réparatrices || 5 040 po
+|-
+| Torque du chant primal || 6 000 po
+|- CLASS="alt"
+| Sifflet d’invocation || 6 300 po
+|-
+| Cape du gredin sournois || 6 400 po
+|- CLASS="alt"
+| Masque d’aspect || 6 500 po
+|-
+| Bracelets hurlants || 7 000 po
+|- CLASS="alt"
+| Gants de marquage || 7 200 po
+|-
+| Fenêtre à sens unique || 7 500 po
+|- CLASS="alt"
+| Bottes de prompte fureur || 7 500 po
+|}
+</center>
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux mineurs de grande puissance || Prix
+|- CLASS="premier"
+| Fenêtre à sens unique || 4 000 po
+|- CLASS="alt"
+| Maillage magique (niveau 2) || 4 000 po
+|-
+| Calebasse scintillante || 4 250 po
+|- CLASS="alt"
+| Lunettes de médecin || 4 900 po
+|-
+| Amulette de défense instinctive || 5 000 po
+|- CLASS="alt"
+| Bandeau du loup || 5 000 po
+|-
+| Fourreau des mille lames || 5 000 po
+|- CLASS="alt"
+| Fourreau de volatilisation || 5 000 po
+|-
+| Bannière des nuits réparatrices || 5 040 po
+|- CLASS="alt"
+| Torque du chant primal || 6 000 po
+|-
+| Sifflet d’invocation || 6 300 po
+|- CLASS="alt"
+| Cape du gredin sournois || 6 400 po
+|-
+| Masque d’aspect || 6 500 po
+|- CLASS="alt"
+| Bracelets hurlants || 7 000 po
+|-
+| Gants de marquage || 7 200 po
+|- CLASS="alt"
+| Bottes de prompte fureur || 7 500 po
+|}
+</center>
+
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux intermédiaires de faible puissance || Prix
+|- CLASS="premier"
+| Amulette des esprits (paradis) || 8 000 po
+|- CLASS="alt"
+| Amulette des esprits (vent) || 8 000 po
+|-
+| Ceinturon de manoeuvres supérieures +2 || 8 000 po
+|- CLASS="alt"
+| Gants ensanglantés || 8 000 po
+|-
+| Blouse du bâtard impudent || 8 000 po
+|- CLASS="alt"
+| Coupes d’entente || 8 000 po
+|-
+| Lentilles du prédateur || 8 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 2) || 8 000 po
+|-
+| Torque de rage sanglante || 8 000 po
+|- CLASS="alt"
+| Cape des exploits audacieux || 9 000 po
+|-
+| Pipe de l’enquêteur || 9 000 po
+|- CLASS="alt"
+| Maillage magique (niveau 3) || 9 000 po
+|-
+| Cape du poète || 9 750 po
+|- CLASS="alt"
+| Amulette des lignages (voué à un grand destin) || 10 000 po
+|-
+| Amulette des lignages (féerique) || 10 000 po
+|- CLASS="alt"
+| Amulette des esprits (flammes) || 10 000 po
+|-
+| Amulette des esprits (pierre) || 10 000 po
+|- CLASS="alt"
+| Amulette des esprits (vagues) || 10 000 po
+|-
+| Fort du chasseur || 10 000 po
+|- CLASS="alt"
+| Amulette des lignages (abyssal) || 12 000 po
+|-
+| Amulette des lignages (maudit) || 12 000 po
+|- CLASS="alt"
+| Amulette des lignages (céleste) || 12 000 po
+|-
+| Amulette des lignages (draconique) || 12 000 po
+|- CLASS="alt"
+| Amulette des lignages (élémentaire) || 12 000 po
+|-
+| Amulette des lignages (infernal) || 12 000 po
+|- CLASS="alt"
+| Amulette des lignages (mort-vivant) || 12 000 po
+|-
+| Amulette des esprits (batailles) || 12 000 po
+|- CLASS="alt"
+| Amulette des esprits (os) || 12 000 po
+|-
+| Amulette des esprits (vie) || 12 000 po
+|- CLASS="alt"
+| Corne de la panacée || 12 000 po
+|-
+| Diablotin en fer (statuette merveilleuse) || 13 000 po
+|- CLASS="alt"
+| Cape de feinte || 14 000 po
+|-
+| Collier sanguinaire supérieur || 14 000 po
+|- CLASS="alt"
+| Amulette des lignages (aberrant) || 15 000 po
+|-
+| Mouchoir de localisation || 15 000 po
+|- CLASS="alt"
+| Robe du tueur || 15 000 po
+|-
+| Gantelets du briseur de crânes || 15 302 po
+|- CLASS="alt"
+| Heaume de la valkyrie || 16 000 po
+|-
+| Runes du convent de la mégère || 16 000 po
+|- CLASS="alt"
+| Runes de la foi antique 16 000 po
+|-
+| Lunettes du saboteur 16 000 po
+|- CLASS="alt"
+| Maillage magique (niveau 4) 16 000 po
+|}
+</center>
+
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux intermédiaires de grande puissance || Prix
+|- CLASS="premier"
+| Ceinturon de manoeuvres supérieures +3 || 18 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 3) || 18 000 po
+|- 
+| Maillage magique (niveau 5) || 25 000 po
+|}
+</center>
+
+
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux majeurs de faible puissance || Prix
+|- CLASS="premier"
+| Bottes du héraut des batailles || 30 000 po
+|- CLASS="alt"
+| Ceinturon de manoeuvres supérieures +4 || 32 000 po
+|- 
+| Rune de pouvoir (niveau 4) || 32 000 po
+|- CLASS="alt"
+| Cape de désarmement || 35 000 po
+|- 
+| Maillage magique (niveau 6) || 36 000 po
+|- CLASS="alt"
+| Collier de fer du sabbat déchaîné || 46 000 po
+|- 
+| Maillage magique (niveau 7) || 49 000 po
+|}
+</center>
+
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Objets merveilleux
+|- CLASS="titre"
+| Objets merveilleux majeurs de grande puissance || Prix
+|- CLASS="premier"
+| Ceinturon de manoeuvres supérieures +5 || 50 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 5) || 50 000 po
+|- 
+| Maillage magique (niveau 8) || 64 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 6) || 72 000 po
+|- 
+| Maillage magique (niveau 9) || 81 000 po
+|- CLASS="alt"
+| Boussole du prédateur || 85 000 po
+|- 
+| Rune de pouvoir (niveau 7) || 98 000 po
+|- CLASS="alt"
+| Rune de pouvoir (niveau 8) || 128 000 po
+|- 
+| Rune de pouvoir (niveau 9) || 162 000 po
+|}
+</center>
+
+
+
+
+
+===Objets sans emplacement (pour tri)===
+<center>
+{| CLASS="tablo col1centre autoalt"
+|+ Objets merveilleux de faible puissance
+|- CLASS="titre"
+| Objet || Prix || Poids
+|- CLASS="premier"
+| [[Élixir de voix tonitruante]] || 250 po || —
+|-
+| [[Cure-dent de pyrotechnie]] || 400 po || —
+|- 
+| [[Poussière du conteur]] || 600 po || —
+|-
+| [[Poussière de lassassin|Poussière de l’assassin]] || 750 po || —
+|- 
+| [[Cri en bouteille]] || 900 po || 0,25 kg
+|-
+| [[Maillage magique]] (niveau 1) || 1 000 po || 0,5 kg
+|-
+| [[Encens deidos|Encens d’eidos]] || 2 000 po || 0,5 kg
+|- 
+| [[Lanterne des auras]] || 2 000 po || 1 kg
+|-
+| [[Luth va-t-en-guerre]] || 2 000 po || 1,5 kg
+|- 
+| [[Poussière de restauration]] || 2 000 po || —
+|-
+| [[Rune de pouvoir]] (niveau 1) || 2 000 po || —
+|- 
+| [[Élixir de changement de sexe]] || 2 250 po || —
+|-
+| [[Os de troll]] || 2 400 po || 0,5 kg
+|-
+| [[Élégance de lépéiste|Élégance de l’épéiste]] || 2 500 po || —
+|- 
+| [[Cloche des esprits-revenants]] || 3 000 po || 0,5 kg
+|-
+| [[Porte-clés magique]] || 3 000 po || 4 kg
+|-
+| [[Maillage magique]] (niveau 2) || 4 000 po || 0,5 kg
+|-
+| [[Calebasse scintillante]] || 4 250 po || 4 kg
+|-
+| [[Fourreau des mille lames]] || 5 000 po || 1,5 kg
+|-
+| [[Bannière des nuits réparatrices]] || 5 040 po || 3,5 kg
+|-
+| [[Sifflet dinvocation|Sifflet d’invocation]] || 6 300 po || —
+|-
+| [[Fenêtre à sens unique (MCA)]] || 7 500 po || 0,5 kg
+|-
+| [[Coupes dentente|Coupes d’entente]] || 8 000 po || 0,5 kg
+|-
+| [[Rune de pouvoir]] (niveau 2) || 8 000 po || —
+|-
+| [[Pipe de lenquêteur|Pipe de l’enquêteur]] || 9 000 po || —
+|-
+| [[Maillage magique]] (niveau 3) || 9 000 po || 0,5 kg
+|-
+| [[Fort du chasseur]] || 10 000 po || 0,5 kg
+|-
+| [[Corne de la panacée]] || 12 000 po || 0,5 kg
+|-
+| [[Statuette merveilleuse]] (diablotin en fer) || 13 000 po || 0,5 kg
+|-
+| [[Mouchoir de localisation]] || 15 000 po || —
+|-
+| [[Runes du sabbat de la mégère]] || 16 000 po || 0,5 kg
+|-
+| [[Rune de la foi antique]] || 16 000 po || 0,5 kg
+|-
+| [[Maillage magique]] (niveau 4) || 16 000 po || 0,5 kg
+|-
+| [[Rune de pouvoir]] (niveau 3) || 18 000 po || —
+|- 
+| [[Maillage magique]] (niveau 5) || 25 000 po || 0,5 kg
+|-
+| [[Rune de pouvoir]] (niveau 4) || 32 000 po || —
+|-
+| [[Maillage magique]] (niveau 6) || 36 000 po || 0,5 kg
+|-
+| [[Maillage magique]] (niveau 7) || 49 000 po || 0,5 kg
+|-
+| [[Rune de pouvoir]] (niveau 5) || 50 000 po || —
+|- 
+| [[Maillage magique]] (niveau 8) || 64 000 po || 0,5 kg
+|-
+|  [[Rune de pouvoir]] (niveau 6) || 72 000 po || —
+|- 
+| [[Maillage magique]] (niveau 9) || 81 000 po || 0,5 kg
+|-
+| [[Boussole du prédateur]] || 85 000 po || —
+|- 
+| [[Rune de pouvoir]] (niveau 7) || 98 000 po || —
+|-
+| [[Rune de pouvoir]] (niveau 8) || 128 000 po || —
+|- 
+| [[Rune de pouvoir]] (niveau 9) || 162 000 po || —
+|}
+</center>

@@ -1,0 +1,7 @@
+[École] invocation (création)
+[Temps d'incantation] 6 heures
+[Composantes] V, G, F (une baguette fourchue en métal d'au moins 500 po)
+[Cible] demi-plan extradimensionnel, jusqu'à 20 cubes de 3 mètre/niveau
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

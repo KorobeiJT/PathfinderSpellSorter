@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action immédiate  
+[Composantes] V, G  
+[Portée] moyenne  
+[Cible] une créature qui tombe  
+[Durée] 1 round/niveau (voir ci-dessous)  
+[Jet de sauvegarde] Vigueur, partiel (voir ci-dessous)
+[Résistance à la magie] oui

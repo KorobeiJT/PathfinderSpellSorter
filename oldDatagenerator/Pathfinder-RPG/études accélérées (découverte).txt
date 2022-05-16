@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.études accélérées (découverte)
+Title: études accélérées (découverte)
+LastModified: 2020-02-18 10:33
+Categories:
+  - 'Redirection'
+---
+>>> Découvertes arcaniques#ETUDESACCELEREES

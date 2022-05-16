@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Serre-tête de persuasion
+Title: Serre-tête de persuasion
+LastModified: 2021-03-29 17:53
+Categories:
+  - 'Objet mag intelligent'
+---
+<div style="float:right">'''''Retour aux [[objets merveilleux]].'''''</div><div class="BD">
+{s:BDTitre|Serre-tête de persuasion|}
+'''Aura''' [[Transmutation]] faible ; '''NLS''' 5 ; '''Emplacement''' tête ; '''Prix''' 4 500 po ; '''Poids''' —
+(((Description)))
+Ce serre-tête en argent confère à son porteur un bonus de compétence de +3 aux tests associés au [[Charisme]].
+(((Fabrication)))
+'''Conditions''' [[Création dobjets merveilleux|Création d'objets merveilleux]], ''[[charme-personne]]'' ; '''Coût''' 2 250 po
+</div>

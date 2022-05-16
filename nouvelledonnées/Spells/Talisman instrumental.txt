@@ -1,0 +1,6 @@
+[École] Évocation
+[Temps d'incantation] 10 minutes
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 h/niveau ou jusqu'à déchargement

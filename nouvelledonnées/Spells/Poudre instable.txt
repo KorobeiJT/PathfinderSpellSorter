@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (quelques gouttes de liqueur)
+[Portée] courte
+[Cible] une arme à feu chargée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)

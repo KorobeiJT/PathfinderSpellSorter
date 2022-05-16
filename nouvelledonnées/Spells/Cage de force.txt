@@ -1,0 +1,8 @@
+[École] Évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de rubis (500 po))
+[Portée] courte
+[Cible] cage à barreaux (cube de 6 m d'arête) ou cellule aveugle (cube de 3 m d'arête)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes, annule
+[Résistance à la magie] non

@@ -1,0 +1,6 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (1 à 4 balles en adamantium, valant chacune 61 po)  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 10 minutes/niveau ou jusqu'à déchargement

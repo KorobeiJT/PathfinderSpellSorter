@@ -1,0 +1,6 @@
+[École] école Divination 
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (une bobine de fil ou une ficelle)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 jour/niveau

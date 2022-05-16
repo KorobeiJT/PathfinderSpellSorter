@@ -1,0 +1,8 @@
+[École] Invocation (création) (eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (quelques gouttes d'huile et d'eau)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Réflexes pour annuler (inoffensif)
+[Résistance à la magie] non

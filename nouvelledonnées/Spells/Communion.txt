@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (eau bénite ou maudite et 500 po d'encens), FD
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 round/niveau

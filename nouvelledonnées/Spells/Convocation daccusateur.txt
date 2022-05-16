@@ -1,0 +1,8 @@
+[École] Invocation (convocation) Mal, Loi
+[Temps d'incantation] 1 round  
+[Composantes] V, G, F/FD (un morceau de viande avariée)  
+[Portée] courte
+[Cible] 1 diable accusateur  
+[Durée] 10 minutes/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] enchantement (coercition) mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature
+[Durée] permanente
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental, mort)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] 1 créature vivante dotée de 100 pv ou moins
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

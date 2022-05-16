@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Science de lenchaînement surprise
+Title: Science de l'enchaînement surprise
+LastModified: 2021-04-30 16:16
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Manuel des races'
+---
+{s:mr}''Le personnage fait suivre son attaque d’une étonnante série de coups.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|Combat]]
+
+'''Conditions.''' [[Demi-orque]] ou [[orque (race)|orque]], [[Force|For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Succession denchaînements|Succession d’enchaînements]], [[Enchaînement surprise]], [[BBA]]+8.
+
+'''Avantages.''' Quand le personnage utilise [[Succession denchaînements|Succession d’enchaînements]], tous les adversaires qu’il attaque à son tour (à part le premier) sont privés de leur bonus de [[Dextérité]] contre lui.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage touche un adversaire privé de son bonus de [[Dextérité]] à la [[CA]] grâce à ce don et qu’il utilise l’[[Endurance et Astuces martiales#ENCHAINEMENTSURPRISE|astuce martiale d’Enchaînement surprise]] pour lui infliger des dégâts supplémentaires, ces dégâts supplémentaires passent à 1d6.

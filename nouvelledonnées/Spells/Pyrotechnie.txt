@@ -1,0 +1,8 @@
+[École] Transmutation
+[Composantes] V, G, M (une source de feu)
+[Temps d'incantation] 1 action simple
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] 1 source de feu (cube de 6 m d'arête maximum)
+[Durée] 1d4+1 rounds, ou 1d4+1 rounds après que les créatures ont quitté le nuage de fumée (voir description)
+[Jet de sauvegarde] Volonté, annule ou Vigueur, annule (voir description)
+[Résistance à la magie] oui ou non (voir description)

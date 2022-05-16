@@ -1,0 +1,6 @@
+[École] Transmutation (eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (un mélange d'huile et d'eau)
+[Portée] personnelle
+[Cible] lanceur de sort
+[Durée] 1 minute/niveau

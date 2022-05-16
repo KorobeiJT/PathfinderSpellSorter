@@ -1,0 +1,8 @@
+[École] invocation (convocation)
+[Temps d'incantation] 1 round
+[Composantes] V, G, M/FD (un carré de tissu rouge)
+[Portée] courte
+[Cible] une nuée de grenouilles venimeuses
+[Durée] concentration + 2 rounds
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

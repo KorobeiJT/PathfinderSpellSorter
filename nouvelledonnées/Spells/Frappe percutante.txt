@@ -1,0 +1,8 @@
+[École] Évocation force
+[Temps d'incantation] 1 action rapide  
+[Composantes] V, G  
+[Portée] contact ou allonge d'une arme de corps à corps  
+[Cible] une créature  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] oui

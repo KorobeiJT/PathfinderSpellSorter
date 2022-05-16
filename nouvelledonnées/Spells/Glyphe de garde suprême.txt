@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (Le prêtre trace le glyphe à l'aide d'un bâtonnet d'encens qu'il a auparavant recouvert de poudre de diamant (valeur 400 po minimum))
+[Portée] contact
+[Cible] objet touché ou jusqu'à 0,5 m²/niveau
+[Durée] permanente jusqu'au déclenchement
+[Jet de sauvegarde] voir description ;
+[Résistance à la magie] non (objet) et oui (voir description)

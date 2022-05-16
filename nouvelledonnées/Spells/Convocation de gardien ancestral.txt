@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F/FD (une effigie en pierre ou en métal de l'ancêtre du personnage)  
+[Portée] moyenne  
+[Cible] deux esprits d'ancêtres convoqués  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

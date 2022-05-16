@@ -1,0 +1,8 @@
+[École] Illusion (fantasme) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 portail illusoire
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté annule (voir texte)
+[Résistance à la magie] non

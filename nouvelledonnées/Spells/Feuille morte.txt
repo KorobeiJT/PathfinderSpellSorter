@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] courte
+[Cible] un objet ou créature de taille M ou inférieure/niveau, distantes de 6 m ou moins les uns des autres, et en état de chute libre.
+[Durée] jusqu'à l'atterrissage ou 1 round/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif) ou Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

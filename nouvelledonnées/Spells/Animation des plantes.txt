@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] une plante de taille G par tranche de 3 niveaux de lanceur de sorts, ou toutes les plantes situées à portée (voir description)
+[Durée] 1 round/niveau ou 1 heure/niveau (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

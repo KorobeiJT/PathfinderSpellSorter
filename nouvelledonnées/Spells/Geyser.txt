@@ -1,0 +1,8 @@
+[École] Invocation (création) (feu, eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un morceau de roche volcanique)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] jet d'eau bouillante qui remplit une case de 1,50 m et monte jusqu'à 3 m/2 niveaux
+[Durée] concentration +1 round/niveau
+[Jet de sauvegarde] Réflexes partiel (voir plus bas)
+[Résistance à la magie] non

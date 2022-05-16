@@ -1,0 +1,8 @@
+[École]Illusion (fantasme) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] illimitée
+[Cible] une ou plusieurs créatures vivantes
+[Durée] voir texte
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

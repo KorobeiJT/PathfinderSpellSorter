@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (un chiffon doux)  
+[Portée] contact  
+[Cible] un objet en métal d'un maximum de 30 cm de côté  
+[Durée] instantanée  
+[Jet de sauvegarde] oui (objet)
+[Résistance à la magie] oui (objet)

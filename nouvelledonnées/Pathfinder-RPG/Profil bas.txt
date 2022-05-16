@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Profil bas
+Title: Profil bas
+LastModified: 2021-04-30 16:08
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Manuel des joueurs - Règles avancées'
+---
+{s:apg}''Grâce à sa stature réduite, le personnage peut facilement éviter les attaques à distance.''
+
+'''Catégorie :''' [[Dons#DONCOMBAT|combat]]
+
+'''Conditions. '''[[dextérité|Dex]] 13, [[taille P|taille inférieure ou égale à P]].
+
+'''Avantage.''' Le personnage gagne un bonus d’[[esquive]] de +1 à la [[CA]] contre les [[attaque à distance|attaques à distance]]. De plus, il n’offre pas d’[[abri]] mou aux créatures lorsque les attaques à distance passent à travers sa case.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage est la cible d’une attaque à distance, il peut dépenser un nombre de points d’endurance inférieur ou égal à son bonus de [[Dextérité]]. Son bonus d’esquive à la [[CA]] contre cette attaque augmente de 1 par point d’endurance dépensé.

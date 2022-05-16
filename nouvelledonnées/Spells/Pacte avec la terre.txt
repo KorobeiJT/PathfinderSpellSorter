@@ -1,0 +1,6 @@
+[École] Enchantement (coercition) mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pincée de terre qui vient de l'rôdeur#ENVIRONNEMENTDE environnement de prédilection du rôdeur)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 heure/2 niveaux

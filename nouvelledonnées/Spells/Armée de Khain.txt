@@ -1,0 +1,8 @@
+[École] Nécromancie Mal
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M/FD (une poignée de dents de goule)  
+[Portée] 1,50 m  
+[Cible] 1d4+1 goules et 1 blême  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Vigueur, 1/2 dégâts (voir description)
+[Résistance à la magie] non

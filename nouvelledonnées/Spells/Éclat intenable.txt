@@ -1,0 +1,8 @@
+[École] évocation lumière
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle et 9 m (cf. texte)
+[Cible] émanation de 9 m de rayon centrée sur le lanceur
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun et Réflexes pour dégâts partiels (cf. texte) ;
+[Résistance à la magie] non et oui (cf. texte)

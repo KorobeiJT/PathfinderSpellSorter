@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M(une petite boule de bitume) 
+[Portée] courte
+[Cible] attaque à distance
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une poupée de chiffon)
+[Portée] courte
+[Cible] un animal
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur, annule (et Volonté, spécial, voir texte)
+[Résistance à la magie] oui

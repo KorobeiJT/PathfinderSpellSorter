@@ -1,0 +1,8 @@
+[École] invocation (création) poison
+[Temps d'incantation] 1 action simple 
+[Composantes] G, FD 
+[Portée] courte 
+[Cible] un dard empoisonné 
+[Durée] instantanée 
+[Jet de sauvegarde] Vigueur pour dégâts partiels (cf. texte)
+[Résistance à la magie] non

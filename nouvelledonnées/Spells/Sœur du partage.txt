@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une goutte de sang du personnage)  
+[Portée] contact  
+[Cible] le personnage et une créature de même sexe  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

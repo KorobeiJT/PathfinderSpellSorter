@@ -1,0 +1,8 @@
+[École] Divination (effet mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pièce de cuivre)
+[Portée] 18 m
+[Cible] une créature
+[Durée] concentration, au maximum 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (cf.texte)
+[Résistance à la magie] oui

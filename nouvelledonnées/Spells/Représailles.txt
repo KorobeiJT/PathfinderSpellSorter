@@ -1,0 +1,8 @@
+[École] Nécromancie douleur, mal 
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] une créature qui vient de frapper le personnage
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

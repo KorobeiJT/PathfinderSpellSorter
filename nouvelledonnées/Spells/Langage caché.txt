@@ -1,0 +1,8 @@
+[École] Transmutation (dépend du langage) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un glyphe écrit sur une feuille de parchemin)
+[Portée] courte
+[Cible] le lanceur de sorts + une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté (inoffensif)
+[Résistance à la magie] oui

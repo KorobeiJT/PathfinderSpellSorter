@@ -1,0 +1,8 @@
+[École] Évocation (feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un piment)
+[Portée] 4,50 m
+[Cible] rayonnement en forme de cône
+[Durée] 1 round/niveau ou jusqu'à déchargement ; voir texte
+[Jet de sauvegarde] Réflexes pour réduire de moitié
+[Résistance à la magie] oui

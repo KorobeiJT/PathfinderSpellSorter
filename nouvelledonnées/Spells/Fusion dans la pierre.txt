@@ -1,0 +1,6 @@
+[École] Transmutation (terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 10 minutes/niveau

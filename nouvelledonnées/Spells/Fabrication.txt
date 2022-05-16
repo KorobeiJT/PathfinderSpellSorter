@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] voir description
+[Composantes] V, G, M (les matériaux originels, qui coûtent le même prix que les matériaux bruts nécessaires à la fabrication de l'objet)
+[Portée] courte
+[Cible] jusqu'à 0,3 m³/niveau (voir description)
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

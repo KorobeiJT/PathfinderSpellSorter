@@ -1,0 +1,6 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de carottes séchées ou une agate)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minutes/niveau

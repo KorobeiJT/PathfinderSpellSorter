@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de souffre et de l'ail en poudre)
+[Portée] moyenne
+[Cible] jusqu'à 3 type morts-vivants distants de moins de 9 m/6 {s:c} les uns des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

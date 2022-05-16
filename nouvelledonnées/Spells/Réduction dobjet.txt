@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 1 objet touché allant jusqu'à 60 dm³/niveau
+[Durée] 1 jour/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

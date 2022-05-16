@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un éclat de miroir)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] voir texte

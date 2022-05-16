@@ -1,0 +1,8 @@
+[École] Illusion (ombre)
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (une sculpture de glace de la cible et de la poudre de rubis d'une valeur de 50 po par DV du simulacre)
+[Portée] 0 m
+[Cible] 1 double
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

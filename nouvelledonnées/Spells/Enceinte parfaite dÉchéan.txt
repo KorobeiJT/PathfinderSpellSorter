@@ -1,0 +1,8 @@
+[École] Abjuration force
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une sphère en verre d'une valeur de 100 po et un clou en fer avec lequel le lanceur perce le verre au moment de l'incantation)  
+[Portée] contact  
+[Cible] émanation immobile de 3 m de rayon  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] voir description

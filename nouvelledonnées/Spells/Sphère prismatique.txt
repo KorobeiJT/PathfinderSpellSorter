@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] 3 m
+[Cible] sphère de 3 m de rayon centrée sur le jeteur de sorts
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description

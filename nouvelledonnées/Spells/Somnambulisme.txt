@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental) 
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (une branche de belladone valant 100 po)
+[Portée] contact
+[Cible] créature inconsciente touchée
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté pour annuler ; voir texte
+[Résistance à la magie] oui

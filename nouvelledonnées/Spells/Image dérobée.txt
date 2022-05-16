@@ -1,0 +1,8 @@
+[École] Illusion (chimère)
+[Temps d'incantation] 1 action complexe  
+[Composantes] V, G, F (une gemme d'une valeur de 500 po au moins)  
+[Portée] contact  
+[Cible] gemme transparente touchée  
+[Durée] permanent ou 1 minute/niveau (voir texte)  
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

@@ -1,0 +1,8 @@
+[École] Invocation (création) (terre) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une poignée de terre)
+[Portée] intermédiaire
+[Cible] mur de terre de 3 m de haut sur une ligne de 3 m de long/2 niveaux de lanceur de sorts ou en un cercle d'un rayon de 90 cm + 30 cm/niveau
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

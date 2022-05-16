@@ -1,0 +1,8 @@
+[École] nécromancie (basé sur le langage)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, FD
+[Portée] 3 m (voir description)
+[Cible] une apparition
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (cf. texte)
+[Résistance à la magie] non

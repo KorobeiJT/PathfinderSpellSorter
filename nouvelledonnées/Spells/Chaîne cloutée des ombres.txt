@@ -1,0 +1,8 @@
+[École] Illusion (ombre) obscurité
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (un chaînon d'une chaîne cloutée)  
+[Portée] 0 m  
+[Cible] une arme faite d'ombres semblable à une chaîne cloutée  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] non

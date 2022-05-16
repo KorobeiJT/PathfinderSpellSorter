@@ -1,0 +1,8 @@
+[École]Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] 1 objet de 0,3 m3/niveau au maximum
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun (objet) ou Volonté pour percer à jour (en cas d'interaction)
+[Résistance à la magie] non

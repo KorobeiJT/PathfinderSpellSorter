@@ -1,0 +1,6 @@
+[École] transmutation (air)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une plume d'oie)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minute/niveau

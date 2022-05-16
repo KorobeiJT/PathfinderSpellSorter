@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 minute/500 g
+[Composantes] V, G, M (le bois à transformer)
+[Portée] 0 m
+[Cible] un objet en bois de fer pesant jusqu'à 2,5 kg/niveau
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

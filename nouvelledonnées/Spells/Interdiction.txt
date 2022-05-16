@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 6 rounds
+[Composantes] V, G, M (eau bénite et encens (1 500 po, plus 1 500 po par cube de 18 m/12 {s:c} d'arête), FD
+[Portée] moyenne
+[Cible] 1 cube de 18 m/12 {s:c} d'arête par niveau
+[Durée] permanente
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui

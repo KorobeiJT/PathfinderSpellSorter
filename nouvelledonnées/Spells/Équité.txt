@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action complexe  
+[Composantes] V, G, FD  
+[Portée] courte
+[Cible] une créature humanoïde par niveau  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

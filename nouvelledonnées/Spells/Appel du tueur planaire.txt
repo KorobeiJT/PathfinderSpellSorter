@@ -1,0 +1,8 @@
+[École] enchantement (coercition) effet mental, cf. texte
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] 6 m
+[Cible] alliés dans un rayon de 6 m centré sur le lanceur
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

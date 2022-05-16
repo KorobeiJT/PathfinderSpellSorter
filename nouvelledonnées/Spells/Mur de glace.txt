@@ -1,0 +1,8 @@
+[École] Évocation (froid)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de quartz ou de cristal de roche)
+[Portée] moyenne
+[Cible] plan de glace constitué d'un carré de 3 m de côté/niveau, ou hémisphère de glace d'un rayon de 90 cm + 30 cm/niveau
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Réflexes, annule (voir description)
+[Résistance à la magie] oui

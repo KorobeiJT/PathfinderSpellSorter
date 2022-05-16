@@ -1,0 +1,4 @@
+[École] enchantement (charme) effet mental
+[Composantes] V, G, M (mercure et phosphore, plus poudre de diamant et d'opale d'une valeur totale de 1 000 po)
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

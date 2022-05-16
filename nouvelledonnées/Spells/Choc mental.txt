@@ -1,0 +1,6 @@
+[École] école Divination douleur, effet mental
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau

@@ -1,0 +1,8 @@
+---
+Name: Pathfinder-RPG.Créature informe (capacité)
+Title: Créature informe (Ext)
+LastModified: 2021-02-11 20:08
+Categories:
+  - 'Redirection'
+---
+>>> Amorphe (capacité)

@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (un morceau de papier prélevé d'un livre sur les monstres)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 minute/niveau

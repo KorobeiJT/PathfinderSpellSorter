@@ -1,0 +1,6 @@
+[École] Invocation (guérison) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un bâtonnet d'encens)
+[Portée] personnelle
+[Cible] lanceur de sort
+[Durée] 1 minute

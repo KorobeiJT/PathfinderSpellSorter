@@ -1,0 +1,8 @@
+[École] illusion (hallucination)
+[Temps d'incantation] 1 round
+[Composantes] V
+[Portée] courte
+[Cible] émanation de 1,5 m de diamètre centrée sur un objet ou un point dans l'espace
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun (objet)
+[Résistance à la magie] non (objet)

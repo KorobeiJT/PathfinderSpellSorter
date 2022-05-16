@@ -1,0 +1,8 @@
+[École] évocation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pincée de salpêtre)
+[Portée] intermédiaire
+[Cible] une créature
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur 1/2 et Réflexes (voir description)
+[Résistance à la magie] oui

@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 minute  
+[Composantes] V, G, F (un ensemble de bâtonnets ou d'os gravés d'une valeur d'au-moins 25 po)  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] instantanée

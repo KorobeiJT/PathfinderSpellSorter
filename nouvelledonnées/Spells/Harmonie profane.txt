@@ -1,0 +1,9 @@
+[École] Évocation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une baguette utilisée)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Cible] émanation de 3 m de rayon centrée sur le lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun 
+[Résistance à la magie] non

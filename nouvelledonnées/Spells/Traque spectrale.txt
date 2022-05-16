@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] personnelle (voir description)  
+[Cible] le personnage et un compagnon animal situé à 9 mètres ou moins  
+[Durée] 1 heure/niveau

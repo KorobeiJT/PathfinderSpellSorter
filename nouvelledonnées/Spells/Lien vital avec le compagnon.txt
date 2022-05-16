@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M/FD (une goutte d'ichor d'eidolon)  
+[Portée] contact  
+[Cible] l'un des compagnons animaux ou le familier du lanceur  
+[Durée] 1 minute/niveau (cf. ci-dessous)  
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

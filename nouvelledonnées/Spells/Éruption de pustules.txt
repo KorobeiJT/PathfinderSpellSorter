@@ -1,0 +1,8 @@
+[École] transmutation acide
+[Temps d'incantation] 1 action simple
+[Composantes] V, G 
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur partielle (voir texte)
+[Résistance à la magie] oui

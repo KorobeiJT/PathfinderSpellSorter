@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 action simple ou voir description
+[Composantes] V, G, M (une gemme d'une valeur de 1 000 po par DV de la créature piégée)
+[Portée] courte
+[Cible] 1 créature
+[Durée] [permanente (voir description)
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui (voir description)

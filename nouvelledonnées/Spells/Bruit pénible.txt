@@ -1,0 +1,8 @@
+[École] évocation sonore
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] courte
+[Cible] 1d4 créatures vivantes
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui (inoffensif)

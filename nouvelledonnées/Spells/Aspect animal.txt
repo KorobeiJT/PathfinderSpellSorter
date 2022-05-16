@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un morceau de l'animal)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] Invocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (1 bout de métal qui vient d'un bouclier)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 heure/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non

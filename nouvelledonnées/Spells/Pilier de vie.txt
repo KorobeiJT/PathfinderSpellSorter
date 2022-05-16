@@ -1,0 +1,8 @@
+[École] Invocation (guérison) (lumière) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] intermédiaire
+[Cible] pilier d'énergie positive de 1,50 m de côté et 6 m de haut
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 minute  
+[Composantes] V, G, M (limaille de fer)  
+[Portée] contact  
+[Cible] arme touchée  
+[Durée] permanent  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

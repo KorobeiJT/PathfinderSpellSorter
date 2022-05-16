@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] nuage de 108 m de rayon
+[Durée] concentration (jusqu'à 10 rounds)
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui

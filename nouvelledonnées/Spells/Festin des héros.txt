@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] festin nourrissant 1 créature/niveau
+[Durée] 1 heure + 12 heures (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Universel
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 1 rune ou marque personnelle devant tenir dans un carré de 30 cm de côté
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] école Divination 
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M/FD (un bout de parchemin)
+[Portée] contact
+[Cible] le sang d'une créature ou une tache de sang
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (voir texte) 
+[Résistance à la magie] non

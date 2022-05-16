@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1d4+1 rounds de temps apparent (voir description)

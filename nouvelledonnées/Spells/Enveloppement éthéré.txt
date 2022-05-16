@@ -1,0 +1,8 @@
+[École]Invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (boîte de cristal vide)
+[Portée] courte
+[Cible] 1 créature
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule, voir texte
+[Résistance à la magie] oui

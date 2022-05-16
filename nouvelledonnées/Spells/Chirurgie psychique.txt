@@ -1,0 +1,8 @@
+[École]Enchantement effet mental
+[Temps d'incantation] 10 minutes
+[Composantes] V, M (poussière de diamant d'une valeur de 250 po)
+[Portée] contact
+[Cible] 1 créature vivante consentante
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

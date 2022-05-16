@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un peu de magnétite et une pincée de poussière)
+[Portée] moyenne
+[Cible] rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel (objet)
+[Résistance à la magie] oui

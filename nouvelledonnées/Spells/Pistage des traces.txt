@@ -1,0 +1,8 @@
+[École] école Divination 
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un bout de plâtre)
+[Portée] contact
+[Cible] empreinte touchée
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

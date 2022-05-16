@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Assaut dévastateur
+Title: Assaut dévastateur
+LastModified: 2022-02-24 19:05
+Categories:
+  - 'Don maîtrise darmes'
+  - 'Src Weapon Masters Handbook'
+---
+{s:cs}{s:WMH}''Le personnage est capable de marteler un adversaire pour pénétrer ses défenses.''
+
+'''Catégorie :''' [[Dons#MAITRISEDARME|maîtrise d'arme]]
+
+'''Conditions'''  [[BBA]] +9, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entrainement aux armes]] avec une arme de corps à corps
+
+'''Avantage''' Par une [[action complexe]], le personnage peut écarter les défenses de son adversaire pour effectuer une unique, mais particulièrement efficace attaque au corps à corps. Le personnage effectue une unique attaque au corps à corps avec une arme appropriée sur une unique cible, mais lance autant de [[jet dattaque|jets d'attaque]] que s'il effectuait une [[attaque à outrance]] en utilisant cette arme. Le personnage réalise ses attaques en partant du plus haut bonus au plus bas de ses bonus comme s'il réalisait une attaque à outrance. 
+* Si au moins une de ses attaques touche, son unique attaque est considérée comme réussie, et le personnage lance le jet de dégâts normalement.
+* Si un jet ou plus est un [[coup critique|critique potentiel]], le personnage ne fait qu'un jet de confirmation avec son [[BBA|bonus de base à l'attaque]] le plus élevé.
+* Si deux attaques ou plus touchent, la cible doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 bonus de base à l'attaque du personnage + modificateur de [[Force]] du personnage) ou être handicapée pour 1d4 tours par l'un des [[états préjudiciables]] suivant (au choix du personnage) :
+** Si au moins deux attaques ont touchées, il peut choisir entre les états [[assourdi]], [[enchevêtré]], ou [[secoué]].
+** Si au moins trois attaques ont touchées, il peut également choisir entre les états [[aveuglé]] ou [[chancelant]].
+** Si au moins quatre attaques ont touchées, il peut aussi choisir l'état [[hébété]].
+
+Une fois que le personnage à forcé une cible à effectuer un [[jds|jet de sauvegarde]] contre un état préjudiciable avec ce don, il n'est plus possible d'imposer ce même état à cette cible avec Assaut dévastateur pendant 24 heures.

@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, M/FD (une ziggourat miniature en argile)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] non

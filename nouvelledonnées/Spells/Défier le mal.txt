@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (effet mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, FD
+[Portée] courte
+[Cible] une créature Mauvaise
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler 
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F
+[Portée] courte
+[Cible] une plante taille G, taille TG ou taille Gig tous les trois niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

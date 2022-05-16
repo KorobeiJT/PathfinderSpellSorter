@@ -1,0 +1,7 @@
+[École] école Divination
+[Temps d'incantation] 1 round  
+[Composantes] V, G, F (un livre aux pages vierges)  
+[Portée] personnelle  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

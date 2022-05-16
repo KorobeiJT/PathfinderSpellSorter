@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] 3 m  
+[Cible] rayonnement de 3 m de rayon, centré sur le lanceur  
+[Durée] 1 round/niveau (T; voir description)  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

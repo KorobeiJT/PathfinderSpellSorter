@@ -1,0 +1,8 @@
+[École] Transmutation (feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] arme touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (objet, inoffensif)
+[Résistance à la magie] oui (inoffensif)

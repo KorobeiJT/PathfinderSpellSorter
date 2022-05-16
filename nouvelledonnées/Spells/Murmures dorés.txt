@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 round  
+[Composantes] V, G, M (poudre de pierres précieuses d'une valeur de 100 po)  
+[Portée] contact  
+[Cible] une pièce d'or ou de platine  
+[Durée] 1 jour/niveau  
+[Jet de sauvegarde] Vol, annule (objet)
+[Résistance à la magie] oui (objet)

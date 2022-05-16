@@ -1,0 +1,8 @@
+[École] enchantement (coercition) (effet mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de partition)
+[Portée] courte
+[Cible] une créature/niveau (les cibles ne doivent pas être éloignées de plus de 9 m les unes des autres)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler 
+[Résistance à la magie] oui

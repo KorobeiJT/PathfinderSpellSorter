@@ -1,0 +1,8 @@
+[École] Enchantement (charme) langage, mental
+[Temps d'incantation] 1 action rapide  
+[Composantes] V, G  
+[Portée] courte
+[Cible] Créatures situées dans une étendue de 6 mètres de rayon.  
+[Durée] instantanée  
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

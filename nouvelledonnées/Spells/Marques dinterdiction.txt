@@ -1,0 +1,8 @@
+[École] Abjuration (effet mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] un ennemi et un allié
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler ; voir texte
+[Résistance à la magie] oui

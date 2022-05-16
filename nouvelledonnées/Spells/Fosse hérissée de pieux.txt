@@ -1,0 +1,8 @@
+[École] Invocation (création) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pelle miniature qui coûte 10 po)
+[Portée] moyenne
+[Cible] trou de 3 m sur 3m, 3 m de profondeur/2 niveaux
+[Durée] 1 round + 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler
+[Résistance à la magie] non

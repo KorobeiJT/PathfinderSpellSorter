@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] 15 m  
+[Cible] lanceur de sorts et tous ses alliés dans un rayonnement de 15 m, centré sur le lanceur  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui (inoffensif)

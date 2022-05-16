@@ -1,0 +1,8 @@
+[École] Abjuration émotion 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] émanation de 3 m de rayon centrée sur le lanceur de sorts
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif) 
+[Résistance à la magie] oui (inoffensif)

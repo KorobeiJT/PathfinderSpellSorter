@@ -1,0 +1,8 @@
+[École] Évocation (son)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] 9 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel ou Réflexes, annule (objet) (voir description)
+[Résistance à la magie] oui (objet)

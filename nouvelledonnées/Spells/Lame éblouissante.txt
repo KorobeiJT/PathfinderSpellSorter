@@ -1,0 +1,8 @@
+[École] Illusion (mirage)
+[Temps d'incantation] 1 action rapide  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] une arme en métal  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté pour annuler (voir description)
+[Résistance à la magie] oui (inoffensif, objet)

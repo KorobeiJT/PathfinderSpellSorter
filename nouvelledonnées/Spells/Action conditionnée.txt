@@ -1,0 +1,8 @@
+[École] évocation
+[Temps d'incantation] 1 minute
+[Composantes] V, G 
+[Portée] courte 
+[Cible] une créature volontaire
+[Durée] 1 minute/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

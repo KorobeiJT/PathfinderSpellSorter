@@ -1,0 +1,8 @@
+[École] Abjuration 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un morceau de coquille d'œuf)
+[Portée] contact
+[Cible] créatures touchées, jusqu'à une/niveau
+[Durée] 2 heures/niveau ; voir texte
+[Jet de sauvegarde] Volonté pour annuler (inoffensif) 
+[Résistance à la magie] oui (inoffensif)

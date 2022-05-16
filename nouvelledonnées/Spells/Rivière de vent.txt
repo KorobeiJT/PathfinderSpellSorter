@@ -1,0 +1,8 @@
+[École] Évocation (air) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 36 m
+[Cible] ligne de 36 m
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

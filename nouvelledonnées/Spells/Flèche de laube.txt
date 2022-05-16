@@ -1,0 +1,8 @@
+[École] Évocation lumière
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 50 munitions au maximum (elles doivent se trouver ensemble lors de l'incantation)
+[Durée] 10 minutes
+[Jet de sauvegarde] Vigueur, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

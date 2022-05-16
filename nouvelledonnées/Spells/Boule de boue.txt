@@ -1,0 +1,8 @@
+[École] Invocation (création) terre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une boule de boue gluante de la taille d'un poing
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour annuler
+[Résistance à la magie] non

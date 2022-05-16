@@ -1,0 +1,7 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (lentille de cristal d'une valeur de 10 po)
+[Portée] moyenne
+[Cible] 6 m de rayon, centré sur une créature, un objet ou un point dans l'espace
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler 

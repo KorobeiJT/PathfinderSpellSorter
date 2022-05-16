@@ -1,0 +1,8 @@
+[École] évocation froid
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne (30 m + 3 m/niveau) + 2{s:c}/niveau)
+[Cible] un plan de glace ancré, faisant au maximum 3 m de côté/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Réflexes pour annuler (cf. texte)
+[Résistance à la magie] oui

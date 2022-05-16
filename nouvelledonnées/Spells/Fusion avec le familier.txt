@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] le familier du lanceur de sorts
+[Durée] 1 heure/niveau ou jusqu'à ce que le lanceur de sort retourne dans son corps
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui

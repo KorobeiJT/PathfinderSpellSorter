@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature à plumes touchée
+[Durée] 24 heures
+[Jet de sauvegarde] Volonté pour annuler (inoffensif), annule
+[Résistance à la magie] oui

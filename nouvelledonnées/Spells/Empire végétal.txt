@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] jusqu'à 2 DV/niveau de créatures végétales, distantes de moins de 9 m les unes des autres
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

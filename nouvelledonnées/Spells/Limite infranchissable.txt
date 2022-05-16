@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 1,5 m
+[Cible] rayonnement de 1,5 m centrée sur le lanceur
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

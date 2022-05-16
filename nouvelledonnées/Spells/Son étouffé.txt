@@ -1,0 +1,8 @@
+[École] illusion (hallucination)
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] courte
+[Cible] un allié/niveau
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

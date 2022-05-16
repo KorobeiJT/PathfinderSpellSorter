@@ -1,0 +1,8 @@
+[École] Invocation (appel ou création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (voir description)
+[Portée] moyenne
+[Cible] voir description
+[Durée] instantanée ou concentration (jusqu'à 1 round/niveau ; voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

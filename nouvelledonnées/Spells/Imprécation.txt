@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] 15 m
+[Cible] tous les adversaires se trouvant à 15 m ou moins
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

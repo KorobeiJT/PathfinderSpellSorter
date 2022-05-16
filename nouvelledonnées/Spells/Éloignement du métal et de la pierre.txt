@@ -1,0 +1,8 @@
+[École] Abjuration (terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 18 m
+[Cible] ligne de 18 m de long émanant du jeteur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

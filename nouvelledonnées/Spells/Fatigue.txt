@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sueur)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une aiguille en argent)
+[Portée] 4,5 m
+[Cible] rayonnement en cône
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour 1/2 dégâts
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation malédiction 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Vigueur annule 
+[Résistance à la magie] oui

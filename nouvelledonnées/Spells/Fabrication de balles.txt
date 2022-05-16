@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (0,5 kg de plomb ou une quantité de métal mou d'une valeur de 2 po)
+[Portée] contact
+[Cible] 0,5 kg de métal mou
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

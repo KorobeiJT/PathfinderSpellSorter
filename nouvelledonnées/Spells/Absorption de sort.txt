@@ -1,0 +1,6 @@
+[École] Abjuration
+[Temps d'incantation] 1 round  
+[Composantes] V, G, M (un prisme)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau

@@ -1,0 +1,8 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (charbon)
+[Portée] contact
+[Cible] créature ou objet (30 dm³/niveau) touché
+[Durée] 10 minutes/niveau ; voir description
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

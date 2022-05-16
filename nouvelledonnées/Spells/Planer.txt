@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une feuille)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] jusqu'à l'atterrissage ou 1 minute/niveau

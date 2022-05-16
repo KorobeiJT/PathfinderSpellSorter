@@ -1,0 +1,8 @@
+[École] Invocation (création) (force)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (poudre d'ambre (500 po) et écaille de serpent)
+[Portée] contact
+[Cible] livre ou texte touché
+[Durée] permanente ou jusqu'à utilisation ; jusqu'à libération ou 1d4 jours + 1 jour/niveau (voir description)
+[Jet de sauvegarde] Réflexes, annule
+[Résistance à la magie] non

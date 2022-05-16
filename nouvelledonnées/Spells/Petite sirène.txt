@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature volontaire touchée
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

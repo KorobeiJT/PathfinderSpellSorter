@@ -1,0 +1,8 @@
+[École] Nécromancie (mort)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une perle noire réduite en poudre (500 po))
+[Portée] moyenne
+[Cible] plusieurs créatures vivantes dans un rayonnement de 12 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

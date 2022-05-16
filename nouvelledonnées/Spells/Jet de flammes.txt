@@ -1,0 +1,8 @@
+[École] Transmutation (feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une source de feu)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] une source de feu, jusqu'à 0,60 mètres cube
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler et Réflexes pour annuler ; voir texte
+[Résistance à la magie] non

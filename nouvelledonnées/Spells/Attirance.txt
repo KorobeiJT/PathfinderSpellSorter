@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (une goutte de miel et des perles broyées (1 500 po))
+[Portée] courte
+[Cible] 1 lieu (volume n'excédant pas 1 cube de 3 m d'arête/niveau) ou 1 objet
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

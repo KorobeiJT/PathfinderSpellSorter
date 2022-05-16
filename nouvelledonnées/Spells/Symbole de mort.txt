@@ -1,0 +1,8 @@
+[École] Nécromancie (mort)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (du mercure et du phosphore ainsi qu'un diamant et une opale en poudre d'une valeur de 5 000 chacun)
+[Portée] 0 m (voir description)
+[Cible] 1 symbole
+[Durée] voir description
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

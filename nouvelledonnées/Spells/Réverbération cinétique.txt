@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un peu de sève d'arbre à caoutchouc)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (objet)
+[Résistance à la magie] oui (objet)

@@ -1,0 +1,7 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] 9 m  
+[Durée] instantanée  
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

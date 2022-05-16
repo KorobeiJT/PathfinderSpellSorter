@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 3 rounds
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] cercle de corde, liane ou ficelle non-magique de 60 cm de diamètre + 60 cm/niveau
+[Durée] jusqu'à ce qu'il se referme ou soit cassé
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] mur de lames tourbillonnantes de 6 m de long/niveau, ou anneau de lames tourbillonnantes de 1,50 m de rayon/2 niveaux ; 6 m de haut dans les deux cas
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Réflexes, 1/2 dégâts ou Réflexes, annule (voir description)
+[Résistance à la magie] oui

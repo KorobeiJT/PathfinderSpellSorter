@@ -1,0 +1,8 @@
+[École] Illusion (chimère, hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] courte
+[Cible] : le jeteur de sorts et 1 double illusoire
+[Durée] 1 round/niveau et concentration + 3 rounds (voir description)
+[Jet de sauvegarde] aucun ou Volonté, dévoile (en cas d'interaction) voir description
+[Résistance à la magie] non

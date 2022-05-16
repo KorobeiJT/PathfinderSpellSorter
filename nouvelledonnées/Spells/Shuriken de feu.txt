@@ -1,0 +1,8 @@
+[École] Invocation (création) feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pincée de soufre et un shuriken pour une valeur de 2 po)
+[Portée] courte
+[Cible] deux shuriken enflammés ou plus
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École]Illusion (fantasme) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 1 créature vivante
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

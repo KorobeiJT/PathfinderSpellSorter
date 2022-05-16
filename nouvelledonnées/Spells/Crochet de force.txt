@@ -1,0 +1,8 @@
+[École] Évocation Force
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature ou un objet à portée et le lanceur de sorts
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] oui 

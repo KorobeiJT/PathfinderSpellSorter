@@ -1,0 +1,8 @@
+[École] Évocation (force, lumière) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact ou 1,50 m (1 {s:c}) (voir description)
+[Cible] créature touchée ou toutes les créatures dans un rayon de 1,50 m ; voir texte
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

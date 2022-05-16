@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (un éclat de pierre, du sable, une goutte d'eau et un copeau de bois)
+[Portée] courte
+[Cible] structure de 6 m de côté
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

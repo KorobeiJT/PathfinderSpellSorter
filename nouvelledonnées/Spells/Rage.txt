@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 1 créature vivante et consentante/3 niveaux, distantes de moins de 9 m les unes des autres
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Évocation lumière
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] contact
+[Cible] objet touché
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] 1 créature/niveau, distantes de moins de 9 m les uns des autres
+[Durée] concentration, jusqu'à 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] non

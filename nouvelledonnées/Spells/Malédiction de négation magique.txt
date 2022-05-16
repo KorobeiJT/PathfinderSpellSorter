@@ -1,0 +1,8 @@
+[École] abjuration malédiction
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (plomb et platine en poudre pour une valeur de 250 po)
+[Portée] moyenne
+[Cible] une créature
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

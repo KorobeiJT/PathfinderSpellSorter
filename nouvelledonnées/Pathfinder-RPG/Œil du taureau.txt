@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Œil du taureau
+Title: Œil du taureau
+LastModified: 2020-09-02 21:56
+Categories:
+  - 'Contenu supplémentaire'
+  - 'Don'
+  - 'Don maléfice sanglant'
+  - 'Src Magic Tactics Toolbox'
+---
+{s:cs|Magic Tactics Toolbox}
+
+''Vos attaques à distance traquent infailliblement ceux que vous avez maudits.''
+
+'''Catégorie.''' [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
+
+'''Conditions.''' [[Dex]] 13, [[Int]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]], [[BBA]] +4, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
+
+'''Avantage.''' Par une [[action simple]], le personnage peut maudire une créature à qui il a infligé des dégâts par une attaque à distance effectuée avec une arme depuis le début de son tour précédent. La cible doit réussir un jet de [[Réflexes]], ou le personnage ne subit plus de pénalité contre cette créature dans le premier incrément du facteur de portée des attaques à distance effectuées avec une arme, et il ignore tous les bonus à la [[CA]] que sa cible peut tirer d’un [[abri partiel]]. La cible peut toujours bénéficier d’un [[abri|abri total]]. L’effet dure 1 minute.
+
+'''Spécial.''' Un [[chaman]] ou une [[sorcière]] peut utiliser ce maléfice sanglant si elle a blessé sa cible avec n’importe quelle attaque à distance et l’applique à n’importe quelle attaque à distance à l’encontre de la cible affectée.
+
+(((Bull’s eye (blood Hex)
+Your ranged attacks unerringly seek those you have cursed.
+
+Prerequisites: Dex 13, Int 13, Dodge, Mobility, Point-Blank Shot, Shot on the Run, base attack bonus +4, Use Magic Device 1 rank.
+
+Benefit: As a standard action, you can curse a creature you’ve dealt damage to with a ranged weapon attack since the beginning of your last turn. The target must succeed at Reflex save, or you don’t take penalties on ranged weapon attacks against the creature for the first range increment and you ignore any bonus to the creature’s Armor Class from cover. The creature still benefits from total cover. This effect lasts for 1 minute.
+
+Special: A shaman or witch with this blood hex can use against a target she has damaged with any ranged attack since her last turn, and applies its benefits to any ranged attack she makes against an affected creature.)))
+
+

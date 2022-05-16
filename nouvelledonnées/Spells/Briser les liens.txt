@@ -1,0 +1,8 @@
+[École] Évocation 
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] un objet ou une créature qui entrave le lanceur de sorts
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour réduire de moitié (objet) 
+[Résistance à la magie] oui

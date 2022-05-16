@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Créature Pesteuse, archétype
+Title: Créature Pesteuse, archétype
+LastModified: 2021-04-03 09:40
+Categories:
+  - 'Redirection'
+  - 'Src Guide de la Plaie du monde'
+---
+Source initiale : Guide de la Plaie du Monde p.43
+
+Source à jour : Bestiaire 5 p.46
+
+>>> Bête pestiférée, archétype

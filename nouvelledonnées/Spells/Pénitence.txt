@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (de l'encens), F (un chapelet de prière ou un objet divin d'une valeur de 500 po minimum), FD
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

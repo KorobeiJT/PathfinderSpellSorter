@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un cil de basilic et de la gomme arabique)
+[Portée] contact
+[Cible] créature consentante ou objet touché, dont le volume ne doit pas dépasser 1 cube de 60 cm d'arête/niveau
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun ou Volonté, annule (objet)
+[Résistance à la magie] non ou oui (objet)

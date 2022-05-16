@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Composantes] V, G, F (un minuscule portail en ivoire, un peu de marbre poli et une petite cuillère en argent (valeur de 5 po par objet))
+[Temps d'incantation] 1 action simple
+[Portée] courte
+[Cible] manoir extradimensionnel dont le volume fait jusqu'à 3 cubes de 3 m d'arête/niveau
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

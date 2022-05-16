@@ -1,0 +1,8 @@
+[École] Invocation (convocation) (voir description)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 2 créatures convoquées (ou plus) distantes de moins de 9 m les unes des autres
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

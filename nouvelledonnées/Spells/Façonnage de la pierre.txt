@@ -1,0 +1,8 @@
+[École] Transmutation (terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (argile meuble)
+[Portée] contact
+[Cible] pierre ou objet en pierre touché, dans la limite de 0,3 m³ + 30 dm³/niveau
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

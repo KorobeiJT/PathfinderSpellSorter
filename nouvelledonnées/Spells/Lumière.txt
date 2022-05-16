@@ -1,0 +1,8 @@
+[École] Évocation lumière
+[Temps d'incantation] 1 action simple
+[Composantes] V, M/FD (une luciole)
+[Portée] contact
+[Cible] objet touché
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

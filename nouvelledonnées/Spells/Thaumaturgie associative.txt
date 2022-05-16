@@ -1,0 +1,6 @@
+[École] universelle
+[Temps d'incantation] 1 action immédiate  
+[Composantes] V, G, F (un diapason en bronze)  
+[Portée] courte
+[Cible]  une créature  
+[Durée] instantanée

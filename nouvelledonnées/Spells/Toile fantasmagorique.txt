@@ -1,0 +1,8 @@
+[École] Illusion (fantasme) (mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour dévoiler puis Vigueur partiel ; voir texte
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (du sable fin, des pétales de rose ou un criquet vivant)
+[Portée] courte
+[Cible] 1 ou plusieurs créatures vivantes dans un rayonnement de 3 m de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

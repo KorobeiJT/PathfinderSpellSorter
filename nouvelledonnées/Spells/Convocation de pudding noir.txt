@@ -1,0 +1,8 @@
+[École] invocation (convocation) acide
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (une fiole d'acide d'une valeur de 10 po)
+[Portée] courte
+[Cible] un Pouding pudding noir convoqué
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

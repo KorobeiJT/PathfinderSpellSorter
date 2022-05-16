@@ -1,0 +1,158 @@
+---
+Name: Pathfinder-RPG.Armures magiques spécifiques
+Title: Armures magiques spécifiques
+LastModified: 2022-04-08 16:23
+Categories:
+  - 'Objet mag armure'
+---
+{s:MenuObjetsMagiques}L’armure et le bouclier magique que les héros intrépides enfilent pour affronter le danger sont souvent les seules protections dont ils disposent pour éviter qu’une lame ne transperce leur cœur. La rubrique suivante présente les armures dotées de pouvoirs inhabituels et de propriétés magiques. Les armures magiques peuvent posséder des propriétés qu’il faut activer ou des pouvoirs qui agissent en permanence de manière passive.
+
+{s:filtrable}
+<center>
+{| CLASS="tablo autoalt toutgauche filtrable"
+|+ Armures magiques spécifiques
+|- CLASS="titre"
+| WIDTH="22%" | Arme
+| WIDTH= "3%" | Source
+| WIDTH="65%" | Capacités
+| WIDTH="10%" | Prix de vente
+
+|- CLASS="premier"
+| [[Chemise de Mailles En Mithral]] || <sup>A&E</sup> || Similaire à une [[chemise de maille (armure)|chemise de mailles]] [[armure de maître|de maître]] en [[matériaux spéciaux#MITHRAL|mithral]]. || 1 100 po
+
+|- CLASS="premier"
+| [[Maillebrume]] || <sup>A&E</sup> || Similaire à une [[chemise de maille (armure)|chemise de mailles]] +1. Une fois par jour, peut conférer un [[camouflage]] de 20 % jusqu’à désactivation. || 2 250 po
+
+|- CLASS="premier"
+| [[Armure En Peau dOtyugh|Armure En Peau d’Otyugh]] || <sup>A&E</sup> || Similaire à une [[armure de peau (armure)|armure de peau]] +1. Peut rendre [[fiévreux|fiévreuse]] toute créature qui touche le porteur avec une attaque de morsure ou qui termine son tour adjacente à ce dernier tant qu’elle y reste puis pendant 1 [[round]]. Peut forcer les créatures qui [[engloutissement (capacité)|engloutissent]] le porteur à le libérer. Confère un bonus de +2 aux [[jds|jets de sauvegarde]] contre les maladies, les poisons, les effets de [[fiévreux|fièvre]] et ceux de [[nauséeux|nausée]]. || 2 565 po
+
+|- CLASS="premier"
+| [[Harnois En Peau de Dragon]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] [[armure de maître|de maître]] en [[matériaux spéciaux#PEAUDEDRAGON|peau de dragon]]. || 3 300 po
+
+|- CLASS="premier"
+| [[Cotte de Mailles Elfique]] || <sup>A&E</sup> || Similaire à une [[cotte de mailles (armure)|cotte de mailles]] [[armure de maître|de maître]] en [[matériaux spéciaux#MITHRAL|mithral]]. || 5 150 po
+
+|- CLASS="premier"
+| [[Armure en Peau de Rhinocéros]] || <sup>A&E</sup> || Similaire à une [[armure de peau (armure)|armure de peau]] +2, mais le [[Caractéristiques des armures#MALUSARMURE|malus d’armure]] aux tests est de -1. Le porteur inflige 2d6 points de dégâts supplémentaires lors d’une [[charge]]. || 5 165 po
+
+|- CLASS="premier"
+| [[Armure du Traqueur]] || <sup>MCA</sup> || Similaire à une [[armure de cuir cloutée (armure)|armure de cuir cloutée]] +2. Confère un bonus de compétence de +5 aux tests de [[Discrétion]] et de [[Perception]] lorsque le porteur est dans un [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection du rôdeur]] choisi à la fabrication. || 8 575 po
+
+|- CLASS="premier"
+| [[Armure En Peau de Morlock]] || <sup>A&E</sup> || Similaire à une [[armure de cuir (armure)|armure de cuir]] d’''[[ombre (propriété)|ombre]]'' +1. Confère un bonus de +2 aux tests d’[[Acrobaties]], d’[[Escalade]] et d’[[Évasion]]. Permet de passer dans des espaces étroits sans subir de malus à la [[CA]] et aux [[jet dattaque|jets d’attaque]]. || 8 910 po
+
+|- CLASS="premier"
+| [[Cuirasse En Adamantium]] || <sup>A&E</sup> || Similaire à une [[cuirasse (armure)|cuirasse]] [[armure de maître|de maître]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]]. || 10 200 po
+
+|- CLASS="premier"
+| [[Habits du Devin]] || <sup>A&E</sup> || Similaire à une [[chemise de mailles (armure)|chemise de mailles]]. Contient une [[oracle#REVELATION|révélation]] d’un [[oracle#MYSTERE|mystère d’oracle]] choisi à la fabrication dont seul un [[oracle]] connaissant le dit mystère peut se servir (s’il la possède déjà et que son nombre d’utilisations quotidiennes est limité, le porteur peut l’utiliser une fois de plus par jour). Augmente les chances de réussite des sorts de divination (comme ''[[augure]]'' et ''[[divination]]'') de 5 %. || 10 300 po
+
+|- CLASS="premier"
+| [[Armure Équestre]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +2. Par une [[action de mouvement]], peut se diviser en deux pour qu’elle protège sa monture, ainsi, elle devient une [[crevice (armure)|crevice]] +2 pour le porteur et une [[crevice (armure)|crevice]] +1 pour la monture (ou en [[Animaux, montures et leur équipement#Barde|barde]] +1 pour une monture exotique). || 10 650 po
+
+|- CLASS="premier"
+| [[Armure En Peau dAnguille Enchantée|Armure En Peau d’Anguille Enchantée]] || <sup>A&E</sup> || Similaire à une [[armure de cuir (armure)|armure de cuir]] ''[[graisseuse (propriété)|graisseuse]]'' +1, et à une [[armure de cuir (armure)|armure de cuir]] ''[[graisseuse (propriété)|graisseuse]]'' d’''[[ombre (propriété)|ombre]]'' +1 dans l’eau. Tant que le porteur est dans l’eau, confère une vitesse de nage de 9m, la capacité de respirer sous l’eau, et permet d’agir normalement lors d’un [[round de surprise]]. || 11 160 po
+
+|- CLASS="premier"
+| [[Peau de Pistage Infatigable]] || <sup>MCA</sup> || Similaire à une [[armure de peau (armure)|armure de peau]] +1. Une fois par jour, le porteur peut maintenir un footing pendant 8 heures sans être [[fatigué]]. || 11 165 po
+
+|- CLASS="premier"
+| [[Armure de Contorsionniste]] || <sup>A&E</sup> || Similaire à une [[armure de cuir (armure)|armure de cuir]] +1. Confère un bonus de +5 aux tests d’[[Évasion]] et d’[[Acrobaties]] pour réduire les dégâts de chute, ainsi qu’au [[DMD]]. Confère une [[RD]] 5/perforant ou tranchant. || 12 160 po
+
+|- CLASS="premier"
+| [[Habits Noirs du Meurtrier]] || <sup>A&E</sup> || Similaire à une [[armure matelassée (armure)|armure matelassée]] d’''[[ombre (propriété)|ombre]]'' +1. Un [[roublard]] avec le talent [[attaque sanglante (talent)|attaque sanglante]] voit les dégâts de saignement de son [[roublard#ATTAQUESOURNOISE|attaque sournoise]] augmenter de 1. || 12 405 po
+
+|- CLASS="premier"
+| [[Armure Pliante]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +1. Peut se transformer en broche (occupant l’emplacement de cou) et reprendre sa forme d’armure (l’équipant au porteur) à volonté. || 12 650 po
+
+|- CLASS="premier"
+| [[Cuirasse de Volatilisation]] || <sup>A&E</sup> || Similaire à une [[cuirasse (armure)|cuirasse]] +1 en [[matériaux spéciaux#MITHRAL|mithral]]. Peut stocker le porteur dans un espace extra-dimensionnel et l’en faire sortir à volonté. || 15 200 po
+
+|- CLASS="premier"
+| [[Armure dInsultes|Armure d’Insultes]] || <sup>A&E</sup> || Similaire à une [[armure de cuir cloutée (armure)|armure de cuir cloutée]] +1. Une fois par jour, peut forcer toutes les créatures dans un rayon de 18m du porteur à l’attaquer pendant les 7 prochains [[round|rounds]] (sauf si cela les mettrait en danger direct). || 16 175 po
+
+|- CLASS="premier"
+| [[Haubert du Héros]] || <sup>MCA</sup> || Similaire à une [[chemise de mailles (armure)|chemise de mailles]] +1 en [[adamantium]]. La [[RD]] conféré par le matériau de cette armure se cumule avec les autres [[RD]] du porteur. Tant que son porteur est sous l’effet d’un [[scalde#CHANTDERAGE|chant de rage]], lui confère un bonus de chance de +1 aux tests de caractéristique et de compétence et confère la propriété ''[[défense légère (propriété)|défense légère]]'' à l’armure. Tous les malus aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]], aux tests de caractéristiques et de compétence subit par le porteur sont réduits de 1. || 16 600 po
+
+|- CLASS="premier"
+| [[Harnois Nain]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] [[armure de maître|de maître]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]]. || 16 650 po
+
+|- CLASS="premier"
+| [[Sceau du maréchal-bouclier]] || <sup>CMy</sup> || Similaire à une ''[[targe (armure)|targe]] [[anti-projectiles (propriété)|anti-projectiles]] +1''. Au prix d'une utilisation de pouvoir mythique, permet de renvoyer un projectile paré sur son envoyeur. || 17 155 po
+
+|- CLASS="premier"
+| [[Corset abrogalien|Corset de guêpes de l'Enfer]] || <sup>RSE</sup> || Similaire à une ''[[armure de cuir cloutée (armure)|armure de cuir cloutée]] +3''. Chaque jour, absorbe les 20 premiers points de dégâts subits par le porteur (après quoi elle peut le rendre [[nauséeux]] pendant 1 [[round]]). || 17 175 po
+
+|- CLASS="premier"
+| [[Crevice de la Seconde Chance]] || <sup>A&E</sup> || Similaire à une [[crevice (armure)|crevice]] +3. Une fois par semaine, peut forcer une créature à relancer un [[jet dattaque|jet d’attaque]] visant le porteur. || 18 900 po
+
+|- CLASS="premier"
+| [[Armure En Peau de Chat]] || <sup>A&E</sup> || Similaire à une [[armure de cuir (armure)|armure de cuir]] d’''[[ombre (propriété)|ombre]]'' +1, mais n’impose aucun [[Caractéristiques des armures#MALUSARMURE|malus d’armure]] aux tests ni bonus de [[Dextérité]] maximum. Confère un bonus de compétence de +2 aux tests d’[[Acrobaties]]. Réduit de moitié les dégâts de chute subit par le porteur. Lorsque les dégâts d’une attaque devraient tuer le porteur, se brise et lui permet de n’en subir que la moitié. || 18 910 po
+
+|- CLASS="premier"
+| [[Cuirasse de résistance]] || <sup>CMy</sup> || Similaire à une ''[[cuirasse (armure)|cuirasse]] de [[défense légère (propriété)|défense légère]] +1'' imposant un [[malus darmure|malus d’armure]] de -5. Permet d'annuler les effets de certaines [[manoeuvres offensives]] qui ciblent le porteur. Au prix d'une utilisation de [[pouvoir mythique]], peut immuniser le porteur aux [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] et aux [[Affaiblissement temporaire (capacité)|diminutions permanentes]] de caractéristique, aux [[coup critique|coups critiques]] et aux [[attaque sournoise|attaques sournoises]]. || 22 350 po
+
+|- CLASS="premier"
+| [[Armure Céleste]] || <sup>A&E</sup> || Similaire à une [[cotte de mailles (armure)|cotte de mailles]] +3, mais le [[Caractéristiques des armures#MALUSARMURE|malus d’armure]] aux tests est de -2, le bonus de [[Dextérité]] maximum de +8, les chances d’échec des sorts de 15 % et elle est considérée comme une [[armure légère]]. Peut être portée discrètement sous des vêtements. Une fois par jour, peut conférer les effets du sort ''[[sort vol|vol]]''. || 22 400 po
+
+|- CLASS="premier"
+| [[Cuirasse du Boucanier]] || <sup>A&E</sup> || Similaire à une [[cuirasse (armure)|cuirasse]] +1. Confère les effets du sort ''[[marche sur londe|marche sur l’onde]]'' en permanence. || 23 850 po
+
+|- CLASS="premier"
+| [[Harnois des Profondeurs]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +1. N’impose aucun [[Caractéristiques des armures#MALUSARMURE|malus d’armure]] aux tests de [[Natation]]. Confère la capacité de respirer sous l’eau et de parler avec les créatures possédant un langage et respirant sous l’eau. || 24 650 po
+
+|- CLASS="premier"
+| [[Armure de déplacement spirituel]] || <sup>CMy</sup> || Similaire à une ''[[armure de cuir (armure)|armure de cuir]] d’[[ombre supérieure (propriété)|ombre supérieure]] +2''. Cinq fois par jour, permet de lancer ''[[disparition]]'' à [[incantation rapide]]. Au prix d'une utilisation de [[pouvoir mythique]], permet de devenir [[intangible]] pendant le premier [[round]] de disparition. || 25 160 po
+
+|- CLASS="premier"
+| [[Crevice Impie]] || <sup>A&E</sup> || Similaire à une [[crevice (armure)|crevice]] +1. Empêche le porteur d’utiliser tout pouvoir ou sort d’origine divine. Confère une [[RM]] de 19 contre tout pouvoir ou sort d’origine divine. Le bonus d’altération de l’armure augmente de +2 contre les créatures qui possèdent ce type de pouvoir. || 25 400 po
+
+|- CLASS="premier"
+| [[Cuirasse de Commandement]] || <sup>A&E</sup> || Similaire à une [[cuirasse (armure)|cuirasse]] +2. Confère un bonus de compétence de +2 aux tests de [[Charisme]] et de compétences basés sur le [[Charisme]], ainsi qu’au [[Prestige]]. Confère un bonus de +2 aux [[jds|jets de sauvegarde]] des alliés du porteur dans un rayon de 120m de lui contre la terreur. || 25 400 po
+
+|- CLASS="premier"
+| [[Harnois En Mithral de Vitesse]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +1 en [[mithral]]. Jusqu’à 10 [[round|rounds]] par jour, peut conférer les effets du sort ''[[rapidité]]''. || 26 500 po
+
+|- CLASS="premier"
+| [[Gardien des Forêts]] || <sup>A&E</sup> || Similaire à un [[clibanion (armure)|clibanion]] +3 en [[bois vert]], mais le [[Caractéristiques des armures#MALUSARMURE|malus d’armure]] aux tests est de -4, le bonus de [[Dextérité]] maximum de +2, les chances d’échec des sorts de 25 % et elle est considérée comme une [[armure légère]]. Peut générer un [[gourdin (arme)|gourdin]] +1 en [[bois vert]] renforcé par le sort ''[[gourdin magique]]'' pendant 1 minute, un [[bâton (arme)|bâton]] +1/+1 en [[bois vert]] renforcé par le sort ''[[gourdin magique]]'' pendant 1 minute, et un [[pieu de bois (arme)|pieu de bois]] ''[[acérée (propriété)|acéré]]'' +1 en [[bois vert]]. Chaque arme générée réduit le bonus d’altération de l’armure de +1. Les armes générées sont des [[arme de maître|armes de maître]] pour tout autre créature que le porteur, peuvent être réintégrées à l’armure (lui rendant le bonus d’altération dépensé) à volonté, et se régénèrent chaque jour. || 29 350 po
+
+|- CLASS="premier"
+| [[Cuirasse-scarabée]] || <sup>A&E</sup> || Similaire à une [[cuirasse (armure)|cuirasse]] +3. Réduit de moitié les dégâts des nuées subit par le porteur et confère un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre leurs pouvoirs extraordinaires. Une fois par jour, peut se transformer en [[nuée de fourmis soldats]] hostile que le porteur peut diriger. Permet à un [[druide]] d’utiliser sa [[forme animale]] pour simuler un sort de ''[[forme de vermine I]]'' à partir du niveau 6 et ''[[forme de vermine II]]'' à partir du niveau 8. || 32 350 po
+
+|- CLASS="premier"
+| [[Harnois du Cadavre]] || <sup>MCA</sup> || Similaire à un [[harnois (armure)|harnois]] +2. Les morts-vivants dépourvus d’[[Intelligence]] ne peuvent ni voir, ni entendre, ni sentir le porteur, en permanence. Les autres morts-vivants peuvent subir le même effet. || 35 650 po
+
+|- CLASS="premier"
+| [[Armure En Peau de Géant]] || <sup>A&E</sup> || Similaire à une [[armure de cuir (armure)|armure de cuir]] +3. Une fois par jour, peut conférer les effets du sort forme de géant dépendant du modèle pendant 15 minutes maximum. Les géants ont un bonus de moral de +2 aux jets d’attaque et de dégâts lorsqu’ils attaquent le porteur, et de +4 si le modèle est de la même espèce qu’eux. || —
+|-
+| &emsp; Ogre || <sup>A&E</sup> || ''[[forme de géant I]]'' (ogre). || 39 165 po
+|-
+| &emsp; Géant des collines || <sup>A&E</sup> || ''[[forme de géant I]]'' (géant des collines). || | 46 665 po
+|-
+| &emsp; Géant de pierre, de feu ou du froid || <sup>A&E</sup> || ''[[forme de géant I]]'' (géant de pierre, de feu ou du froid). || | 54 165 po
+|-
+| &emsp; Troll || <sup>A&E</sup> || ''[[forme de géant I]]'' (troll). || | 59 165 po
+|-
+| &emsp; Géant des nuages || <sup>A&E</sup> || ''[[forme de géant II]]'' (géant des nuages). || | 69 165 po
+|-
+| &emsp; Géant des tempêtes || <sup>A&E</sup> || ''[[forme de géant II]]'' (géant des tempêtes). || | 76 665 po
+
+|- CLASS="premier"
+| [[Armure En Peau dHamatula|Armure En Peau d’Hamatula]] || <sup>A&E</sup> || Similaire à une [[armure de peau (armure)|armure de peau]] [[pointes pour armure (armure)|à pointes]] +2. Tant que le porteur est en [[barbare#RAGE|rage]], confère une résistance au feu de 10, inflige 1d8+6 points de dégâts perforant aux créatures qui attaquent le porteur à mains nues, avec une arme de corps à corps ou naturelle, et le rend vulnérable aux sorts qui sont efficaces contre les Extérieurs Mauvais. Confère des avantages supplémentaires à un porteur [[barbare]] qui possède les [[barbare#POUVOIRDERAGE|pouvoirs de rage]] de totem fiélon. || 44 215 po
+
+|- CLASS="premier"
+| [[Armure Démoniaque]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +4. Confère deux attaques de griffe +1 infligeant 1d10 points de dégâts chacune. Toute créature touchée par ces griffes peut subir les effets du sort ''[[contagion]]''. Inflige un [[niveau négatif]] aux porteurs qui ne sont pas d’alignement Mauvais. || 52 260 po
+
+|- CLASS="premier"
+| [[Cotte de Mailles de Malveillance]] || <sup>A&E</sup> || Similaire à une [[cotte de mailles (armure)|cotte de mailles]], et à une [[cotte de mailles (armure)|cotte de mailles]] ''[[impie (propriété armure)|impie]]'' +2 sur une créature émettant une aura maléfique au moins [[détection du Mal|modérée]]. Tant qu’une créature émettant une aura maléfique au moins [[détection du Mal|modérée]] la porte, confère une [[RM]] de 21 contre les sorts du registre du Bien, et soigne le porteur d’un montant égal aux dégâts qu’il inflige à chaque fois qu’il [[prêtre#CANALISATIONDENERGIE|canalise l’énergie]] négative pour blesser les créatures vivantes. || 61 300 po
+
+|- CLASS="premier"
+| [[Astre du Jour]] || <sup>A&E</sup> || Similaire à une [[armure de plaques (armure)|armure de plaques]] +1. Peut manifester les effets du sort ''[[lumière du jour]]'' pendant 10 minutes à volonté. Une fois par jour, peut manifester les effets du sort ''[[explosion de lumière]]''. || 81 250 po
+
+|- CLASS="premier"
+| [[Armure dInvincibilité|Armure d’Invincibilité]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] ''[[solide (propriété armure)|solide]]'' de ''[[défense intermédiaire (propriété)|défense intermédiaire]]'' +2. Confère une résistance de 5 à l’acide, au froid, à l’électricité, au feu et au son, et y est elle-même immunisée. Peut conférer une [[RD]] 10/contondant ou perforant, une [[RD]] 10/contondant ou tranchant, ou une [[RD]] 10/perforant ou tranchant à volonté. || 137 650 po
+
+|- CLASS="premier"
+| [[Harnois Prismatique]] || <sup>A&E</sup> || Similaire à un [[harnois (armure)|harnois]] +3. Peut briller de 8 couleurs différentes, chacune conférant des effets spécifiques et immunisant le porteur aux effets de la couleur choisie lorsqu’il est touché par un ''[[rayons prismatiques|rayon prismatique]]'', une ''[[sphère prismatique]]'' ou un ''[[mur prismatique]]''. || 160 650 po
+|}
+</center>

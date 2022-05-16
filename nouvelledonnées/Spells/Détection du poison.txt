@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature, 1 objet ou 1 cube de 1,50 m d'arête
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

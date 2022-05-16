@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une sphère cristalline d'une valeur de 10 po)  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

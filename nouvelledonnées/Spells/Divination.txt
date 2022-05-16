@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (encens et offrande appropriée d'une valeur de 25 po)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] instantanée

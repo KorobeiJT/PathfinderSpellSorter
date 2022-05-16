@@ -1,0 +1,8 @@
+[École] invocation (guérison) émotion
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 18 mètres
+[Cible] tous les alliés et ennemis situés dans un rayon de 18 m centré sur le personnage
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle ou contact
+[Cible] le jeteur de sort ou la créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

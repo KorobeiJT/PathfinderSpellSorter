@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une boucle de cuir ou un fil d'or tordu en forme de bol)
+[Portée] personnelle ou courte
+[Cible] le jeteur de sorts, 1 créature consentante ou 1 objet dans la limite de 50 kg/niveau
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

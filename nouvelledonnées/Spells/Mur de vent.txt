@@ -1,0 +1,8 @@
+[École] Évocation (air)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un minuscule éventail et une plume d'oiseau exotique)
+[Portée] moyenne
+[Cible] mur faisant jusqu'à 3 m de long/niveau et 1,50 m de haut/niveau
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] oui

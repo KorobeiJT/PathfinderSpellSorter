@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (onguent à paupière (250 po))
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

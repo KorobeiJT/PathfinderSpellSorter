@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Élément renforcé
+Title: Élément renforcé
+LastModified: 2021-04-30 19:51
+Categories:
+  - 'Don'
+  - 'Règle officielle'
+  - 'Src Manuel des joueurs - Règles avancées'
+---
+{s:apg}''Le personnage lance les sorts liés à un élément donné de telle manière qu’il est plus difficile de leur résister.''
+
+'''Avantage.''' Choisissez un type d’énergie (acide, électricité, feu, froid). Le personnage ajoute +1 au [[DD]] de tous les [[jet de sauvegarde|jets de sauvegarde]] contre les sorts infligeant des dégâts du type d’énergie choisi.
+
+'''Spécial.''' Un personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois qu’il gagne ce don, il s’applique à un type d’énergie différent.
+
+{s:CMy}
+===Version mythique===
+''Les sorts élémentaires du personnage sont efficaces et destructeurs.''
+
+'''Condition.''' Élément renforcé
+
+'''Avantage.''' Le personnage choisit un type d’énergie destructive pour lequel il possède Élément renforcé. L’augmentation du DD des jets de sauvegarde conférée par Élément renforcé et [[Élément supérieur]] pour les sorts du type d’énergie destructive sélectionné est majorée de 1. Lorsque le personnage lance un sort doté du registre correspondant au type d’énergie destructive choisi, il peut dépenser une utilisation de [[pouvoir mythique]] pour obliger les cibles du sort à lancer deux jets de sauvegarde et à conserver le pire.

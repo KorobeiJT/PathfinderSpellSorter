@@ -1,0 +1,8 @@
+[École] Évocation (sonore) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] jusqu'à trois créatures qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

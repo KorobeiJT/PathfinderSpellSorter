@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (voir plus bas)
+[Portée] contact
+[Cible] une arme, une armure, un bouclier, un outil ou une trousse touchée
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

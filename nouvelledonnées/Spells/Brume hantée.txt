@@ -1,0 +1,8 @@
+[École] illusion (chimère) ombre, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m
+[Cible] nuage de 6 m de rayon et de 6 m de haut
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté partielle (voir texte)
+[Résistance à la magie] non

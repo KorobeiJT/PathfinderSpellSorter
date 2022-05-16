@@ -1,0 +1,8 @@
+[École] Évocation (acide, froid, électricité, feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une écaille de dragon)
+[Portée] 9 ou 18 m (6 ou 12 {s:c})
+[Cible] rayonnement en forme de cône ou ligne
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour réduire de moitié
+[Résistance à la magie] oui

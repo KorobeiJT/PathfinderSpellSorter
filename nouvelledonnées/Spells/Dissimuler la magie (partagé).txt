@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V,G,M (un morceau de gaze)
+[Portée] contact
+[Cible] créatures ou objets touchés
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun ; voir texte
+[Résistance à la magie] non

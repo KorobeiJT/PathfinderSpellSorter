@@ -1,0 +1,8 @@
+[École] Évocation <nowiki></nowiki>électricité
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] moyenne  
+[Cible] étendue de 6 m de rayon  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] oui

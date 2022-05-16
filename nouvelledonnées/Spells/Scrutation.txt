@@ -1,0 +1,8 @@
+[École] Divination (scrutation)
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M/FD (un bassin d'eau claire), F(un miroir en argent (1 000 po))
+[Portée] voir description
+[Cible] capteur magique
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

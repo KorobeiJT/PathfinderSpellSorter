@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, FD  
+[Portée] courte
+[Cible] une arme/niveau, éloignées les unes des autres au maximum de 6 m  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Vigueur, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

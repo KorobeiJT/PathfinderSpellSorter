@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F (sceptre en fer froid d'une valeur de 1 000 po au moins)  
+[Portée] 3 m  
+[Cible] émanation de 3 m centrée sur le personnage  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] voir description

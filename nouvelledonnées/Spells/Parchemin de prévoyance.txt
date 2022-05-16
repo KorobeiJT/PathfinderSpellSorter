@@ -1,0 +1,7 @@
+[École] évocation
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, M (le parchemin à activer ; cf. texte), F (une plume de platine d'une valeur de 100 po)  
+[Portée] personnelle  
+[Cible] le lanceur de sort  
+[Durée] 10 minutes/niveau ou jusqu'à déchargement  
+[Jet de sauvegarde] Volonté pour annuler (inoffensif) ; Résistance à la magie oui (inoffensif)

@@ -1,0 +1,8 @@
+[École] enchantement (coercition) emotion, effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 round/niveau 
+[Jet de sauvegarde] aucun et Volonté pour annuler (cf. texte)
+[Résistance à la magie] non et oui (cf. texte)

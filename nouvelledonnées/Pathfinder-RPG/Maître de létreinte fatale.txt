@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Maître de létreinte fatale
+Title: Maître de l'étreinte fatale
+LastModified: 2021-04-30 15:53
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''Peu de gens peuvent survivre à l’horrible étreinte broyeuse du personnage. ''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[For]] 17, [[Int]] 3, naga, [[homme-serpent]] ou créature possédant [[étreinte (capacité)|étreinte]], [[Étreinte fatale]], [[Horreur de létreinte fatale|Horreur de l’étreinte fatale]], [[BBA]] +9
+
+'''Avantage.''' Le personnage double le nombre de dés de dégâts de l’attaque spéciale [[constriction (capacité)|constriction]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Chaque fois que le personnage réussit une constriction, il peut dépenser 5 points d’endurance pour tripler le nombre de dés de dégâts de son pouvoir de constriction au lieu de les doubler.

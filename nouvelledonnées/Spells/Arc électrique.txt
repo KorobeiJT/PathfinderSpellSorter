@@ -1,0 +1,8 @@
+[École] Évocation Électricité
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (fourrure et deux figurines de verre)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible]  deux créatures ou objets distants de moins de 18 m
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour 1/2 dégâts
+[Résistance à la magie] oui (voir texte)

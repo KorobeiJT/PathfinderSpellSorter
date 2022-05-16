@@ -1,0 +1,8 @@
+[École] école Divination (mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une poignée de pièces de cuivre)
+[Portée] 12 m
+[Cible] émanation de 12 m de rayon centrée sur le lanceur de sorts
+[Durée] concentration jusqu'à 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] non

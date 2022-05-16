@@ -1,0 +1,8 @@
+[École] Abjuration (bien)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] personnelle ou 1,50 m (voir description)
+[Cible] Lanceur de sorts ou toutes les créatures dans un rayon de 1,5 m ; voir description
+[Durée] 10 minute/niveau
+[Jet de sauvegarde] Volonté pour 1/2 dégâts
+[Résistance à la magie] non

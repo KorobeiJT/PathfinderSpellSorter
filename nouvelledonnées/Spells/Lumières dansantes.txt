@@ -1,0 +1,8 @@
+[École] Évocation lumière
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] jusqu'à 4 lumières devant se trouver dans un rayon de 3 m
+[Durée] 1 minute
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

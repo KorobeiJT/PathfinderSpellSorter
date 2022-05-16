@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, M (poudre de magnétite et d'argent de valeur de 100 PO par cube de 12 mètres affecté)  
+[Portée] moyenne  
+[Cible] un cube de 12 m de côté par niveau  
+[Durée] 1 jour/niveau  
+[Jet de sauvegarde] Volonté pour annuler 
+[Résistance à la magie] oui 

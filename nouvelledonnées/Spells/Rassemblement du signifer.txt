@@ -1,0 +1,8 @@
+[École] Invocation (téléportation) mal
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (100 po de pierres de sang pour chaque allié téléporté)  
+[Portée] moyenne  
+[Cible] un allié consentant/5 niveaux  
+[Durée] instantanée  
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

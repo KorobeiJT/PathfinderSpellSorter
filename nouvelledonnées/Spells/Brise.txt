@@ -1,0 +1,8 @@
+[École] Évocation air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un éventail miniature)
+[Portée] courte
+[Cible] une créature ou un objet
+[Durée] 1 heure
+[Jet de sauvegarde] Volonté, annule (inoffensif) 
+[Résistance à la magie] oui

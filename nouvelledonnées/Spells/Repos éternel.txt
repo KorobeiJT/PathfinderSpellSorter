@@ -1,0 +1,8 @@
+[École] Nécromancie malédiction 
+[Temps d'incantation] 1 round
+[Composantes] V, G, M/FD (des cendres et une fiole d'eau bénie ou maudite)
+[Portée] contact
+[Cible] une créature morte touchée
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

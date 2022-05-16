@@ -1,0 +1,8 @@
+[École] Illusion (mirage) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V (Barde uniquement), G, M (un bâtonnet d'encens ou de cristal) (voir description)
+[Portée] moyenne
+[Cible] lueurs multicolores dans une étendue de 3 m de rayon
+[Durée] concentration + 2 rounds
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

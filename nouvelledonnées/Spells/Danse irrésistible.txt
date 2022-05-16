@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] contact
+[Cible] créature vivante touchée
+[Durée] 1d4+1 rounds
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

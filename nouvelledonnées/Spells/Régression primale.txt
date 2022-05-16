@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] courte
+[Cible] 1 créature/2 niveaux, toutes devant se trouver à 9 m ou moins les unes des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui

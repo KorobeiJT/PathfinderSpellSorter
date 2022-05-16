@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (un bout de ficelle et de l'encre à base de seiche et de sang de dragon noir), F (une plaque d'ivoire (50 po))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] instantanée

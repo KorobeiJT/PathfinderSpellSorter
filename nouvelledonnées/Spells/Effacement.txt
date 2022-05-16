@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 parchemin ou 2 pages
+[Durée] instantanée
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

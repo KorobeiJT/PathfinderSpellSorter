@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action complexe
+[Composantes] V, G, F/FD (bec de chouette)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] non

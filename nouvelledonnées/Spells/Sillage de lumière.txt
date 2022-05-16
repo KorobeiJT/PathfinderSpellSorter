@@ -1,0 +1,8 @@
+[École] Évocation (Bien) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] 36 m
+[Cible] un sentier en ligne droite de 3 m de large et de 36 m de long au maximum
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Évocation 
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G
+[Portée] spéciale (voir description)
+[Cible] une créature
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté partiel
+[Résistance à la magie] oui

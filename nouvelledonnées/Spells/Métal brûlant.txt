@@ -1,0 +1,8 @@
+[École] Transmutation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] l'équipement métallique de 1 créature/2 niveaux, distantes de moins de 9 m les unes des autres, ou 12,5 kg de métal/niveau, contenu dans un cercle de 9 m de rayon
+[Durée] 7 rounds
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

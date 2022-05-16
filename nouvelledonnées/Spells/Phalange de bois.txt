@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] trois Golem de golems de bois ou plus qui ne doivent pas être distants de plus de 9 m les uns des autres (voir texte)
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

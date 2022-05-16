@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] moyenne
+[Cible] un carré de 6 m de côté/niveau
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Réflexes, partiel
+[Résistance à la magie] oui

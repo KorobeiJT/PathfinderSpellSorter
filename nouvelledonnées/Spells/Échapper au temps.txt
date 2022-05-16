@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de diamant, d'émeraude, de rubis et de saphir pour une valeur de 500 po)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] jusqu'à 1 minute/niveau ; voir texte

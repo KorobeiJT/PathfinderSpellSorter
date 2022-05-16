@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] courte
+[Cible] une arme au fourreau ou rangée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)

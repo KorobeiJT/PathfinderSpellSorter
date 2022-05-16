@@ -1,0 +1,7 @@
+[École] Abjuration Mal
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (250 po de poudre d'ambre)  
+[Portée] courte
+[Cible] 1 créature  
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

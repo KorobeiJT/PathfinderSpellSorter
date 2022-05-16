@@ -1,0 +1,8 @@
+[École] Transmutation acide, douleur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une poupée de cire et une fiole d'acide de 10 po)
+[Portée] ccourte
+[Cible] une créature vivante
+[Durée] concentration (1 round/5 niveaux au maximum)
+[Jet de sauvegarde] Vigueur pour 1/2 dégâts
+[Résistance à la magie] oui

@@ -1,0 +1,6 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] jusqu'à 3 créatures dont toutes doivent être à 9 m les unes des autres  
+[Durée] 1 round/niveau ou jusqu'à la fin ou le changement de la représentation (voir description)

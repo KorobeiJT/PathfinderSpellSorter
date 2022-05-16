@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un couteau utilisable pour tailler le bois)
+[Portée] moyenne
+[Cible] 1 ou plusieurs morceaux de bois qui doivent se trouver à moins de 9 m les uns des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)

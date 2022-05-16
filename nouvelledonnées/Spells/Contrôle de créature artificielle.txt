@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une Type créature créature artificielle
+[Durée] concentration
+[Jet de sauvegarde] aucun (voir texte)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation feu
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] objet en métal tenu en main par une créature ou 7,5 kg de métal inutilisé  
+[Durée] instantanée  
+[Jet de sauvegarde] Réflexes pour annuler (objet, cf. description)
+[Résistance à la magie] oui (objet)

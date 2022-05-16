@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un cil préservé dans de la gomme arabique)
+[Portée] personnelle ou contact
+[Cible] le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/niveau
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif) ou Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif) ou oui (inoffensif, objet)

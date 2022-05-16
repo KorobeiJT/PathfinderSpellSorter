@@ -1,0 +1,8 @@
+[École] transmutation (métamorphose)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] mort-vivant tangible touché  
+[Durée] 10 minutes/niveau  
+[Jet de sauvegarde] oui (inoffensif)
+[Résistance à la magie] oui (inoffensif)

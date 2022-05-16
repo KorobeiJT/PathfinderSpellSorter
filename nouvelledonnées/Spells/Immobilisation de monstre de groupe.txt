@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un bâtonnet ou une barre de métal résistant, à peine aussi long qu'un clou)
+[Portée] moyenne
+[Cible] 1 ou plusieurs créatures, distantes de moins de 9 m/6 {s:c} les unes des autres
+[Durée] 1 round/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

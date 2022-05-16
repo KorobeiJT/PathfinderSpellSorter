@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pierre-tonnerre utilisée)
+[Portée] courte
+[Cible] 1 arme à feu
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet), voir texte
+[Résistance à la magie] oui (inoffensif), voir texte

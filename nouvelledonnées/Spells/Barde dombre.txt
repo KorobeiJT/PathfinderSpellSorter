@@ -1,0 +1,8 @@
+[École] illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M
+[Portée] courte
+[Cible] chanteur fantôme
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

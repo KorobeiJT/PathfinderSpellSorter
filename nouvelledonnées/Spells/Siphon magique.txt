@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (du fil de cuivre enroulé autour de la paume)  
+[Portée] contact  
+[Cible] créature touchée  
+[Durée] instantanée  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

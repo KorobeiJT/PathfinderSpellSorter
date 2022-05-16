@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (du granit et de la poudre de diamant d'une valeur de 250 po par créature affectée</nowiki></nowiki>)
+[Portée] contact
+[Cible] créatures touchées
+[Durée] 10 minutes/niveau ou jusqu'à utilisation
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

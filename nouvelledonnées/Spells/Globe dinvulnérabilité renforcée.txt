@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une perle de verre ou de cristal)
+[Portée] 3 m
+[Cible] émanation sphérique de 3 m de rayon centrée sur le jeteur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

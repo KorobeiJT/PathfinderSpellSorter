@@ -1,0 +1,6 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] voir plus bas

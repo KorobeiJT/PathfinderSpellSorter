@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (talc et poudre d'argent)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 10 minutes/niveau

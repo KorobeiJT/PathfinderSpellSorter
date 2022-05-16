@@ -1,0 +1,6 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une potion de force de taureau que le personnage doit boire et dont les effets sont inclus dans le sort)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 round/niveau

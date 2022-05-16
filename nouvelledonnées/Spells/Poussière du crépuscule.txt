@@ -1,0 +1,8 @@
+[École] Invocation (obscurité) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière de charbon)
+[Portée] intermédiaire
+[Cible] créatures et objets dans une étendue de 3 mètres
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler (fatigue seulement)
+[Résistance à la magie] non

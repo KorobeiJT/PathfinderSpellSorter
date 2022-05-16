@@ -1,0 +1,6 @@
+[École]école Divination (scrutation)
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (encens)
+[Portée] voir texte
+[Cible] lanceur de sorts
+[Durée] instantanée

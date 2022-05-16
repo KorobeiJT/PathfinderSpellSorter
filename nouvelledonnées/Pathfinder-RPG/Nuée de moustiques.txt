@@ -1,0 +1,51 @@
+---
+Name: Pathfinder-RPG.Nuée de moustiques
+Title: Moustique, Nuée de moustiques
+LastModified: 2021-08-10 19:51
+Categories:
+  - 'Monstre'
+  - 'Règle officielle'
+  - 'Src Bestiaire 2'
+---
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de moustiques|FP 3}
+{s:pucem|Vermine|Marais|Tropical}
+{s:BDTexte|''Source : Bestiaire 2, p. 203''}
+{s:BDTexte|'''PX''' 800}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|'''Init''' +1 ; '''Sens''' [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|'''CA''' 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
+{s:BDTexte|'''pv''' 31 (7d8)}
+{s:BDTexte|'''Réf''' +3, '''Vig''' +5, '''Vol''' +3}
+{s:BDTexte|'''Capacités défensives''' [[traits des nuées]] ; '''Immunités''' dégâts par armes, effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|'''VD''' 1,50 m (1 {s:c}), vol 12 m (8 {s:c}) (bonne)}
+{s:BDTexte|'''Corps à corps''' nuée (2d6 plus maladie et [[saignement]])}
+{s:BDTexte|'''Espace''' 3 m (2 {s:c}) ; '''Allonge''' 1,50 m (1 {s:c})}
+{s:BDTexte|'''Attaques spéciales''' [[distraction]] (DD 13), maladie, [[saignement]] (1d6)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|'''For''' 1, '''Dex''' 13, '''Con''' 10, '''Int''' —, '''Sag''' 12, '''Cha''' 9}
+{s:BDTexte|'''BBA''' +5, '''BMO''' —, '''DMD''' —}
+{s:BDTexte|'''Compétences''' [[Perception]] +9, [[Vol]] +11 ; '''Modificateurs raciaux''' +8 en [[Perception]]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' marais tropicaux}
+{s:BDTexte|'''Organisation sociale''' solitaire, couple, nuage (3–6 nuées) ou invasion (7–12 nuées)}
+{s:BDTexte|'''Trésor''' aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Maladie (Ext).''' Malaria : Morsure — blessure ; ''JdS'' Vigueur DD 13 ; ''incubation'' 1d3 jours ; ''fréquence'' 1 jour ; ''effet'' [[affaiblissement temporaire]] 1d3 Con et 1d3 Sag ; ''guérison'' 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de moustique
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [[Moustique géant]] || 6
+|-
+| [[Nuée de moustiques]] || 3
+|}
+</div>''Le bourdonnement et les mouvements erratiques de cette nuée de moustiques affamés promettent une rencontre des plus désagréables.''
+</div></td></tr></table>

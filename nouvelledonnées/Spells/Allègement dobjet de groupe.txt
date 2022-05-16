@@ -1,0 +1,3 @@
+[École] Transmutation
+[Cible] plusieurs objets de 28 litres/niveau, qui ne doivent pas être éloignés de plus de 9 mètres les uns des autres  
+[Durée] 10 minutes/niveau

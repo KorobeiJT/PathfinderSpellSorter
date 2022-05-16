@@ -1,0 +1,8 @@
+[École] Nécromancie Mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un onyx noir valant au moins 25 po par dé de vie du mort-vivant)
+[Portée] contact
+[Cible] le ou les cadavres touchés
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

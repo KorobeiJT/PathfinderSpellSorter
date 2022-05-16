@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poudre de jade (250 po))
+[Portée] contact
+[Cible] émanation de 12 m/8 {s:c} de rayon
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

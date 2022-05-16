@@ -1,0 +1,8 @@
+[École] Illusion (fantasme)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] une rose touchée  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] non
+[Résistance à la magie] non

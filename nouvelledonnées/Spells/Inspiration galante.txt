@@ -1,0 +1,8 @@
+[École] Divination 
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] courte
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui

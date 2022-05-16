@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] G, M/FD (petite vessie remplie d'air)
+[Portée] contact
+[Cible] créature vivante ou objet pas plus gros qu'une arme à deux mains G
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

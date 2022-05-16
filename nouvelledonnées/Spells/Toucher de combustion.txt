@@ -1,0 +1,8 @@
+[École] Évocation feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] créature ou objet touché
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, annule
+[Résistance à la magie] oui

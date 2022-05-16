@@ -1,0 +1,6 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (0,5 l d'eau)  
+[Portée] courte
+[Cible] 0,15 mètre cube de terre ou de boue  
+[Durée] 1 heure/niveau, voir texte

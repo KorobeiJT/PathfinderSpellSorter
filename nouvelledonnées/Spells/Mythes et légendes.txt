@@ -1,0 +1,6 @@
+[École] Divination
+[Temps d'incantation] voir description
+[Composantes] V, G, M (encens (250 po)), F (quatre lamelles d'ivoire (50 po chacune))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] voir description

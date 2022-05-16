@@ -1,0 +1,6 @@
+[École] Invocation (guérison) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poudre de fer météoritique d'une valeur de 100 po)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 heure/niveau ou jusqu'à déclenchement puis 1 round/niveau

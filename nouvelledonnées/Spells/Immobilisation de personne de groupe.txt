@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un petit bout de fer bien droit)
+[Portée] moyenne
+[Cible] 1 ou plusieurs type humanoïdes, distants de moins de 9 m/6 {s:c} les uns des autres
+[Durée] 1 round/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

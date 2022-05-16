@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] mur translucide de 6 m de long/niveau ou anneau translucide de 1,5 m de rayon/2 niveaux ; 6 m de hauteur quelle que soit la forme
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

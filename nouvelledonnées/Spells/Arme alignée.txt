@@ -1,0 +1,8 @@
+[École] Transmutation (voir description)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] arme touchée ou 50 projectiles devant être en contact les uns avec les autres au moment de l'incantation
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] Oui (inoffensif, objet)

@@ -1,0 +1,6 @@
+[École] nécromancie
+[Temps d'incantation] 1 minute
+[Composantes] V, G
+[Portée] personnelle
+[Cible] une créature
+[Durée] 1 heure/niveau

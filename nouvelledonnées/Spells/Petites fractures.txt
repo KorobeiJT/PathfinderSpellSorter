@@ -1,0 +1,8 @@
+[École] Transmutation terre
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une brindille cassée)  
+[Portée] contact  
+[Cible] une section de pierre de 1,5 m de côté ou une créature possédant le sous-type sous-type Terre  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] Vigueur, annule (objet)
+[Résistance à la magie] oui (objet)

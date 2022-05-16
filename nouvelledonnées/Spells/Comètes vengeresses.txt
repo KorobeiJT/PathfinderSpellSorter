@@ -1,0 +1,8 @@
+[École] Évocation froid
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] longue (120 m + 12 m/niveau)  
+[Cible] 1 comète/4 niveaux  
+[Durée] 1 round/niveau ou jusqu'à complète utilisation (voir description)  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

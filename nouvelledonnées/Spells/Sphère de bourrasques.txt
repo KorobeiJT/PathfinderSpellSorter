@@ -1,0 +1,8 @@
+[École] Évocation air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne (30 m + 3 m/niveau)
+[Cible] sphère d'air de 1,5 mètre de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur pour annuler (objet) ou Réflexes pour annuler
+[Résistance à la magie] Oui

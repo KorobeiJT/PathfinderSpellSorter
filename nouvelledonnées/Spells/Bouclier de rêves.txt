@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (sphère de verre creuse ou attrape-rêves)  
+[Portée] contact  
+[Cible] créature touchée  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation (air)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 12 m/niveau
+[Cible] cylindre de 12 m de rayon/niveau et de 12 m de haut
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Abjuration 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une feuille d'arbre qui ombrage bien)
+[Portée] contact
+[Cible] une créature par niveau
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

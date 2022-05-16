@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Critique épuisant
+Title: Critique épuisant
+LastModified: 2021-04-29 22:25
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Don critique'
+---
+''Les critiques du personnage épuisent son adversaire.''
+
+'''Catégorie''' : [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
+
+'''Conditions.''' [[Critique fatigant]], [[Don pour les critiques]], [[BBA|bonus de base à l’attaque]] +15.
+
+'''Avantage.''' Quand le personnage inflige un [[coup critique]] à un adversaire, ce dernier est [[épuisé]]. Ce don n’a aucun effet sur une cible déjà [[épuisé|épuisée]].
+
+'''Spécial.''' Le personnage applique un seul effet de critique à chacun de ses [[coup critique|coups critiques]], à moins qu’il dispose de la [[Maîtrise du critique]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage réussit un [[coup critique|critique potentiel]] contre une cible [[épuisé|épuisée]] et décide de lui administrer un Critique épuisant, il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus de +2 par point dépensé au jet de confirmation du critique.

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 minute
+[Composantes] V, G, F (une reproduction miniature de l'engin de siège cible 10 po)
+[Portée] courte
+[Cible] un engin de siège démonté
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

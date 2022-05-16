@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poudre de diamant, d'émeraude, de rubis et de saphir, pour une valeur totale de 5 000 po)
+[Portée] contact
+[Cible] créature touchée
+[Durée] permanente
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

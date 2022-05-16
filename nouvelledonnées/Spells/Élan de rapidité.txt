@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action rapide
+[Composantes] V
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] voir texte
+[Jet de sauvegarde] non
+[Résistance à la magie] non

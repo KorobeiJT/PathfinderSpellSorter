@@ -1,0 +1,8 @@
+[École]Évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] rayonnement de 9 m
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes, 1/2 dégâts, Volonté, partiel ; voir texte
+[Résistance à la magie] oui

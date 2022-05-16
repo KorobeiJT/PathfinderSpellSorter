@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.As du croc-en-jambe
+Title: As du croc-en-jambe
+LastModified: 2022-02-24 19:04
+Categories:
+  - 'Don'
+  - 'Don maîtrise darmes'
+  - 'Src Weapon Masters Handbook'
+---
+{s:cs}{s:WMH}''Le personnage est capable de mettre à terre ses adversaires volants à l'aide de ses attaques à distance''
+
+'''Catégorie :''' targeting, [[Dons#MAITRISEDARME|maîtrise d'armes]]
+
+'''Conditions.''' [[Dex]] 13, [[Viser]], [[Croc-en-jambe à distance]], [[BBA]] +6, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entrainement aux armes]] avec une arme à distance
+
+'''Avantage.''' Le personnage ne subit pas le malus de -2 pour l’utilisation d’une arme à distance aux manœuvres de [[croc-en-jambe]] lors de l’utilisation du don [[Croc-en-jambe à distance]], et il peut tenter une manœuvre de croc-en-jambe à distance spéciale contre les créatures volantes. Si la manœuvre de combat réussit, la créature tombe de 30 m par round (en admettant qu'elle est consciente et tente de rester en l'air; sinon, elle tombe de 150 m par round) jusqu'à ce qu'elle touche le sol. À l'impact, la créature tombe [[à terre]] et subit des [[Dangers naturels#CHUTE|dégâts de chute]] (la moitié des dégâts si elle est tombée à 30 m par round; sinon, les dégâts normaux correspondants à la distance de chute). Une créature en chute libre est considérée comme [[enchevêtré|enchevêtrée]] jusqu'à ce qu'elle touche le sol, mais elle peut effectuer un test de [[Vol]] au début de ses tours pour arrêter de tomber (DD = 15 + BBA du personnage); sinon, elle est incapable de bouger (autrement qu'en tombant) mais peut continuer à agir normalement.

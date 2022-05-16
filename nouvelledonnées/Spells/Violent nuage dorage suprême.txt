@@ -1,0 +1,3 @@
+[École] Évocation (électricité, son) ; Niveau druide 4, ensorceleur/magicien 4, magus 4, sorcière 4
+[Jet de sauvegarde] Réflexes pour annuler et Vigueur pour annuler (cf. texte)
+[Résistance à la magie] oui

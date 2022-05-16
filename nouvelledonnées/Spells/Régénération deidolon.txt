@@ -1,0 +1,8 @@
+[École] Invocation (guérison)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte du sang du lanceur de sorts)
+[Portée] contact
+[Cible] eidolon touché
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

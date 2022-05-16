@@ -1,0 +1,8 @@
+[École] Illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 0 m
+[Cible]  une arme d'ombre
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour dévoiler l'illusion (en cas d'interaction)
+[Résistance à la magie] oui

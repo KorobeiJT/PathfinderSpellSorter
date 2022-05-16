@@ -1,0 +1,8 @@
+[École] invocation
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] contact
+[Cible] 1 flèche touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur(objet)
+[Résistance à la magie] oui(objet)

@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une noix de beurre)
+[Portée] courte
+[Cible] 1 objet ou 1 carré de 3 m de côté
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 minute  
+[Composantes] V, G, M (une potion à tatouer, des encres spéciales d'une valeur de 500 po)  
+[Portée] une potion  
+[Cible] un tatouage de sort  
+[Durée] instantanée  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

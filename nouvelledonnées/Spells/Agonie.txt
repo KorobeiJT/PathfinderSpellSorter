@@ -1,0 +1,8 @@
+[École] Évocation Mal, douleur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] un type extérieur ou un sous-type élémentaire invoqué (voir texte)
+[Durée] 1 round
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

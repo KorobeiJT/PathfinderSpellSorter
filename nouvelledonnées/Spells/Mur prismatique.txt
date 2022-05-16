@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] mur de 1,20 m de long/niveau et de 60 cm de haut/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description

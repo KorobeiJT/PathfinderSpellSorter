@@ -1,0 +1,6 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle (demi-elfe uniquement)
+[Cible] lanceur de sort
+[Durée] 1 minute/niveau

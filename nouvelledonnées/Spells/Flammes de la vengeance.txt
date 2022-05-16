@@ -1,0 +1,8 @@
+[École] Évocation (feu) 
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G
+[Portée] spéciale (voir description)
+[Cible] une créature
+[Durée] voir texte
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

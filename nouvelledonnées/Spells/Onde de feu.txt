@@ -1,0 +1,8 @@
+[École] Évocation feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m
+[Cible] ligne de 6 m
+[Durée] concentration, jusqu'à 1 round/niveau ; voir description
+[Jet de sauvegarde] Réflexes pour 1/2 dégâts
+[Résistance à la magie] oui

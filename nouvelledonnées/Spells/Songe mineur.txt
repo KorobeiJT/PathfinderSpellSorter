@@ -1,0 +1,7 @@
+[École] Illusion (chimère) effet mental[Temps d'incantation] 1 minute
+[Composantes] V, G
+[Portée] illimitée
+[Cible] lanceur de sorts ou gnome touché
+[Durée] voir texte
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

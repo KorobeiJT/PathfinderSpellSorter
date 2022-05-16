@@ -1,0 +1,8 @@
+[École] Transmutation bien, loi
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] une créature Loyale Bonne touchée
+[Durée] 1 round/niveau (voir texte)
+[Jet de sauvegarde] oui (inoffensif)
+[Résistance à la magie] oui (inoffensif)

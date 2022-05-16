@@ -1,0 +1,8 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière spéciale (50 po))
+[Portée] contact
+[Cible] objet touché
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

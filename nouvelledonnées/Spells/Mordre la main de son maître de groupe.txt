@@ -1,0 +1,3 @@
+[École] Enchantement (coercition)
+[Portée] moyenne  
+[Cible] une créature invoquée par un sort ou un pouvoir magique/niveau, toutes doivent être situées à 9 m les unes des autres.

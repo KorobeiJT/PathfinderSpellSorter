@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] armure ou bouclier touché
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

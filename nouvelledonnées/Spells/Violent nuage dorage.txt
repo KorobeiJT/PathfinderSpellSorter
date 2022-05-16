@@ -1,0 +1,8 @@
+[École] évocation électricité
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un morceau d'arbre frappé par la foudre)
+[Portée] moyenne (30 m + 3 m/niveau) + 2{s:c}/niveau)
+[Cible] sphère de 1,5 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler
+[Résistance à la magie] oui

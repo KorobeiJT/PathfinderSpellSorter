@@ -1,0 +1,8 @@
+[École] transmutation poison
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] un jet de venin
+[Durée] instantanée, voir texte
+[Jet de sauvegarde] Vigueur partielle
+[Résistance à la magie] non

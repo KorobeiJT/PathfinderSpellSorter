@@ -1,0 +1,8 @@
+[École] Transmutation (terre)
+[Temps d'incantation] voir description
+[Composantes] V, G, M (argile, limon, sable et une lame de fer)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] toute la terre contenue dans un carré de 225 m de côté et sur une profondeur de 3 m maximum
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

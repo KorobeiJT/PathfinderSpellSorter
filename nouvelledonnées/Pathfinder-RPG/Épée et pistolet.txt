@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Épée et pistolet
+Title: Épée et pistolet
+LastModified: 2021-04-29 22:55
+Categories:
+  - 'Don'
+  - 'Don combat'
+---
+{s:uc}''Le personnage mêle sans mal le combat au corps à corps et à distance.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Dex]] 13, [[Tir à bout portant]], [[Tir rapide]], [[Tir soudain]], [[Combat à deux armes]], [[BBA]] +6
+
+'''Avantage.''' Quand le personnage utilise le [[Combat à deux armes]] avec une arme de mêlée et une arbalète ou une arme à feu, il ne provoque pas d’[[attaque dopportunité|attaques d’opportunité]] de la part des adversaires qu’il menace de son arme de mêlée quand il utilise l’arme à feu ou l’arbalète.
+
+'''Normal.''' Les [[attaque à distance|attaques à distance]] provoquent des attaques d’opportunité.
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage utilise le [[Combat à deux armes]] alors qu’il manie une arme de corps à corps et une arbalète ou une arme à feu, il gagne un bonus de +1 sur tous les [[jet dattaque|jets d’attaque]] à l’arme à feu ou à l’arbalète tant qu’il lui reste au moins un point dans sa réserve d’endurance.

@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 1,50 m
+[Cible] 1 créature
+[Durée] instantanée ou 1 round
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 round  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] une pinte d'eau/niveau  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

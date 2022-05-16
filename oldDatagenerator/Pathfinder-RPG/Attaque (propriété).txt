@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Attaque (propriété)
+Title: attaque (propriété)
+LastModified: 2021-05-17 04:09
+Categories:
+  - 'Propriété armure'
+  - 'Redirection'
+---
+>>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Attaque

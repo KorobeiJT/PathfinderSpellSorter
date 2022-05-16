@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] plante touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, réduit de moitié (voir description)
+[Résistance à la magie] oui

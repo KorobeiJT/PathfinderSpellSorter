@@ -1,0 +1,8 @@
+[École] Abjuration (Chaos)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] le jeteur de sorts et 1 créature extraplanaire loyale, ou le jeteur et le sort du Loi ou l'enchantement affectant la créature ou l'objet touché
+[Durée] 1 round/niveau ou jusqu'à épuisement
+[Jet de sauvegarde] voir description
+[Résistance à la magie] voir description

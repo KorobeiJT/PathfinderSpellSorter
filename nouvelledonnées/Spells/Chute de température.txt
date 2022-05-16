@@ -1,0 +1,8 @@
+[École] évocation (froid)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] rayon de 1,50 m
+[Durée] 1 round/2 niveaux
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

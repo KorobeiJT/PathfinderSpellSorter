@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] ou zone l'objet touché ou une zone maximale de 30 cm de côté  
+[Durée] permanente et 1 heure/niveau (cf. texte)  
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

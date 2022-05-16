@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V,G
+[Portée] contact
+[Cible] Armes à arme à feu ou objet alchimique touché
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

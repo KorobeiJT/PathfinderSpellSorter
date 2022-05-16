@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (quelques écailles de hareng réduites en poudre et une goutte d'essence de feu follet)
+[Portée] contact
+[Cible] page touchée (0,3 m² maximum)
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

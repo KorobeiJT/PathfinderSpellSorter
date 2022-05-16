@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 1 créature vivante touchée/3 niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

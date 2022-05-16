@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (un peu de nourriture appréciée par l'animal que l'on souhaite appeler)
+[Portée] courte
+[Cible] 1 type animal de taille TP
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] oui

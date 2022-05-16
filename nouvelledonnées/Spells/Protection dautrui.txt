@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (deux anneaux en platine (valeur minimale 50 po chacun) devant être portés, l'un par le bénéficiaire, l'autre par le lanceur de sorts)
+[Portée] courte
+[Cible] 1 créature
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

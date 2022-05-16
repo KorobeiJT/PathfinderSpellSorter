@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) malédiction, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V,G,M (poil de chat noir)
+[Portée] courte
+[Cible] 1 créature 
+[Durée] 1 round/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

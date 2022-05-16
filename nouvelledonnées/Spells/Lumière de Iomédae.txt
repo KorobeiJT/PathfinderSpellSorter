@@ -1,0 +1,4 @@
+[École] Invocation Bien, lumière
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] moyenne (30 m + 3 m/niveau)  

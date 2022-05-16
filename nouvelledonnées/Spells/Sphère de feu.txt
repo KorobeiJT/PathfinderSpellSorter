@@ -1,0 +1,8 @@
+[École] Évocation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (suif, soufre et poudre de fer)
+[Portée] moyenne
+[Cible] sphère de 1,50 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes, annule
+[Résistance à la magie] oui

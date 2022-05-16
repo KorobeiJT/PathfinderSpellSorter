@@ -1,0 +1,8 @@
+[École] Nécromancie poison (aspect de puanteur seulement)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de vêtement appartenant à une goule ou une poignée de terre venant de son antre)
+[Portée] contact
+[Cible] type humanoïde vivant touché
+[Durée] 1d6+2 rounds
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une goutte de peinture et une bille d'argile)
+[Portée] 15 m/niveau
+[Cible] transfère la conscience du personnage dans tout objet à son effigie
+[Durée] concentration
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

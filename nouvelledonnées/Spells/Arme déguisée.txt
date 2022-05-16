@@ -1,0 +1,8 @@
+[École] illusion (hallucination)
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] contact
+[Cible] l'arme manufacturée touchée
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

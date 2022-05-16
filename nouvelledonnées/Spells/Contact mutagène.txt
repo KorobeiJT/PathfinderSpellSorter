@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un ongle entier)
+[Portée] contact
+[Cible] créature touchée
+[Durée] spéciale (voir plus bas)
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

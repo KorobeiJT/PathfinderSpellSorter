@@ -1,0 +1,6 @@
+[École] Évocation
+[Temps d'incantation] au moins 10 minutes (voir description)
+[Composantes] V, G, M (vif-argent et un cil venant d'une créature capable de lancer des sorts), F (statuette d'ivoire représentant le lanceur de sorts (1 500 po))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 jour/niveau ou jusqu'à utilisation

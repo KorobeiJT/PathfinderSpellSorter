@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Expert du tir embusqué
+Title: Expert du tir embusqué
+LastModified: 2020-09-03 17:45
+Categories:
+  - 'Contenu supplémentaire'
+  - 'Don'
+  - 'Don combat'
+  - 'Src Dirty Tactics Toolbox'
+---
+{s:cs|Dirty Tactics Toolbox}
+
+''Vos attaques à distance rapides vous rendent plus difficile à localiser''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Condition.''' 3 rangs en [[Discrétion]]
+
+'''Avantage.''' Le personnage réduit la pénalité aux tests de [[Discrétion]] pour rester caché après un tir embusqué de 10.
+
+'''Normal.''' Le personnage subit une pénalité de -20 aux tests de [[Discrétion]] pour rester caché après un tir embusqué.
+
+(((Expert Sniper (Combat)
+
+Your quick ranged attacks make you difficult to locate.
+
+Prerequisite: Stealth 3 ranks.
+
+Benefit: You reduce the penalty on your Stealth checks to stay hidden while sniping by 10.
+
+Normal: You take a –20 penalty on Stealth checks to stay hidden while sniping.)))

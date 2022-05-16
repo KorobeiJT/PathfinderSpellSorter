@@ -1,0 +1,8 @@
+[École] invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] le lanceur de sorts et les objets touchés ou les autres créatures volontaires touchées 
+[Durée] 1 round/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] aucun et Volonté pour annuler (objet)
+[Résistance à la magie] non et oui (objet)

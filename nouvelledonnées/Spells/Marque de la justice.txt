@@ -1,0 +1,8 @@
+[École] Nécromancie malédiction
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] créature touchée
+[Durée] permanente (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Évocation douleur, mal 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature vivante/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

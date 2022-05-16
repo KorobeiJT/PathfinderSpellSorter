@@ -1,0 +1,8 @@
+[École] école Divination 
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (du métal en poudre et des encres rares pour une valeur de 100 po)
+[Portée] contact
+[Cible] une créature morte
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M, FD (huiles (1 000 po))
+[Portée] contact
+[Cible] créature morte touchée
+[Durée] instantanée
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] oui (inoffensif)

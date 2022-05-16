@@ -1,0 +1,452 @@
+---
+Name: Pathfinder-RPG.Armurerie de laventurier (Contenu)
+Title: Armurerie de l'aventurier (Contenu)
+LastModified: 2021-10-26 22:51
+---
+[[https://paizo.com/products/btpy8dmf?Pathfinder-Player-Companion-Adventurers-Armory|Adventurer's Armory]] a été publié en Avril 2010 par Paizo inc.  
+Traduit par la communauté à partir de Septembre 2021 (<abbr title="Initiateur, traducteur">__FaustMe__</abbr>).
+
+{toc}
+
+===Afflictions===
+====Poisons====
+<div class="article_3col">
+[[Poisons#Préserve-plaie|Préserve-plaie]].
+</div>
+
+
+===Dons===
+Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.  
+<div class="article_3col">
+[[Combines déquipement|Combines d'équipement]] (fourreau de lame lourde),  
+[[Combines déquipement|Combines d'équipement]] (bouclier),  
+[[Dégainer en traître]],  
+[[Maîtrise de larme à aspersion|Maîtrise de l'arme à aspersion]].
+</div>
+
+
+===Équipement===
+====Animaux, montures et leur équipement====
+<div class="article_3col">
+'''Familiers et montures.'''  
+[[Âne ou mulet (objet)|Âne ou mulet]] (modifié),  
+[[Belette (objet)|Belette]] (modifié),  
+[[Bovin (objet)|Bovin]] (modifié),  
+[[Canari (objet)|Canari]],  
+[[Chat (objet)|Chat]] (modifié),  
+[[Chat (objet)|Chat (sage du désert)]],  
+[[Chauve-souris (objet)|Chauve-souris]] (modifié),  
+[[Chauve-souris (objet)|Chauve-souris (bois des ombres)]],  
+[[Cheval (objet)|Cheval (léger, entraîné au combat)]] (modifié),  
+[[Cheval (objet)|Cheval (léger)]] (modifié),  
+[[Cheval (objet)|Cheval (lourd, entraîné au combat)]] (modifié),  
+[[Cheval (objet)|Cheval (lourd)]] (modifié),  
+[[Chien (objet)|Chien (de garde)]] (modifié),  
+[[Chien (objet)|Chien (de selle)]] (modifié),  
+[[Chouette (objet)|Chouette]] (modifié),  
+[[Chouette (objet)|Chouette (forêt des trois nations)]],  
+[[Corbeau (objet)|Corbeau]] (modifié),  
+[[Crapaud (objet)|Crapaud]] (modifié),  
+[[Crapaud (objet)|Crapaud (vision)]],  
+[[Éléphant (objet)|Éléphant]] (modifié),  
+[[Épervier (objet)|Épervier]] (modifié),  
+[[Faucon (objet)|Faucon]] (modifié),  
+[[Lézard (objet)|Lézard]] (modifié),  
+[[Lézard (objet)|Lézard (gecko de la Magiocratie)]],  
+[[Pseudo-dragon (objet)|Pseudo-dragon]] (modifié),  
+[[Rat (objet)|Rat]] (modifié),  
+[[Rat (objet)|Rat (bleu)]],  
+[[Rat sanguinaire (objet)|Rat sanguinaire]] (modifié),  
+[[Rat-âne (objet)|Rat-âne]] (modifié),  
+[[Serpent constricteur (objet)|Serpent constricteur]] (modifié),  
+[[Singe (objet)|Singe]] (modifié),  
+[[Strige (objet)|Strige]] (modifié),  
+[[Vipère (objet)|Vipère]] (modifié),  
+[[Yack (objet)|Yack]] (modifié).  
+  
+'''Équipement pour animaux.'''  
+[[Cage (objet)|Cage (taille G)]] (modifié),  
+[[Cage (objet)|Cage (taille Min ou I)]] (modifié),  
+[[Cage (objet)|Cage (taille P ou M)]] (modifié),  
+[[Cage (objet)|Cage (taille TG)]] (modifié),  
+[[Cage (objet)|Cage (taille TP)]] (modifié),  
+[[Gant de fauconnerie (objet)|Gant de fauconnerie]] (modifié),  
+[[Harnais animal (objet)|Harnais animal]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Armes====
+<div class="article_3col">
+[[Aklys (arme)|Aklys]] (modifié),  
+[[Arbalète de lancer (arme)|Arbalète de lancer]],  
+[[Arc épineux (arme)|Arc épineux]],  
+[[Baïonnette (arme)|Baïonnette]] (modifié),  
+[[Bardiche (arme)|Bardiche]] (modifié),  
+[[Bec de corbin (arme)|Bec de corbin]] (modifié),  
+[[Billes gémissantes (arme)|Billes gémissantes (20)]],  
+[[Bolas tribaux (arme)|Bolas tribaux]] (modifié),  
+[[Boomerang (arme)|Boomerang]] (modifié),  
+[[Botte à lame (arme)|Botte à lame]],  
+[[Bouclier de lancer (arme)|Bouclier de lancer]] (modifié),  
+[[Briseterre (arme)|Briseterre]] (modifié),  
+[[Ceste (arme)|Ceste]] (modifié),  
+[[Chakram (arme)|Chakram]] (modifié),  
+[[Coup-de-poing (arme)|Coup de poing]] (modifié),  
+[[Coupecheval (arme)|Coupecheval]] (modifié),  
+[[Couteau à cran darrêt (arme)|Couteau à cran d'arrêt]],  
+[[Couteau papillon (arme)|Couteau papillon (2)]] (modifié),  
+[[Crochet ogre (arme)|Crochet ogre]] (modifié),  
+[[Dague brise-épée (arme)|Dague brise-épée]] (modifié),  
+[[Double arbalète (arme)|Double arbalète]] (modifié),  
+[[Écharpe tranchante (arme)|Écharpe tranchante]] (modifié),  
+[[Épée de duel (arme)|Épée de duel]] (modifié),  
+[[Épée du temple (arme)|Épée du temple]] (modifié),  
+[[Épée rhoka (arme)|Épée rhoka]] (modifié),  
+[[Falcata (arme)|Falcata]] (modifié),  
+[[Flamberge (arme)|Flamberge]],  
+[[Flèche de chardon (arme)|Flèche de chardon]],  
+[[Flèches sifflantes (arme)|Flèches sifflantes (20)]] (modifié),  
+[[Fouet scorpion (arme)|Fouet scorpion]] (modifié),  
+[[Fourreau de combat (arme)|Fourreau de combat]],  
+[[Fourreau de combat aiguisé (arme)|Fourreau de combat aiguisé]],  
+[[Gant-fronde (arme)|Gant-fronde]],  
+[[Gantelet de corde (arme)|Gantelet de corde]],  
+[[Garrot (arme)|Garrot]],  
+[[Glaive-guisarme (arme)|Glaive-guisarme]] (modifié),  
+[[Gourdin mere (arme)|Gourdin mere]] (modifié),  
+[[Grenade à morsures (arme)|Grenade à morsures]],  
+[[Hanbo (arme)|Hanbo]],  
+[[Happe-vilain (arme)|Happe-vilain]] (modifié),  
+[[Hunga munga (arme)|Hunga munga]] (modifié),  
+[[Khopesh (arme)|Khopesh]] (modifié),  
+[[Klar (arme)|Klar]] (modifié),  
+[[Lance à chaîne (arme)|Lance à chaîne]] (modifié),  
+[[Lance-seringue (arme)|Lance-seringue]],  
+[[Lasso (arme)|Lasso]] (modifié),  
+[[Madu (arme)|Madu (cuir/acier)]] (modifié),  
+[[Martache naine (arme)|Martache naine]],  
+[[Marteau de Lucerne (arme)|Marteau de Lucerne]] (modifié),  
+[[Marteau météore (arme)|Marteau météore]] (modifié),  
+[[Pata (arme)|Pata]] (modifié),  
+[[Pieu de bois (arme)|Pieu de bois]] (Wooden stake) (modifié),  
+[[Pilum (arme)|Pilum]] (modifié),  
+[[Poïs de guerre (arme)|Poïs de guerre]],  
+[[Rasoir de combat (arme)|Rasoir de combat]] (modifié),  
+[[Sabre dentelé (arme)|Sabre dentelé]] (modifié),  
+[[Scizore (arme)|Scizore]] (modifié),  
+[[Shotel (arme)|Shotel]] (modifié),  
+[[Sica (arme)|Sica]] (modifié),  
+[[Terbutje (arme)|Terbutje]] (modifié),  
+[[Terbutje en acier (arme)|Terbutje en acier]],  
+[[Tranchechien (arme)|Tranchechien]] (modifié),  
+[[Urumi (arme)|Urumi]] (modifié),  
+[[Vouge (arme)|Vouge]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Armures====
+<div class="article_3col">
+[[Armure de feuilles (armure)|Armure de feuilles]] (modifié),  
+[[Armure de parade (armure)|Armure de parade]] (modifié),  
+[[Armure en bois de rose (armure)|Armure en bois de rose]],  
+[[Kilt renforcé (armure)|Kilt renforcé]],  
+[[Klar (armure)|Klar]] (modifié),  
+[[Madu (armure)|Madu en cuir]] (modifié),  
+[[Madu (armure)|Madu en acier]] (modifié),  
+[[Plate de pierre (armure)|Plate de pierre]] (modifié),  
+[[Plate flexible (armure)|Plate flexible]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Équipement d'aventurier====
+<div class="article_3col">
+[[Aimant (objet)|Aimant]] (modifié),  
+[[Applique pour bouclier (objet)|Applique pour bouclier]] (modifié),  
+[[Astrolabe (objet)|Astrolabe]] (modifié),  
+[[Bague à poison (objet)|Bague à poison]] (modifié),  
+[[Billes (objet)|Billes]] (modifié),  
+[[Botte de lintrus (objet)|Botte de l’intrus]],  
+[[Bouchons doreilles (objet)|Bouchons d’oreilles]] (modifié),  
+[[Boussole (objet)|Boussole]] (modifié),  
+[[Carte régionale (objet)|Carte régionale]] (modifié),  
+[[Casque à bougie (objet)|Casque à bougie]] (modifié),  
+[[Cercueil (objet)|Cercueil (standard)]] (modifié),  
+[[Cercueil (objet)|Cercueil (orné)]] (modifié),  
+[[Chaînes factices (objet)|Chaînes factices (3 m)]] (modifié),  
+[[Chaise pliante (objet)|Chaise pliante]] (modifié),  
+[[Coffre (objet)|Coffre (taille G)]] (modifié),  
+[[Coffre (objet)|Coffre (taille M)]] (modifié),  
+[[Coffre (objet)|Coffre (taille P)]] (modifié),  
+[[Coffre (objet)|Coffre (taille TG)]] (modifié),  
+[[Coffre à double fond (objet)|Coffre à double fond]] (modifié),  
+[[Copie de clé (objet)|Copie de clé]] (modifié),  
+[[Cor (objet)|Cor]] (modifié),  
+[[Coupe à double fond (objet)|Coupe à double fond]] (modifié),  
+[[Couverture (objet)|Couverture]] (modifié),  
+[[Dragonne (objet)|Dragonne]] (modifié),  
+[[Échelle (objet)|Échelle (pliante)]] (modifié),  
+[[Encensoir (objet)|Encensoir]] (modifié),  
+[[Épée à dos de scie (objet)|Épée à dos de scie]] (modifié),  
+[[Étui à parchemins (objet)|Étui à parchemins]] (modifié),  
+[[Fausses menottes (objet)|Fausses menottes]] (modifié),  
+[[Ficelle (objet)|Ficelle (15 m)]] (modifié),  
+[[Fiole en fer (objet)|Fiole en fer]] (modifié),  
+[[Flèche-grappin (objet)|Flèche-grappin]] (modifié),  
+[[Fourreau à double fond (objet)|Fourreau à double fond]] (modifié),  
+[[Fourreau de poignet (objet)|Fourreau de poignet]] (modifié),  
+[[Fourreau de poignet (objet)|Fourreau de poignet (à ressort)]],  
+[[Hamac (objet)|Hamac]] (modifié),  
+[[Jeu du destin (objet)|Jeu du destin]] (modifié),  
+[[Lance-javelot (objet)|Lance-javelot]],  
+[[Lanterne étanche (objet)|Lanterne étanche]] (modifié),  
+[[Loupe (objet)|Loupe]] (modifié),  
+[[Menottes (objet)|Menottes (en mithral)]] (modifié),  
+[[Montre à gousset (objet)|Montre à gousset]],  
+[[Moule de cire vierge (objet)|Moule de cire vierge]] (modifié),  
+[[Palan (objet)|Palan]] (modifié),  
+[[Papier (objet)|Papier]] (modifié),  
+[[Papier à lettres (objet)|Papier à lettres]] (modifié),  
+[[Papier de riz (objet)|Papier de riz]] (modifié),  
+[[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne]] (modifié),  
+[[Passe-partout (objet)|Passe-partout]] (modifié),  
+[[Pelle (objet)|Pelle]] (modifié),  
+[[Pic à cornichons (objet)|Pic à cornichons]],  
+[[Pierre à aiguiser (objet)|Pierre à aiguiser]] (modifié),  
+[[Planche pliante (objet)|Planche pliante]] (modifié),  
+[[Pointe en fer (objet)|Pointe en fer]] (modifié),  
+[[Pommeau creux (objet)|Pommeau creux]] (modifié),  
+[[Poudre (objet)|Poudre]] (modifié),  
+[[Prothèse (objet)|Prothèse (bras)]] (modifié),  
+[[Prothèse (objet)|Prothèse (jambe)]] (modifié),  
+[[Prothèse (objet)|Prothèse (main)]] (modifié),  
+[[Prothèse (objet)|Prothèse (pied)]] (modifié),  
+[[Réchaud (objet)|Réchaud]] (modifié),  
+[[Réservoir de pompage (objet)|Réservoir de pompage]],  
+[[Sablier (objet)|Sablier (1 heure)]] (modifié),  
+[[Sablier (objet)|Sablier (1 minute)]] (modifié),  
+[[Sablier (objet)|Sablier (6 secondes)]] (modifié),  
+[[Sac à dos (objet)|Sac à dos (de maître)]] (modifié),  
+[[Sac étanche (objet)|Sac étanche]] (modifié),  
+[[Savon (objet)|Savon]] (modifié),  
+[[Scie (objet)|Scie]] (modifié),  
+[[Sextant (objet)|Sextant]] (modifié),  
+[[Sifflet (objet)|Sifflet]] (modifié),  
+[[Sifflet (objet)|Sifflet (à ultrasons)]] (modifié),  
+[[Tatouage (objet)|Tatouage]] (modifié),  
+[[Tente (objet)|Tente (pavillon)]] (modifié),  
+[[Tente (objet)|Tente (taille G)]] (modifié),  
+[[Tente (objet)|Tente (taille M)]] (modifié),  
+[[Tente (objet)|Tente (taille P)]] (modifié),  
+[[Trousse de rasage (objet)|Trousse de rasage]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Focalisateurs de canalisation====
+<div class="article_3col">
+[[Anneaux sanctifiés (objet)|Anneaux sanctifiés (paire)]],  
+[[Arme consacrée (objet)|Arme consacrée]],  
+[[Bâton denseignant (objet)|Bâton d’enseignant]],  
+[[Bouclier sanctifié (objet)|Bouclier sanctifié]],  
+[[Calice sacré (objet)|Calice sacré]],  
+[[Chaînes de contrition (objet)|Chaînes de contrition]],  
+[[Cristal de méditation (objet)|Cristal de méditation]],  
+[[Instrument du divin (objet)|Instrument du divin]],  
+[[Sceau de focalisation pointu (objet)|Sceau de focalisation pointu]],  
+[[Verrou de lépargné (objet)|Verrou de l’épargné]],  
+[[Vêtements dapparat autoritaires (objet)|Vêtements d'apparat autoritaires]].
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Jeux====
+<div class="article_3col">
+[[Boîte à secrets (objet)|Boîte à secrets]] (modifié),  
+[[Cartes marquées (objet)|Cartes marquées]] (modifié),  
+[[Cerf-volant (objet)|Cerf-volant]] (modifié),  
+[[Dés (objet)|Dés (pipés)]] (modifié),  
+[[Dés (objet)|Dés (pipés supérieurs)]] (modifié),  
+[[Jeu de bowling (objet)|Jeu de bowling]] (modifié),  
+[[Jeu de société (objet)|Jeu de société]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Marché noir====
+<div class="article_3col">
+[[Aconit (objet)|Aconit]],  
+[[Ail (objet)|Ail]],  
+[[Belladone (objet)|Belladone]],  
+[[Blanchenuit (objet)|Blanchenuit]],  
+[[Clairécoute (objet)|Clairécoute]],  
+[[Écorchefeuille (objet)|Écorchefeuille]],  
+[[Esclave (objet)|Esclave (halfelin, anguille)]],  
+[[Esclave (objet)|Esclave (labeur éprouvant)]],  
+[[Esclave (objet)|Esclave (majordome)]],  
+[[Esclave (objet)|Esclave (spécialisé)]],  
+[[Esclave (objet)|Esclave (standard)]],  
+[[Gui (objet)|Gui]],  
+[[Houx (objet)|Houx]],  
+[[Pesh (objet)|Pesh]],  
+[[Tabac (objet)|Tabac]],  
+[[Tabac à priser du bachelier (objet)|Tabac à priser du bachelier]],  
+[[Thé nocturne (objet)|Thé nocturne]].
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Moyens de transport====
+<div class="article_3col">
+[[Moyens de transport#Traîneau à chien|Traîneau à chien]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Nourriture et boissons====
+<div class="article_3col">
+[[Brune de nain (objet)|Brune de nain (la chope)]] (modifié),  
+[[Café (objet)|Café (la tasse)]] (modifié),  
+[[Café (objet)|Café de la Jungle sauvage (la tasse)]] (modifié),  
+[[Casse croûte (objet)|Casse croûte (par jour)]] (modifié),  
+[[Coffret de cérémonie du thé (objet)|Coffret de cérémonie du thé]] (modifié),  
+[[Grog (objet)|Grog (la chope)]] (modifié),  
+[[Hydromel de linnorm (objet)|Hydromel de linnorm (la chope)]],  
+[[Infusion du dieu ivre (objet)|Infusion du dieu ivre (la chope)]],  
+[[Kahvè (objet)|Kahvè (la tasse)]] (modifié),  
+[[Rhum du pauvre (objet)|Rhum du pauvre (la tasse)]] (modifié),  
+[[Thé (objet)|Thé (la tasse)]] (modifié),  
+[[Thé (objet)|Thé (vert matcha, la tasse)]] (modifié),  
+[[Vin (objet)|Vin de la cité des neuf forts (la bouteille)]] (modifié),  
+[[Whisky (objet)|Whisky (Oldlaw)]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Outils de compétences====
+<div class="article_3col">
+[[Abaque (objet)|Abaque]] (modifié),  
+[[Autel portable (objet)|Autel portable]] (modifié),  
+[[Balancier (objet)|Balancier]] (modifié),  
+[[Civière (objet)|Civière]] (modifié),  
+[[Enclume (objet)|Enclume]] (modifié),  
+[[Flotteur (objet)|Flotteur]],  
+[[ChignoleForeuse (objet)|Foreuse]] (modifié),  
+[[Grimoire de voyage (objet)|Grimoire de voyage]] (modifié),  
+[[Laboratoire dalchimiste portable (objet)|Labo d'alchimiste portable]] (modifié),  
+[[Les Prophéties du Paradis (objet)|Les Prophéties du Paradis]],  
+[[Masque de médecin (objet)|Masque de médecin]],  
+[[Palmes (objet)|Palmes]],  
+[[Piège à ours (objet)|Piège à ours]] (modifié),  
+[[Presse dimprimerie (objet)|Presse d’imprimerie (1 page)]],  
+[[Soufflet (objet)|Soufflet]] (modifié),  
+[[Tenue de médecin (objet)|Tenue de médecin]],  
+[[Thermomètre (objet)|Thermomètre]],  
+[[Trousse de jongleur (objet)|Trousse de jongleur]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Trousses d'équipement====
+<div class="article_3col">
+[[Nécessaire de cuisine (objet)|Nécessaire de cuisine]] (modifié),  
+[[Trousse de chirurgien (objet)|Trousse de chirurgien]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Vêtements====
+<div class="article_3col">
+[[Bijoux (objet)|Bijoux]] (modifié),  
+[[Costume de voleur (objet)|Costume de voleur]] (modifié),  
+[[Couvre-chef (objet)|Couvre-chef]] (modifié),  
+[[Crampons (objet)|Crampons]] (modifié),  
+[[Écharpe (objet)|Écharpe]] (modifié),  
+[[Écharpe à poches (objet)|Écharpe à poches]] (modifié),  
+[[Écharpe renforcée (objet)|Écharpe renforcée]] (modifié),  
+[[Fourrures (objet)|Fourrures]] (modifié),  
+[[Gilet (objet)|Gilet]],  
+[[Masque (objet)|Masque]] (modifié),  
+[[Perruque (objet)|Perruque]] (modifié),  
+[[Raquettes (objet)|Raquettes]] (modifié),  
+[[Tenue adaptée à la chaleur (objet)|Tenue adaptée à la chaleur]] (modifié),  
+[[Vêtements arrachables (objet)|Vêtements arrachables]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Armes alchimiques====
+<div class="article_3col">
+[[Feu dartifice bougie en papier (objet)|Feux d'artifice (bougie en papier)]] (modifié),  
+[[Feu dartifice étoile (objet)|Feux d'artifice (étoile)]] (modifié),  
+[[Feu dartifice fontaine stellaire (objet)|Feux d'artifice (fontaine stellaire)]] (modifié),  
+[[Feu dartifice fusée (objet)|Feux d'artifice (fusée)]] (modifié),  
+[[Glace liquide (objet)|Glace liquide]] (modifié),  
+[[Grenade à mèche (objet)|Grenade à mèche]] (modifié),  
+[[Huile de kéros (objet)|Huile de kéros]] (modifié),  
+[[Poil à gratter (objet)|Poil à gratter]] (modifié),  
+[[Poudre à éternuer (objet)|Poudre à éternuer]] (modifié),  
+[[Poudre à flash (objet)|Poudre à flash]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Outils alchimiques====
+<div class="article_3col">
+[[Appât à bêtes (objet)|Appât à bêtes]],  
+[[Bille fumigène (objet)|Bille fumigène]] (modifié),  
+[[Coagulant (objet)|Coagulant]] (modifié),  
+[[Dissimulateur dodeur (objet)|Dissimulateur d'odeur]] (modifié),  
+[[Encre luisante (objet)|Encre luisante]] (modifié),  
+[[Encre sympathique (objet)|Encre sympathique (bonne)]] (modifié),  
+[[Encre sympathique (objet)|Encre sympathique (moyenne)]] (modifié),  
+[[Encre sympathique (objet)|Encre sympathique (simple)]] (modifié),  
+[[Encre sympathique (objet)|Encre sympathique (supérieure)]] (modifié),  
+[[Éponge filtrante (objet)|Éponge filtrante]] (modifié),  
+[[Feuille-barbare (objet)|Feuille-barbare]],  
+[[Liquide dembaumement (objet)|Liquide d'embaumement]] (modifié),  
+[[Musc des terres sanglantes (objet)|Musc des terres sanglantes]],  
+[[Solvant alchimique (objet)|Solvant alchimique]] (modifié),  
+[[Teinture repère (objet)|Teinture repère]] (modifié).
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Réactifs alchimiques====
+<div class="article_3col">
+[[Réactifs alchimiques#Acide|Acide]],  
+[[Réactifs alchimiques#Anti-maladie|Anti-maladie]],  
+[[Réactifs alchimiques#Antitoxine|Antitoxine]],  
+[[Réactifs alchimiques#Bâton fumigène|Bâton fumigène]],  
+[[Réactifs alchimiques#Feu grégeois|Feu grégeois]],  
+[[Réactifs alchimiques#Gardelame|Gardelame]],  
+[[Réactifs alchimiques#Glace liquide|Glace liquide]],  
+[[Réactifs alchimiques#Graisse alchimique|Graisse alchimique]],  
+[[Réactifs alchimiques#Pierre tonnerre|Pierre tonnerre]],  
+[[Réactifs alchimiques#Poil à gratter|Poil à gratter]],  
+[[Réactifs alchimiques#Poudre à flash|Poudre à flash]],  
+[[Réactifs alchimiques#Sacoche immobilisante|Sacoche immobilisante]].
+</div>
+
+<div style="border-top:1px dashed #4b3124"></div>
+====Remèdes alchimiques====
+<div class="article_3col">
+[[Anti-maladie (objet)|Anti-maladie]] (modifié),  
+[[Anti-vermine (objet)|Anti-vermine]] (modifié),  
+[[Gardelame (objet)|Gardelame]] (modifié),  
+[[Graisse alchimique (objet)|Graisse alchimique]] (modifié),  
+[[Sève terreuse distillée (objet)|Sève terreuse distillée]].
+</div>
+
+
+===Règles===
+<div class="article_3col">
+[[Réactifs alchimiques|Les réactifs alchimiques]].
+</div>
+
+
+===Traits===
+<div class="article_3col">
+'''Équipement.'''  
+[[Traits déquipement#ARMEDHERITAGE|Arme d'héritage]],  
+[[Traits déquipement#ARMEETPARE|Armé et paré]],  
+[[Traits déquipement#COUSUALAVAVITE|Cousu à la va-vite]],  
+[[Traits déquipement#DEGUISEMENTAMELIORE|Déguisement amélioré]],  
+[[Traits déquipement#EQUIPEMENTIMPROVISE|Équipement improvisé]],  
+[[Traits déquipement#ÉVASIONDISCRETE|Évasion discrète]],  
+[[Traits déquipement#EXTREMEMENTTENDANCE|Extrêmement tendance]],  
+[[Traits déquipement#FACILITEDAPPRENTISSAGE|Facilité d’apprentissage]],  
+[[Traits déquipement#FOIEDEFER|Foie de fer]],  
+[[Traits déquipement#FOUETPREHENSIBLE|Fouet préhensible]],  
+[[Traits déquipement#MAGIEDESCENE|Magie de scène]],  
+[[Traits déquipement#NEGOCIATEUR|Négociateur]],  
+[[Traits déquipement#POUVOIRDESUGGESTION|Pouvoir de suggestion]].
+</div>

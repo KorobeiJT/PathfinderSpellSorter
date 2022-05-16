@@ -1,0 +1,8 @@
+[École] Évocation (sonore) 
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G
+[Portée] 6 m
+[Cible] rayonnement de 6 m de rayon centré sur le lanceur de sorts
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour réduire de moitié (inoffensif) 
+[Résistance à la magie] oui (inoffensif)

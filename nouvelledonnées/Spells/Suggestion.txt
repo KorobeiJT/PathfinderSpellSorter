@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (langage, mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, M (une langue de serpent et un rayon de miel)
+[Portée] courte
+[Cible] 1 créature vivante
+[Durée] 1 heure/niveau ou jusqu'à accomplissement
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

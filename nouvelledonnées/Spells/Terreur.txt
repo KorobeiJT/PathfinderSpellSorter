@@ -1,0 +1,8 @@
+[École] Nécromancie émotion, mental, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un cœur de poule ou une plume blanche)
+[Portée] 9 m
+[Cible] rayonnement en forme de cône
+[Durée] 1 round/niveau ou 1 round (voir description)
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

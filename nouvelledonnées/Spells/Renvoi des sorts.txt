@@ -1,0 +1,6 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un petit miroir en argent)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] jusqu'à épuisement ou 10 minutes/niveau

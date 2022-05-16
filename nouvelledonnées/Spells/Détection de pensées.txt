@@ -1,0 +1,8 @@
+[École] école Divination (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (une pièce de cuivre)
+[Portée] 18 m
+[Cible] émanation en forme de cône
+[Durée] concentration, jusqu'à 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] non

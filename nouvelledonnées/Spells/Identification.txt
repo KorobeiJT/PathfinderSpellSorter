@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un peu de vin mélangé avec une plume de hibou)
+[Portée] 18 m/12 {s:c}
+[Cible] émanation en forme de cône
+[Durée] 3 rounds/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

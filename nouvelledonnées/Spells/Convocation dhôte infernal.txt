@@ -1,0 +1,8 @@
+[École] Invocation (convocation) Mal, Loi
+[Temps d'incantation] 1 round  
+[Composantes] V, G, F/FD (une bande de parchemin couvert de runes)  
+[Portée] courte
+[Cible] 1d4+1 Diable légionnaire diables hôtes mineurs ou 1 diable légionnaire majeur  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

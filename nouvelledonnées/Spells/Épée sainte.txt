@@ -1,0 +1,8 @@
+[École] Évocation (Bien)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] arme de corps à corps touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] invocation (création) poison
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée d'algue rouge séchée)
+[Portée] moyenne
+[Cible] 18 m de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (voir texte)
+[Résistance à la magie] oui

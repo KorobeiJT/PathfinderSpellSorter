@@ -1,0 +1,5 @@
+[École]Enchantement (coercition) effet mental
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (diamant d'une valeur de 10 000 po)
+[Cible] 1 créature de la même race que le lanceur
+[Durée] instantanée

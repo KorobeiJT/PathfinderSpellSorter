@@ -1,0 +1,8 @@
+[École] invocation (création) poison
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un œuf pourri ou des feuilles de chou)
+[Portée] moyenne (30 m + 3 m/niveau) + 2{s:c}/niveau)
+[Cible] une créature volontaire
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun et Vigueur pour annuler (cf. texte)
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Nécromancie émotion, mental, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (os en poudre)
+[Portée] personnelle
+[Cible]  émanation de 6 m centrée sur le personnage
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

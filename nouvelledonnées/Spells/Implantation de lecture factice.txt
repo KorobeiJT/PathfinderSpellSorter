@@ -1,0 +1,8 @@
+[École]Illusion (hallucination)
+[Temps d'incantation] 1 minute
+[Composantes] V, G
+[Portée] contact
+[Cible] objet touché
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun, voir texte
+[Résistance à la magie] non

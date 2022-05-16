@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un tout petit sablier)
+[Portée] 9 m
+[Cible] émanation de 9 m de rayon centrée sur le lanceur
+[Durée] 1 round
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] école Divination 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] le lanceur de sorts plus une créature consentante par trois niveaux qui doivent être distantes de moins de 9 m les unes des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

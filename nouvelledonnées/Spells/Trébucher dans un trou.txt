@@ -1,0 +1,8 @@
+[École] Invocation (création) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une pelle miniature qui coûte 10 po)
+[Portée] courte
+[Cible] voir texte
+[Durée] 1 round + 1 round/niveau
+[Jet de sauvegarde] Réflexes partiel
+[Résistance à la magie] non

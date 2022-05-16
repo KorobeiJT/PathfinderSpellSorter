@@ -1,0 +1,8 @@
+[École] évocation mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] arme de corps à corps touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

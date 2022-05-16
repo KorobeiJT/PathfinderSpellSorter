@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 minute
+[Composantes] V, G, M (une opale de 500 po par DV de la cible et d'autres composantes, comme indiqué plus bas)
+[Portée] courte
+[Cible] 1 créature vivante
+[Durée] voir description
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

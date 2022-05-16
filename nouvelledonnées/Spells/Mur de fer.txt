@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une feuille de fer et 500 g de poudre d'or (valeur 50 po))
+[Portée] moyenne
+[Cible] mur de fer constitué d'un carré de 1,50 m de côté/niveau (voir description)
+[Durée] instantanée
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

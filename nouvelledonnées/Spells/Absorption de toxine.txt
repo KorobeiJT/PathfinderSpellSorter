@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une épine de plante vénéneuse)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 10 minutes/niveau ou jusqu'à épuisement
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] non

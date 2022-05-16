@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Menace viscérale
+Title: Menace viscérale
+LastModified: 2020-10-05 17:51
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Codex monstrueux'
+---
+{s:cm}'''Cette option est plus courante chez les [[gobelours]].'''
+
+''Le personnage est si doué pour effrayer ses adversaires que ces derniers hésitent.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Force intimidante]]
+
+'''Avantages.''' Le personnage peut utiliser l’[[Intimidation]] au lieu du [[Bluff]] pour tenter une [[feinte]] contre une créature à portée d’allonge.

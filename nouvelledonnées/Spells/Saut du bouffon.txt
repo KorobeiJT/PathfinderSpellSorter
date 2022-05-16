@@ -1,0 +1,8 @@
+[École] Invocation (téléportation) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

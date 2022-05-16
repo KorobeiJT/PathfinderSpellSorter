@@ -1,0 +1,8 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (mercure, gomme arabique et fumée)
+[Portée] courte
+[Cible] 1 créature ou 1 objet non magique (jusqu'à un cube de 3 m de côté/niveau)
+[Durée] voir description
+[Jet de sauvegarde] Volonté, annule (objet) (voir description)
+[Résistance à la magie] oui (objet)

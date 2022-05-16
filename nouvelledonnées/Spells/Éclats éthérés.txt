@@ -1,0 +1,8 @@
+[École]Évocation force
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (verre brisé)
+[Portée] moyenne
+[Cible] un cube de 3 m/niveau
+[Durée] 1 h/niveau
+[Jet de sauvegarde] Réflexes partiel ou Réflexes annule (voir texte)
+[Résistance à la magie] non

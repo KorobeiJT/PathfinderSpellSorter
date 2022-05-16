@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental, son)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] type animaux ou type créature créatures magiques ayant 1 ou 2 en Intelligence
+[Durée] concentration
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

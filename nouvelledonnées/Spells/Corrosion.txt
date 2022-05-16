@@ -1,0 +1,8 @@
+[École] invocation (création) acide
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 3 rounds
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] invocation (convocation) mal
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature touchée
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur Présentation%20des%20sorts.ashx#Les_jets_de_sauvegarde_21|partiel (voir texte)
+[Résistance à la magie] oui

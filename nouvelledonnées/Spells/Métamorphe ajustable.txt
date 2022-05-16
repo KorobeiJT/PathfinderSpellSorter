@@ -1,0 +1,6 @@
+[École] transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un petit bout de chair de doppleganger)
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 minute/niveau

@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M/FD (poudre d'argent)  
+[Portée] 3 m  
+[Cible] émanation de 3 m de rayon centrée sur le lanceur de sorts  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] aucun ou Volonté, annule (voir description)
+[Résistance à la magie] oui

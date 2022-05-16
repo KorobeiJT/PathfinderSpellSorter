@@ -1,0 +1,8 @@
+[École] Évocation (lumière) 
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] rayonnement de lumière de 3 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler 
+[Résistance à la magie] oui

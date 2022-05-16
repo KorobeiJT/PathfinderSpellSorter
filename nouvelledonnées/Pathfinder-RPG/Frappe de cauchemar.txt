@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Frappe de cauchemar
+Title: Frappe de cauchemar
+LastModified: 2021-04-30 15:33
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''Les lueurs féeriques du personnage illuminent ses adversaires et soulignent aussi leurs faiblesses. ''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[Science du combat à mains nues]], [[Poing de cauchemar]], [[Tisseur de cauchemar]], [[Coup étourdissant]], 5 rangs en [[Premiers secours]], ''[[lueur féerique]]''
+
+'''Avantage.''' Quand un adversaire est auréolé de ''[[lueur féerique]]'' lancées par le personnage et non issues d’un objet à potentiel magique ou à fin d’incantation, le [[DD]] pour résister aux [[coup étourdissant|Coups étourdissants]] du personnage augmente de +2 pour cet adversaire. Si le personnage réussit une tentative de [[Coup étourdissant]] et que l’adversaire affecté par les lueurs rate son [[jet de sauvegarde]], il est [[secoué]] pendant 1d2 rounds plus 1 round pour chaque tranche de 5 en deçà du [[DD]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage touche un adversaire avec une attaque de [[Coup étourdissant]] et que cet adversaire rate son [[jds|jet de sauvegarde]], le personnage peut dépenser 5 points d’endurance pour que son adversaire soit [[effrayé]] pendant 1d4 [[round|rounds]] au lieu d’être simplement [[secoué]].

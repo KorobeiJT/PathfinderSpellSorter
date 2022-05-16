@@ -1,0 +1,7 @@
+[École] Transmutation
+[Temps d'incantation]  1 action simple  
+[Composantes] V, F (le symbole sacré du personnage ou une représentation du symbole sacré de la déesse du soleil ou de la déesse elle-même)  
+[Portée] moyenne  
+[Cible] une créature/niveau  
+[Durée] 1 heure/niveau  
+[Jet de sauvegarde] aucun ; Résistance magique non

@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD/M (une goutte de sang de chaque cible)
+[Portée] courte
+[Cible] une créature vivante volontaire/niveau, ne devant pas se trouver à plus de 9 m / les unes des autres
+[Durée]1 minute/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui

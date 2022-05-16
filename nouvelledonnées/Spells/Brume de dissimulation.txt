@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m
+[Cible] brouillard centré sur le jeteur de sorts et s'étendant sur 6 m de rayon et de haut
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

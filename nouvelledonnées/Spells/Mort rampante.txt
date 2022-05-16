@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte (voir description)
+[Cible] quatre nuées d'insectes
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur, partiel, voir description
+[Résistance à la magie] non

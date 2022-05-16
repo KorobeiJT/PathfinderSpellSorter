@@ -1,0 +1,8 @@
+[École] divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, FD
+[Portée] contact
+[Cible] un allié
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

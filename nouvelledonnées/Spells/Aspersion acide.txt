@@ -1,0 +1,8 @@
+[École] Invocation (création) acide
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] un projectile constitué d'acide
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

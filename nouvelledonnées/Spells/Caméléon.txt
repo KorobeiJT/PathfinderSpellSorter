@@ -1,0 +1,6 @@
+[École] Illusion (hallucination)
+[Temps d'incantation] 1 action simple
+[Composantes] G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 10 minutes/niveau

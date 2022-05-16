@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (un bâton sculpté et poli pendant 28 jours)
+[Portée] contact
+[Cible] bâton touché
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

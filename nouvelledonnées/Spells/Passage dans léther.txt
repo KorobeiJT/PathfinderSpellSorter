@@ -1,0 +1,7 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact (voir description)
+[Cible] le jeteur de sorts et 1 créature touchée/3 niveaux
+[Durée] 1 minute/niveau
+[Résistance à la magie] oui

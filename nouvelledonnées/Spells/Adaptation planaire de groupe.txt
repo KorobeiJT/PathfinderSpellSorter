@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature/niveau, qui doivent se trouver à moins de 9 m les unes des autres
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non
+[Durée] 1 heure/niveau

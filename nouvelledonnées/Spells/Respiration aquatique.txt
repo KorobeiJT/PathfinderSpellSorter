@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un petit roseau ou un brin de paille)
+[Portée] contact
+[Cible] créatures vivantes touchées
+[Durée] 2 heures/niveau (voir description)
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

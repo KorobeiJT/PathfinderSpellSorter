@@ -1,0 +1,8 @@
+[École] Nécromancie émotion, mental, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un os d'un mort-vivant)
+[Portée] moyenne
+[Cible] 1 créature vivante/3 niveaux, distantes de moins de 9 m les unes des autres
+[Durée] 1 round/niveau ou 1 round
+[Jet de sauvegarde] Volonté, partiel
+[Résistance à la magie] oui

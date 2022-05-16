@@ -1,0 +1,8 @@
+[École] Abjuration (force)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] la créature touchée  
+[Durée] 1 minute/niveau ou jusqu'à déchargement  
+[Jet de sauvegarde] Volonté pour annuler (inoffensif) et cf. texte
+[Résistance à la magie] oui (inoffensif) et cf. texte

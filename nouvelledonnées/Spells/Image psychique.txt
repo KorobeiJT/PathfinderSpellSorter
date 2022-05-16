@@ -1,0 +1,8 @@
+[École]Illusion (ombre)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] longue (120 m + 12 m/niveau)
+[Cible] un double d'ombre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour percer à jour (si interaction)
+[Résistance à la magie] oui

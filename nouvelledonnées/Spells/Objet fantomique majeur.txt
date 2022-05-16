@@ -1,0 +1,6 @@
+[École] Illusion (ombre) ombre[Temps d'incantation] 10 minutes
+[Portée] courte
+[Cible] un objet illusoire non magique abandonné, d'un maximum de 0,03 m3/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

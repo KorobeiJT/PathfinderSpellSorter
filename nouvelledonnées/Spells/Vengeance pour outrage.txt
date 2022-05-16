@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, langage, mental
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] courte
+[Cible]  une créature
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

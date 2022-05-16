@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Science du coup fabuleux
+Title: Science du coup fabuleux
+LastModified: 2021-04-30 16:20
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Manuel des joueurs - Classes avancées'
+---
+{s:mca} ''Le personnage est doué pour envoyer voler ses ennemis.''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[For]] 13 ; [[Coup fabuleux]] ou pouvoir de classe [[lutteur#COUPFABULEUX|coup fabuleux]] ; [[Attaque en puissance]].
+
+'''Avantage.''' Le personnage reçoit un bonus de +2 au test de [[manoeuvre offensive]] pour effectuer un coup fabuleux. Il gagne également un bonus de +2 au [[DMD|degré de manoeuvre défensive]] quand un adversaire tente une [[manoeuvre offensive]] de [[lutteur#COUPFABULEUX|coup fabuleux]] contre lui. Chaque fois que le personnage réussit une [[manoeuvre offensive]] de [[lutteur#COUPFABULEUX|coup fabuleux]], le mouvement de son adversaire provoque une [[AO|attaque d’opportunité]] de la part de tous les alliés du personnage (mais pas de la part du personnage).
+
+'''Normal.''' Les créatures déplacées à cause d’un [[lutteur#COUPFABULEUX|coup fabuleux]] ne provoquent pas d’[[AO|attaque d’opportunité]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand une créature tente une manœuvre de [[Coup fabuleux]] contre le personnage, ce dernier peut dépenser jusqu’à 3 points d’endurance pour augmenter son [[DMD]] contre cette manœuvre d’un montant égal au nombre de points dépensés. Ce bonus se cumule avec celui conféré par la Science du coup fabuleux.

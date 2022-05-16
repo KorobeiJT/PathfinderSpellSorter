@@ -1,0 +1,8 @@
+[École] Transmutation (terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un peu de sable, de chaux et d'eau)
+[Portée] moyenne
+[Cible] jusqu'à 2 cubes de 3 m d'arête/niveau
+[Durée] permanente
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

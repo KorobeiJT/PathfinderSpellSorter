@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une clef en laiton)
+[Portée] courte
+[Cible] objet pesant jusqu'à 15 kg ou porte pouvant être ouverte ou fermée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

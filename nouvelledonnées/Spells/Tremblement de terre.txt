@@ -1,0 +1,8 @@
+[École] Évocation (terre)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] étendue de 24 m de rayon
+[Durée] 1 round
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

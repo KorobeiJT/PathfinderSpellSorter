@@ -1,0 +1,6 @@
+[École] Nécromancie
+[Temps d'incantation] 1 round  
+[Composantes] V, G, M (le sang du personnage)  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] spéciale (voir description)

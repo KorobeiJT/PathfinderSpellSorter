@@ -1,0 +1,8 @@
+[École] Évocation (son)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un petit instrument de musique)
+[Portée] courte
+[Cible] étendue de 3 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] oui

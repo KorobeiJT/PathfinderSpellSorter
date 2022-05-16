@@ -1,0 +1,8 @@
+[École] Invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un bâtonnet métallique fourchu harmonisé au plan d'arrivée)
+[Portée] contact
+[Cible] créature touchée, ou jusqu'à 8 créatures consentantes se tenant par la main
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

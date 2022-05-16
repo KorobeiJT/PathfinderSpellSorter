@@ -1,0 +1,8 @@
+[École]Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] 1 créature ou objet (voir texte)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui

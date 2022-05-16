@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] arme à projectile touchée
+[Durée] 1 round/niveau de lanceur de sorts
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

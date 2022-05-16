@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une pincée d'alun)
+[Portée] courte
+[Cible] une créature ou un objet touché/niveau
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

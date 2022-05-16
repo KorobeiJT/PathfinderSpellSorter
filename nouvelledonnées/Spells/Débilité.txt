@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une poignée de sphères en argile, verre, cristal ou en argile)
+[Portée] moyenne
+[Cible] 1 créature
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Évocation (électricité)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (fourrure et bâtonnet en verre)
+[Portée] 36 m
+[Cible] ligne de 36 m de long
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

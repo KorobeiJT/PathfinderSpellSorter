@@ -1,0 +1,8 @@
+[École] évocation chaos
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] projectile d'énergie chaotique en forme de fléchette
+[Durée] instantanée (1d6 rounds)
+[Jet de sauvegarde] Volonté partielle (voir texte)
+[Résistance à la magie] oui

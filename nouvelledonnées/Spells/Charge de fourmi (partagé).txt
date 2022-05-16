@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (petite poulie)
+[Portée] contact
+[Cible] créatures touchées
+[Durée] 2 heures/niveau
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

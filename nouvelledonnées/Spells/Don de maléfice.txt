@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, FD ou M (un poil de sorcière)  
+[Portée] contact  
+[Cible] la créature touchée ; voir description  
+[Durée] permanent ou jusqu'à utilisation  
+[Jet de sauvegarde] Volonté, annule inoffensif)
+[Résistance à la magie] oui

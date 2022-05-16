@@ -1,0 +1,8 @@
+[École] Enchantement (charme) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] une ou plusieurs créatures, distantes de moins de 9 m les unes des autres
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

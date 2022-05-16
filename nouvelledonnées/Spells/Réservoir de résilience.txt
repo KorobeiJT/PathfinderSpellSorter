@@ -1,0 +1,7 @@
+[École] Transmutation[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] spécial, voir texte
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun (voir texte)
+[Résistance à la magie] oui

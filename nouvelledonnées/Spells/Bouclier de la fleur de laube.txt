@@ -1,0 +1,8 @@
+[École] Évocation Bien, feu, lumière
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, FD  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] non

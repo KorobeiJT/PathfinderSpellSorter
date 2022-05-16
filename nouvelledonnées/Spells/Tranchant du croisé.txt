@@ -1,0 +1,8 @@
+[École] Transmutation Bien
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (le sang séché d'un extérieur mauvais saupoudré sur l'arme)  
+[Portée] contact  
+[Cible] une arme de corps à corps touchée  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] non

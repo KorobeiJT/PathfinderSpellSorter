@@ -1,0 +1,8 @@
+[École] Évocation (acide, froid, électricité, feu) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une écaille de dragon du type qui produit l'énergie que le lanceur de sorts veut absorber)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 10 minutes/niveau ou jusqu'à déchargement ; voir texte
+[Jet de sauvegarde] Vigueur pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

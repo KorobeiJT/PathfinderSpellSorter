@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G (voir description)
+[Portée] voir description
+[Cible] voir description
+[Durée] voir description
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui

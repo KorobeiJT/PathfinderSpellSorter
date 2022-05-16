@@ -1,0 +1,8 @@
+[École] Évocation lumière
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] rayon de 9 m
+[Durée] instantanée, voir texte
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui

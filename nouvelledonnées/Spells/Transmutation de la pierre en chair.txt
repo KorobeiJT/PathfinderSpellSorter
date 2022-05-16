@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte de sang mêlée à un peu de terre)
+[Portée] moyenne
+[Cible] 1 créature pétrifiée ou 1 cylindre de pierre faisant jusqu'à 3 m de long et entre 30 et 90 cm de diamètre
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule (objet) (voir description)
+[Résistance à la magie] oui

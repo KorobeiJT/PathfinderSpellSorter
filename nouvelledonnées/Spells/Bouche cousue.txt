@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] G, M (une aiguille et du fil de tendon)  
+[Portée] courte
+[Cible] une créature  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

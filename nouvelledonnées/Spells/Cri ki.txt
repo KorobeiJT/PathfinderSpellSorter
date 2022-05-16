@@ -1,0 +1,8 @@
+[École] évocation sonore
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature vivante
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur partielle (voir texte)
+[Résistance à la magie] oui

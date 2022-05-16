@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] au moins 3 tertre tertres errants, distants de moins de 9 m les uns des autres (voir description)
+[Durée] 7 jours ou 7 mois (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

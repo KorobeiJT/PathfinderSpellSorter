@@ -1,0 +1,8 @@
+[École] Illusion (hallucination) Mal, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, M (une pincée de soufre)
+[Portée] moyenne
+[Cible] 15 m de rayon
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] non

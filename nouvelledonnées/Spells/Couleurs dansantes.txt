@@ -1,0 +1,8 @@
+[École] Illusion (mirage) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poudre ou sable coloré rouge, jaune et bleu)
+[Portée] 4,50 m
+[Cible] rayonnement en forme de cône
+[Durée] instantanée (voir description)
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] 3 m
+[Cible] 1 objet pesant jusqu'à 500 g/niveau
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

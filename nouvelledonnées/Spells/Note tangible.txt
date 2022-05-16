@@ -1,0 +1,8 @@
+[École] Invocation (création) 
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] une note de musique solidifiée
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

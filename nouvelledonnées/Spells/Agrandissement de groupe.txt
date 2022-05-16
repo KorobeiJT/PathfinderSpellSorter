@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 round
+[Composantes] V, G, M (une pincée de poudre de fer)
+[Portée] courte
+[Cible] 1 créature type humanoïde/niveau, chacune ne devant pas se trouver à plus de 9 m des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

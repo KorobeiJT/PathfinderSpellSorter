@@ -1,0 +1,8 @@
+[École] école Divination (Scrutation)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 1 000 po)
+[Portée] 0 m (voir description)
+[Cible] 1 symbole
+[Durée] (voir description)
+[Jet de sauvegarde] non
+[Résistance à la magie] non

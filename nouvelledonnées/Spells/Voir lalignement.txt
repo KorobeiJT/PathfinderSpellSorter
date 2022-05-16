@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un oeil de triton)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

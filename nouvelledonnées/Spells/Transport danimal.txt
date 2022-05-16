@@ -1,0 +1,4 @@
+[École] Invocation (téléportation)
+[Cible] un animal touché de taille TP ou inférieure
+[Jet de sauvegarde] annule
+[Résistance à la magie] oui

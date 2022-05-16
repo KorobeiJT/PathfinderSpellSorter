@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une créature
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (voir texte)
+[Résistance à la magie] oui

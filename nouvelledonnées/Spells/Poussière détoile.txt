@@ -1,0 +1,8 @@
+[École] Illusion (mirage) (lumière, mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de poudre scintillante)
+[Portée] courte
+[Cible] une créature vivante et spéciale ; voir texte
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler ; voir texte
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] évocation air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature ou un objet de taille G au maximum
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour dégâts partiels (cf. texte)
+[Résistance à la magie] oui

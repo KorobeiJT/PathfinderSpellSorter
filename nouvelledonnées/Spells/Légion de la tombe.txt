@@ -1,0 +1,8 @@
+[École] Nécromancie mal
+[Temps d'incantation]  1 action simple  
+[Composantes] V, G  
+[Portée] moyenne  
+[Cible] 3 momies ou plus qui ne doivent pas être éloignées de plus de 9 m les unes des autres (voir texte)  
+[Durée] 7 jours ou 7 mois, (voir texte)  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de sel et de poivre)
+[Portée] contact
+[Cible] objet touché qui pèse jusqu'à 0,5 kg/niveau
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet) 
+[Résistance à la magie] oui (objet)

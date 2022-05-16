@@ -1,0 +1,8 @@
+[École] divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] lanceur de sorts et une créature touchée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

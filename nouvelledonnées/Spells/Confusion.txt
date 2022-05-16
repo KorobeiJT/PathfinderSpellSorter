@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (trois noix)
+[Portée] moyenne
+[Cible] toutes les créatures comprises dans un rayonnement de 9 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

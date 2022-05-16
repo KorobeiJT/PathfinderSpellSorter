@@ -1,0 +1,8 @@
+[École] évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 4,50 m
+[Cible] cône
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes pour annuler
+[Résistance à la magie] non

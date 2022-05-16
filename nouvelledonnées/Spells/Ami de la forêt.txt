@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (une pincée de fumier)
+[Portée] courte
+[Cible] une créature consentante par tranche de trois niveaux, elles doivent toutes se trouver à moins de 9 m les unes des autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

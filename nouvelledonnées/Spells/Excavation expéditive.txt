@@ -1,0 +1,8 @@
+[École] Transmutation (terre) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (petite pelle)
+[Portée] courte
+[Cible] de la terre dans un cube de 1,50 m de côté
+[Durée] instantanée
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] non

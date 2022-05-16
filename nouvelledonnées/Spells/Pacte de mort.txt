@@ -1,0 +1,8 @@
+[École] Enchantement effet mental
+[Temps d'incantation] 1 minute  
+[Composantes] V, G, M (un contrat signé par le sang)  
+[Portée] contact  
+[Cible] une créature  
+[Durée] 24 heures  
+[Jet de sauvegarde] Volonté, annule (voir texte)
+[Résistance à la magie] oui

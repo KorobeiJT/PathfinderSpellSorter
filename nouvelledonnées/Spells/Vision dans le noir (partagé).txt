@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de carotte séchée ou une agate)
+[Portée] contact
+[Cible] créatures touchées
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

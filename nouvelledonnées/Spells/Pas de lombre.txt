@@ -1,0 +1,8 @@
+[École] illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] lanceur de sorts
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

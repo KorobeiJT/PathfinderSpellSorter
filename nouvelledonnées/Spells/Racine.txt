@@ -1,0 +1,8 @@
+[École] Transmutation terre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de terre)
+[Portée] contact
+[Cible] créature touchée
+[Durée] 1 minute
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] oui

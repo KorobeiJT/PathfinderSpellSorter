@@ -1,0 +1,8 @@
+[École] Illusion (fantasme) émotion, mental, peur
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] nombre indéfini de créatures, distantes de moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction), puis Vigueur, partiel (voir description)
+[Résistance à la magie] oui

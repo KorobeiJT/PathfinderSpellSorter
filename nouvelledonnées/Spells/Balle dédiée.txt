@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (un objet de la créature choisie ou de son type)
+[Portée] contact
+[Cible] une munition ou une arme de jet
+[Durée] 10 minutes/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet);
+[Résistance à la magie] oui (inoffensif, objet)

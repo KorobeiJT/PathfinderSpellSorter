@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 heure
+[Composantes] V, G, FD (huiles et poisons d'une valeur de 3 000 po)
+[Portée] contact
+[Cible] demi-orque consentant touché
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

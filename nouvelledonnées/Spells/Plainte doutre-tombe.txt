@@ -1,0 +1,8 @@
+[École] Nécromancie (mort, son)
+[Temps d'incantation] 1 action simple
+[Composantes] V
+[Portée] courte
+[Cible] 1 créature vivante/niveau dans une étendue de 12 m de rayon
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

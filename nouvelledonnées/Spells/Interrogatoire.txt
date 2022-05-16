@@ -1,0 +1,8 @@
+[École] nécromancie douleur, mal
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] contact
+[Cible] une créature vivante touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] oui

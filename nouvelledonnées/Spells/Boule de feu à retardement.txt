@@ -1,0 +1,8 @@
+[École] Évocation (feu)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (de la fiente de chauve-souris et du soufre)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] étendue de 6 m de rayon
+[Durée] jusqu'à 5 rounds ou moins (voir description)
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

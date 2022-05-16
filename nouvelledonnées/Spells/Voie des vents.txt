@@ -1,0 +1,8 @@
+[École] Évocation air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 30 mètres
+[Cible] souffle de vent ascendant de 12 m de haut sur une ligne de 30 m
+[Durée] concentration + 1 round
+[Jet de sauvegarde] Vigueur annule
+[Résistance à la magie] oui

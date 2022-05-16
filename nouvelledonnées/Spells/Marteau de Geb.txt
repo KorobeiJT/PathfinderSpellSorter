@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (un gant de cuir recouvert d'une couche d'herbes d'embaumement séchées)  
+[Portée] courte
+[Cible] sphère contenant les restes de 3 morts-vivants détruits ou plus  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

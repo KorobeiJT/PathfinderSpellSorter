@@ -1,0 +1,8 @@
+[École] Invocation (téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (débris de violon)
+[Portée] moyenne
+[Cible] le lanceur de sorts et jusqu'à 1 créature consentante/2 niveaux de lanceur de sorts, créatures qui ne doivent pas être séparées de plus de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

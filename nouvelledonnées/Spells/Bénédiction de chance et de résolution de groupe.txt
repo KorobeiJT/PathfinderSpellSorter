@@ -1,0 +1,5 @@
+[École] Enchantement (coercition) effet mental[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature/niveau, dans un rayon de 9 m
+[Durée] 1 minute/niveau, spécial (voir plus bas)

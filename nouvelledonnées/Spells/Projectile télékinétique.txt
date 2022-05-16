@@ -1,0 +1,7 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Durée] instantanée
+[Jet de sauvegarde] non
+[Résistance à la magie] non

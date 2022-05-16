@@ -1,0 +1,8 @@
+[École] Évocation (obscurité)
+[Temps d'incantation] 1 action simple
+[Composantes] V, M/FD (fourrure de chauve-souris et morceau de charbon)
+[Portée] contact
+[Cible] objet touché
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Divination (scrutation)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F/FD (un petit cornet acoustique ou un œil de verre)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] capteur magique
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

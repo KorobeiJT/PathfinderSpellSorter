@@ -1,0 +1,8 @@
+[École] Enchantement (charme) (langage, mental, son)
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] moyenne
+[Cible] nombre illimité de créatures
+[Durée] jusqu'à 1 heure
+[Jet de sauvegarde] Volonté, annule (voir description)
+[Résistance à la magie] oui

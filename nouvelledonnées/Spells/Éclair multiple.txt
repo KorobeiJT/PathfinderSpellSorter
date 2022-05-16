@@ -1,0 +1,8 @@
+[École] Évocation (électricité)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un morceau de fourrure ; un morceau d'ambre, de verre ou de cristal ; une épingle en argent par niveau de lanceur de sorts)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] 1 cible principale + 1 cible secondaire/niveau (dans un rayon de 9 m (6 cases) autour de la principale)
+[Durée] instantanée
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

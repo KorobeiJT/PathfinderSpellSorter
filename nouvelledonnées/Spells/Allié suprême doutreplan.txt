@@ -1,0 +1,8 @@
+[École] Invocation (appel) (voir description)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M (offrandes d'une valeur de 2 500 po plus paiement ; voir description), FD
+[Portée] courte
+[Cible] jusqu'à 3 type Extérieurs appelés (ne totalisant pas plus de 18 DV), apparaissant à 9 m ou moins les uns des autres
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

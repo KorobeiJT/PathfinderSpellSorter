@@ -1,0 +1,8 @@
+[École] Invocation (création) eau
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une créature ou un objet de taille G maximum
+[Durée] 1 round
+[Jet de sauvegarde] Réflexes, annule (objet)
+[Résistance à la magie] oui (objet)

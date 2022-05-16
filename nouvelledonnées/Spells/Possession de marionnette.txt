@@ -1,0 +1,8 @@
+[École] nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un bout de papier avec le nom de la cible) 
+[Portée] moyenne
+[Cible] une créature consentante
+[Durée] 10 minutes/niveau ou jusqu'à ce que le personnage retourne dans son corps
+[Jet de sauvegarde] Volonté pour annuler (voir texte)
+[Résistance à la magie] oui

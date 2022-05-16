@@ -1,0 +1,8 @@
+[École] illusion (mirage) effet mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] mur transparent couvrant une zone maximale d'une case de 3 m de côté /niveau
+[Durée] 1 round/niveau
+[Jet de sauvegarde] cf. texte
+[Résistance à la magie] non

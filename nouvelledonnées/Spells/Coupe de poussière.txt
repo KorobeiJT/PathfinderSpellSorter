@@ -1,0 +1,8 @@
+[École] Transmutation malédiction 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de poussière)
+[Portée] courte
+[Cible] une créature
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Vigueur pour annuler
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation]  1 action simple  
+[Composantes] V, G  
+[Portée] 3 m  
+[Cible] le personnage et une autre créature  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] non (inoffensif)

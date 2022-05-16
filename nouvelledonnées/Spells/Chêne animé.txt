@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] contact
+[Cible] arbre touché
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

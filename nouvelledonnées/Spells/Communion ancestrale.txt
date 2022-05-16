@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 minute  
+[Composantes] V, G, F/FD (une effigie en pierre ou en métal de l'ancêtre du personnage)  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 minute/niveau

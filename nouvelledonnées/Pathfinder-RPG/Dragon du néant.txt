@@ -1,0 +1,76 @@
+---
+Name: Pathfinder-RPG.Dragon du néant
+Title: Dragon sidéral du néant
+LastModified: 2021-07-14 09:58
+---
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon sidéral du néant}
+{s:pucem|Dragon|Ciel|Extraplanaire}
+{s:BDTexte|''Source : Bestiaire 4 page 70''}
+{s:BDTexte|[[type dragon|Dragon]], NM}
+{s:BDSousTitre|Statistiques de base}
+{s:BDTexte|'''FP''' 5 ; Taille P ; '''DV '''6d12}
+{s:BDTexte|'''VD '''12 m}
+{s:BDTexte|'''Armure '''naturelle +5 ; '''Souffle '''cône, 2d8 froid}
+{s:BDTexte|'''For '''13, '''Dex '''16, '''Con '''13, '''Int '''14, '''Sag '''11, '''Cha '''14}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' vide sidéral}
+{s:BDTexte|'''Organisation''' solitaire}
+{s:BDTexte|'''Trésor '''triple}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|'''Agile (Ext)'''. Les dragons du néant possèdent une bonne manoeuvrabilité aérienne, quel que soit leur âge ou leur taille.}
+{s:BDTexte|'''Oblitération (Sur)'''. La morsure d’un dragon du néant jeune ou plus âgé inflige 2d6 points de dégâts d’énergie négative en plus. Si une créature tombe à 0 points de vie à cause de cette attaque, elle doit réussir un jet de Vigueur sinon, elle périt sur-le-champ, réduite en cendres (comme avec une désintégration). Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|'''Présence étrangère (Sur)'''. Si une créature rate son jet de sauvegarde contre la présence étrangère du dragon du néant, elle se sent mal et devient fiévreuse pendant 5d6 rounds (ou nauséeuse si elle a juste 4 DV ou moins).}
+{s:BDTexte|'''Regard du néant (Sur)'''. Quand une créature se trouve à 9 mètres ou moins d’un dragon du néant adulte ou plus âgé, elle doit réussir un jet de Volonté ou être confuse pendant 1d6 rounds. Cette attaque de regard est un effet mental. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|'''Souffle suffocant (Sur)'''. Au lieu de souffler du froid, un dragon du néant très jeune ou plus âgé peut souffler un effet de suffocation affectant un cône. Les créatures qui ont besoin de respirer, se trouvent dans la zone d’effet et ratent leur jet de Vigueur suffoquent (Manuel des Joueurs Pathfinder JdR p.450) pendant un nombre de rounds égal à la catégorie d’âge du dragon. Le DD du jet de sauvegarde est basé sur la Constitution.}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de dragon du néant
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [[Jeune dragon du néant]] || &nbsp; || 9
+|-
+| [[Dragon du néant adulte]] || &nbsp; || 13
+|-
+| [[Dragon du néant vénérable]] || &nbsp; || 18
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[dragon sidéral|dragons sidéraux]].'''''</li></ul>''Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.''
+
+Les dragons du néant ont été corrompus par les terrifiantes entités vivant dans les profondeurs de l’espace. Certains continuent à lutter contre une inéluctable vague d’annihilation mais la majorité ont embrassé le néant et n’existent plus que pour se nourrir et détruire.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet  || Agile, immunités contre le froid, la confusion et les effets d’aliénation mentale || -
+|- CLASS="alt"
+| Très jeune || Souffle suffocant ||   -
+|- 
+| Jeune  || Oblitération, rayon affaiblissant || 1
+|- CLASS="alt"
+| Adolescent || Présence étrangère, flou || 3
+|- 
+| Jeune adulte || RD 5/magie, résistance à la magie || 5
+|- CLASS="alt"
+| Adulte || Rayon affaiblissant, regard du néant || 7
+|- 
+| Âge mûr || RD 10/magie || 9
+|- CLASS="alt"
+| Vieux || Porte dimensionnelle || 11
+|- 
+| Très vieux || RD 15/magie || 13
+|- CLASS="alt"
+| Vénérable || Cauchemar (1/jour) || 15
+|- 
+| Dracosire || RD 20/magie || 17
+|- CLASS="alt"
+| Grand dracosire || Portail (1/jour), aliénation mentale || 19
+|}
+</center>
+</div></td></tr></table>
+

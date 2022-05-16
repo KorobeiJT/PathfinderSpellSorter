@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (graines de sésame)
+[Portée] contact
+[Cible] ouverture de 2,40 m x 1,50 m, 3 m de profondeur + 1,50 m/3 niveaux
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

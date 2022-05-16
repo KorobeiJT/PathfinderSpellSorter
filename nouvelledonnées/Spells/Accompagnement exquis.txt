@@ -1,0 +1,8 @@
+[École] illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] instrument fantomatique
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

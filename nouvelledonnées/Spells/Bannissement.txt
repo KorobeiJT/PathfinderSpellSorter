@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (voir texte)
+[Portée] courte
+[Cible] 1 ou plusieurs créatures extraplanaires distantes de moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

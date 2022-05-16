@@ -1,0 +1,6 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un mélange de terre et de sang du lanceur de sorts)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau ou jusqu'à déchargement

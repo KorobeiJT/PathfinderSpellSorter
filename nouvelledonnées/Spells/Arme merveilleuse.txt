@@ -1,0 +1,8 @@
+[École] Transmutation émotion 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] contact
+[Cible] arme touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet) 
+[Résistance à la magie] oui (inoffensif, objet)

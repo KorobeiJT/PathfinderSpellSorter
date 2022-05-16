@@ -1,0 +1,8 @@
+[École] Abjuration (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] 1 objet touché pesant moins de 5 kg
+[Durée] permanente jusqu'à explosion
+[Jet de sauvegarde] voir description
+[Résistance à la magie] oui

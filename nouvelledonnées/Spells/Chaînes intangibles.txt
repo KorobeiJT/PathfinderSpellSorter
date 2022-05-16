@@ -1,0 +1,8 @@
+[École]Évocation force
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature intangible/niveau, les créatures devant être à 9 m ou moins les unes des autres
+[Durée] concentration
+[Jet de sauvegarde] aucun
+[Résistance à la magie] oui

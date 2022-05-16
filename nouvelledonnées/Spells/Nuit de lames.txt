@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] un mur de lames long de 3 mètres/niveau et haut de 3 m  
+[Durée] 1 minute/niveau  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Transmutation (langage)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un petit morceau de fil de cuivre)
+[Portée] moyenne
+[Cible] 1 créature/niveau
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

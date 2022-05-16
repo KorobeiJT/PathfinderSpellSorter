@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] une créature et une de plus tous les 4 niveaux, à condition qu'elles se trouvent toutes dans un rayon de 9 m  
+[Durée] 10 minutes ; voir texte  
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

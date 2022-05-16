@@ -1,0 +1,8 @@
+[École] évocation sonore
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un diapason et un cristal de quartz)
+[Portée] moyenne
+[Cible] mur de son translucide de 6 m de long au maximum ou un anneau de son d'un rayon de 1,50m/2 niveaux (1{s:c}/2 niveaux), 6 m de haut pour les 2
+[Durée] concentration + 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

@@ -1,0 +1,6 @@
+[École] Transmutation acide, électricité, feu ou froid ; voir description
+[Temps d'incantation] 1 action immédiate  
+[Composantes] V  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau (voir description)

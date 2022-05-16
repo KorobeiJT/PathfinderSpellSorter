@@ -1,0 +1,8 @@
+[École] Transmutation feu, terre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (une bille de goudron durcie)
+[Portée] courte
+[Cible] 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes partiel, voir texte
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Nécromancie émotion, effet mental, peur 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 6 m 
+[Cible] émanation de 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler
+[Résistance à la magie] non

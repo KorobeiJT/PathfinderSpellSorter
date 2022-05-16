@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une aiguille de tatouage)  
+[Portée] contact  
+[Cible] un Tatouages tatouage magique  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, annule
+[Résistance à la magie] oui

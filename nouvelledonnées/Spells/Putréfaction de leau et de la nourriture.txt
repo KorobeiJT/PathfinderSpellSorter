@@ -1,0 +1,8 @@
+[École] Transmutation poison 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 3 m
+[Cible] 30 litres/niveau d'eau et de nourriture ou une potions potion ; voir texte
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (objet)
+[Résistance à la magie] oui (objet)

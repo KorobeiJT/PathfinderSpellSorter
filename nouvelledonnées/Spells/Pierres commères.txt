@@ -1,0 +1,6 @@
+[École] Divination
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, FD
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 1 minute/niveau

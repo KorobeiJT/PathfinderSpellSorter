@@ -1,0 +1,8 @@
+[École] Évocation (force)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une sphère de cristal et deux aimants)
+[Portée] courte
+[Cible] sphère de 30 cm de diamètre/niveau, centrée sur plusieurs créatures ou objets
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Réflexes, annule (objet)
+[Résistance à la magie] oui (objet)

@@ -1,0 +1,8 @@
+[École] Nécromancie poison 
+[Temps d'incantation] 1 action rapide
+[Composantes] V, G
+[Portée] 0 m
+[Cible] une flèche ou un carreau
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler ; voir texte
+[Résistance à la magie] oui

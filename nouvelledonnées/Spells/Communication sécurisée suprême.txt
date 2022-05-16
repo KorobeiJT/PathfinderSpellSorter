@@ -1,0 +1,4 @@
+[École] Abjuration
+[Portée] 9 m  
+[Cible] émanation de 9 m de rayon centrée sur le personnage  
+[Durée] 10 minutes/niveau

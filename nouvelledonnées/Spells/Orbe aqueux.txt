@@ -1,0 +1,8 @@
+[École] Invocation (création) (eau) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte d'eau et une perle de verre)
+[Portée] moyenne
+[Cible] sphère de 3 m de diamètre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Réflexes pour annuler 
+[Résistance à la magie] non

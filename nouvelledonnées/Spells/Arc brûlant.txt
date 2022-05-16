@@ -1,0 +1,8 @@
+[École] Évocation feu
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] courte
+[Cible] 1 cible principale plus 1 cible supplémentaire/3 niveaux (chacune doit être dans un rayon de 4,5 m de la cible principale)  
+[Durée] instantanée  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

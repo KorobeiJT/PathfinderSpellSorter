@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (mental, son)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] créatures situées dans une étendue de 6 m de rayon
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

@@ -1,0 +1,6 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F/FD (une effigie en pierre ou en métal de l'ancêtre du personnage)  
+[Portée] personnelle  
+[Cible] une arme magique  
+[Durée] 10 minutes/niveau

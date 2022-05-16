@@ -1,0 +1,8 @@
+[École] Nécromancie malédiction
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] contact  
+[Cible] un objet  
+[Durée] 1 jour/niveau ou jusqu'à déclenchement, puis permanent (voir texte)  
+[Jet de sauvegarde] Volonté, annule (objet) et Volonté, annule (voir texte)
+[Résistance à la magie] oui

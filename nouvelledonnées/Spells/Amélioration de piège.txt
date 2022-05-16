@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 minute
+[Composantes] V,G
+[Portée] courte
+[Cible] un piège unique
+[Durée] instantanée
+[Jet de sauvegarde] Volonté pour annuler (Objet)
+[Résistance à la magie] oui (Objet)

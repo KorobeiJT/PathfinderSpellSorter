@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F/FD (25 po de poussière de diamant par cible)
+[Portée] contact
+[Cible] créatures ou objets touchés
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

@@ -1,0 +1,8 @@
+[École] invocation (création) terre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une pincée de terre ou de métal)
+[Portée] courte
+[Cible] un ou plusieurs disques de pierre
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

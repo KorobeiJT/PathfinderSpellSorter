@@ -1,0 +1,8 @@
+[École] illusion (chimère)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté pour dévoiler (si la créature touche, voir plus bas)
+[Résistance à la magie] non

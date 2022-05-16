@@ -1,0 +1,8 @@
+[École]Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] contact
+[Cible] objet touché
+[Durée] permanente
+[Jet de sauvegarde] aucun ; voir texte
+[Résistance à la magie] non

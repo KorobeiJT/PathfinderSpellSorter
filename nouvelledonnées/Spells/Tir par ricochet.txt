@@ -1,0 +1,8 @@
+[École] Évocation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (un bréchet)
+[Portée] courte
+[Cible] une arme à projectile
+[Durée] 1 round/niveau ou jusqu'à déchargement
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

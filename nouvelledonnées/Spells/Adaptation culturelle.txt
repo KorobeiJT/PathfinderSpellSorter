@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M/FD (un document écrit dans la langue de la culture à imiter)  
+[Portée] personnelle  
+[Cible] le lanceur de sort  
+[Durée] 10 minutes/niveau  
+[Jet de sauvegarde] Réflexes, 1/2 dégâts
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Nécromancie 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (viande avariée)
+[Portée] courte
+[Cible] une créature vivante
+[Durée] 1 round/niveau ou 1 round, voir texte
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

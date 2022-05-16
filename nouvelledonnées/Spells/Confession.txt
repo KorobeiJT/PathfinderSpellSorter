@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) (dépend du langage, effet mental) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une créature
+[Durée] 1 round
+[Jet de sauvegarde] Volonté partiel ; voir texte
+[Résistance à la magie] oui

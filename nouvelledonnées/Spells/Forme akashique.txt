@@ -1,0 +1,8 @@
+[École]Nécromancie
+[Temps d'incantation] 1 heure
+[Composantes] V, G
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 24 heures
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

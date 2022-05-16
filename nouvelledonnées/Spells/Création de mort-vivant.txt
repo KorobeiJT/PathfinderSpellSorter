@@ -1,0 +1,8 @@
+[École] Nécromancie (Mal)
+[Temps d'incantation] 1 heure
+[Composantes] V, G, M (un pot d'argile contenant de la terre issue d'un tombeau et un onyx (50 po minimum) par DV de type mort-vivant)
+[Portée] courte
+[Cible] 1 cadavre
+[Durée] instantanée
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

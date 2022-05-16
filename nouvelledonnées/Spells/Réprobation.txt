@@ -1,0 +1,8 @@
+[École] transmutation malédiction, voir texte
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte
+[Cible] une créature de la même religion que le personnage
+[Durée] permanente
+[Jet de sauvegarde] non
+[Résistance à la magie] oui

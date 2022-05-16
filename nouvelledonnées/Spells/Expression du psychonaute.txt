@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (un petit morceau de cactus psychoactif)  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau  
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation (air)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] 1,5 km/niveau
+[Cible] étendue de 3 m de rayon
+[Durée] 1 heure/niveau ou dès que la destination est atteinte
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

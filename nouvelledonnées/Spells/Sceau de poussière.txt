@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 10 minutes  
+[Composantes] V, G, M (une pincée de pierre ponce)  
+[Portée] contact  
+[Cible] un objet magique  
+[Durée] permanente  
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

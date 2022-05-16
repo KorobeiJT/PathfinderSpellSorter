@@ -1,0 +1,8 @@
+[École] Invocation (création)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] courte
+[Cible] nourriture et eau pour sustenter 3 humains ou 1 cheval/niveau pour 24h
+[Durée] 24 heures (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

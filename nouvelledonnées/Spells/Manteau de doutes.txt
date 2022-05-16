@@ -1,0 +1,6 @@
+[École] Illusion (fantasme) émotion, effet mental, terreur
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G  
+[Portée] personnelle  
+[Cible] le personnage  
+[Durée] 1 round/niveau

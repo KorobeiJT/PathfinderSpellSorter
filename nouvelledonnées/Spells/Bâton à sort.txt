@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, F (le bâton qui sert à stocker le sort)
+[Portée] contact
+[Cible] bâton en bois touché
+[Durée] permanente jusqu'à utilisation
+[Jet de sauvegarde] Volonté, annule (objet)
+[Résistance à la magie] oui (objet)

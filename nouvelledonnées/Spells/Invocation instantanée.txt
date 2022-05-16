@@ -1,0 +1,8 @@
+[École] Invocation (convocation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un saphir d'une valeur de 1 000 po)
+[Portée] voir description
+[Cible] 1 objet pesant jusqu'à 5 kg, dont la plus longue dimension ne doit pas dépasser 1,80 m
+[Durée] permanente jusqu'à utilisation
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

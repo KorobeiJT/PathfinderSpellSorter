@@ -1,0 +1,8 @@
+[École] enchantement (coercition) (effet mental)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une goutte du sang du lanceur de sorts)
+[Portée] personnelle
+[Cible] lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] voir texte
+[Résistance à la magie] voir texte

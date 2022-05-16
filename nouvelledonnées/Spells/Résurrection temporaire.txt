@@ -1,0 +1,6 @@
+[École] nécromancie
+[Temps d'incantation] 10 minutes
+[Composantes] V, G, M
+[Portée] contact
+[Cible] une créature morte touchée
+[Durée] 24 heures

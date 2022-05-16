@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] une Tableau récapitulatif des arme/3 niveaux
+[Durée] concentration
+[Jet de sauvegarde] Volonté (inoffensif)
+[Résistance à la magie] oui (inoffensif)

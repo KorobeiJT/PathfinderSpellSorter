@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 10 minutes (voir description)
+[Composantes] V, G
+[Portée] 3 km
+[Cible] zone de 3 km de rayon centrée sur le jeteur de sorts (voir description)
+[Durée] 4d12 heures (voir description)
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

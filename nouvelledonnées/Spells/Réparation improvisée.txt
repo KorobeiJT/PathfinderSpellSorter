@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une goutte de résine)
+[Portée] contact
+[Cible] un objet brisé d'un maximum de 1 kg/niveau
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif, objet)
+[Résistance à la magie] oui (inoffensif, objet)

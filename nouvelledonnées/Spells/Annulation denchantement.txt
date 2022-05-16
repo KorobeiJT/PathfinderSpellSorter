@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 minute
+[Composantes] V, G
+[Portée] courte
+[Cible] jusqu'à 1 créature/niveau, chacune ne devant pas se trouver à plus de 9 m des autres
+[Durée] instantanée
+[Jet de sauvegarde] voir description
+[Résistance à la magie] non

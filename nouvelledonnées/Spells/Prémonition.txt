@@ -1,0 +1,8 @@
+[École] Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une plume d'oiseau chanteur)
+[Portée] personnelle ou contact
+[Cible] voir description
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun ou Volonté, annule (inoffensif)
+[Résistance à la magie] non ou oui (inoffensif)

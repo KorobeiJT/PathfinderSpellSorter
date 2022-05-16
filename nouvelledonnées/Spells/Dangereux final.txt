@@ -1,0 +1,8 @@
+[École] Évocation (sonore) 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] 1 créature/3 niveaux qui doivent se trouver à moins de 9 m les unes des autres
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur partiel
+[Résistance à la magie] oui

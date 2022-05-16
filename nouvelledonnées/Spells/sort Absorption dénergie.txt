@@ -1,0 +1,7 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] rayon d'énergie négative
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur, partiel (voir la description d'énergie négative)

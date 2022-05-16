@@ -1,0 +1,6 @@
+[École] invocation (création)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Portée] courte 
+[Cible] case de 1,5 m de côté de tiges de haricot possibles à escalader
+[Durée] instantanée

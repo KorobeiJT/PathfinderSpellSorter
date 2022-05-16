@@ -1,0 +1,8 @@
+[École]Transmutation
+[Temps d'incantation] 24 heures
+[Composantes] V, G, M (herbes et huiles d'une valeur de 2 000 po par DV de la cible), FD
+[Portée] contact
+[Cible] créature artificielle dépourvue d'intelligence touchée
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] non

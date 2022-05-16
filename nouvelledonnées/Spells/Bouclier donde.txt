@@ -1,0 +1,6 @@
+[École] Abjuration (eau)
+[Temps d'incantation] 1 action immédiate
+[Composantes] V
+[Portée] personnelle
+[Cible] le lanceur de sorts
+[Durée] 1 round ou jusqu'à déchargement

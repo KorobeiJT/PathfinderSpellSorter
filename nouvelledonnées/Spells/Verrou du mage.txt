@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (poussière d'or d'une valeur de 25 po)
+[Portée] contact
+[Cible] porte, coffre ou portail touché, dans la limite de 3 m²/niveau
+[Durée] permanente
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non

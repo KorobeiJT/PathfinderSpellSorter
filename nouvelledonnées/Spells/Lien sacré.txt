@@ -1,0 +1,8 @@
+[École] Invocation (guérison) 
+[Temps d'incantation] 1 round
+[Composantes] V, G, F (une paire de bracelets dorés d'une valeur de 100 po chacun, un porté par la cible, l'autre par le personnage)
+[Portée] contact (voir description)
+[Cible] créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif)
+[Résistance à la magie] oui (inoffensif)

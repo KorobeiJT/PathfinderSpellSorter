@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) émotion, mental
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un flacon rempli de larmes)
+[Portée] 9 m
+[Cible] rayonnement en forme de cône
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] Volonté, annule
+[Résistance à la magie] oui

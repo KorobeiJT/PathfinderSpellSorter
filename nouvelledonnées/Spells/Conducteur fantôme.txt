@@ -1,0 +1,8 @@
+[École] invocation (création)
+[Temps d'incantation] 10 minutes
+[Composantes] V, G
+[Portée] 3 m
+[Cible] une créature humaine quasi-réelle
+[Durée] 1 heure/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

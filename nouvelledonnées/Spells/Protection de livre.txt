@@ -1,0 +1,8 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M, FD (une goutte d'huile claire)  
+[Portée] contact  
+[Cible] un objet au contact de maximum 5 kg par niveau  
+[Durée] 1 jour par niveau ou jusqu'à décharge (voir texte)  
+[Jet de sauvegarde] Volonté, annule (objet, inoffensif)
+[Résistance à la magie] oui (objet, inoffensif)

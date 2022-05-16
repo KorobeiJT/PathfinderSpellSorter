@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple  
+[Composantes] V  
+[Portée] contact  
+[Cible] une poignée de baies, de grains, de noix ou de riz  
+[Durée] 1 heure  
+[Jet de sauvegarde] Vigueur, annule (inoffensif)
+[Résistance à la magie] oui (inoffensif)

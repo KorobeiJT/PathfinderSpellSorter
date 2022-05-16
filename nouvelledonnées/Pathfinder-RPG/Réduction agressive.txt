@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Réduction agressive
+Title: Réduction agressive
+LastModified: 2021-04-30 16:13
+Categories:
+  - 'Don'
+  - 'Don combat'
+  - 'Règle officielle'
+  - 'Src Art de la guerre'
+---
+{s:uc}''La réduction de dégâts du personnage retourne parfois les coups ennemis contre l’assaillant. ''
+
+'''Catégorie.''' [[dons#DONCOMBAT|combat]]
+
+'''Conditions.''' [[For]] 13, [[RD|réduction de dégâts]], [[Science de la bousculade]], [[Attaque en puissance]], [[BBA]] +1
+
+'''Avantage.''' Quand un adversaire adjacent au personnage ne parvient pas à franchir sa RD avec une attaque au corps à corps, le personnage peut dépenser une [[action immédiate]] pour tenter une [[bousculade]] contre lui. S’il réussit, il ne se déplace pas avec l’adversaire.
+
+'''Normal.''' La [[bousculade]] demande une [[action simple]].
+
+{s:PU}
+====Astuce martiale ([[Endurance et Astuces martiales|règles]])====
+Quand le personnage réussit une manœuvre offensive de [[bousculade]] grâce à ce don, il peut dépenser 2 points d’endurance pour se déplacer de 1,50 mètre avec sa cible.

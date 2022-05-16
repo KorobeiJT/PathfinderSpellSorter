@@ -1,0 +1,95 @@
+---
+Name: Pathfinder-RPG.Dragon blanc
+Title: Les dragons chromatiques blancs
+LastModified: 2021-07-15 17:01
+Categories:
+  - 'Monstre'
+  - 'Règle officielle'
+  - 'Src Bestiaire'
+---
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon chromatique blanc|}
+{s:pucem|Dragon|Montagnes|Froid}
+{s:BDTexte|''Source : Bestiaire p.96''}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type froid|froid]]), CM}
+{s:BDSousTitre|Caractéristiques de base}
+{s:BDTexte|'''FP''' 2 ; '''Taille''' TP ; '''DV''' 3d12}
+{s:BDTexte|'''VD''' 18 m (12 {s:c}), creusement 9 m (6 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|'''Armure naturelle'''+2 ; '''Souffle''' [[cône]], 2d4 froid}
+{s:BDTexte|'''For''' 11, '''Dex''' 16, '''Con''' 13, '''Int''' 6, '''Sag''' 9, '''Cha''' 6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|'''Environnement''' montagnes froides}
+{s:BDTexte|'''Organisation sociale''' solitaire}
+{s:BDTexte|'''Trésor''' triple}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|'''Aura de froid (Sur)''' Une aura de froid émane des dragons blancs adultes. Toutes les créatures situés à 1,50 m (1 {s:c}) ou moins du dragon subissent 1d6 points de dégâts de froid au début du tour du dragon. L'aura des vieux dragons s'étend à 3 m (2 {s:c}). Les dégâts infligés par un dragon vénérable montent à 2d6.}
+{s:BDTexte|'''Blizzard (Sur)''' par une [[action simple]], un dragon blanc vénérable peut utiliser son souffle pour provoquer un blizzard dans une zone autour de lui. Cela crée des conditions de fortes neiges dans un rayon de 15 m (10 {s:c}) autour du dragon pendant 1 minute. La neige ralentit les mouvements (entrer dans une case coûte 4 cases de déplacement) et limite la vision comme s'il s'agissait de brouillard.}
+{s:BDTexte|'''Brouillard glacial (Mag)''' Un vieux dragon blanc peut utiliser cette capacité trois fois par jour. Ses effets sont similaires à ceux d'une ''[[brume acide]]'', si ce n'est que le brouillard inflige des dégâts de froid au lieu de dégâts d'acide. Une couche de glace glissante se forme également sur toutes les surfaces touchées par le brouillard, ce qui crée les mêmes effets qu'un sort de ''[[graisse]]''. Le dragon est immunisé aux effets de ''[[graisse]]'' grâce à sa capacité de marche sur la glace. Cette capacité équivaut à un sort de 6<sup>e</sup> niveau.}
+{s:BDTexte|'''Façonnage de la glace (Sur)''' Un jeune dragon blanc peut façonner la glace et la neige à volonté. Cette capacité fonctionne comme le sort de ''[[façonnage de la pierre]]'' mais ne peut affecter que la glace et la neige. Le dragon blanc produit cet effet avec un [[NLS]] égal à son nombre de [[DV]].}
+{s:BDTexte|'''Marche sur la glace (Ext)''' Cette capacité fonctionne comme le sort de ''[[pattes daraignée|pattes d'araignée]]'' mais les surfaces que le dragon escalade doivent être gelées. Le dragon peut traverser les surfaces gelées sans subir aucun malus et il peut [[course|courir]] ou [[charge|charger]] sur la glace sans devoir effectuer de test d'[[Acrobaties]].}
+{s:BDTexte|'''Pouvoirs magiques (Mag)''' Les dragons blancs acquièrent les pouvoirs magiques suivants, qu'ils peuvent utiliser à volonté une fois l'âge requis atteint. Adolescent - ''[[nappe de brouillard]]'' ; Jeune adule - ''[[bourrasque]]'' ; Vénérable - ''[[mur de glace]]'' ; Grand dracosire - ''[[contrôle du climat]]''.}
+{s:BDTexte|'''Tombeau de glace (Mag)''' Par un [[action simple]], un grand dracosire peut faire tomber une créature dans la glace. Cela fonctionne comme un sort d<nowiki>'</nowiki>''[[emprisonnement]]'' mais seulement si la cible touche une surface gelée. Le dragon peut utiliser cette capacité une fois par jour (avec un NLS égal à son nombre de DV). Les cibles enchâssées dans la glace par cette capacité ainsi peuvent être libérées par un sort de ''[[délivrance]]''. On peut également les extraire physiquement de la glace (solidité 0, 360 points de vie). Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|'''Vision malgré la neige (Ext)''' Un très jeune dragon blanc apprend à voir parfaitement dans des conditions enneigées. La neige ne lui impose aucun malus aux tests de [[Perception]].}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de dragon blanc
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [[Jeune dragon blanc]] || &nbsp; || 6
+|-
+| [[Dragon blanc adulte]] || &nbsp; || 10
+|-
+| [[Dragon blanc vénérable]] || &nbsp; || 15
+|-
+| '''Membres mythiques''' || '''FP''' || '''RMY'''
+|- CLASS="premier"
+| [[Dragon blanc mythique|Dragon blanc adolescent mythique]] || 9 || 3
+|}
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>'''''Voir la description des [[dragon chromatique|dragons chromatiques]].'''''</li></ul>''Les écailles blanches de ce dragon semblent gelées et sa tête est ornée de cornes minces et reliées par de fines membranes.''
+
+Même si on les considère souvent comme les plus faibles et les
+moins évolués des dragons chromatiques, les dragons blancs
+compensent leur manque d’intelligence par leur férocité. Ils
+vivent au sommet des montagnes reculées ou dans les terres
+arctiques, au sein de grottes étincelantes faites de glace et
+de neige. Ils préfèrent se repaître de nourriture
+complètement gelée.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Tableau des gains de capacités
+|- CLASS="titre"
+| Catégorie d'âge  || Capacités spéciales || NLS
+|- CLASS="premier"
+| Dragonnet || marche sur la glace, sous-type [[sous-type froid|froid]] || —
+|- CLASS="alt"
+| Très jeune || vision malgré la neige || —
+|-
+| Jeune || façonnage de la glace || —
+|- CLASS="alt"
+| Adolescent || ''[[nappe de brouillard]]'' || —
+|-
+| Jeune adulte || ''[[bourrasque]]'', [[RD]] 5/magie ; [[RM]] || —
+|- CLASS="alt"
+| Adulte || aura de froid, [[présence terrifiante]] || 1
+|-
+| Âge mûr || [[RD]] 10/magie || 3
+|- CLASS="alt"
+| Vieux || brouillard glacial || 5
+|-
+| Très vieux || [[RD]] 15/magie || 7
+|- CLASS="alt"
+| Vénérable || Blizzard, ''[[mur de glace]]'' || 9
+|-
+| Dracosire || [[RD]] 20/magie || 11
+|- CLASS="alt"
+| Grand dracosire || ''[[contrôle du climat]]'', tombeau de glace || 13
+|}</center>
+</div>
+
+
+{s:ImageDroite|Bestiaire/Dragon blanc.jpg|90%}
+</td></tr></table>

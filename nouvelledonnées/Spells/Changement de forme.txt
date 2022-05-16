@@ -1,0 +1,6 @@
+[École] Transmutation (métamorphose)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (serre-tête de jade (1 500 po))
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] 10 minutes/niveau

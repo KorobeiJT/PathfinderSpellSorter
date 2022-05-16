@@ -1,0 +1,8 @@
+[École] transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une sculpture animale de taille réelle représentant un familier et faite en argile, en tissu ou en bois, plus une racine de mandragore d'une valeur de 25 po)
+[Portée] contact
+[Cible] une sculpture animale
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] aucun
+[Résistance à la magie] non (inoffensif)

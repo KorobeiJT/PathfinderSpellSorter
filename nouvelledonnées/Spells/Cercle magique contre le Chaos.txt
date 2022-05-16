@@ -1,0 +1,8 @@
+[École] Abjuration (Loi)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (un cercle de poudre d'argent de 90 centimètres de diamètre)
+[Portée] contact
+[Cible] émanation de 3 m de rayon à partir de la créature touchée
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté, annule (inoffensif)
+[Résistance à la magie] non (voir description)

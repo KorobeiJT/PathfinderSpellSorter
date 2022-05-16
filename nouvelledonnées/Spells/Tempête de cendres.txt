@@ -1,0 +1,8 @@
+[École] Invocation (création) feu
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une pincée de cendres)
+[Portée] longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
+[Cible] cylindre (12 m (8 {s:c} de rayon, 6 m de haut)
+[Durée] 1 round/niveau
+[Jet de sauvegarde] non
+[Résistance à la magie] non

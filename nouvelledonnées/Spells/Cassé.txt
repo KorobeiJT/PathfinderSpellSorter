@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une brindille)
+[Portée] courte
+[Cible] un objet de taille M ou plus petit
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler (objet) 
+[Résistance à la magie] oui (objet)

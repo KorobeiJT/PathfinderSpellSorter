@@ -1,0 +1,8 @@
+[École] Nécromancie 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une boule de cire)
+[Portée] contact
+[Cible] un cadavre touché
+[Durée] instantanée
+[Jet de sauvegarde] Volonté partiel ; voir texte
+[Résistance à la magie] non

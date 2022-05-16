@@ -1,0 +1,6 @@
+[École] Abjuration
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (une pincée de sable du désert de la Cicatrice magique)  
+[Portée] moyenne (30 m + 3 m/niveau)  
+[Cible] deux cubes de 3 m de côté par niveau  
+[Durée] 10 minutes/niveau

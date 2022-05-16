@@ -1,0 +1,8 @@
+[École] Enchantement (coercition) effet mental
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, M (250 po de poudre d'ambre)  
+[Portée] courte
+[Cible] 1 dose d'eaux de folie par tranche de 2 niveaux  
+[Durée] instantanée  
+[Jet de sauvegarde] Vigueur, partiel
+[Résistance à la magie] non

@@ -1,0 +1,6 @@
+[École] Nécromancie
+[Temps d'incantation] 1 action simple  
+[Composantes] V, G, F (le crâne ou le fémur d'une créature de taille M), FD  
+[Portée] personnelle  
+[Cible] le lanceur de sorts  
+[Durée] 1 heure/niveau ou jusqu'à déchargement

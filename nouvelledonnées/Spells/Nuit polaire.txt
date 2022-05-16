@@ -1,0 +1,8 @@
+[École] transmutation froid, ténèbres
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] courte
+[Cible] rayon de 9 m
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Vigueur partielle
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] évocation froid
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible] une créature/niveau qui doivent être distantes de moins de 9m les unes des autres
+[Durée] 1 minute/niveau, voir texte
+[Jet de sauvegarde] Réflexes partiel (voir texte)
+[Résistance à la magie] oui

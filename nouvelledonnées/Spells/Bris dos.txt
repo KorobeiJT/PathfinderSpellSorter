@@ -1,0 +1,8 @@
+[École] Nécromancie
+[Temps d'incantation]  1 action simple  
+[Composantes] V, G, M (un os brisé)  
+[Portée] courte
+[Cible] une créature tangible ou un objet  
+[Durée] instantanée ou 1 minute/niveau (voir texte)  
+[Jet de sauvegarde] Vigueur partiel (voir texte)
+[Résistance à la magie] oui

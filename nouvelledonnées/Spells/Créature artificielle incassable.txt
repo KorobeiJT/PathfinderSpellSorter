@@ -1,0 +1,8 @@
+[École] abjuration
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (adamantium en poudre d'une valeur 100 po)
+[Portée] courte
+[Cible] une créature artificielle
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté pour annuler (inoffensif )
+[Résistance à la magie] non

@@ -1,0 +1,8 @@
+[École] Transmutation
+[Temps d'incantation] 1 action action simple
+[Composantes] V, G, M/FD (algues)
+[Portée] contact
+[Cible] créatures vivantes touchées
+[Durée] 1 heure/niveau ; voir description
+[Jet de sauvegarde] Volonté annule
+[Résistance à la magie] oui

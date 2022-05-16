@@ -1,0 +1,8 @@
+[École] Évocation (son)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M/FD (une paillette de mica)
+[Portée] courte
+[Cible] étendue de 1,50 m de rayon ; ou 1 objet ou 1 créature cristalline
+[Durée] instantanée
+[Jet de sauvegarde] Volonté, annule (objet) ; Volonté annule (objet) ou Vigueur, 1/2 dégâts (voir description)
+[Résistance à la magie] oui (objet)

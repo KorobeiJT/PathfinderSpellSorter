@@ -1,0 +1,8 @@
+[École] Transmutation 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (un morceau de tissu brodé de moins de 3 m de côté d'une valeur de 100 po)
+[Portée] courte
+[Cible] tous les objets déposés sur le tissu
+[Durée] 1 jour/niveau
+[Jet de sauvegarde] Vigueur pour annuler (objet) 
+[Résistance à la magie] oui (objet)

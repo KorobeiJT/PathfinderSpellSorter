@@ -1,0 +1,8 @@
+[École] Universel
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (diamant (1 500 po))
+[Portée] voir description
+[Cible] voir description
+[Durée] voir description
+[Jet de sauvegarde] aucun (voir description)
+[Résistance à la magie] oui

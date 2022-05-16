@@ -1,0 +1,8 @@
+[École] Transmutation Air
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] moyenne
+[Cible]  une créature de taille M ou plus/niveau qui ne doivent pas être distantes de plus de 9 m les unes de autres
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun (voir texte)
+[Résistance à la magie] oui

@@ -1,0 +1,6 @@
+[École] Invocation (création, téléportation)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] personnelle
+[Cible] crée une vase, copie conforme du lanceur
+[Durée] 1 round/niveau

@@ -1,0 +1,8 @@
+[École] Transmutation air, poison
+[Temps d'incantation] 1 action simple
+[Composantes] G, M (poison de contact ou à inhaler d'une valeur de 100 po)
+[Portée] contact
+[Cible] créature tangible et consentante touchée
+[Durée] 1 minute/niveau
+[Jet de sauvegarde] aucun ; voir description
+[Résistance à la magie] Non

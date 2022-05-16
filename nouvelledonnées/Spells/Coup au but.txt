@@ -1,0 +1,6 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, F (petite réplique en bois d'une cible d'archerie)
+[Portée] personnelle
+[Cible] le jeteur de sorts
+[Durée] voir description

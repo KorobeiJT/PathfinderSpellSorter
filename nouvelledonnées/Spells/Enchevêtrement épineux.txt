@@ -1,0 +1,5 @@
+[École] Transmutation
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, FD
+[Jet de sauvegarde] Réflexes pour dégâts partiels (cf. texte)
+[Résistance à la magie] non

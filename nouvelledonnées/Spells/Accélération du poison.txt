@@ -1,0 +1,8 @@
+[École] Transmutation poison 
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une épine)
+[Portée] contact
+[Cible] créature touchée
+[Durée] instantanée
+[Jet de sauvegarde] Vigueur pour annuler 
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] Illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, M (une petite réplique du personnage (5 po))
+[Portée] moyenne
+[Cible] 1 sosie d'ombre
+[Durée] 1 round/niveau
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] non

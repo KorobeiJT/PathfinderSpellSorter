@@ -1,0 +1,8 @@
+[École] Illusion (ombre) ombre
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] voir description
+[Cible] voir description
+[Durée] voir description
+[Jet de sauvegarde] Volonté, dévoile (en cas d'interaction)
+[Résistance à la magie] oui

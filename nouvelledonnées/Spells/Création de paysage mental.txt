@@ -1,0 +1,8 @@
+[École]Illusion (fantasme) effet mental
+[Temps d'incantation] 1 round
+[Composantes] V, G
+[Portée] longue (120 m + 12 m/niveau)
+[Cible] 1 créature
+[Durée] 10 minutes/niveau
+[Jet de sauvegarde] Volonté, dévoile ; voir texte
+[Résistance à la magie] oui

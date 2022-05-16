@@ -1,0 +1,8 @@
+[École] nécromancie (acide, mort)
+[Temps d'incantation] 1 action simple
+[Composantes] V, G
+[Portée] contact
+[Cible] la créature vivante touchée
+[Durée] instantanée et 1 minute/niveau (cf. texte)
+[Jet de sauvegarde] Vigueur pour annuler ou Réflexes pour 1/2 dégâts (cf. texte)
+[Résistance à la magie] oui

@@ -1,0 +1,8 @@
+[École] école Divination
+[Temps d'incantation] 1 action simple
+[Composantes] V, G, F (une lentille de rubis sertie d'or, d'une valeur de 1 500 po)
+[Portée] courte
+[Cible] 1 créature ou 1 objet par niveau de lanceur de sorts
+[Durée] 1 round/niveau
+[Jet de sauvegarde] aucun ou Volonté, annule (voir description)
+[Résistance à la magie] non
