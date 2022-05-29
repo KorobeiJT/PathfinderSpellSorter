@@ -63,7 +63,7 @@ class SpellGUI:
         self.importer.sortSpellsListFromClassesAndLevels(self.classList, self.lvlList)
         self.createParentClass()
         self.addSpell()
-        self.transformLevelsIntoSpec()
+        # self.transformLevelsIntoSpec()
         
         ### Packing ###
         #Wrappers
@@ -99,44 +99,44 @@ class SpellGUI:
         # print(self.tree.get_checked())
         name_list = [self.tree.item(spell)["values"][0] for spell in self.tree.get_checked()]
         for name in name_list:
-            for spell in self.importer.sorted_list:
+            for spell in self.importer.sorted_dict:
                 if spell["Name"] == name:
                     self.deck.insert(spell["Name"])
                     # insertSpell(spell)
     
-    def insertSpellInDeck(self, spell):
-        self.deck.insert(values=(spell["Name"],spell["School"],self.getCastingTime(spell),
-        self.getRange(spell),spell["Target"]["Value"],spell[""],spell[""],spell[""],spell[""],spell[""],spell[""]))
+    # def insertSpellInDeck(self, spell):
+    #     self.deck.insert(values=(spell["Name"],spell["School"],self.getCastingTime(spell),
+    #     self.getRange(spell),spell["Target"]["Value"],spell[""],spell[""],spell[""],spell[""],spell[""],spell[""]))
     
-    def getCastingTime(self, spell):
-        if("Unit" not in spell["CastingTime"]):
-            return "1 action simple"
-        else:
-            return str(spell["CastingTime"]["Value"]) + ' ' + str(spell["CastingTime"]["Unit"])
+    # def getCastingTime(self, spell):
+    #     if("Unit" not in spell["CastingTime"]):
+    #         return "1 action simple"
+    #     else:
+    #         return str(spell["CastingTime"]["Value"]) + ' ' + str(spell["CastingTime"]["Unit"])
 
-    def getRange(self, spell):
-        if "SpecificValue" not in spell["Range"]:
-            return spell["Range"]["Unit"]
-        else:
-            return str(1.5 * spell["Range"]["SpecificValue"]) + ' m'
+    # def getRange(self, spell):
+    #     if "SpecificValue" not in spell["Range"]:
+    #         return spell["Range"]["Unit"]
+    #     else:
+    #         return str(1.5 * spell["Range"]["SpecificValue"]) + ' m'
         
 
     def addSpell(self):
-        for spell in self.importer.sorted_list:
-            for curClass in spell["Levels"]:
-                if (curClass["List"] in self.classList and curClass["Level"] in self.lvlList):
-                    self.tree.insert(parent=curClass["List"]+';'+str(curClass["Level"]),
-                    iid=curClass["List"]+';'+str(curClass["Level"])+';'+str(len(self.tree.get_children(curClass["List"]+';'+str(curClass["Level"])))), #idd = class;level;"taille de la section 'class;level'"
-                    index='end', values = (spell["Name"],spell["School"],spell["DescriptionSpell"],''))
+        for spellName, spell in self.importer.sorted_dict.items():
+            for className, levelClass in spell["Niveau"].items():
+                if (className in self.classList and levelClass in self.lvlList):
+                    self.tree.insert(parent=className+';'+str(levelClass),
+                    iid=className+';'+str(levelClass)+';'+str(len(self.tree.get_children(className+';'+str(levelClass)))), #idd = class;level;"taille de la section 'class;level'"
+                    index='end', values = (spellName,spell["École"],spell["Description"],''))
 
 
-    def transformLevelsIntoSpec(self):
-        for spell in self.importer.sorted_list:
-            res = ""
-            for curClass in spell["Levels"]:
-                if (curClass["List"] in self.classList):
-                    res += curClass["List"] + ' ' + str(curClass["Level"]) + ' ; '
-            spell["Spec"] = res
+    # def transformLevelsIntoSpec(self):
+    #     for spellName, spell in self.importer.sorted_dict.items():
+    #         res = ""
+    #         for className, classLevel in spell["Niveau"]:
+    #             if (className in self.classList):
+    #                 res += className + ' ' + str(classLevel) + ' ; '
+    #         spell["Spec"] = res
 
 
 
@@ -159,8 +159,6 @@ class SpellGUI:
             return False
 
 # sgui = SpellGUI()
-# sgui.addClass("bard")
-# sgui.addClass("druid")
+# sgui.addClass("Bard")
 # sgui.addLevel(0)
-# sgui.addLevel(1)
 # sgui.OpenGUI()

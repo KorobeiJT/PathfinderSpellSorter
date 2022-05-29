@@ -35,7 +35,7 @@ class LoaderData:
                     res[nameSpell] = currentSpell
         self.sorted_dict = res
     
-    def sortSpellsListFromClassesAndLevels(self, levelsList, classList):
+    def sortSpellsListFromClassesAndLevels(self, classList, levelsList):
         res = {}
         for nameSpell, currentSpell in self.sorted_dict.items():
             for nameClass, lvlClass in currentSpell["Niveau"].items():
@@ -53,7 +53,7 @@ class LoaderData:
 
 loaderData = LoaderData()
 
-loaderData.sortSpellsListFromClassesAndLevels([0], ["Bard"])
+loaderData.sortSpellsListFromClassesAndLevels(["Bard"], [0])
 loaderData.printSortedSpellsNames()
 print(loaderData.numberSpells())
 
