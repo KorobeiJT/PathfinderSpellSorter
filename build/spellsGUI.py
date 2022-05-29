@@ -1,4 +1,5 @@
 from pathlib import Path
+from pydoc import classname
 
 from numpy import column_stack
 
@@ -34,24 +35,24 @@ class SpellGUI:
         wrapperDeck = LabelFrame(self.root, text = "Deck")
 
         #DataTreeview
-        self.columnsData = ("Name","School","Description")
+        self.columnsData = ("Nom","École","Description")
         self.tree = CheckboxTreeview(wrapperData, columns=self.columnsData)
         #Column
         self.tree.column('#0', width=75, minwidth=25)
-        self.tree.column("Name", width=120)
-        self.tree.column("School", width=120)
+        self.tree.column("Nom", width=120)
+        self.tree.column("École", width=120)
         self.tree.column("Description", width=670)
 
         self.tree.heading('#0',text = '', anchor=W)
-        self.tree.heading("Name",text = "Nom")
-        self.tree.heading("School",text = "Ecole")
+        self.tree.heading("Nom",text = "Nom")
+        self.tree.heading("École",text = "Ecole")
         self.tree.heading("Description",text = "Description")
 
         buttonPutInDeck = tk.Button(wrapperData, text="Insérer sélection", command=self.putInDeck)
 
 
         #DeckTreeView
-        self.columnsDeck = ("Name","School","Incantation","Range","Target","Duration","Save","SpellResistance","Components","Description","Link")
+        self.columnsDeck = ("Nom","École","Temps d'incantation","Portée","Cible","Durée","Jet de Sauvegarde","Résistance à la magie","Composantes","Description","Lien")
         self.deck = ttk.Treeview(wrapperDeck, columns=self.columnsDeck)
         self.deck.column('#0', width=50, minwidth=25)
         self.deck.heading('#0',text = '', anchor=W)
@@ -97,28 +98,12 @@ class SpellGUI:
         
     def putInDeck(self):
         # print(self.tree.get_checked())
-        name_list = [self.tree.item(spell)["values"][0] for spell in self.tree.get_checked()]
-        for name in name_list:
-            for spell in self.importer.sorted_dict:
-                if spell["Name"] == name:
-                    self.deck.insert(spell["Name"])
-                    # insertSpell(spell)
-    
-    # def insertSpellInDeck(self, spell):
-    #     self.deck.insert(values=(spell["Name"],spell["School"],self.getCastingTime(spell),
-    #     self.getRange(spell),spell["Target"]["Value"],spell[""],spell[""],spell[""],spell[""],spell[""],spell[""]))
-    
-    # def getCastingTime(self, spell):
-    #     if("Unit" not in spell["CastingTime"]):
-    #         return "1 action simple"
-    #     else:
-    #         return str(spell["CastingTime"]["Value"]) + ' ' + str(spell["CastingTime"]["Unit"])
-
-    # def getRange(self, spell):
-    #     if "SpecificValue" not in spell["Range"]:
-    #         return spell["Range"]["Unit"]
-    #     else:
-    #         return str(1.5 * spell["Range"]["SpecificValue"]) + ' m'
+        if (len(self.classList) == 1):
+            name_list = [self.tree.item(spell)["values"][0] for spell in self.tree.get_checked()]
+            for name in name_list:
+                for spellName, spellData in self.importer.sorted_dict.items():
+                    if spellName == name:
+                        self.deck.insert(parent = '', values=(spellName,spellData["École"],spellData["Temps d'incantation"],spellData["Portée"],spellData["Cible"],spellData["Durée"],spellData["Jet de sauvegarde"],spellData["Résistance à la magie"],spellData["Composantes"],spellData["Description"],spellData["Lien"]), index = 'end')
         
 
     def addSpell(self):
@@ -128,17 +113,6 @@ class SpellGUI:
                     self.tree.insert(parent=className+';'+str(levelClass),
                     iid=className+';'+str(levelClass)+';'+str(len(self.tree.get_children(className+';'+str(levelClass)))), #idd = class;level;"taille de la section 'class;level'"
                     index='end', values = (spellName,spell["École"],spell["Description"],''))
-
-
-    # def transformLevelsIntoSpec(self):
-    #     for spellName, spell in self.importer.sorted_dict.items():
-    #         res = ""
-    #         for className, classLevel in spell["Niveau"]:
-    #             if (className in self.classList):
-    #                 res += className + ' ' + str(classLevel) + ' ; '
-    #         spell["Spec"] = res
-
-
 
     def addClass(self, className):
         if(not className in self.classList):
@@ -158,7 +132,7 @@ class SpellGUI:
             self.lvlList.remove(level)
             return False
 
-# sgui = SpellGUI()
-# sgui.addClass("Bard")
-# sgui.addLevel(0)
-# sgui.OpenGUI()
+sgui = SpellGUI()
+sgui.addClass("Bard")
+sgui.addLevel(0)
+sgui.OpenGUI()
